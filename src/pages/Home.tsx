@@ -8,6 +8,7 @@ import NextLink from "next/link";
 import { MSG_NO_WORD } from "@/constanst/wordsCommon";
 
 export default function Home() {
+  /*
   const [inputWord, setInputWord] = useState("");
   const [storyUser, setStoryUser] = useState(
     "Liderar es una gran opotunidad !"
@@ -81,7 +82,7 @@ export default function Home() {
               placeholder="Search a word..."
               className="p-2 bg-gray-800 border border-gray-700 rounded-md w-[580px] mx-4"
             />
-            {/* Other form elements (if any) */}
+   
           </form>
           <button
             type="button"
@@ -191,4 +192,7 @@ export default function Home() {
       </section>
     </div>
   );
+  
+  */
+ return <>Hello HOME</>
 }

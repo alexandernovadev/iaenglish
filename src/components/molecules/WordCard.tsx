@@ -32,8 +32,8 @@ export const WordCard = ({ word }: Props) => {
                 🔊
               </span>
             </div>
-            {word.type_word.map((typew) => (
-              <span className="bg-yellow-800 rounded-full px-2 py-1 mr-2" title={`${typew.sigle} - ${typew.description}`}>
+            {word.type_word.map((typew,i) => (
+              <span key={`typ - ${i}`} className="bg-yellow-800 rounded-full px-2 py-1 mr-2" title={`${typew.sigle} - ${typew.description}`}>
                 {typew.name}
               </span>
             ))}

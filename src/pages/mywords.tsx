@@ -3,10 +3,10 @@ import { useGetWordsDb } from "@/hooks/word/useGetWordsDb";
 import React, { useEffect, useState } from "react";
 import NextLink from "next/link";
 
-const mywordPage = () => {
+const MywordPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredWords, setFilteredWords] = useState([]);
-  const { getWordsDB, isErrorGetWord, isLoadingGetWord, words } =
+  const { getWordsDB, words } =
     useGetWordsDb();
 
   useEffect(() => {
@@ -21,7 +21,7 @@ const mywordPage = () => {
     console.log(filtered);
 
     setFilteredWords(filtered);
-  }, [searchTerm, words]);
+  }, [searchTerm, words,getWordsDB]);
 
   return (
     <div className="h-screen overflow-auto bg-gray-900 text-white p-8">
@@ -47,4 +47,4 @@ const mywordPage = () => {
   );
 };
 
-export default mywordPage;
+export default MywordPage;
