@@ -1,15 +1,10 @@
 import { StoryMock } from "@/data/storymock";
+import { Story } from "@/interfaces/story";
 import { getStoryToRead } from "@/propmts/getStoryToRead";
 import { dataJsonClean } from "@/utils/cleanDataandJsonParse";
 import axios from "axios";
 import { useState } from "react";
 
-
-export interface Story {
-  title: string;
-  subtitle?: string;
-  paragraps?: string[];
-}
 
 export const useGenertateStoryJsonGPT = () => {
   const [story, setStory] = useState<Story>(StoryMock);

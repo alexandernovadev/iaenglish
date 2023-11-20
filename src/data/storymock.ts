@@ -1,4 +1,4 @@
-import { Story } from "@/hooks/story/useGenertateStoryJsonGPT";
+import { Story } from "@/interfaces/story";
 
 export const StoryMock = () => {
   const s:Story = {
