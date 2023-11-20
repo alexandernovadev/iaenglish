@@ -114,6 +114,7 @@ export default function Home() {
         <div
           className="p-6 bg-gray-900 shadow-sm shadow-gray-500 h-[75vh] overflow-x-scroll "
           onMouseUp={handleMouseUp}
+          onTouchEnd={handleMouseUp}
         >
           <h1 className="text-2xl font-bold text-yellow-50 mb-2">
             {story.title}
