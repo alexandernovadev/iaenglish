@@ -11,7 +11,7 @@ export interface Word {
   };
   word: string;
   ipa: string;
-  type_word: string;
+  type_word: typeWord[];
   definition?: string;
   examples?: string[];
   times_seen?: number;
@@ -19,5 +19,11 @@ export interface Word {
   img?: string;
   createdAt?: Date;
   updatedAt?: Date;
-  note?:String
+  note?: String;
+}
+
+export interface typeWord {
+  name: string;
+  sigle: string;
+  description: string;
 }

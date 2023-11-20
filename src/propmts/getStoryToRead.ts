@@ -1,18 +1,16 @@
-export interface Config {
-  level?: "A1" | "A2" | "B1" | "B2" | "C1" | "C2";
-  topic: string;
-  language?: "es" | "en" | "pt";
-}
+import { Story } from "@/interfaces/story";
 
 export const getStoryToRead = ({
   level = "B2",
-  topic = "The IA in Modern AGES",
-  language="en"
-}: Config) => {
+  topicUser = "The IA in Modern AGES",
+  language = "en",
+}: Story) => {
   return `
-  Generar un JSON with a story about ${topic} with level ${level} of english all story in language "/${language}/"
+
+  Generar un JSON with a story about ${topicUser} with level ${level} of english all story in language "/${language}/"
   , your RTA must be related to topic and
   con las siguientes claves:
+
 
   'title': maximos 16 char,
   'subtitle' un subtile con max 40 char
@@ -22,7 +20,7 @@ export const getStoryToRead = ({
     {
       "title": "The Roman Civilization",
       "subtitle": "An Epoch of Unprecedented Expansion, Cultural Flourishing, and Enduring Influence on the Modern World",
-      "paragraps":["The Roman Empire, a colossal entity in human history, emerged from a small city-state in central 
+      "paragraphs":["The Roman Empire, a colossal entity in human history, emerged from a small city-state in central 
       Italy. Its origins, steeped in myth and reality, date back to 753 BCE. 
       Over centuries, Rome's influence expanded, driven by military might,
        shrewd politics, and a knack for assimilating diverse cultures. 

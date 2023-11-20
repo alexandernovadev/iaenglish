@@ -1,10 +1,9 @@
+import { Word } from "@/interfaces/word";
 import type { NextApiRequest, NextApiResponse } from "next";
-const data: DataItem[] = require("../../../public/jsonenglish.json");
-
-
+const data: Word[] = require("../../../public/jsonenglish.json");
 
 type Data = {
-  words?: { id: number; name: string }[];
+  words?: Word[];
   message?: string;
 };
 
@@ -20,13 +19,6 @@ export default function handler(
   }
 }
 
-export interface DataItem {
-  Word: string;
-  Count: number;
-  POS: string;
-  Definition: string;
-}
-
 const getWords = async (req: NextApiRequest, res: NextApiResponse) => {
   const { query } = req.query;
 
@@ -34,9 +26,9 @@ const getWords = async (req: NextApiRequest, res: NextApiResponse) => {
     console.log(data.length);
 
     const results = data.filter(
-      (item) => item.Word.toLowerCase() === query.toLowerCase()
+      (item) => item.word.toLowerCase() === query.toLowerCase()
     );
-    res.status(200).json(results);
+    res.status(200).json({ total: data.length, results });
   } else {
     // Manejar casos en los que 'query' no es una cadena
     res.status(400).json([]);

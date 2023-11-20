@@ -9,11 +9,15 @@ import { MSG_NO_WORD } from "@/constanst/wordsCommon";
 
 export default function Home() {
   const [inputWord, setInputWord] = useState("");
-  const [topic, setTopic] = useState("La evolcion de la lengua latin");
-  const { getStory, isErrorGetStory, isLoadingGetStory, story } =
+  const [storyUser, setStoryUser] = useState(
+    "Liderar es una gran opotunidad !"
+  );
+
+  const { getStory, isErrorGetStory, isLoadingGetStory, story, setStory } =
     useGenertateStoryJsonGPT();
 
-  const { callGPT, isError, isLoading, wordGPTJSON } = useGetWordJsonGPT();
+  const { callGPT, isError, isLoading, wordGPTJSON, setWordGPTJSON } =
+    useGetWordJsonGPT();
   const { getWordsDB, isErrorGetWord, isLoadingGetWord, words } =
     useGetWordsDb();
   const {
@@ -22,12 +26,26 @@ export default function Home() {
     isLoading: isLoadingDB,
   } = useSaveWordtoDb();
 
+  useEffect(() => {
+    setStory((s) => ({ ...s, topicUser: storyUser }));
+  }, [storyUser]);
+
   const handleMouseUp = async () => {
     const selectedText = window.getSelection()?.toString();
     if (selectedText) {
       setInputWord(selectedText);
       speakWord(selectedText);
     }
+  };
+
+  const handleSubmit = async (event: any) => {
+    event.preventDefault(); // Previene el comportamiento predeterminado del formulario
+    const response = await fetch(`/api/datatest?query=${inputWord}`);
+    const data = await response.json();
+    console.log(data);
+
+    // setWords(data); // Actualiza el estado con los resultados de la búsqueda
+    // setWordGPTJSON( data[0] )
   };
 
   const speakWord = (word: string) => {
@@ -52,15 +70,27 @@ export default function Home() {
         <div>
           <input
             type="text"
-            value={topic}
-            onChange={(e) => setTopic(e.target.value)}
-            placeholder="Search a word..."
+            value={storyUser}
+            onChange={(e) => {
+              setStoryUser(e.target.value);
+              setStory((s) => ({ ...s, topicUser: e.target.value }));
+            }}
             className="p-2 bg-gray-800 border border-gray-700 rounded-md w-[580px] mx-4"
           />
 
+          <form onSubmit={handleSubmit}>
+            <input
+              type="Buscar"
+              value={inputWord}
+              onChange={(e) => setInputWord(e.target.value)}
+              placeholder="Search a word..."
+              className="p-2 bg-gray-800 border border-gray-700 rounded-md w-[580px] mx-4"
+            />
+            {/* Other form elements (if any) */}
+          </form>
           <button
             type="button"
-            onClick={() => getStory(topic)}
+            onClick={() => getStory()}
             className="inline-flex items-center px-4 py-2 font-semibold leading-6 text-sm shadow rounded-md text-white bg-indigo-500 hover:bg-indigo-400 transition ease-in-out duration-150 cursor-not-allowed"
             disabled={isLoading}
           >
@@ -95,7 +125,7 @@ export default function Home() {
           </h1>
           <h4 className="text-xl text-gray-100 mb-4">{story.subtitle}</h4>
 
-          {story.paragraps?.map((p, i) => (
+          {story.paragraphs?.map((p, i) => (
             <p
               key={`${i}-story-p`}
               className="text-gray-200 text-base leading-relaxed my-5"

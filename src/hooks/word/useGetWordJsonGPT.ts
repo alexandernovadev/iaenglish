@@ -41,5 +41,6 @@ export const useGetWordJsonGPT = () => {
     wordGPTJSON,
 
     callGPT,
+    setWordGPTJSON
   };
 };

@@ -30,9 +30,12 @@ export const WordCard = ({ word }: Props) => {
                 🔊
               </span>
             </div>
-            <span className="bg-yellow-800 rounded-full px-2 py-1 mr-2">
-              {word.type_word}
-            </span>
+            {word.type_word.map((typew) => (
+              <span className="bg-yellow-800 rounded-full px-2 py-1 mr-2" title={`${typew.sigle} - ${typew.description}`}>
+                {typew.name}
+              </span>
+            ))}
+        
             <p className="text-gray-300 text-base mt-4">{word.definition}</p>
           </div>
           <ul className="px-6 list-disc">

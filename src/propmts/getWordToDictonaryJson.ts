@@ -1,4 +1,5 @@
 import { MSG_NO_WORD } from "@/constanst/wordsCommon";
+import typewords from "../../public/typeword.json";
 
 export const promt__getWordToDictonaryJson = (inputWord: string) => {
   return `
@@ -28,7 +29,13 @@ export const promt__getWordToDictonaryJson = (inputWord: string) => {
       },
       "word": "Step away",
       "ipa": "/stɛp əˈweɪ/",
-      "type_word": "p. v. ",
+      "type_word": [
+        {
+          "name": "Phrasal Verb",
+          "sigle": "phr.v.",
+          "description": "A verb combined with a preposition or an adverb (or both), where the combination creates a meaning different from the original verb, such as 'turn off' or 'run into'."
+        }, ....
+      ],
       "definition": "To move or distance oneself from something or someone, especially to create space or to cease involvement in a situation.",
       "examples": [
           "When arguments get heated, it's better to step away and take a moment to cool off.",
@@ -40,5 +47,7 @@ export const promt__getWordToDictonaryJson = (inputWord: string) => {
   }
   
 
+  NOTE: categorizar type_word, solo con una o las que creas necesarias
+      ${JSON.stringify(typewords)}
   `;
 };

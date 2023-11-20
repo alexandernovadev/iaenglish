@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Proper Noun",
+    "sigle": "pn.",
+    "description": "Specific names of people, places, organizations, etc., that are capitalized."
+  },
+  {
+    "name": "Auxiliary Verb",
+    "sigle": "aux.",
+    "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'."
+  },
+  {
+    "name": "Proper Noun",
+    "sigle": "pn.",
+    "description": "Specific names of people, places, organizations, etc., that are capitalized."
+  },
+  {
+    "name": "Particle",
+    "sigle": "partic.",
+    "description": "A word that joins with a verb to create a phrasal verb, like 'up' in 'pick up'."
+  },
+  {
+    "name": "Noun",
+    "sigle": "n.",
+    "description": "Words that name people, animals, places, things, ideas, or phenomena."
+  },
+  {
+    "name": "Verb",
+    "sigle": "v.",
+    "description": "Words that express actions, states, or processes."
+  },
+  {
+    "name": "Adjective",
+    "sigle": "adj.",
+    "description": "Words that describe or modify nouns."
+  },
+  {
+    "name": "Adverb",
+    "sigle": "adv.",
+    "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+  },
+  {
+    "name": "Pronoun",
+    "sigle": "pron.",
+    "description": "Words used in place of a noun."
+  },
+  {
+    "name": "Suffix and Prefix",
+    "sigle": "suff./pref.",
+    "description": "Word elements added to the beginning or end of root words to change their meanings."
+  },
+  {
+    "name": "Clause",
+    "sigle": "cl.",
+    "description": "A group of words containing a subject and predicate and functioning as a member of a complex or compound sentence."
+  },
+  {
+    "name": "Subjunctive Mood",
+    "sigle": "subj.",
+    "description": "Used to express wishes, hypotheses, or conditions contrary to fact."
+  },
+  {
+    "name": "Relative Pronouns",
+    "sigle": "rel. pron.",
+    "description": "Pronouns that introduce relative clauses (e.g., which, who, that)."
+  },
+  {
+    "name": "Passive Voice",
+    "sigle": "pass.",
+    "description": "A form where the subject of the sentence is acted upon by the verb."
+  },
+  {
+    "name": "Preposition",
+    "sigle": "prep.",
+    "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence."
+  },
+  {
+    "name": "Conjunction",
+    "sigle": "conj.",
+    "description": "Words that connect clauses, sentences, words, or phrases."
+  },
+  {
+    "name": "Interjection",
+    "sigle": "interj.",
+    "description": "Words used to express emotion or a sudden utterance."
+  },
+  {
+    "name": "Article",
+    "sigle": "art.",
+    "description": "Words that define a noun as specific or unspecific."
+  },
+  {
+    "name": "Determiner",
+    "sigle": "det.",
+    "description": "Words that introduce nouns and provide context."
+  },
+  {
+    "name": "Numeral",
+    "sigle": "num.",
+    "description": "Words that denote numbers."
+  },
+  {
+    "name": "Participle",
+    "sigle": "part.",
+    "description": "Verb forms used as adjectives or to form verb tenses."
+  },
+  {
+    "name": "Gerund",
+    "sigle": "ger.",
+    "description": "Verb forms ending in -ing that function as nouns."
+  },
+  {
+    "name": "Infinitive",
+    "sigle": "inf.",
+    "description": "The base form of a verb, usually preceded by 'to'."
+  },
+  {
+    "name": "Phrase",
+    "sigle": "phr.",
+    "description": "A small group of words standing together as a conceptual unit."
+  },
+  {
+    "name": "Idiom",
+    "sigle": "id.",
+    "description": "Expressions with meanings that cannot be inferred from the meanings of the individual words."
+  },
+  {
+    "name": "Acronym",
+    "sigle": "acr.",
+    "description": "A word formed from the first letters of each word in a series."
+  },
+
+  {
+    "name": "Acronym",
+    "sigle": "acr.",
+    "description": "A word formed from the first letters of each word in a series."
+  },
+  {
+    "name": "Phrasal Verb",
+    "sigle": "phr.v.",
+    "description": "A verb combined with a preposition or an adverb (or both), where the combination creates a meaning different from the original verb, such as 'turn off' or 'run into'."
+  }  
+]
