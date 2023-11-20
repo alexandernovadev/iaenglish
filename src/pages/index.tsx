@@ -5,6 +5,7 @@ import { useGetWordsDb } from "@/hooks/word/useGetWordsDb";
 import { useSaveWordtoDb } from "@/hooks/word/useSaveWordtoDb";
 import { useEffect, useState } from "react";
 import NextLink from "next/link";
+import { MSG_NO_WORD } from "@/constanst/wordsCommon";
 
 export default function Home() {
   const [inputWord, setInputWord] = useState("");
@@ -42,7 +43,9 @@ export default function Home() {
       className="h-screen overflow-auto bg-gray-900 text-white p-8"
       onMouseUp={handleMouseUp}
     >
-      <NextLink href="/mywords" passHref>Mis Words</NextLink>
+      <NextLink href="/mywords" passHref>
+        Mis Words
+      </NextLink>
 
       <section className="w-[1080px]  ">
         <div className="p-6 bg-gray-900 shadow-sm shadow-gray-500">
@@ -72,7 +75,7 @@ export default function Home() {
                 : " Story loading "}
             </h1>
           ))}
-        WORD: <b>{inputWord || "no word"}</b>
+        - Word: <b>{inputWord || "No word selected yet !"}</b>
         <form
           onSubmit={() => {}}
           className="mb-4 mt-2 flex border-teal-400 border p-3 rounded-lg"
@@ -84,18 +87,18 @@ export default function Home() {
             placeholder="Search a word..."
             className="p-2 bg-gray-800 border border-gray-700 rounded-md"
           /> */}
+          {wordGPTJSON?.word !== MSG_NO_WORD && (
+            <button
+              onClick={() => wordGPTJSON && saveWordDB(wordGPTJSON)}
+              disabled={isLoading}
+              type="button"
+              className="ml-2 p-2 bg-blue-600 hover:bg-blue-700 rounded-md"
+            >
+              Save Word
+            </button>
+          )}
           <button
-            onClick={() => wordGPTJSON && saveWordDB(wordGPTJSON)}
-            disabled={isLoading}
-            type="button"
-            className="ml-2 p-2 bg-blue-600 hover:bg-blue-700 rounded-md"
-          >
-            Save Word
-          </button>
-          <button
-            onClick={() =>
-              getStory("Inteligencia Artifical en tiempos modermos")
-            }
+            onClick={() => getStory("sam altman")}
             disabled={isLoading}
             type="button"
             className="ml-2 p-2 bg-green-600 hover:bg-green-700 rounded-md"
@@ -134,7 +137,6 @@ export default function Home() {
         </form>
         {wordGPTJSON && <WordCard word={wordGPTJSON} />}
       </section>
-
     </div>
   );
 }

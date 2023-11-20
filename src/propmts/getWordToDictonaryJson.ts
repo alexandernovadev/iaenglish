@@ -1,3 +1,5 @@
+import { MSG_NO_WORD } from "@/constanst/wordsCommon";
+
 export const promt__getWordToDictonaryJson = (inputWord: string) => {
   return `
   Generar un JSON para la palabra '${inputWord}' con las siguientes claves:
@@ -7,8 +9,12 @@ export const promt__getWordToDictonaryJson = (inputWord: string) => {
    'ipa' (la pronunciación en IPA), 'type_word' (tipo de palabra, como sustantivo, verbo, etc.), 
    'definition' (definición en inglés), y 'examples' (una lista de ejemplos de uso). 
 
-  Asegúrate de que todas estas claves estén presentes en la respuesta.fill this with "${inputWord}" como rererencias
+  Asegúrate de que todas estas claves estén presentes en la respuesta.fill this with "${inputWord}" como rererencias,
 
+
+  if la palabra '${inputWord}' no existe, deberas poner poner todos los campos en null, y en el campo "word":"${MSG_NO_WORD}", y en ipa:"You are Stupid" 
+  else continua normal
+  
   example with "Step away": 
 
     {
@@ -32,5 +38,7 @@ export const promt__getWordToDictonaryJson = (inputWord: string) => {
           "If you feel the pressure is too much, don't hesitate to step away and seek support."
       ]
   }
+  
+
   `;
 };

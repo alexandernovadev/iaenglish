@@ -23,6 +23,8 @@ export const useGenertateStoryJsonGPT = () => {
     try {
       const prompt = getStoryToRead({
         topic,
+        language: "en",
+        level:"B2"
       });
       const response = await axios.post("/api/gpt", { prompt });
       setStory(dataJsonClean(response.data.name));
