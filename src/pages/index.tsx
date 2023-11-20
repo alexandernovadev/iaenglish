@@ -5,6 +5,7 @@ import axios from "axios";
 export default function Home() {
   const [inputWord, setInputWord] = useState("");
   const [ipaWord, setIpaWord] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
   const [words, setWords] = useState([]);
 
   // Manejador del evento de envío del formulario
@@ -41,11 +42,19 @@ export default function Home() {
   const callGPT = async () => {
     console.log("HELOOO ");
 
+    setIsLoading(true);
     try {
-      const prompt = `Give a JSON with word /${inputWord}/, all data JSON must be relatated word/${inputWord} 
+      const prompt = `
+      Generar un JSON para la palabra '${inputWord}' con las siguientes claves:
 
-      YOUR RTA MUST BE SO, with ALL KEYS
-      example: 
+       'word'(la palabra en inglés), 'es' (un objeto con la palabra en español y su definición), 
+     'ipa' (la pronunciación en IPA), 'type_word' (tipo de palabra, como sustantivo, verbo, etc.), 
+     'definition_en' (definición en inglés), 'definition_es' (definición en español),
+      y 'examples' (una lista de ejemplos de uso). Asegúrate de que todas estas claves estén presentes en la respuesta."
+      fill this with "${inputWord}" como rererencias
+
+      example with "Step away": 
+
         {
           "es": {
               "word": "Alejarse",
@@ -65,43 +74,25 @@ export default function Home() {
           ]
       }
       `;
-      // const response = await axios.post("/api/gpt", { prompt }); // Sending prompt in POST request
-      // console.log(JSON.parse(response.data.name));
+      const response = await axios.post("/api/gpt", { prompt }); // Sending prompt in POST request
+      console.log(JSON.parse(response.data.name));
 
-      // const formattedData = {
-      //   ...response.data.name,
-      //   status: "FAIL",
-      //   times_seen: 1,
-      // };
+      const formattedData = {
+        ...JSON.parse(response.data.name),
+        status: "FAIL",
+        times_seen: 1,
+      };
 
-      const postResponse = await submitWords();
+      const postResponse = await submitWords(formattedData);
       console.log("postResponse", postResponse);
     } catch (error) {
       console.error("Error calling GPT endpoint:", error);
+    } finally {
+      setIsLoading(false);
     }
   };
 
-  async function submitWords() {
-    const mockWords = [
-      {
-        es: {
-          word: "casa",
-          definition: "Edificio para habitar",
-        },
-        word: "house",
-        ipa: "/haʊs/",
-        type_word: "noun",
-        definition_en: "A building for living in",
-        definition_es: "Edificio para habitar",
-        examples: ["This is my house", "I love the color of that house"],
-        times_seen: 5,
-        status: "GOOD",
-        img: "url_to_image_of_a_house",
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      },
-    ];
-
+  async function submitWords(formattedData: any) {
     const url = "/api/word";
     const method = "POST";
 
@@ -111,10 +102,8 @@ export default function Home() {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify(mockWords), // Envía los datos de prueba
+        body: JSON.stringify(formattedData),
       });
-
-   
 
       const result = await response.json();
       console.log("Palabras enviadas con éxito:", result);
@@ -133,7 +122,10 @@ export default function Home() {
           current or voltage flow in addition amplifying and generating these
           electrical signals and acting as a switch/gate for them. Typically,
           transistors consist of three layers, or terminals, of a semiconductor
-          material, each of which can carry a current
+          material, each of which can carry a current n my application the same
+          error message was thrown. The difference is, that I am using MongoDB
+          Atlas, instead of a local MongoDB. Solution: After added "+srv" to the
+          URL scheme is issue was gone
         </p>
       </div>
 
@@ -154,9 +146,31 @@ export default function Home() {
         <button
           type="button"
           onClick={() => callGPT()}
+          disabled={isLoading}
           className="ml-2 p-2 bg-yellow-600 hover:bg-yellow-700 rounded-md"
         >
           GPTear
+          {isLoading && (
+            <div role="status">
+              <svg
+                aria-hidden="true"
+                className="w-8 h-8 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"
+                viewBox="0 0 100 101"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M100 50.5908C100 78.2051 77.6142 100.591 50 100.591C22.3858 100.591 0 78.2051 0 50.5908C0 22.9766 22.3858 0.59082 50 0.59082C77.6142 0.59082 100 22.9766 100 50.5908ZM9.08144 50.5908C9.08144 73.1895 27.4013 91.5094 50 91.5094C72.5987 91.5094 90.9186 73.1895 90.9186 50.5908C90.9186 27.9921 72.5987 9.67226 50 9.67226C27.4013 9.67226 9.08144 27.9921 9.08144 50.5908Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M93.9676 39.0409C96.393 38.4038 97.8624 35.9116 97.0079 33.5539C95.2932 28.8227 92.871 24.3692 89.8167 20.348C85.8452 15.1192 80.8826 10.7238 75.2124 7.41289C69.5422 4.10194 63.2754 1.94025 56.7698 1.05124C51.7666 0.367541 46.6976 0.446843 41.7345 1.27873C39.2613 1.69328 37.813 4.19778 38.4501 6.62326C39.0873 9.04874 41.5694 10.4717 44.0505 10.1071C47.8511 9.54855 51.7191 9.52689 55.5402 10.0491C60.8642 10.7766 65.9928 12.5457 70.6331 15.2552C75.2735 17.9648 79.3347 21.5619 82.5849 25.841C84.9175 28.9121 86.7997 32.2913 88.1811 35.8758C89.083 38.2158 91.5421 39.6781 93.9676 39.0409Z"
+                  fill="currentFill"
+                />
+              </svg>
+              <span className="sr-only">Loading...</span>
+            </div>
+          )}
         </button>
       </form>
       <ul className="space-y-4">
