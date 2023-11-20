@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import OpenAI from "openai";
 
 // It's better to use an environment variable for API keys
-const API_KEY = "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";
+const API_KEY = process.env.API_KEY_OPENIA || "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";
 
 type Data = {
   name: string;
