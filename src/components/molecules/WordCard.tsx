@@ -5,6 +5,8 @@ interface Props {
   word: Word;
 }
 export const WordCard = ({ word }: Props) => {
+  console.log("HOLLLA");
+  
   const speakWord = () => {
     const speech = new SpeechSynthesisUtterance(word.word);
     window.speechSynthesis.speak(speech);
