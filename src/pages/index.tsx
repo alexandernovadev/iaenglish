@@ -1,4 +1,5 @@
 import { WordCard } from "@/components/molecules/WordCard";
+import { useGenertateStoryJsonGPT } from "@/hooks/story/useGenertateStoryJsonGPT";
 import { useGetWordJsonGPT } from "@/hooks/word/useGetWordJsonGPT";
 import { useGetWordsDb } from "@/hooks/word/useGetWordsDb";
 import { useSaveWordtoDb } from "@/hooks/word/useSaveWordtoDb";
@@ -6,6 +7,9 @@ import { useEffect, useState } from "react";
 
 export default function Home() {
   const [inputWord, setInputWord] = useState("");
+  const { getStory, isErrorGetStory, isLoadingGetStory, story } =
+    useGenertateStoryJsonGPT();
+
   const { callGPT, isError, isLoading, wordGPTJSON } = useGetWordJsonGPT();
   const { getWordsDB, isErrorGetWord, isLoadingGetWord, words } =
     useGetWordsDb();
@@ -33,42 +37,68 @@ export default function Home() {
   }, [wordGPTJSON]);
 
   return (
-    <div className="h-screen overflow-auto bg-gray-900 text-white p-8 flex">
-      <section className="w-[720px] sticky top-0">
-        <div className="p-6 bg-gray-900 shadow-lg rounded-lg shadow-sm shadow-gray-500">
+    <div
+      className="h-screen overflow-auto bg-gray-900 text-white p-8 flex"
+      onMouseUp={handleMouseUp}
+    >
+      <section className="w-[1080px]  ">
+        <div className="p-6 bg-gray-900 shadow-sm shadow-gray-500">
           <h1 className="text-2xl font-bold text-yellow-50 mb-2">
-            The Roman Civilization
+            {story.title}
           </h1>
-          <h4 className="text-xl text-gray-100 mb-4">
-            A Journey Through Time and Influence
-          </h4>
-          <p className="text-gray-200 text-base leading-relaxed">
-            A transistor is a miniature semiconductor that regulates or controls
-            current or voltage flow in addition amplifying and generating these
-            electrical signals and acting as a switch/gate for them. Typically,
-            transistors consist of three layers, or terminals, of a
-            semiconductor material, each of which can carry a current n my
-            application the same error message was thrown. The difference is,
-            that I am using MongoDB Atlas, instead of a local MongoDB. Solution:
-            After added "+srv" to the URL scheme is issue was gone
-          </p>
-        </div>
+          <h4 className="text-xl text-gray-100 mb-4">{story.subtitle}</h4>
 
-        <form onSubmit={() => {}} className="mb-4 mt-2 flex">
-          <input
+          {story.paragraps?.map((p, i) => (
+            <p
+              key={`${i}-story-p`}
+              className="text-gray-200 text-base leading-relaxed my-5"
+            >
+              {p}
+            </p>
+          ))}
+        </div>
+        {isLoading ||
+          isLoadingDB ||
+          (isLoadingGetStory && (
+            <h1 className="text-2xl font-bold">
+              !
+              {isLoading
+                ? "GPT think word "
+                : isLoadingDB
+                ? "Saving "
+                : " Story loading "}
+            </h1>
+          ))}
+          WORD: <b>{inputWord || "no word"}</b> 
+
+        <form
+          onSubmit={() => {}}
+          className="mb-4 mt-2 flex border-teal-400 border p-3 rounded-lg"
+        >
+          {/* <input
             type="text"
             value={inputWord}
             onChange={(e) => setInputWord(e.target.value)}
             placeholder="Search a word..."
             className="p-2 bg-gray-800 border border-gray-700 rounded-md"
-          />
+          /> */}
           <button
             onClick={() => wordGPTJSON && saveWordDB(wordGPTJSON)}
             disabled={isLoading}
-            type="submit"
+            type="button"
             className="ml-2 p-2 bg-blue-600 hover:bg-blue-700 rounded-md"
           >
             Save Word
+          </button>
+          <button
+            onClick={() =>
+              getStory("Inteligencia Artifical en tiempos modermos")
+            }
+            disabled={isLoading}
+            type="button"
+            className="ml-2 p-2 bg-green-600 hover:bg-green-700 rounded-md"
+          >
+            Stoty
           </button>
           <button
             type="button"

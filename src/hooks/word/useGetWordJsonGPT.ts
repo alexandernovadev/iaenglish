@@ -1,5 +1,6 @@
 import { Word } from "@/interfaces/word";
 import { promt__getWordToDictonaryJson } from "@/propmts/getWordToDictonaryJson";
+import { dataJsonClean } from "@/utils/cleanDataandJsonParse";
 import axios from "axios";
 import { useState } from "react";
 
@@ -18,14 +19,13 @@ export const useGetWordJsonGPT = () => {
       const response = await axios.post("/api/gpt", { prompt });
 
       const formattedData = {
-        ...JSON.parse(response.data.name),
+        ...dataJsonClean(response.data.name),
         status: "FAIL",
         times_seen: 1,
       };
-console.log(formattedData);
+      console.log(formattedData);
 
       setWordGPTJSON(formattedData);
-
     } catch (error) {
       console.error("Error calling GPT endpoint:", error);
       setisError(true);
@@ -40,6 +40,6 @@ console.log(formattedData);
     isError,
     wordGPTJSON,
 
-    callGPT
+    callGPT,
   };
 };
