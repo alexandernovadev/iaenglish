@@ -1,0 +1,46 @@
+import { useState } from "react";
+
+interface Filters {
+  // Define the structure of your filters
+  [key: string]: string | number;
+}
+
+export const useGetWordsDb = () => {
+  const [words, setWords] = useState([]);
+  const [isLoadingGetWord, setIsLoadingGetWord] = useState(false);
+  const [isErrorGetWord, setIsErrorGetWord] = useState(false);
+
+  const getWordsDB = async (filters: Filters) => {
+    setIsLoadingGetWord(true);
+    setIsErrorGetWord(false);
+
+    let queryString = Object.entries(filters)
+      .map(
+        ([key, value]) =>
+          `${encodeURIComponent(key)}=${encodeURIComponent(value)}`
+      )
+      .join("&");
+    const url = `/api/word?${queryString}`;
+
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`Error: ${response.statusText}`);
+      }
+      const data = await response.json();
+      setWords(data);
+    } catch (error) {
+      console.error("Error fetching words:", error);
+      setIsErrorGetWord(true);
+    } finally {
+      setIsLoadingGetWord(false);
+    }
+  };
+
+  return {
+    words,
+    isLoadingGetWord,
+    isErrorGetWord,
+    getWordsDB,
+  };
+};

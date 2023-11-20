@@ -33,7 +33,7 @@ export default async function handler(
 // This function makes a request to the OpenAI API
 const GPT = async (prompt: string) => {
   const response = await openai.chat.completions.create({
-    model: "gpt-3.5-turbo", 
+    model: "gpt-4", 
     messages: [{ role: "user", content: prompt }],
   });
 

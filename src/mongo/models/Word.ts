@@ -7,6 +7,10 @@ const wordSchema = new Schema<Word & Document>(
       word: String,
       definition: String,
     },
+    pt: {
+      word: String,
+      definition: String,
+    },
     word: {
       type: String,
       required: true,
@@ -19,8 +23,7 @@ const wordSchema = new Schema<Word & Document>(
       type: String,
       required: true,
     },
-    definition_en: String,
-    definition_es: String,
+    definition: String,
     examples: [String],
     times_seen: {
       type: Number,
@@ -32,6 +35,7 @@ const wordSchema = new Schema<Word & Document>(
       required: true,
     },
     img: String,
+    note:String
   },
   {
     timestamps: true,
