@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import OpenAI from "openai";
 
 // It's better to use an environment variable for API keys
-const API_KEY = "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";
+const API_KEY = "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";
 
 type Data = {
   name: string;
@@ -33,7 +33,7 @@ export default async function handler(
 // This function makes a request to the OpenAI API
 const GPT = async (prompt: string) => {
   const response = await openai.chat.completions.create({
-    model: "gpt-4-0314", 
+    model: "gpt-4-0613", 
     messages: [{ role: "user", content: prompt }],
   });
 

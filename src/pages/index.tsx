@@ -25,6 +25,15 @@ export default function Home() {
     setWordGPTJSON,
   } = useGetWordJsonGPT();
 
+  useEffect(() => {
+    if (isLoadGetWordGPT) {
+      setIsExpanded(true)
+    }
+  
+  
+  }, [isLoadGetWordGPT])
+  
+
   const {
     saveWordDB,
     isError: isErrorDB,

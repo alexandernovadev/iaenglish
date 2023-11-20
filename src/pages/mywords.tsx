@@ -21,7 +21,7 @@ const MywordPage = () => {
     console.log(filtered);
 
     setFilteredWords(filtered);
-  }, [searchTerm, words,getWordsDB]);
+  }, [searchTerm, words]);
 
   return (
     <div className="h-screen overflow-auto bg-gray-900 text-white p-8">
