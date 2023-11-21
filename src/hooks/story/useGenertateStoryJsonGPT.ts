@@ -1,6 +1,5 @@
 import { StoryMock } from "@/data/storymock";
 import { Story } from "@/interfaces/story";
-import { getStoryToRead } from "@/propmts/getStoryToRead";
 import { dataJsonClean } from "@/utils/cleanDataandJsonParse";
 import axios from "axios";
 import { useEffect, useState } from "react";
@@ -22,7 +21,6 @@ export const useGenertateStoryJsonGPT = () => {
     setIsErrorGetStory(false);
 
     try {
-      const prompt = getStoryToRead(story);
       const response = await axios.post("/api/gpt", { prompt });
       const newData  = dataJsonClean(response.data.name);
 

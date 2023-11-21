@@ -1,6 +1,8 @@
 import { Story } from "@/interfaces/story";
 
-export const getStoryToRead = ({
+const NO_PARAGRAPHS = 3;
+
+export const GetPromt_StoryToRead = ({
   level = "B2",
   topicUser = "The IA in Modern AGES",
   language = "en",
@@ -37,7 +39,9 @@ export const getStoryToRead = ({
     }
     NOTE: 
   1 SOLO DAR el JSON y NADA MAS no comentarios, no sugurencias, NADAAA, SOLO EL JSON
-  2 Si topicUser es una palabra estrañs, haraz un story sobre la MOON y Goku dbz :
+  2 ALWAYS TU RTA must begin with {    and end with } 
+  3 Si topicUser es una palabra estrañs, haraz un story sobre la MOON y Goku dbz :
+  4 Simpre tiene ques generar ${NO_PARAGRAPHS} paragraphs en el array
     
   `;
 };

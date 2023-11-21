@@ -1,10 +1,10 @@
 export interface Story {
   id?: string;
   _id?: string;
-  title: string;
-  subtitle: string;
+  title?: string;
+  subtitle?: string;
   topicUser?: string;
-  paragraphs: string[];
+  paragraphs?: string[];
   notes?: string;
   img?: string;
   times_seen?: number;

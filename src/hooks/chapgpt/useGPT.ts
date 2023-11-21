@@ -1,54 +1,24 @@
-import { promt__getWordToDictonaryJson } from "@/propmts/getWordToDictonaryJson";
-import axios from "axios";
-import { useState } from "react";
+import { askToChatGPT } from "@/services/gpt/askToChatGPT";
 import { useDispatch } from "react-redux";
 
 export const useGPT = () => {
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState(null);
-  const [data, setData] = useState("");
   const dispatch = useDispatch();
 
-  const getDataGPT = async () => {
-    dispatch({
-      type: "IS_LOADING",
-      payload: true,
-    });
-    dispatch({
-      type: "IS_ERROR",
-      payload: ""
-    });
-
-    setIsLoading(true);
-    setError(null);
+  const getDataGPT = async (prompt:string) => {
+    dispatch({ type: "IS_LOADING", payload: true });
+    dispatch({ type: "IS_ERROR", payload: "" });
 
     try {
-      const prompt = promt__getWordToDictonaryJson("unjust");
-      const response = await axios.post("/api/gpt", { prompt });
 
-      dispatch({
-        type: "ADD_STORY",
-        payload: JSON.parse(response.data.name),
-      });
-
-      setData(response.data.name);
-    } catch (error: any) {
-      console.error("Error fetching data:", error.message || error);
-      setError(error);
-
-      dispatch({
-        type: "IS_ERROR",
-        payload: "Erro wiht chatGPT ," + error,
-      });
+      
+      const response = await askToChatGPT(prompt);
+      dispatch({ type: "ADD_DATA", payload: response }); 
+    } catch (error:any) {
+      dispatch({ type: "IS_ERROR", payload: error.message });
     } finally {
-      dispatch({
-        type: "IS_LOADING",
-        payload: false,
-      });
-
-      setIsLoading(false);
+      dispatch({ type: "IS_LOADING", payload: false });
     }
   };
 
-  return { isLoading, error, data, getDataGPT };
+  return { getDataGPT };
 };
