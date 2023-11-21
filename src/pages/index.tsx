@@ -4,11 +4,16 @@ import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import Dictonary from "../../public/englishdb_ai.words.json";
 import { Modal } from "@/components/molecules/Modal/Modal";
+import { useWord } from "@/hooks/word/useWord";
+import { WordCard } from "@/components/molecules/WordCard";
+import { Word } from "@/interfaces/word";
+import { WordActionTypes } from "@/redux/wordRecuder/types";
 
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
   const [isOpenModal, setIsOpenModal] = useState(false);
   const { getStoryFromGPT } = useStory();
+  const { getWordFromGPT, saveWordDB } = useWord();
 
   const dispatch = useDispatch();
 
@@ -16,18 +21,34 @@ export default function Home() {
     (state: RootState) => state.story
   );
 
+  const {
+    isError: isErrWord,
+    isLoad: isLoadWordm,
+    words,
+    activeWord,
+    selectedActivedWord: w,
+  } = useSelector((state: RootState) => state.word);
+
   const searchGpt = () => async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     await getStoryFromGPT(word);
   };
 
   const renderWord = (word: string, index: any) => {
+    console.log("word", word);
+    
     // Si la palabra existe en el diccionario de palabras debera ser verde si no rojo
-    const wordLowerCase = word.toLocaleLowerCase();
+    const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
     const wordExist = Dictonary.find(
       (word) => word.word.toLocaleLowerCase() === wordLowerCase
     );
+    if (word === "worldwide") {
 
+      console.log("No estoes");
+      
+      console.log(wordExist);
+    }
+    
     // Si la word tiene un punto al final o una coma se le quita, y se deja en unva variable aparte, pa
     // enviar la word limpia al dispatch y que se guarde en el store
     const wordClean = word.replace(/[.,]/g, "");
@@ -36,12 +57,12 @@ export default function Home() {
       <span
         key={`${index}-word`}
         className={`${
-          wordExist ? "text-green-500" : "text-red-500"
+          wordExist ? "text-green-300" : "text-gray-400"
         } cursor-pointer hover:underline`}
         onClick={() =>
           dispatch({
             type: "SELECTED_ACTIVED_WORD",
-            payload: { word: wordClean, isKnown: wordExist },
+            payload: { word: wordClean, isKnown: !!wordExist },
           })
         }
       >
@@ -90,11 +111,42 @@ export default function Home() {
 
         <div className="flex items-center justify-between p-2 bg-slate-700">
           <h1 className="flex-grow truncate">{selectedActivedWord?.word}</h1>
-          <button
-          onClick={() => setIsOpenModal(true)}
-          className="w-1/5 px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300">
-            Botón
-          </button>
+
+          {!selectedActivedWord?.isKnown ? (
+            <button
+              onClick={() => {
+                getWordFromGPT(selectedActivedWord?.word!);
+                setIsOpenModal(true);
+              }}
+              className="w-1/5 px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300"
+            >
+              Gptear
+            </button>
+          ) : (
+            <button
+              onClick={() => {
+                //     Deberia poner la palabra actica
+                const wordLowerCase = selectedActivedWord?.word.toLocaleLowerCase();
+                const wordExist = Dictonary.find(
+                  (word) => word.word.toLocaleLowerCase() === wordLowerCase
+                );
+            
+                // Si la word tiene un punto al final o una coma se le quita, y se deja en unva variable aparte, pa
+                // enviar la word limpia al dispatch y que se guarde en el store
+                const wordClean = word.replace(/[.,]/g, "");
+
+                dispatch({
+                  type: WordActionTypes.SET_ACTIVED_WORD,
+                  payload: wordExist,
+                });
+
+                setIsOpenModal(true);
+              }}
+              className="w-1/5 px-2 py-1 bg-yellow-600 rounded hover:yellow-blue-700 transition duration-300"
+            >
+              Ver Definicion
+            </button>
+          )}
         </div>
 
         <form className="flex p-2" onSubmit={searchGpt()}>
@@ -115,16 +167,35 @@ export default function Home() {
         <small className="text-green text-xs">v1 1.09.1</small>
       </div>
 
-      <Modal isOpen={isOpenModal} setIsOpen={setIsOpenModal} >
-        <h1 className="text-xl font-bold mb-2">Organizando tu palabra y haciendo magia</h1>
-        <p>Tu contenido aquí {JSON.stringify(isOpenModal)}</p>
+      <Modal isOpen={isOpenModal} setIsOpen={setIsOpenModal}>
+        <div className="flex justify-between">
+          <h1 className="text-xl font-bold mb-2">
+            Organizando tu palabra y haciendo magia
+          </h1>
+          <button
+            onClick={() => setIsOpenModal(false)}
+            className="mt-4 px-4 py-2 bg-red-500 text-white rounded hover:bg-red-700 transition duration-300"
+          >
+            X
+          </button>
+        </div>
+        {isLoadWordm && <p>Estamos trabajando en ello ...</p>}
 
-        <button
-          onClick={() => setIsOpenModal(false)}
-          className="mt-4 px-4 py-2 bg-yellow-500 text-white rounded hover:bg-red-700 transition duration-300"
-        >
-          Agregar Palabra
-        </button>
+        {isErrWord && <p>Hubo un error</p>}
+
+        {!isLoadWordm && !isErrWord && (
+          <>
+            {/* @ts-ignore */}
+            <WordCard word={activeWord} />
+
+            <button
+              onClick={() => saveWordDB(activeWord as Word)}
+              className="mt-4 px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-700 transition duration-300"
+            >
+              Agregar Palabra
+            </button>
+          </>
+        )}
       </Modal>
     </div>
   );

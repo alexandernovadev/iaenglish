@@ -3,7 +3,7 @@ import { Word } from "@/interfaces/word";
 import { memo } from "react";
 
 interface Props {
-  word: Word;
+  word: Word ;
 }
 export const WordCard = memo(({ word }: Props) => {
   console.log("HOLLLA");
@@ -23,6 +23,8 @@ export const WordCard = memo(({ word }: Props) => {
     speech.lang = "es-CO";
     window.speechSynthesis.speak(speech);
   };
+
+  if (!word) return <>No existe Word</>;
 
   return (
     <div className="w-full rounded overflow-hidden shadow-lg bg-gray-800 text-white m-4">

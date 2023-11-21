@@ -5637,4 +5637,1126 @@
     "$date": "2023-11-20T21:30:16.477Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d294d646fdb4f3b630a0b"
+  },
+  "es": {
+    "word": "reformas",
+    "definition": "Cambios y modificaciones para mejoramiento de una institución, práctica, ley, etc."
+  },
+  "pt": {
+    "word": "reformas",
+    "definition": "Mudanças e modificações para melhoramento de uma instituição, prática, lei, etc."
+  },
+  "word": "reforms",
+  "ipa": "/rəˈfɔːrmz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d294d646fdb4f3b630a0c"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d294e646fdb4f3b630a0d"
+      }
+    }
+  ],
+  "definition": "Changes or amendments made with the aim of improving a system, practice, law, etc.",
+  "examples": [
+    "The government is planning major reforms in health and education.",
+    "Recent reforms in the company have led to an increase in profits.",
+    "There has been a demand for constitutional reforms in the country.",
+    "The president promised drastic economic reforms during his campaign.",
+    "The new manager introduced a series of reforms to boost team productivity."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:03:58.015Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:03:58.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d2a07646fdb4f3b630a0f"
+  },
+  "es": {
+    "word": "tremendo",
+    "definition": "Que causa admiración, asombro o miedo debido a su tamaño, intensidad, importancia, etc."
+  },
+  "pt": {
+    "word": "tremendo",
+    "definition": "Que causa admiração, espanto ou medo devido ao seu tamanho, intensidade, importância, etc."
+  },
+  "word": "tremendous",
+  "ipa": "/trɪˈmɛndəs/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d2a07646fdb4f3b630a10"
+      }
+    }
+  ],
+  "definition": "Very great in amount, scale, or intensity.",
+  "examples": [
+    "Penny put in a tremendous amount of time and effort.",
+    "The car has a tremendous amount of acceleration.",
+    "The firefighters did a tremendous job in preventing the blaze from spreading.",
+    "The region is of tremendous economic importance to the US.",
+    "He was a manager of tremendous foresight."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:07:03.175Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:07:03.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d2a2b646fdb4f3b630a12"
+  },
+  "es": {
+    "word": "en gran medida",
+    "definition": "En gran cantidad, extremadamente, mucho o muy"
+  },
+  "pt": {
+    "word": "grandemente",
+    "definition": "Em grande quantidade, extremamente, muito ou muito"
+  },
+  "word": "greatly",
+  "ipa": "/ˈɡreɪtli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d2a2b646fdb4f3b630a13"
+      }
+    }
+  ],
+  "definition": "To a great extent.",
+  "examples": [
+    "Your contribution is greatly appreciated.",
+    "She's been greatly affected by this tragedy.",
+    "The city has greatly changed over the last decade.",
+    "The event was greatly covered in the media.",
+    "His methods greatly differ from conventional techniques."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:07:39.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:07:39.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d2a49646fdb4f3b630a15"
+  },
+  "es": {
+    "word": "restos",
+    "definition": "Lo que queda de algo, especialmente después de que parte de él se ha usado, destruido o desgastado."
+  },
+  "pt": {
+    "word": "restos",
+    "definition": "O que resta de algo, especialmente após uma parte dele ter sido usada, destruída ou desgastada."
+  },
+  "word": "remnants",
+  "ipa": "/ˈrɛmnənts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d2a49646fdb4f3b630a16"
+      }
+    }
+  ],
+  "definition": "What remains of something, especially after a part of it has been used, destroyed or worn away.",
+  "examples": [
+    "The remnants of last night's meal should be enough for lunch today.",
+    "After the storm, the remnants of the house were scattered across the field.",
+    "She used the remnants of the fabric to make a small purse.",
+    "Archaeologists found remnants of an ancient civilization in the desert.",
+    "After the war, only remnants of the city were still standing."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:08:09.817Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:08:09.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d2ab6646fdb4f3b630a19"
+  },
+  "es": {
+    "word": "ardientemente",
+    "definition": "De manera intensa o apasionada."
+  },
+  "pt": {
+    "word": "ardentemente",
+    "definition": "De maneira intensa ou apaixonada."
+  },
+  "word": "ardently",
+  "ipa": "/ˈɑːrdntli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d2ab6646fdb4f3b630a1a"
+      }
+    }
+  ],
+  "definition": "In a way that is very eager or passionate.",
+  "examples": [
+    "He ardently pursued his studies.",
+    "She was ardently devoted to her children.",
+    "I ardently hoped for her speedy recovery.",
+    "He argued the point most ardently.",
+    "The project was ardently embraced by the community."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:09:58.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:09:58.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d2b58646fdb4f3b630a1c"
+  },
+  "es": {
+    "word": "liderado",
+    "definition": "Guiado, dirigido o comandado."
+  },
+  "pt": {
+    "word": "liderou",
+    "definition": "Guiou, dirigiu ou comandou."
+  },
+  "word": "led",
+  "ipa": "/lɛd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d2b58646fdb4f3b630a1d"
+      }
+    }
+  ],
+  "definition": "Past and past participle of lead that means to guide or direct in a particular direction or to a place, often in front of or before others.",
+  "examples": [
+    "She led the team to multiple victories.",
+    "He led the horse back to the stable.",
+    "Who led the campaign?",
+    "She led her guests to the dining room.",
+    "Many believe she led the organization to its golden era."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:12:40.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:12:40.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d2c10646fdb4f3b630a1f"
+  },
+  "es": {
+    "word": "Venerado",
+    "definition": "Considerar algo o alguien con mucho respecto y admiración."
+  },
+  "pt": {
+    "word": "Venerado",
+    "definition": "Considerar algo ou alguém com muito respeito e admiração."
+  },
+  "word": "Revered",
+  "ipa": "/rɪˈvɪərd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d2c10646fdb4f3b630a20"
+      }
+    }
+  ],
+  "definition": "Feeling or showing deep and solemn respect.",
+  "examples": [
+    "He is revered as a national hero.",
+    "Monks are generally revered in Buddhist culture.",
+    "She is revered for her humanitarian work overseas.",
+    "The artifacts are particularly revered for their age.",
+    "The old professor was revered by his students."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:15:44.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:15:44.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d2c24646fdb4f3b630a22"
+  },
+  "es": {
+    "word": "muchos",
+    "definition": "Una gran cantidad; una gran cantidad."
+  },
+  "pt": {
+    "word": "muitos",
+    "definition": "Uma grande quantidade; um grande número."
+  },
+  "word": "many",
+  "ipa": "/ˈmɛni/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d2c24646fdb4f3b630a23"
+      }
+    },
+    {
+      "name": "Determiner",
+      "sigle": "det.",
+      "description": "Words that introduce nouns and provide context.",
+      "_id": {
+        "$oid": "655d2c24646fdb4f3b630a24"
+      }
+    },
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun.",
+      "_id": {
+        "$oid": "655d2c24646fdb4f3b630a25"
+      }
+    }
+  ],
+  "definition": "A large quantity; a great deal of.",
+  "examples": [
+    "Many people agree with this viewpoint.",
+    "There are many ways to approach this problem.",
+    "I've been to that city many times.",
+    "She has read many books on the subject.",
+    "Many of their friends were invited."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:16:04.586Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:16:04.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d31fb646fdb4f3b630a27"
+  },
+  "es": {
+    "word": "Simbolizado",
+    "definition": "Representado por símbolos o con el uso de símbolos."
+  },
+  "pt": {
+    "word": "Simbolizado",
+    "definition": "Representado por símbolos ou com o uso de símbolos."
+  },
+  "word": "Symbolized",
+  "ipa": "/ˈsɪmbəˌlaɪzd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d31fb646fdb4f3b630a28"
+      }
+    }
+  ],
+  "definition": "Represented by symbols or using symbols.",
+  "examples": [
+    "The dove symbolized peace in their culture.",
+    "In the painting, darkness and winter symbolized death.",
+    "He symbolized the law of the land.",
+    "The ceremony symbolized the merger of the two companies.",
+    "The monument symbolized their victory in the war."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:40:59.908Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:40:59.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d321c646fdb4f3b630a2a"
+  },
+  "es": {
+    "word": "mundial",
+    "definition": "En, afectando o relacionado con todo el mundo."
+  },
+  "pt": {
+    "word": "mundialmente",
+    "definition": "Em, afetando ou relacionado a todo o mundo."
+  },
+  "word": "worldwide",
+  "ipa": "/ˈwɜːrldˌwaɪd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d321c646fdb4f3b630a2b"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d321c646fdb4f3b630a2c"
+      }
+    }
+  ],
+  "definition": "Over, affecting or relating to the whole world.",
+  "examples": [
+    "The company has offices worldwide.",
+    "She has gained worldwide recognition.",
+    "This issue deserves worldwide attention.",
+    "The game is available worldwide.",
+    "We offer worldwide shipping."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:41:32.911Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:41:32.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d33b7892fd090f6239a9e"
+  },
+  "es": {
+    "word": "modernizado",
+    "definition": "Actualizar algo para hacerlo más moderno o adecuado para los tiempos actuales."
+  },
+  "pt": {
+    "word": "modernizado",
+    "definition": "Atualizar algo para torná-lo mais moderno ou adequado aos tempos atuais."
+  },
+  "word": "modernized",
+  "ipa": "/ˈmɒdəˌnaɪz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d33b7892fd090f6239a9f"
+      }
+    }
+  ],
+  "definition": "To update something to make it more current or suitable for the modern age.",
+  "examples": [
+    "The company has modernized its production processes to stay competitive.",
+    "The city has modernized the public transport system.",
+    "The old house was modernized with new technology and design.",
+    "The education system needs to be modernized to meet the demands of the 21st century.",
+    "The new manager has modernized the office procedures."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:48:23.164Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:48:23.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d3457892fd090f6239aa1"
+  },
+  "es": {
+    "word": "trigo",
+    "definition": "Es una planta gramínea anual, originaria de las regiones templadas de Asia occidental, cuyo grano es utilizado ampliamente para uso alimenticio en muchos países alrededor del mundo."
+  },
+  "pt": {
+    "word": "trigo",
+    "definition": "É uma planta anual da família das gramíneas, originária das regiões temperadas do oeste da Ásia, cujo grão é amplamente utilizado para alimentos em muitos países ao redor do mundo."
+  },
+  "word": "wheat",
+  "ipa": "/wiːt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d3457892fd090f6239aa2"
+      }
+    }
+  ],
+  "definition": "A cereal plant that is the most important kind grown in temperate countries, the grain of which is ground to make flour for bread, pasta, pastry, etc.",
+  "examples": [
+    "Wheat is usually harvested in the late summer or early fall.",
+    "The farmer has a large field of wheat.",
+    "This bread is made from whole wheat flour.",
+    "Wheat is one of the most exported grains in the world.",
+    "Many people are allergic to wheat."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:51:03.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:51:03.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d346a892fd090f6239aa4"
+  },
+  "es": {
+    "word": "Gobiernos",
+    "definition": "El grupo de personas con la autoridad de gobernar un país o estado."
+  },
+  "pt": {
+    "word": "Governo",
+    "definition": "O grupo de pessoas com a autoridade para governar um país ou estado."
+  },
+  "word": "Governments",
+  "ipa": "/ˈɡʌv.ən.mənts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d346a892fd090f6239aa5"
+      }
+    },
+    {
+      "name": "Plural",
+      "sigle": "pl.",
+      "description": "A grammatical number referring to more than one of the referent in the real world.",
+      "_id": {
+        "$oid": "655d346a892fd090f6239aa6"
+      }
+    }
+  ],
+  "definition": "The group of people with the authority to govern a country or state.",
+  "examples": [
+    "Many governments around the world are facing tough decisions due to the pandemic.",
+    "Governments should be held accountable for their actions and decisions.",
+    "The economic policies of different governments can have a big impact on the welfare of their citizens.",
+    "She believes that governments have a major role to play in tackling climate change.",
+    "Corruption is a common problem in many governments."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:51:22.464Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:51:22.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d34b1892fd090f6239aa8"
+  },
+  "es": {
+    "word": "resultados",
+    "definition": "Consecuencia o efecto de una acción o acontecimiento."
+  },
+  "pt": {
+    "word": "resultados",
+    "definition": "Consequência ou efeito de uma ação ou acontecimento."
+  },
+  "word": "outcomes",
+  "ipa": "/ˈaʊtkʌmz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d34b1892fd090f6239aa9"
+      }
+    }
+  ],
+  "definition": "The way a thing turns out; a consequence.",
+  "examples": [
+    "The outcome of the election was a big surprise.",
+    "We are waiting for the outcome of the negotiation.",
+    "The outcome of this project will determine our next steps.",
+    "The outcomes of their decisions were not what they expected.",
+    "Her actions led to positive outcomes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:52:33.840Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:52:33.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d34c7892fd090f6239aab"
+  },
+  "es": {
+    "word": "a",
+    "definition": "Artículo indefinido equivalente al 'a' o 'an' en inglés."
+  },
+  "pt": {
+    "word": "um",
+    "definition": "Artigo indefinido equivalente à 'a' ou 'an' em inglês."
+  },
+  "word": "a",
+  "ipa": "/eɪ/",
+  "type_word": [
+    {
+      "name": "Article",
+      "sigle": "art.",
+      "description": "Words that define a noun as specific or unspecific.",
+      "_id": {
+        "$oid": "655d34c7892fd090f6239aac"
+      }
+    }
+  ],
+  "definition": "Used when referring to someone or something for the first time in a text or conversation.",
+  "examples": [
+    "A child needs love to thrive.",
+    "A cat is lying on the roof.",
+    "A good book can change your life.",
+    "She had a baby last year.",
+    "I saw a movie yesterday."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:52:55.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:52:55.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d34d2892fd090f6239aae"
+  },
+  "es": {
+    "word": "cómo",
+    "definition": "De qué manera o por qué medio."
+  },
+  "pt": {
+    "word": "como",
+    "definition": "De que maneira ou por quais meios."
+  },
+  "word": "how",
+  "ipa": "/haʊ/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d34d2892fd090f6239aaf"
+      }
+    }
+  ],
+  "definition": "In what way or manner; by what means.",
+  "examples": [
+    "How did she manage to convince him?",
+    "I don't know how to solve this problem.",
+    "How can we improve our performance?",
+    "He explained how the system works.",
+    "How was your vacation?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:53:06.551Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:53:06.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d34e5892fd090f6239ab1"
+  },
+  "es": {
+    "word": "el/la",
+    "definition": "Usado para señalar a alguien o algo que se ha mencionado o es conocido, relevante para el contexto o presente en un entorno inmediato."
+  },
+  "pt": {
+    "word": "o/a",
+    "definition": "Usado para indicar alguém ou algo que foi mencionado ou é conhecido, relevante para o contexto ou presente em um ambiente imediato."
+  },
+  "word": "the",
+  "ipa": "/ðə, ðiː/",
+  "type_word": [
+    {
+      "name": "Article",
+      "sigle": "art.",
+      "description": "Words that define a noun as specific or unspecific.",
+      "_id": {
+        "$oid": "655d34e5892fd090f6239ab2"
+      }
+    }
+  ],
+  "definition": "Used to point forward to a following qualifying or defining clause or phrase.",
+  "examples": [
+    "The book that I borrowed from you is excellent.",
+    "The little girl sells flowers in the street.",
+    "The sun is shining today.",
+    "The dog barked at the mail carrier.",
+    "The wine from that region is exquisite."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:53:25.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:53:25.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d34f5892fd090f6239ab4"
+  },
+  "es": {
+    "word": "en",
+    "definition": "Utilizado para indicar localización o inclusión en un contexto"
+  },
+  "pt": {
+    "word": "em",
+    "definition": "Usado para indicar localização ou inclusão em um contexto"
+  },
+  "word": "in",
+  "ipa": "/ɪn/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d34f5892fd090f6239ab5"
+      }
+    }
+  ],
+  "definition": "Used to indicate location or inclusion in a particular space",
+  "examples": [
+    "I live in New York.",
+    "She works in a bank.",
+    "He's in the kitchen.",
+    "She is in a meeting right now.",
+    "He put the dishes in the sink."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:53:41.837Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:53:41.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d350d892fd090f6239ab7"
+  },
+  "es": {
+    "word": "Por",
+    "definition": "Indica la agencia o medio por el que se hace algo."
+  },
+  "pt": {
+    "word": "Por",
+    "definition": "Indica a agência ou o meio pelo qual algo é feito."
+  },
+  "word": "By",
+  "ipa": "/baɪ/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d350d892fd090f6239ab8"
+      }
+    }
+  ],
+  "definition": "Indicates the agency or means of an action.",
+  "examples": [
+    "The cakes are made by my grandmother.",
+    "The report was written by a group of scientists.",
+    "The whole idea was thought of by her.",
+    "She walked by the cafe.",
+    "I lived by the ocean."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:54:05.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:54:05.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d351f892fd090f6239aba"
+  },
+  "es": {
+    "word": "para",
+    "definition": "Indica el destinatario o el propósito de algo"
+  },
+  "pt": {
+    "word": "para",
+    "definition": "Indica o destinatário ou o propósito de algo"
+  },
+  "word": "for",
+  "ipa": "/fɔːr/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d351f892fd090f6239abb"
+      }
+    },
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases.",
+      "_id": {
+        "$oid": "655d351f892fd090f6239abc"
+      }
+    }
+  ],
+  "definition": "Indicates the intended recipient or purpose of something",
+  "examples": [
+    "I bought a gift for you.",
+    "This place is reserved for VIPs.",
+    "He is known for his generosity.",
+    "I've been waiting for you.",
+    "The cake is for dessert."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:54:23.085Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:54:23.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d3541892fd090f6239abe"
+  },
+  "es": {
+    "word": "y",
+    "definition": "Conjuncción utilizada para unir palabras o frases que son equivalentes o presentan algún tipo de relación."
+  },
+  "pt": {
+    "word": "e",
+    "definition": "Conjunção utilizada para unir palavras ou frases que são equivalentes ou apresentam algum tipo de relação."
+  },
+  "word": "and",
+  "ipa": "/ænd/",
+  "type_word": [
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases.",
+      "_id": {
+        "$oid": "655d3541892fd090f6239abf"
+      }
+    }
+  ],
+  "definition": "A conjunction used to connect words, phrases, or clauses that are equivalent or present some kind of relationship.",
+  "examples": [
+    "I like apples and oranges.",
+    "He studied hard and passed his exam.",
+    "She was tired, and she went to bed early.",
+    "I went to the store and bought some fruit.",
+    "We can go to the movies or stay at home and watch a series."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:54:57.357Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:54:57.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d3554892fd090f6239ac1"
+  },
+  "es": {
+    "word": "Por lo tanto",
+    "definition": "Por estas razones; como consecuencia de esto."
+  },
+  "pt": {
+    "word": "Portanto",
+    "definition": "Por essas razões; como consequência disso."
+  },
+  "word": "Therefore",
+  "ipa": "/ˈθɛəfɔː/",
+  "type_word": [
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases.",
+      "_id": {
+        "$oid": "655d3554892fd090f6239ac2"
+      }
+    }
+  ],
+  "definition": "As a result of the reason or cause being discussed or identified.",
+  "examples": [
+    "He's lived there all his life, and therefore knows the area very well.",
+    "She had lived at Brookfield for over 30 years, therefore, she must know the area well.",
+    "She has a disability, therefore she will need assistance.",
+    "I'm a cyclist, therefore I'm very fit.",
+    "Shoplifting is a crime; therefore, it's wrong."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:55:16.538Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:55:16.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d3599892fd090f6239ac4"
+  },
+  "es": {
+    "word": "poder",
+    "definition": "Tener la capacidad o las habilidades para hacer algo."
+  },
+  "pt": {
+    "word": "pode",
+    "definition": "Ter a capacidade ou habilidades para fazer algo."
+  },
+  "word": "can",
+  "ipa": "/kæn/",
+  "type_word": [
+    {
+      "name": "Auxiliary Verb",
+      "sigle": "aux.",
+      "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'.",
+      "_id": {
+        "$oid": "655d3599892fd090f6239ac5"
+      }
+    },
+    {
+      "name": "Modal Verb",
+      "sigle": "modal.v.",
+      "description": "A type of auxiliary verb that expresses possibility, necessity, obligation, permission, advice, etc.",
+      "_id": {
+        "$oid": "655d3599892fd090f6239ac6"
+      }
+    }
+  ],
+  "definition": "To be able to; to have the ability, power, or skill to do something.",
+  "examples": [
+    "He can play the guitar very well.",
+    "Can you help me, please?",
+    "If it rains, we can stay at home.",
+    "I can do this task on my own.",
+    "Can I borrow your pen?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:56:25.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:56:25.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d35ac892fd090f6239ac8"
+  },
+  "es": {
+    "word": "plagas",
+    "definition": "Organismos que causan daño a las plantas, animales o personas, especialmente en la agricultura."
+  },
+  "pt": {
+    "word": "pestes",
+    "definition": "Organismos que causam danos às plantas, animais ou pessoas, especialmente na agricultura."
+  },
+  "word": "pests",
+  "ipa": "/pɛsts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d35ac892fd090f6239ac9"
+      }
+    }
+  ],
+  "definition": "Organisms that cause harm to plants, animals, or people, especially in agriculture.",
+  "examples": [
+    "The farmer needs to use pesticides to control the pests on his crops.",
+    "Rats, flies, and cockroaches are common pests in urban areas.",
+    "The introduction of non-native species can lead to them becoming pests.",
+    "Public health is often threatened by pests like mosquitoes which can transmit diseases.",
+    "Effective pest management is critical in maintaining high yields in agriculture."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:56:44.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:56:44.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d35cb892fd090f6239acb"
+  },
+  "es": {
+    "word": "Dado",
+    "definition": "Proporcionado o concedido, a menudo en referencia a una pregunta o situación en la que se necesita una información particular."
+  },
+  "pt": {
+    "word": "Dado",
+    "definition": "Fornecido ou concedido, muitas vezes em referência a uma pergunta ou situação em que uma determinada informação é necessária."
+  },
+  "word": "Given",
+  "ipa": "/ˈɡɪvən/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d35cb892fd090f6239acc"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d35cb892fd090f6239acd"
+      }
+    },
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d35cb892fd090f6239ace"
+      }
+    }
+  ],
+  "definition": "Provided or granted, often in reference to a question or situation where specific information is required.",
+  "examples": [
+    "Given the circumstances, I think we did well.",
+    "The project was a success, given the limited resources.",
+    "She performed admirably, given her lack of experience.",
+    "Given his age, he's a remarkably fast runner.",
+    "Given that it's raining, we will have to cancel the picnic."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T22:57:15.522Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T22:57:15.522Z"
+  },
+  "__v": 0
 }]
