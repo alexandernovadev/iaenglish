@@ -35,6 +35,9 @@ export const getStoryToRead = ({
           was the epicenter of human achievement and a beacon of cultural and political might
          "]
     }
-
+    NOTE: 
+  1 SOLO DAR el JSON y NADA MAS no comentarios, no sugurencias, NADAAA, SOLO EL JSON
+  2 Si topicUser es una palabra estrañs, haraz un story sobre la MOON y Goku dbz :
+    
   `;
 };

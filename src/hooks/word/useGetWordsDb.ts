@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-interface Filters {
+export interface Filters {
   // Define the structure of your filters
   [key: string]: string | number;
 }
@@ -10,7 +10,7 @@ export const useGetWordsDb = () => {
   const [isLoadingGetWord, setIsLoadingGetWord] = useState(false);
   const [isErrorGetWord, setIsErrorGetWord] = useState(false);
 
-  const getWordsDB = async (filters: Filters) => {
+  const getWordsDB = async (filters: Filters = {}) => {
     setIsLoadingGetWord(true);
     setIsErrorGetWord(false);
 
@@ -20,6 +20,7 @@ export const useGetWordsDb = () => {
           `${encodeURIComponent(key)}=${encodeURIComponent(value)}`
       )
       .join("&");
+
     const url = `/api/word?${queryString}`;
 
     try {
@@ -28,6 +29,8 @@ export const useGetWordsDb = () => {
         throw new Error(`Error: ${response.statusText}`);
       }
       const data = await response.json();
+      console.log(data);
+      
       setWords(data);
     } catch (error) {
       console.error("Error fetching words:", error);

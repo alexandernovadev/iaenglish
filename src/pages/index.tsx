@@ -5,11 +5,25 @@ import { useGetWordJsonGPT } from "@/hooks/word/useGetWordJsonGPT";
 import { WordCard } from "@/components/molecules/WordCard";
 import { MSG_NO_WORD } from "@/constanst/wordsCommon";
 import { useSaveWordtoDb } from "@/hooks/word/useSaveWordtoDb";
+import { useSaveStorytoDb } from "@/hooks/story/useSaveStory";
+import toast, { Toaster } from "react-hot-toast";
+import { FaCheckCircle } from "react-icons/fa";
 
 export default function Home() {
   const [selectedWordUser, setSelectedWordUser] = useState("");
   const [topicuser, setTopicuser] = useState("");
   const [isExpanded, setIsExpanded] = useState(false);
+
+  const notify = () =>
+    toast(
+      <div className="rounded-xl p-4 flex gap-2">
+        <FaCheckCircle style={{color:'green'}}/> Word Save Correctly
+      </div>,
+      {
+        style:{padding:2},
+        duration: 1800,
+      }
+    );
 
   const [speechUtterance, setSpeechUtterance] =
     useState<SpeechSynthesisUtterance>();
@@ -27,18 +41,17 @@ export default function Home() {
 
   useEffect(() => {
     if (isLoadGetWordGPT) {
-      setIsExpanded(true)
+      setIsExpanded(true);
     }
-  
-  
-  }, [isLoadGetWordGPT])
-  
+  }, [isLoadGetWordGPT]);
 
   const {
     saveWordDB,
     isError: isErrorDB,
     isLoading: isLoadingDB,
   } = useSaveWordtoDb();
+
+  const { isLoading: isLoadSaveStory, saveStoryDB } = useSaveStorytoDb();
 
   const handleMouseUp = async () => {
     const selectedText = window.getSelection()?.toString();
@@ -90,6 +103,21 @@ export default function Home() {
     event.preventDefault();
     setStory((s) => ({ ...s, topicUser: topicuser }));
     await getStory();
+  };
+
+  useEffect(() => {
+    if (story && !isLoadingGetStory && story.title !== "AI in Modern Times") {
+      saveStoryDB(story);
+      localStorage.setItem("laststory", JSON.stringify(story));
+    }
+  }, [story, isLoadingGetStory]);
+
+  const saveWordDb = () => {
+    if (wordGPTJSON) {
+      saveWordDB(wordGPTJSON);
+      setIsExpanded(false);
+      notify();
+    }
   };
 
   return (
@@ -171,7 +199,9 @@ export default function Home() {
 
             <div className="flex gap-2">
               {isLoadGetWordGPT ? (
-                <h1 className="text-2xl font-bold text-white mb-2 max-w-2xl animate-pulse ">Thnkihs Word Definition ...</h1>
+                <h1 className="text-2xl font-bold text-white mb-2 max-w-2xl animate-pulse ">
+                  Thnkihs Word Definition ...
+                </h1>
               ) : (
                 <>
                   <button
@@ -183,7 +213,7 @@ export default function Home() {
 
                   {wordGPTJSON?.word !== MSG_NO_WORD && (
                     <button
-                      onClick={() => wordGPTJSON && saveWordDB(wordGPTJSON)}
+                      onClick={saveWordDb}
                       disabled={isLoadGetWordGPT}
                       type="button"
                       className="ml-2 p-2 bg-yellow-500 hover:bg-yellow-700 rounded-md text-white "
@@ -194,7 +224,11 @@ export default function Home() {
 
                   <button
                     onClick={handleOpenClick}
-                    className={`${isExpanded ?'bg-red-500 hover:bg-red-700':'bg-green-500 hover:bg-green-700'} text-white font-bold py-2 px-4 rounded`}
+                    className={`${
+                      isExpanded
+                        ? "bg-red-500 hover:bg-red-700"
+                        : "bg-green-500 hover:bg-green-700"
+                    } text-white font-bold py-2 px-4 rounded`}
                   >
                     {!isExpanded ? "Ver" : "X"}
                   </button>
@@ -209,6 +243,7 @@ export default function Home() {
         </div>
       </div>
 
+      <Toaster />
       <NavbarMain />
     </div>
   );

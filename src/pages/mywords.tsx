@@ -1,27 +1,25 @@
 import { WordCard } from "@/components/molecules/WordCard";
-import { useGetWordsDb } from "@/hooks/word/useGetWordsDb";
+import { Filters, useGetWordsDb } from "@/hooks/word/useGetWordsDb";
 import React, { useEffect, useState } from "react";
 import NextLink from "next/link";
 
 const MywordPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredWords, setFilteredWords] = useState([]);
-  const { getWordsDB, words } =
-    useGetWordsDb();
+  const { getWordsDB, words } = useGetWordsDb();
 
   useEffect(() => {
     getWordsDB({});
   }, []);
 
-  useEffect(() => {
-    const filtered = words.filter((word) =>
-      // @ts-ignore
-      word.word.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    console.log(filtered);
 
-    setFilteredWords(filtered);
-  }, [searchTerm, words]);
+  useEffect(() => {
+    const filters: Filters = {};
+    if (searchTerm) {
+      filters["search"] = searchTerm;
+    }
+    getWordsDB(filters);
+  }, [searchTerm]);
 
   return (
     <div className="h-screen overflow-auto bg-gray-900 text-white p-8">
@@ -32,6 +30,7 @@ const MywordPage = () => {
 
         <input
           type="text"
+          value={searchTerm}
           placeholder={`Seatch word of |${words.length}| words`}
           className="text-white bg-gray-700 w-[80%] p-1"
           onChange={(e) => setSearchTerm(e.target.value)}
@@ -39,7 +38,7 @@ const MywordPage = () => {
       </div>
 
       <div className="flex flex-wrap justify-center">
-        {filteredWords.map((word, i) => (
+        {words.map((word, i) => (
           <WordCard key={i} word={word} />
         ))}
       </div>

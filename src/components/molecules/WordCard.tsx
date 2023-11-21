@@ -44,7 +44,7 @@ export const WordCard = memo(({ word }: Props) => {
                 🔊
               </span>
             </div>
-            {word.type_word.map((typew, i) => (
+            {word?.type_word?.map((typew, i) => (
               <span
                 key={`typ - ${i}`}
                 className="bg-yellow-800 rounded-full px-2 py-1 mr-2"
@@ -63,6 +63,10 @@ export const WordCard = memo(({ word }: Props) => {
               </li>
             ))}
           </ul>
+          {/* <div className="p-4">
+            <img src="/images/around.png" 
+            className="rounded-xl w-[200px] h-[180px]" alt="" />
+          </div> */}
           <div className="px-6 py-2">
             <details className="mb-2">
               <summary className="text-gray-300 cursor-pointer">

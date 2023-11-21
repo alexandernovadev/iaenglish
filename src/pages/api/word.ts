@@ -14,7 +14,13 @@ export default async function handler(
   try {
     switch (method) {
       case "GET":
-        const words = await WordModel.find({});
+        const search = req.query.search;
+        // Ensure search is a string
+        const searchStr = Array.isArray(search) ? search[0] : search;
+        // Create a regex query for case-insensitive search
+        const query = searchStr ? { word: new RegExp(searchStr, "i") } : {};
+
+        const words = await WordModel.find(query).limit(30);
         res.status(200).json(words);
         break;
 
