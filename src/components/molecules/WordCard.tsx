@@ -1,14 +1,26 @@
 import { MSG_NO_WORD } from "@/constanst/wordsCommon";
 import { Word } from "@/interfaces/word";
+import { memo } from "react";
 
 interface Props {
   word: Word;
 }
-export const WordCard = ({ word }: Props) => {
+export const WordCard = memo(({ word }: Props) => {
   console.log("HOLLLA");
-  
+
   const speakWord = () => {
     const speech = new SpeechSynthesisUtterance(word.word);
+    window.speechSynthesis.speak(speech);
+  };
+  const speakWordPT = (wordP: string) => {
+    const speech = new SpeechSynthesisUtterance(wordP);
+    speech.lang = "pt-PT";
+    window.speechSynthesis.speak(speech);
+  };
+
+  const speakWordES = (wordP: string) => {
+    const speech = new SpeechSynthesisUtterance(wordP);
+    speech.lang = "es-CO";
     window.speechSynthesis.speak(speech);
   };
 
@@ -32,12 +44,16 @@ export const WordCard = ({ word }: Props) => {
                 🔊
               </span>
             </div>
-            {word.type_word.map((typew,i) => (
-              <span key={`typ - ${i}`} className="bg-yellow-800 rounded-full px-2 py-1 mr-2" title={`${typew.sigle} - ${typew.description}`}>
+            {word.type_word.map((typew, i) => (
+              <span
+                key={`typ - ${i}`}
+                className="bg-yellow-800 rounded-full px-2 py-1 mr-2"
+                title={`${typew.sigle} - ${typew.description}`}
+              >
                 {typew.name}
               </span>
             ))}
-        
+
             <p className="text-gray-300 text-base mt-4">{word.definition}</p>
           </div>
           <ul className="px-6 list-disc">
@@ -55,6 +71,13 @@ export const WordCard = ({ word }: Props) => {
               <p className="text-gray-400">
                 <b>
                   <i>{word.es?.word}</i>
+                  <span
+                    onClick={() => speakWordES(word.es?.word!)}
+                    className="cursor-pointer"
+                  >
+                    {" "}
+                    🔊
+                  </span>
                 </b>{" "}
                 : {word.es?.definition}
               </p>
@@ -66,6 +89,13 @@ export const WordCard = ({ word }: Props) => {
               <p className="text-gray-400">
                 <b>
                   <i>{word.pt?.word}</i>
+                  <span
+                    onClick={() => speakWordPT(word.pt?.word!)}
+                    className="cursor-pointer"
+                  >
+                    {" "}
+                    🔊
+                  </span>
                 </b>
                 : {word.pt?.definition}
               </p>
@@ -89,4 +119,4 @@ export const WordCard = ({ word }: Props) => {
       )}
     </div>
   );
-};
+});

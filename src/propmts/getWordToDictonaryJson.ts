@@ -47,7 +47,9 @@ export const promt__getWordToDictonaryJson = (inputWord: string) => {
   }
   
 
-  NOTE: categorizar type_word, solo con una o las que creas necesarias
+  NOTE: 
+  1 categorizar type_word, solo con una o las que creas necesarias
+  2 SOLO DAR el JSON y NADA MAS no comentario, no sugurencias, NADA, SOLO EL JSON
       ${JSON.stringify(typewords)}
   `;
 };

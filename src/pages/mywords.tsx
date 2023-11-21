@@ -32,7 +32,7 @@ const MywordPage = () => {
 
         <input
           type="text"
-          placeholder="Seatch word ..."
+          placeholder={`Seatch word of |${words.length}| words`}
           className="text-white bg-gray-700 w-[80%] p-1"
           onChange={(e) => setSearchTerm(e.target.value)}
         />

@@ -18,10 +18,10 @@ export const NavbarMain = () => {
           Story
         </NextLink>
         <NextLink
-          href="/profile"
+          href="/"
           className="w-full text-center py-2 hover:bg-gray-700"
         >
-          PROfiles
+          V1. 1.0.1 alphan
         </NextLink>
       </div>
     </div>
