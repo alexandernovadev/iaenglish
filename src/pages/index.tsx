@@ -3,9 +3,11 @@ import { RootState } from "@/redux/reducers";
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import Dictonary from "../../public/englishdb_ai.words.json";
+import { Modal } from "@/components/molecules/Modal/Modal";
 
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
+  const [isOpenModal, setIsOpenModal] = useState(false);
   const { getStoryFromGPT } = useStory();
 
   const dispatch = useDispatch();
@@ -88,7 +90,9 @@ export default function Home() {
 
         <div className="flex items-center justify-between p-2 bg-slate-700">
           <h1 className="flex-grow truncate">{selectedActivedWord?.word}</h1>
-          <button className="w-1/5 px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300">
+          <button
+          onClick={() => setIsOpenModal(true)}
+          className="w-1/5 px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300">
             Botón
           </button>
         </div>
@@ -110,6 +114,18 @@ export default function Home() {
         </form>
         <small className="text-green text-xs">v1 1.09.1</small>
       </div>
+
+      <Modal isOpen={isOpenModal} setIsOpen={setIsOpenModal} >
+        <h1 className="text-xl font-bold mb-2">Organizando tu palabra y haciendo magia</h1>
+        <p>Tu contenido aquí {JSON.stringify(isOpenModal)}</p>
+
+        <button
+          onClick={() => setIsOpenModal(false)}
+          className="mt-4 px-4 py-2 bg-yellow-500 text-white rounded hover:bg-red-700 transition duration-300"
+        >
+          Agregar Palabra
+        </button>
+      </Modal>
     </div>
   );
 }
