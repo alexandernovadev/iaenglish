@@ -2,16 +2,16 @@ import { WordCard } from "@/components/molecules/WordCard";
 import { Filters, useGetWordsDb } from "@/hooks/word/useGetWordsDb";
 import React, { useEffect, useState } from "react";
 import NextLink from "next/link";
+import { FaAngleLeft } from "react-icons/fa";
 
 const MywordPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredWords, setFilteredWords] = useState([]);
-  const { getWordsDB, words } = useGetWordsDb();
+  const { getWordsDB, words, totaWords } = useGetWordsDb();
 
   useEffect(() => {
     getWordsDB({});
   }, []);
-
 
   useEffect(() => {
     const filters: Filters = {};
@@ -24,14 +24,20 @@ const MywordPage = () => {
   return (
     <div className="h-screen overflow-auto bg-gray-900 text-white p-8">
       <div className="sticky top-0 bg-gray-950 p-3 flex justify-between items-center">
-        <NextLink href="/" passHref className="text-yellow-100 underline">
-          {"<"} Go to Read
+        <NextLink
+          href="/"
+          passHref
+          className="text-yellow-100 underline border-yellow-400 border rounded-3xl flex items-center justify-center"
+        >
+          <FaAngleLeft style={{ fontSize: 32 }} />
         </NextLink>
-
+        <div className="text-lg text-yellow-200 font-semibold mx-4">
+          Words : {totaWords}
+        </div>
         <input
           type="text"
           value={searchTerm}
-          placeholder={`Seatch word of |${words.length}| words`}
+          placeholder={`Search word of words`}
           className="text-white bg-gray-700 w-[80%] p-1"
           onChange={(e) => setSearchTerm(e.target.value)}
         />

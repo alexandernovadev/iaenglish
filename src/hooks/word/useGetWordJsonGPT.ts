@@ -24,8 +24,8 @@ export const useGetWordJsonGPT = () => {
         times_seen: 1,
       };
       console.log(formattedData);
-
       setWordGPTJSON(formattedData);
+      return formattedData;
     } catch (error) {
       console.error("Error calling GPT endpoint:", error);
       setisError(true);
@@ -41,6 +41,6 @@ export const useGetWordJsonGPT = () => {
     wordGPTJSON,
 
     callGPT,
-    setWordGPTJSON
+    setWordGPTJSON,
   };
 };

@@ -8,19 +8,22 @@ import { useSaveWordtoDb } from "@/hooks/word/useSaveWordtoDb";
 import { useSaveStorytoDb } from "@/hooks/story/useSaveStory";
 import toast, { Toaster } from "react-hot-toast";
 import { FaCheckCircle } from "react-icons/fa";
+import { Filters, useGetWordsDb } from "@/hooks/word/useGetWordsDb";
 
 export default function Home() {
   const [selectedWordUser, setSelectedWordUser] = useState("");
   const [topicuser, setTopicuser] = useState("");
   const [isExpanded, setIsExpanded] = useState(false);
+  const [wordArray, setWordArray] = useState<string[]>([]);
+  const { getWordsDB, words, totaWords } = useGetWordsDb();
 
   const notify = () =>
     toast(
       <div className="rounded-xl p-4 flex gap-2">
-        <FaCheckCircle style={{color:'green'}}/> Word Save Correctly
+        <FaCheckCircle style={{ color: "green" }} /> Word Save Correctly
       </div>,
       {
-        style:{padding:2},
+        style: { padding: 2 },
         duration: 1800,
       }
     );
@@ -51,7 +54,7 @@ export default function Home() {
     isLoading: isLoadingDB,
   } = useSaveWordtoDb();
 
-  const { isLoading: isLoadSaveStory, saveStoryDB } = useSaveStorytoDb();
+  const { isLoading: isLoadSaveS, saveStoryDB } = useSaveStorytoDb();
 
   const handleMouseUp = async () => {
     const selectedText = window.getSelection()?.toString();
@@ -60,8 +63,23 @@ export default function Home() {
       setSelectedWordUser(selectedText);
       seachWordLocalDictionary();
       speakWord(selectedText);
+
+      if (selectedText.length < 20 && selectedText.length > 1) {
+        const filters: Filters = {};
+        filters["search"] = selectedText;
+        const nre =await getWordsDB(filters);
+
+        console.log("que s", nre);
+        
+        setIsExpanded(true)
+        setWordGPTJSON(words.sort((a,b)=>a-b)[0])
+      }
     }
   };
+
+  useEffect(() => {
+      setWordGPTJSON(wordGPTJSON);
+  }, [words, getWordsDB]);
 
   const speakWord = (word: string) => {
     if (speechUtterance) {
@@ -82,6 +100,13 @@ export default function Home() {
       window.speechSynthesis.cancel();
     };
   }, []);
+
+  // useEffect(() => {
+  //   if (story.subtitle) {
+  //     const words = countWords(story.subtitle);
+  //     setWordArray(words);
+  //   }
+  // }, [story.subtitle]);
 
   const seachWordLocalDictionary = async () => {
     try {
@@ -107,7 +132,6 @@ export default function Home() {
 
   useEffect(() => {
     if (story && !isLoadingGetStory && story.title !== "AI in Modern Times") {
-      saveStoryDB(story);
       localStorage.setItem("laststory", JSON.stringify(story));
     }
   }, [story, isLoadingGetStory]);
@@ -118,6 +142,16 @@ export default function Home() {
       setIsExpanded(false);
       notify();
     }
+  };
+
+  // worcds counter
+
+  const countWords = (text: string) => {
+    // Divide el texto en un array de palabras, eliminando los espacios adicionales
+    const words = text.trim().split(/\s+/);
+    console.log(words);
+
+    return words;
   };
 
   return (
@@ -153,11 +187,16 @@ export default function Home() {
           onMouseUp={handleMouseUp}
           onTouchEnd={handleMouseUp}
         >
+          <button
+            className="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded"
+            onClick={() => saveStoryDB(story)}
+          >
+            SAAVE{" "}
+          </button>
           <h1 className="text-2xl font-bold text-yellow-50 mb-2">
             {story.title}
           </h1>
           <h4 className="text-xl text-gray-100 mb-4">{story.subtitle}</h4>
-
           {story.paragraphs?.map((p, i) => (
             <p
               key={`${i}-story-p`}

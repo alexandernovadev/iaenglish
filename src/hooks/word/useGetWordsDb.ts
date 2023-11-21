@@ -7,6 +7,7 @@ export interface Filters {
 
 export const useGetWordsDb = () => {
   const [words, setWords] = useState([]);
+  const [totaWords, setTotaWords] = useState(0);
   const [isLoadingGetWord, setIsLoadingGetWord] = useState(false);
   const [isErrorGetWord, setIsErrorGetWord] = useState(false);
 
@@ -31,7 +32,8 @@ export const useGetWordsDb = () => {
       const data = await response.json();
       console.log(data);
       
-      setWords(data);
+      setWords(data.words);
+      setTotaWords(data.total)
     } catch (error) {
       console.error("Error fetching words:", error);
       setIsErrorGetWord(true);
@@ -44,6 +46,9 @@ export const useGetWordsDb = () => {
     words,
     isLoadingGetWord,
     isErrorGetWord,
+    totaWords,
+
+
     getWordsDB,
   };
 };

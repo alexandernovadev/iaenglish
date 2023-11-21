@@ -21,21 +21,19 @@ export const useGenertateStoryJsonGPT = () => {
     setIsLoadingGetStory(true);
     setIsErrorGetStory(false);
 
-    console.log("Y al stery", story);
-
     try {
       const prompt = getStoryToRead(story);
       const response = await axios.post("/api/gpt", { prompt });
       const newData  = dataJsonClean(response.data.name);
 
+      console.log(newData);
+      
       setStory((s) => ({
         ...s,
         title: newData.title,
-        subtitle: newData.ssubtitle,
+        subtitle: newData.subtitle,
         paragraphs: newData.paragraphs,
       }));
-      console.log(story);
-      console.log(response);
     } catch (error) {
       console.error("Error fetching Storys:", error);
       setIsErrorGetStory(true);

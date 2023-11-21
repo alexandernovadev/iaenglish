@@ -22,7 +22,7 @@ export const useSaveStorytoDb = () => {
       const result = await response.json();
       console.log("Storiiirir enviado well done:", result);
     } catch (error) {
-      console.error("Error al enviar las sttoo  :DDJPPP:", error);
+      console.error("Error al enviar las sttoo  JPPP:", error);
     } finally {
       setIsLoading(true);
     }

@@ -15,15 +15,25 @@ export default async function handler(
     switch (method) {
       case "GET":
         const search = req.query.search;
-        // Ensure search is a string
+        // Asegúrate de que search es una cadena
         const searchStr = Array.isArray(search) ? search[0] : search;
-        // Create a regex query for case-insensitive search
+        // Crea una consulta regex para búsqueda insensible a mayúsculas y minúsculas
         const query = searchStr ? { word: new RegExp(searchStr, "i") } : {};
-
-        const words = await WordModel.find(query).limit(30);
-        res.status(200).json(words);
+    
+        try {
+            // Obtener las palabras que coinciden con la búsqueda, limitadas a 30
+            const words = await WordModel.find(query).limit(30);
+            
+            // Obtener el total de palabras que coinciden con la búsqueda
+            const total = await WordModel.countDocuments(query);
+    
+            res.status(200).json({ words, total });
+        } catch (error) {
+            // Manejar cualquier error que pueda ocurrir
+            res.status(500).json({ message: "Error al procesar la solicitud", error });
+        }
         break;
-
+    
       case "POST":
         const newWord: Word = req.body;
         const word = await WordModel.create(newWord);
