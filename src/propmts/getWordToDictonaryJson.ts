@@ -1,6 +1,7 @@
 import { MSG_NO_WORD } from "@/constanst/wordsCommon";
 import typewords from "../../public/typeword.json";
 
+const NO_EXAMPLES = 5;
 export const promt__getWordToDictonaryJson = (inputWord: string) => {
   return `
   Generar un JSON para la palabra '${inputWord}' con las siguientes claves:
@@ -49,7 +50,10 @@ export const promt__getWordToDictonaryJson = (inputWord: string) => {
 
   NOTE: 
   1 categorizar type_word, solo con una o las que creas necesarias
-  2 SOLO DAR el JSON y NADA MAS no comentario, no sugurencias, NADA, SOLO EL JSON
+  2 ALWAYS TU RTA must begin with {    and end with } 
+  3 SOLO DAR el JSON y NADA MAS no comentario, no sugurencias, NADA, SOLO EL JSON
+  4 Simpre tiene que ser ${NO_EXAMPLES} en el array
+
       ${JSON.stringify(typewords)}
   `;
 };

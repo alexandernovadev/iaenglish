@@ -63,10 +63,12 @@ export const WordCard = memo(({ word }: Props) => {
               </li>
             ))}
           </ul>
-          {/* <div className="p-4">
-            <img src="/images/around.png" 
+          {word.img &&
+           <div className="p-4">
+            <img src={word.img} 
             className="rounded-xl w-[200px] h-[180px]" alt="" />
-          </div> */}
+          </div> 
+          }
           <div className="px-6 py-2">
             <details className="mb-2">
               <summary className="text-gray-300 cursor-pointer">
