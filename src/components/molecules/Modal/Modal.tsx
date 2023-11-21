@@ -1,5 +1,4 @@
-import { set } from "mongoose";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useCallback, useEffect, useRef, useState } from "react";
 
 interface ModalProps {
   // Aquí puedes añadir props adicionales si es necesario
@@ -8,11 +7,11 @@ interface ModalProps {
   children?: React.ReactNode | React.ReactNode[];
 }
 
-export const Modal = ({ isOpen = false, setIsOpen , children}: ModalProps) => {
+export const Modal = ({ isOpen = false, setIsOpen, children }: ModalProps) => {
   const modalRef = useRef<HTMLDivElement>(null);
   const [isAnimatedOpen, setIsAnimatedOpen] = useState(isOpen);
 
-  const closeModal = () => {
+  const closeModal = useCallback(() => {
     setIsAnimatedOpen(false);
 
     modalRef.current?.classList.remove("animate-fadeInRight");
@@ -20,14 +19,18 @@ export const Modal = ({ isOpen = false, setIsOpen , children}: ModalProps) => {
     setTimeout(() => {
       setIsOpen(false);
     }, 220);
-  };
+  }, [isOpen]);
 
-  // Detectar clics fuera del modal
-  const handleClickOutside = (event: MouseEvent) => {
-    if (modalRef.current && !modalRef.current.contains(event.target as Node)) {
-      closeModal();
-    }
-  };
+  // Detectar clics fuera del modal useCallback
+
+  const handleClickOutside = useCallback(
+    (e: MouseEvent) => {
+      if (!modalRef.current?.contains(e.target as Node)) {
+        closeModal();
+      }
+    },
+    [modalRef]
+  );
 
   // Añadir y remover el listener
   useEffect(() => {
@@ -35,7 +38,7 @@ export const Modal = ({ isOpen = false, setIsOpen , children}: ModalProps) => {
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
-  }, []);
+  }, [handleClickOutside, closeModal]);
 
   if (!isOpen) return null;
 

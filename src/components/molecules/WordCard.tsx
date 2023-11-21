@@ -1,5 +1,6 @@
 import { MSG_NO_WORD } from "@/constanst/wordsCommon";
 import { Word } from "@/interfaces/word";
+import Image from "next/image";
 import { memo } from "react";
 
 interface Props {
@@ -67,8 +68,8 @@ export const WordCard = memo(({ word }: Props) => {
           </ul>
           {word.img &&
            <div className="p-4">
-            <img src={word.img} 
-            className="rounded-xl w-[200px] h-[180px]" alt="" />
+            <Image src={word.img} 
+            className="rounded-xl w-[200px] h-[180px]" alt="Name Image here" />
           </div> 
           }
           <div className="px-6 py-2">

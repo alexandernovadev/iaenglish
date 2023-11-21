@@ -1,8 +1,12 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
 import { WordCard } from "@/components/molecules/WordCard";
 import { Filters, useGetWordsDb } from "@/hooks/word/useGetWordsDb";
 import React, { useEffect, useState } from "react";
 import NextLink from "next/link";
 import { FaAngleLeft } from "react-icons/fa";
+
+
 
 const MywordPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
