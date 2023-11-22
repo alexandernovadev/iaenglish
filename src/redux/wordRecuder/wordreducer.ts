@@ -17,10 +17,11 @@ export const wordReducer = (
 ): WordState => {
   switch (action.type) {
     case WordActionTypes.ADD_WORD:
+        console.log(action.payload);
+        
       return {
         ...state,
-        activeWord: action.payload,
-        words: [...state.words, action.payload],
+        words: [ ...action.payload],
       };
     case WordActionTypes.IS_LOADING:
       return {

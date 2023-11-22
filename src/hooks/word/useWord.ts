@@ -4,6 +4,10 @@ import { WordActionTypes } from "@/redux/wordRecuder/types";
 import { askToChatGPT } from "@/services/gpt/askToChatGPT";
 import { useDispatch } from "react-redux";
 
+export interface Filters {
+  [key: string]: string | number;
+}
+
 export const useWord = () => {
   const dispatch = useDispatch();
 
@@ -29,6 +33,7 @@ export const useWord = () => {
     }
   };
 
+  // TODO USAR services
   const saveWordDB = async (formattedData: Word) => {
     dispatch({ type: WordActionTypes.IS_LOADING, payload: true });
     dispatch({ type: WordActionTypes.IS_ERROR, payload: "" });
@@ -53,8 +58,39 @@ export const useWord = () => {
     }
   };
 
+  const getWordsDB = async (filters: Filters = {}) => {
+    dispatch({ type: WordActionTypes.IS_LOADING, payload: true });
+    dispatch({ type: WordActionTypes.IS_ERROR, payload: "" });
+
+    let queryString = Object.entries(filters)
+      .map(
+        ([key, value]) =>
+          `${encodeURIComponent(key)}=${encodeURIComponent(value)}`
+      )
+      .join("&");
+
+    const url = `/api/word?${queryString}`;
+
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`Error: ${response.statusText}`);
+      }
+
+      const data = await response.json();
+      dispatch({ type: WordActionTypes.ADD_WORD, payload: data.words });
+      console.log(data.words);
+    } catch (error) {
+      dispatch({ type: WordActionTypes.IS_ERROR, payload: error });
+
+      console.error("Error fetching words:", error);
+    } finally {
+      dispatch({ type: WordActionTypes.IS_LOADING, payload: true });
+    }
+  };
+
   const editWordToDb = () => {};
   const removeWordToDb = () => {};
 
-  return { getWordFromGPT, saveWordDB };
+  return { getWordFromGPT, saveWordDB, getWordsDB };
 };

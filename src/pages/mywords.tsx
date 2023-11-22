@@ -1,17 +1,23 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck
 import { WordCard } from "@/components/molecules/WordCard";
-import { Filters, useGetWordsDb } from "@/hooks/word/useGetWordsDb";
+import { Filters } from "@/hooks/word/useGetWordsDb";
 import React, { useEffect, useState } from "react";
 import NextLink from "next/link";
 import { FaAngleLeft } from "react-icons/fa";
+import { useWord } from "@/hooks/word/useWord";
 
+import { useDispatch, useSelector } from "react-redux";
 
 
 const MywordPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredWords, setFilteredWords] = useState([]);
-  const { getWordsDB, words, totaWords } = useGetWordsDb();
+  const {getWordsDB}= useWord()
+
+  const { words } = useSelector(
+    (state: RootState) => state.word
+  );
 
   useEffect(() => {
     getWordsDB({});
@@ -36,7 +42,7 @@ const MywordPage = () => {
           <FaAngleLeft style={{ fontSize: 32 }} />
         </NextLink>
         <div className="text-lg text-yellow-200 font-semibold mx-4">
-          Words : {totaWords}
+          Words : 12
         </div>
         <input
           type="text"

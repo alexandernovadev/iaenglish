@@ -1,6 +1,6 @@
 import { useStory } from "@/hooks/story/useStory";
 import { RootState } from "@/redux/reducers";
-import { useState } from "react";
+import { memo, use, useEffect, useMemo, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import Dictonary from "../../public/englishdb_ai.words.json";
 import { Modal } from "@/components/molecules/Modal/Modal";
@@ -8,6 +8,12 @@ import { useWord } from "@/hooks/word/useWord";
 import { WordCard } from "@/components/molecules/WordCard";
 import { Word } from "@/interfaces/word";
 import { WordActionTypes } from "@/redux/wordRecuder/types";
+import { AiOutlineLoading } from "react-icons/ai";
+import { IoSend } from "react-icons/io5";
+import { FaCheckCircle } from "react-icons/fa";
+import toast from "react-hot-toast";
+import { FaBook } from "react-icons/fa";
+import NextLink from "next/link";
 
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
@@ -16,6 +22,17 @@ export default function Home() {
   const { getWordFromGPT, saveWordDB } = useWord();
 
   const dispatch = useDispatch();
+
+  const notify = () =>
+    toast(
+      <div className="rounded-xl p-4 flex gap-2">
+        <FaCheckCircle style={{ color: "green" }} /> Error con la Story
+      </div>,
+      {
+        style: { padding: 2 },
+        duration: 1800,
+      }
+    );
 
   const { activeStory, isError, isLoad, selectedActivedWord } = useSelector(
     (state: RootState) => state.story
@@ -29,28 +46,35 @@ export default function Home() {
     selectedActivedWord: w,
   } = useSelector((state: RootState) => state.word);
 
+  useEffect(() => {
+    dispatch({ type: WordActionTypes.IS_LOADING, payload: false });
+  }, []);
+
+  useEffect(() => {
+    if (isError) {
+      notify();
+    }
+  }, [isError]);
+
   const searchGpt = () => async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     await getStoryFromGPT(word);
   };
 
+  const speakWordEN = (word: string) => {
+    const speech = new SpeechSynthesisUtterance(word);
+    window.speechSynthesis.speak(speech);
+  };
+
   const renderWord = (word: string, index: any) => {
-    console.log("word", word);
-    
+    console.log("renderWord");
+
     // Si la palabra existe en el diccionario de palabras debera ser verde si no rojo
     const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
     const wordExist = Dictonary.find(
       (word) => word.word.toLocaleLowerCase() === wordLowerCase
     );
-    if (word === "worldwide") {
 
-      console.log("No estoes");
-      
-      console.log(wordExist);
-    }
-    
-    // Si la word tiene un punto al final o una coma se le quita, y se deja en unva variable aparte, pa
-    // enviar la word limpia al dispatch y que se guarde en el store
     const wordClean = word.replace(/[.,]/g, "");
 
     return (
@@ -59,35 +83,59 @@ export default function Home() {
         className={`${
           wordExist ? "text-green-300" : "text-gray-400"
         } cursor-pointer hover:underline`}
-        onClick={() =>
+        onClick={() => {
           dispatch({
-            type: "SELECTED_ACTIVED_WORD",
+            type: WordActionTypes.SELECTED_ACTIVED_WORD,
             payload: { word: wordClean, isKnown: !!wordExist },
-          })
-        }
+          });
+          dispatch({
+            type: WordActionTypes.SET_ACTIVED_WORD,
+            payload: wordExist,
+          });
+        }}
       >
         {word}{" "}
       </span>
     );
   };
-  const renderContent = (text: string, index: any) => {
+
+  const RenderContent = memo(function renderContent({ text, index }: any) {
     const textArray = text.split(" ");
 
-    const news = textArray.map((word, index) => word.toLocaleLowerCase());
+    const news = textArray.map((word: any, index: any) =>
+      word.toLocaleLowerCase()
+    );
     const setUnique = new Set(news);
 
     return (
       <span key={`${index}-word`}>
-        {textArray.map((word, index) => renderWord(word, index))}
+        {textArray.map((word: any, index: any) => renderWord(word, index))}
       </span>
     );
-  };
+  });
+
+  // const renderContent = (text: string, index: any) => {
+  //   const textArray = text.split(" ");
+
+  //   const news = textArray.map((word, index) => word.toLocaleLowerCase());
+  //   const setUnique = new Set(news);
+
+  //   return (
+  //     <span key={`${index}-word`}>
+  //       {textArray.map((word, index) => renderWord(word, index))}
+  //     </span>
+  //   );
+  // };
 
   return (
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
       <div className="flex flex-col h-full overflow-auto">
         <div className="flex-grow overflow-auto p-4">
           <section className="flex justify-between">
+            <NextLink href="/mywords" passHref>
+              <FaBook style={{ fontSize: 32 }} />
+            </NextLink>
+
             <h1 className="text-xl font-bold mb-2">{activeStory?.title}</h1>
 
             <div className="flex gap-3">
@@ -103,14 +151,31 @@ export default function Home() {
           <div className="w-full">
             {activeStory?.paragraphs?.map((paragraph, index) => (
               <p key={index} className="mb-5 ">
-                {renderContent(paragraph, index)}
+                <RenderContent text={paragraph} index={index} />
               </p>
             ))}
           </div>
         </div>
 
-        <div className="flex items-center justify-between p-2 bg-slate-700">
-          <h1 className="flex-grow truncate">{selectedActivedWord?.word}</h1>
+        <div className="flex items-center justify-between p-2 bg-slate-700 px-4">
+          {selectedActivedWord?.word ? (
+            <h1 className="flex-grow truncate text-3xl capitalize font-bold">
+              {selectedActivedWord?.word}
+              <span
+                onClick={() => speakWordEN(selectedActivedWord?.word!)}
+                className="cursor-pointer"
+              >
+                {" "}
+                🔊{" "}
+              </span>
+              <span className="px-2 text-xl text-gray-300">
+                {" "}
+                {activeWord?.ipa}
+              </span>
+            </h1>
+          ) : (
+            <>No hay word</>
+          )}
 
           {!selectedActivedWord?.isKnown ? (
             <button
@@ -125,21 +190,6 @@ export default function Home() {
           ) : (
             <button
               onClick={() => {
-                //     Deberia poner la palabra actica
-                const wordLowerCase = selectedActivedWord?.word.toLocaleLowerCase();
-                const wordExist = Dictonary.find(
-                  (word) => word.word.toLocaleLowerCase() === wordLowerCase
-                );
-            
-                // Si la word tiene un punto al final o una coma se le quita, y se deja en unva variable aparte, pa
-                // enviar la word limpia al dispatch y que se guarde en el store
-                const wordClean = word.replace(/[.,]/g, "");
-
-                dispatch({
-                  type: WordActionTypes.SET_ACTIVED_WORD,
-                  payload: wordExist,
-                });
-
                 setIsOpenModal(true);
               }}
               className="w-1/5 px-2 py-1 bg-yellow-600 rounded hover:yellow-blue-700 transition duration-300"
@@ -149,22 +199,34 @@ export default function Home() {
           )}
         </div>
 
-        <form className="flex p-2" onSubmit={searchGpt()}>
+        <form
+          className={`flex p-2 items-center justify-center ${
+            isLoad ? "animate-pulse" : ""
+          }`}
+          onSubmit={searchGpt()}
+        >
           <input
             type="text"
             value={word}
+            disabled={isLoad}
             onChange={(e) => setword(e.currentTarget.value)}
             className="flex-grow p-2 mr-2 bg-slate-700 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
-          <button
-            type="submit"
-            disabled={isLoad}
-            className="w-1/3 px-2 py-1 bg-green-600 rounded hover:bg-green-700 transition duration-300"
-          >
-            Enviar
-          </button>
+          {!isLoad && (
+            <button
+              type="submit"
+              disabled={isLoad}
+              className="px-2 py-1 bg-green-600 rounded text-2xl hover:bg-green-700 transition duration-300"
+            >
+              <IoSend />
+            </button>
+          )}
+
+          {isLoad && (
+            <AiOutlineLoading className="animate-spin  text-2xl text-green-600" />
+          )}
         </form>
-        <small className="text-green text-xs">v1 1.09.1</small>
+        <small className="text-green text-xs">__________v1 1.99.99</small>
       </div>
 
       <Modal isOpen={isOpenModal} setIsOpen={setIsOpenModal}>

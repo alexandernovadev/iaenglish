@@ -597,7 +597,7 @@
   },
   "word": "Around",
   "ipa": "/əˈraʊnd/",
-  "img": "https://files.oaiusercontent.com/file-p8TU4EXst32VHJDD4484QyIT?se=2023-11-21T07%3A35%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D469d5bd0-3169-4268-b6ee-f13af7e60667.webp&sig=0LPZ60Ged/2Iq9PnAmTu%2Bn2OQx3m5wq3TMFXWsX8qIY%3D",
+  "img": "",
   "type_word": [
     {
       "name": "Preposition",
@@ -6757,6 +6757,1106 @@
   },
   "updatedAt": {
     "$date": "2023-11-21T22:57:15.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d3f4347181bc58f3445ae"
+  },
+  "es": {
+    "word": "Imperio",
+    "definition": "Grupo de naciones o pueblos gobernados por un emperador, emperatriz, o por otro poderoso soberano o gobierno."
+  },
+  "pt": {
+    "word": "Império",
+    "definition": "Grupo de nações ou povos governados por um imperador, imperatriz, ou por outro poderoso soberano ou governo."
+  },
+  "word": "Empire",
+  "ipa": "/ˈɛmpaɪər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d3f4347181bc58f3445af"
+      }
+    }
+  ],
+  "definition": "An extensive group of states or countries ruled over by a single monarch, an oligarchy, or a sovereign state.",
+  "examples": [
+    "The Roman Empire has a significant role in the history of Western civilization.",
+    "She had an empire of beauty salons across the city.",
+    "He built a commercial empire by hard work and savvy business decisions.",
+    "The business has grown into a multinational empire.",
+    "The British Empire covered large parts of the world."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:37:39.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:37:39.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d404e47181bc58f3445b1"
+  },
+  "es": {
+    "word": "con",
+    "definition": "Junto con o en compañía de."
+  },
+  "pt": {
+    "word": "com",
+    "definition": "Junto com ou em companhia de."
+  },
+  "word": "with",
+  "ipa": "/wɪð/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d404e47181bc58f3445b2"
+      }
+    }
+  ],
+  "definition": "Accompanied by (another person or thing).",
+  "examples": [
+    "He arrived with a friend.",
+    "She left me with no options.",
+    "I'm with you on this issue.",
+    "It's a house with a beautiful view.",
+    "I won't go there with you."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:42:06.262Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:42:06.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d405d47181bc58f3445b4"
+  },
+  "es": {
+    "word": "estos",
+    "definition": "Utilizado para identificar una persona o cosa específica cerca de uno o, más genéricamente, un evento o situación."
+  },
+  "pt": {
+    "word": "esses",
+    "definition": "Usado para identificar uma pessoa ou coisa específica perto de si ou, mais genericamente, um evento ou situação."
+  },
+  "word": "these",
+  "ipa": "/ði:z/",
+  "type_word": [
+    {
+      "name": "Determiner",
+      "sigle": "det.",
+      "description": "Words that introduce nouns and provide context.",
+      "_id": {
+        "$oid": "655d405d47181bc58f3445b5"
+      }
+    },
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun.",
+      "_id": {
+        "$oid": "655d405d47181bc58f3445b6"
+      }
+    }
+  ],
+  "definition": "Used to identify a specific person or thing close at hand or being indicated or experienced.",
+  "examples": [
+    "These are my friends, David and Rebecca.",
+    "Could you pass these papers to the team?",
+    "These are some problems we need to discuss.",
+    "I bought these dresses for you.",
+    "These are the people responsible for the project completion."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:42:21.058Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:42:21.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d40b047181bc58f3445b8"
+  },
+  "es": {
+    "word": "esto",
+    "definition": "Se usa para identificar a una persona o cosa cercana o la idea que se está considerando."
+  },
+  "pt": {
+    "word": "isto",
+    "definition": "Usa-se para identificar uma pessoa ou coisa próxima ou a ideia que está sendo considerada."
+  },
+  "word": "this",
+  "ipa": "/ðɪs/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun.",
+      "_id": {
+        "$oid": "655d40b047181bc58f3445b9"
+      }
+    },
+    {
+      "name": "Determiner",
+      "sigle": "det.",
+      "description": "Words that introduce nouns and provide context.",
+      "_id": {
+        "$oid": "655d40b047181bc58f3445ba"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d40b047181bc58f3445bb"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d40b047181bc58f3445bc"
+      }
+    },
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases.",
+      "_id": {
+        "$oid": "655d40b047181bc58f3445bd"
+      }
+    }
+  ],
+  "definition": "Used to identify a specific person or thing close at hand or being indicated or experienced.",
+  "examples": [
+    "Is this your bag?",
+    "This is my sister.",
+    "I love this song.",
+    "This is where I live.",
+    "Who is this at the door?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:43:44.538Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:43:44.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d40c247181bc58f3445bf"
+  },
+  "es": {
+    "word": "entre",
+    "definition": "En medio de, en compañía de."
+  },
+  "pt": {
+    "word": "entre",
+    "definition": "No meio de, na companhia de."
+  },
+  "word": "among",
+  "ipa": "/əˈmʌŋ/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d40c247181bc58f3445c0"
+      }
+    }
+  ],
+  "definition": "In the midst of, in company with.",
+  "examples": [
+    "The ball was hidden among the leaves.",
+    "She lived among the native tribes for years.",
+    "I heard a voice among the crowd.",
+    "The scandal caused a division among the politicians.",
+    "They allocated the furniture among the four of them."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:44:02.189Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:44:02.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d40de47181bc58f3445c2"
+  },
+  "es": {
+    "word": "a través",
+    "definition": "De un extremo o lado a otro de un espacio abierto o una estructura."
+  },
+  "pt": {
+    "word": "através",
+    "definition": "De um extremo ou lado a outro de um espaço aberto ou estrutura."
+  },
+  "word": "through",
+  "ipa": "/θruː/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d40de47181bc58f3445c3"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d40de47181bc58f3445c4"
+      }
+    }
+  ],
+  "definition": "From one end or side to the other of an open space or structure.",
+  "examples": [
+    "The road goes through the forest.",
+    "I read through the report.",
+    "We worked through the night.",
+    "She's been through a lot.",
+    "You have to go through me to get to him."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:44:30.564Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:44:30.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d410447181bc58f3445c6"
+  },
+  "es": {
+    "word": "tener",
+    "definition": "Poseer o disfrutar de algo"
+  },
+  "pt": {
+    "word": "ter",
+    "definition": "Possuir ou desfrutar algo"
+  },
+  "word": "have",
+  "ipa": "/hæv/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d410447181bc58f3445c7"
+      }
+    },
+    {
+      "name": "Auxiliary Verb",
+      "sigle": "aux.",
+      "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'.",
+      "_id": {
+        "$oid": "655d410447181bc58f3445c8"
+      }
+    },
+    {
+      "name": "Phrasal Verb",
+      "sigle": "phr.v.",
+      "description": "A verb combined with a preposition or an adverb (or both), where the combination creates a meaning different from the original verb, such as 'turn off' or 'run into'.",
+      "_id": {
+        "$oid": "655d410447181bc58f3445c9"
+      }
+    },
+    {
+      "name": "Gerund",
+      "sigle": "ger.",
+      "description": "Verb forms ending in -ing that function as nouns.",
+      "_id": {
+        "$oid": "655d410447181bc58f3445ca"
+      }
+    },
+    {
+      "name": "Infinitive",
+      "sigle": "inf.",
+      "description": "The base form of a verb, usually preceded by 'to'.",
+      "_id": {
+        "$oid": "655d410447181bc58f3445cb"
+      }
+    }
+  ],
+  "definition": "To possess, own, or hold.",
+  "examples": [
+    "I have a car.",
+    "They have two children.",
+    "We have enough food.",
+    "She has a lot of friends.",
+    "Do you have a moment?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:45:08.711Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:45:08.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d43ce47181bc58f3445cd"
+  },
+  "es": {
+    "word": "Desde",
+    "definition": "Usado para señalar el punto temporal o espacial a partir del cual se origina, se realiza o se mide una acción."
+  },
+  "pt": {
+    "word": "De",
+    "definition": "Usado para indicar a origem, a procedência, a causa, a modalidade, a matéria, o modo, o instrumento, a medida, a origem, o ponto de partida."
+  },
+  "word": "From",
+  "ipa": "/frɒm/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d43ce47181bc58f3445ce"
+      }
+    }
+  ],
+  "definition": "Used to indicate the starting point in space or time of an action or state.",
+  "examples": [
+    "I am from Brazil.",
+    "The train leaves from platform 9.",
+    "This letter is from my brother.",
+    "Please refrain from eating in the library.",
+    "I'm just back from a holiday in Spain."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:57:02.092Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:57:02.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d43dc47181bc58f3445d0"
+  },
+  "es": {
+    "word": "a",
+    "definition": "Indica dirección o destino, término de movimiento."
+  },
+  "pt": {
+    "word": "para",
+    "definition": "Indica direção ou destino, termo de movimento."
+  },
+  "word": "to",
+  "ipa": "/tuː/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d43dc47181bc58f3445d1"
+      }
+    }
+  ],
+  "definition": "Expressing motion in the direction of (a particular location).",
+  "examples": [
+    "My friend is moving to Spain.",
+    "I went to the busy market to buy fruits.",
+    "You must submit your applications to the office before 5 p.m.",
+    "I need to go to the library to return these books.",
+    "I gave my letter to the postman."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:57:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:57:16.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d43fe47181bc58f3445d3"
+  },
+  "es": {
+    "word": "A través",
+    "definition": "De un lado a otro o de un extremo a otro de algo, especialmente mirando o atravesando su interior."
+  },
+  "pt": {
+    "word": "Através",
+    "definition": "De um lado a outro ou de um extremo ao outro de algo, especialmente olhando ou passando pelo seu interior."
+  },
+  "word": "Across",
+  "ipa": "/əˈkrɔs/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d43fe47181bc58f3445d4"
+      }
+    }
+  ],
+  "definition": "From one side to the other of a place, area, etc., or from one end to another, especially by going through the middle of it.",
+  "examples": [
+    "I walked across the road.",
+    "The bridge across the river.",
+    "She came across a friend in the street.",
+    "They were walking across the beach towards us.",
+    "We're driving across the desert."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:57:50.993Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:57:50.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d440c47181bc58f3445d6"
+  },
+  "es": {
+    "word": "uno",
+    "definition": "Número entero siguiente al cero y anterior al dos."
+  },
+  "pt": {
+    "word": "um",
+    "definition": "Número inteiro seguinte ao zero e antes dos dois."
+  },
+  "word": "one",
+  "ipa": "/wʌn/",
+  "type_word": [
+    {
+      "name": "Numeral",
+      "sigle": "num.",
+      "description": "Words that denote numbers.",
+      "_id": {
+        "$oid": "655d440c47181bc58f3445d7"
+      }
+    }
+  ],
+  "definition": "The number equivalent to the product of a unit and one; the unit of counting or measurement. Used to refer to a single person or thing of a specified kind.",
+  "examples": [
+    "There is only one job available.",
+    "I am one of the students in this class.",
+    "She is one of my favorite authors.",
+    "I need a ticket for one, please.",
+    "He is one of a kind."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:58:04.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:58:04.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d440d47181bc58f3445d9"
+  },
+  "es": {
+    "word": "uno",
+    "definition": "Número entero siguiente al cero y anterior al dos."
+  },
+  "pt": {
+    "word": "um",
+    "definition": "Número inteiro seguinte ao zero e antes dos dois."
+  },
+  "word": "one",
+  "ipa": "/wʌn/",
+  "type_word": [
+    {
+      "name": "Numeral",
+      "sigle": "num.",
+      "description": "Words that denote numbers.",
+      "_id": {
+        "$oid": "655d440d47181bc58f3445da"
+      }
+    }
+  ],
+  "definition": "The number equivalent to the product of a unit and one; the unit of counting or measurement. Used to refer to a single person or thing of a specified kind.",
+  "examples": [
+    "There is only one job available.",
+    "I am one of the students in this class.",
+    "She is one of my favorite authors.",
+    "I need a ticket for one, please.",
+    "He is one of a kind."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:58:05.350Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:58:05.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d441847181bc58f3445dc"
+  },
+  "es": {
+    "word": "tal",
+    "definition": "De esta forma o clase, de la misma condición o calidad."
+  },
+  "pt": {
+    "word": "tal",
+    "definition": "Deste forma ou classe, da mesma condição ou qualidade."
+  },
+  "word": "such",
+  "ipa": "/sʌʧ/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d441847181bc58f3445dd"
+      }
+    }
+  ],
+  "definition": "Of the type previously mentioned.",
+  "examples": [
+    "Such behavior will not be tolerated.",
+    "It is such a beautiful day!",
+    "I have never seen such a mess.",
+    "He is such a wonderful friend.",
+    "In such times, we must remain united."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:58:16.584Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:58:16.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d443047181bc58f3445df"
+  },
+  "es": {
+    "word": "como",
+    "definition": "Usada para expresar una comparación, la manera o el grado en que algo sucede o se realiza."
+  },
+  "pt": {
+    "word": "como",
+    "definition": "Usado para expressar uma comparação, a maneira ou o grau em que algo acontece ou é realizado."
+  },
+  "word": "as",
+  "ipa": "/æz/",
+  "type_word": [
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases.",
+      "_id": {
+        "$oid": "655d443047181bc58f3445e0"
+      }
+    },
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d443047181bc58f3445e1"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d443047181bc58f3445e2"
+      }
+    }
+  ],
+  "definition": "Used to express a comparison, the way or degree in which something happens or is done.",
+  "examples": [
+    "He ran as fast as he could.",
+    "She works as a teacher.",
+    "He's known as a tough competitor.",
+    "As a child, I used to play football.",
+    "The car is green, as you can see."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:58:40.481Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:58:40.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d444747181bc58f3445e4"
+  },
+  "es": {
+    "word": "mayoría",
+    "definition": "El número más grande de algo."
+  },
+  "pt": {
+    "word": "maioria",
+    "definition": "O maior número de algo."
+  },
+  "word": "most",
+  "ipa": "/moʊst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d444747181bc58f3445e5"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d444747181bc58f3445e6"
+      }
+    },
+    {
+      "name": "Determiner",
+      "sigle": "det.",
+      "description": "Words that introduce nouns and provide context.",
+      "_id": {
+        "$oid": "655d444747181bc58f3445e7"
+      }
+    }
+  ],
+  "definition": "Greatest in amount, extent, or degree.",
+  "examples": [
+    "That is the most expensive car in the shop.",
+    "I ate the most food at the party.",
+    "He has the most energy in the morning.",
+    "She is the most beautiful woman I have ever seen.",
+    "This is the most difficult task I've ever had to do."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-21T23:59:03.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T23:59:03.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d449647181bc58f3445e9"
+  },
+  "es": {
+    "word": "era",
+    "definition": "Forma del pasado del verbo ser o estar en primera y tercera persona del singular."
+  },
+  "pt": {
+    "word": "era",
+    "definition": "Forma do tempo pretérito do verbo ser ou estar na primeira e terceira pessoa do singular."
+  },
+  "word": "was",
+  "ipa": "/wəz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d449647181bc58f3445ea"
+      }
+    },
+    {
+      "name": "Auxiliary Verb",
+      "sigle": "aux.",
+      "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'.",
+      "_id": {
+        "$oid": "655d449647181bc58f3445eb"
+      }
+    },
+    {
+      "name": "Past Tense",
+      "sigle": "past.",
+      "description": "A tense expressing an action that has happened or a state that previously existed.",
+      "_id": {
+        "$oid": "655d449647181bc58f3445ec"
+      }
+    }
+  ],
+  "definition": "Past tense of 'be'.",
+  "examples": [
+    "I was late for work today.",
+    "She was a talented singer in her youth.",
+    "He was in the kitchen when the accident happened.",
+    "We were so young when we first met.",
+    "It was a beautiful day."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T00:00:22.846Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T00:00:22.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d44a647181bc58f3445ee"
+  },
+  "es": {
+    "word": "su",
+    "definition": "Indica que algo pertenece a él."
+  },
+  "pt": {
+    "word": "seu",
+    "definition": "Indica que algo pertence a ele."
+  },
+  "word": "his",
+  "ipa": "/hɪz/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun.",
+      "_id": {
+        "$oid": "655d44a647181bc58f3445ef"
+      }
+    }
+  ],
+  "definition": "Used to indicate that something belongs to or is connected with him.",
+  "examples": [
+    "His name is John.",
+    "That's his car over there.",
+    "He forgot his wallet at home.",
+    "This is his first trip to Europe.",
+    "His ideas were not taken into account."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T00:00:38.039Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T00:00:38.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d44b647181bc58f3445f1"
+  },
+  "es": {
+    "word": "civil",
+    "definition": "Relativo a los ciudadanos o a la ciudadanía"
+  },
+  "pt": {
+    "word": "civil",
+    "definition": "Relativo aos cidadãos ou à cidadania"
+  },
+  "word": "civil",
+  "ipa": "/ˈsɪvəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d44b647181bc58f3445f2"
+      }
+    }
+  ],
+  "definition": "Relating to ordinary citizens and their concerns, as distinct from military or ecclesiastical matters.",
+  "examples": [
+    "Civil aviation is the operation of aircraft by civilians for private or commercial purposes.",
+    "In a civil society, discourse and differing opinions are encouraged for the sake of progress.",
+    "Civil law sets regulations for disputes between individuals or organizations.",
+    "His civil behavior was appreciated in a formal setting.",
+    "They taught him the importance of civil duties like voting and paying taxes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T00:00:54.251Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T00:00:54.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d44ca47181bc58f3445f4"
+  },
+  "es": {
+    "word": "derrota",
+    "definition": "Vencer a alguien, especialmente en una competencia, juego o conflicto."
+  },
+  "pt": {
+    "word": "derrota",
+    "definition": "Superar alguém, especialmente em uma competição, jogo ou conflito."
+  },
+  "word": "defeat",
+  "ipa": "/dɪˈfiːt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d44ca47181bc58f3445f5"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d44ca47181bc58f3445f6"
+      }
+    },
+    {
+      "name": "Transitive Verb",
+      "sigle": "t.v.",
+      "description": "A verb that requires a direct object.",
+      "_id": {
+        "$oid": "655d44ca47181bc58f3445f7"
+      }
+    }
+  ],
+  "definition": "To win a victory over someone in a war, competition, game, etc.",
+  "examples": [
+    "She was defeated in the last election.",
+    "This team has never suffered defeat.",
+    "I admit defeat, you are a better player than me.",
+    "This strategy could defeat our purpose.",
+    "We must study these plans to find the best way to defeat them."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T00:01:14.353Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T00:01:14.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d44f247181bc58f3445f9"
+  },
+  "es": {
+    "word": "historia",
+    "definition": "Estudio y relato de los hechos y sucesos de tiempos pasados, especialmente de aquellos que afectan al curso de la civilización humana."
+  },
+  "pt": {
+    "word": "história",
+    "definition": "Estudo e narrativa dos fatos e eventos dos tempos passados, especialmente daqueles que afetam o curso da civilização humana."
+  },
+  "word": "history",
+  "ipa": "/ˈhɪst(ə)ri/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d44f247181bc58f3445fa"
+      }
+    }
+  ],
+  "definition": "The study of past events, particularly in human affairs.",
+  "examples": [
+    "He teaches history at the university.",
+    "History will be the judge of these decisions.",
+    "It's a historical movement without compare in the history of our country.",
+    "Studying history helps us understand and appreciate our origins and our past.",
+    "History tends to repeat itself, so we should learn from it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T00:01:54.502Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T00:01:54.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d450347181bc58f3445fc"
+  },
+  "es": {
+    "word": "también",
+    "definition": "Además; en adición."
+  },
+  "pt": {
+    "word": "também",
+    "definition": "Além disso; em adição."
+  },
+  "word": "also",
+  "ipa": "/ˈɔːl.soʊ/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d450347181bc58f3445fd"
+      }
+    }
+  ],
+  "definition": "In addition; as well.",
+  "examples": [
+    "I'd like a beer, and also a glass of water.",
+    "He's studying chemistry, and also biology.",
+    "She works a full-time job, but also goes to school in the evenings.",
+    "I'm a fan of classical literature, but also enjoy modern novels.",
+    "They want to hire someone who is skilled in programming, but also understands design."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T00:02:11.490Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T00:02:11.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d451b47181bc58f3445ff"
+  },
+  "es": {
+    "word": "en",
+    "definition": "Utilizado para indicar un estado, situación o modo."
+  },
+  "pt": {
+    "word": "em",
+    "definition": "Usado para indicar um estado, situação ou modo."
+  },
+  "word": "on",
+  "ipa": "/ɒn/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+      "_id": {
+        "$oid": "655d451b47181bc58f344600"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d451b47181bc58f344601"
+      }
+    },
+    {
+      "name": "Particle",
+      "sigle": "partic.",
+      "description": "A word that joins with a verb to create a phrasal verb, like 'up' in 'pick up'.",
+      "_id": {
+        "$oid": "655d451b47181bc58f344602"
+      }
+    },
+    {
+      "name": "Phrase",
+      "sigle": "phr.",
+      "description": "A small group of words standing together as a conceptual unit.",
+      "_id": {
+        "$oid": "655d451b47181bc58f344603"
+      }
+    },
+    {
+      "name": "Phrasal Verb",
+      "sigle": "phr.v.",
+      "description": "A verb combined with a preposition or an adverb (or both), where the combination creates a meaning different from the original verb, such as 'turn off' or 'run into'.",
+      "_id": {
+        "$oid": "655d451b47181bc58f344604"
+      }
+    }
+  ],
+  "definition": "Used to indicate a state, situation, or mode.",
+  "examples": [
+    "The light is on.",
+    "He left his glasses on the table.",
+    "Keep on trying.",
+    "She goes on holiday on Tuesday.",
+    "The meeting is on the first of next month."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T00:02:35.639Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T00:02:35.639Z"
   },
   "__v": 0
 }]

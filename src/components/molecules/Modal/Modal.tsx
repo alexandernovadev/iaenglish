@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 interface ModalProps {
   // Aquí puedes añadir props adicionales si es necesario
@@ -11,34 +11,34 @@ export const Modal = ({ isOpen = false, setIsOpen, children }: ModalProps) => {
   const modalRef = useRef<HTMLDivElement>(null);
   const [isAnimatedOpen, setIsAnimatedOpen] = useState(isOpen);
 
-  const closeModal = useCallback(() => {
+  const closeModal = () => {
     setIsAnimatedOpen(false);
 
-    modalRef.current?.classList.remove("animate-fadeInRight");
-    modalRef.current?.classList.add("animate-fadeOutRight");
+    // modalRef.current?.classList.remove("animate-fadeInRight");
+    // modalRef.current?.classList.add("animate-fadeOutRight");
     setTimeout(() => {
-      setIsOpen(false);
     }, 220);
-  }, [isOpen]);
+    setIsOpen(false);
+  };
 
   // Detectar clics fuera del modal useCallback
 
-  const handleClickOutside = useCallback(
-    (e: MouseEvent) => {
-      if (!modalRef.current?.contains(e.target as Node)) {
-        closeModal();
-      }
-    },
-    [modalRef]
-  );
+  const handleClickOutside = (e: MouseEvent) => {
+    if (!modalRef.current?.contains(e.target as Node)) {
+      closeModal();
+    }
+  };
 
   // Añadir y remover el listener
   useEffect(() => {
+    // modalRef.current?.classList.add("animate-fadeInRight");
     document.addEventListener("mousedown", handleClickOutside);
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
+      // modalRef.current?.classList.remove("animate-fadeInRight");
+      // modalRef.current?.classList.remove("animate-fadeOutRight");
     };
-  }, [handleClickOutside, closeModal]);
+  }, []);
 
   if (!isOpen) return null;
 
@@ -46,7 +46,7 @@ export const Modal = ({ isOpen = false, setIsOpen, children }: ModalProps) => {
     <div className="fixed inset-0 bg-gray-600 bg-opacity-50 overflow-y-auto h-full w-full flex justify-end">
       <div
         ref={modalRef}
-        className={`bg-gray-800 p-5 rounded-md shadow-lg w-[90%] h-screen animate-fadeInRight`}
+        className={`bg-gray-800 p-5 rounded-md shadow-lg w-[90%] h-screen `}
       >
         {children}
         {/* <h2 className="text-xl font-bold mb-4">Título del Modal</h2>

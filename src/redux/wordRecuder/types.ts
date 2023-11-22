@@ -16,7 +16,7 @@ export enum WordActionTypes {
 }
 export interface AddWordAction {
   type: WordActionTypes.ADD_WORD;
-  payload: Word;
+  payload: Word[];
 }
 
 export interface IsLoadingAction {
