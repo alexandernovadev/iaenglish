@@ -1,11 +1,11 @@
-import { StoryMock } from "@/data/storymock";
+import { STORIES_MOCK } from "@/data/storymock";
 import { Story } from "@/interfaces/story";
 import { dataJsonClean } from "@/utils/cleanDataandJsonParse";
 import axios from "axios";
 import { useEffect, useState } from "react";
 
 export const useGenertateStoryJsonGPT = () => {
-  const [story, setStory] = useState<Story>(StoryMock);
+  const [story, setStory] = useState<Story>(STORIES_MOCK[0]);
   const [isLoadingGetStory, setIsLoadingGetStory] = useState(false);
   const [isErrorGetStory, setIsErrorGetStory] = useState(false);
 
@@ -22,10 +22,10 @@ export const useGenertateStoryJsonGPT = () => {
 
     try {
       const response = await axios.post("/api/gpt", { prompt });
-      const newData  = dataJsonClean(response.data.name);
+      const newData = dataJsonClean(response.data.name);
 
       console.log(newData);
-      
+
       setStory((s) => ({
         ...s,
         title: newData.title,
