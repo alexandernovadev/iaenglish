@@ -22,6 +22,7 @@ export default function Home() {
   const [isOpenModal, setIsOpenModal] = useState(false);
   const { getStoryFromGPT } = useStory();
   const { getWordFromGPT, saveWordDB } = useWord();
+  const [wordsKnown, setWordsUnKnown] = useState([]);
 
   const dispatch = useDispatch();
 
@@ -54,6 +55,43 @@ export default function Home() {
   }, []);
 
   useEffect(() => {
+    const data = `${activeStory?.title} ${
+      activeStory?.subtitle
+    } ${activeStory?.paragraphs?.map((p) => p).join(" ")}`;
+
+    // console.log( activeStory?.paragraphs?.map((p) => p).join(" "));
+    // console.log("data", data);
+
+    // Contar palabras
+    const words = data.split(" ");
+    const setUnique = new Set(words);
+
+    console.log("total words", setUnique.size);
+
+    // Comparar con las palabras que ya conozco q estan en Dictonary , hacer una dos listas
+    const wordsKnown: string[] = [];
+    const wordsUnKnown: string[] = [];
+    setUnique.forEach((word) => {
+      const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
+      const wordExist = Dictonary.find(
+        (w) => w.word.toLocaleLowerCase() === wordLowerCase
+      );
+      if (wordExist) {
+        wordsKnown.push(wordLowerCase);
+      } else {
+        wordsUnKnown.push(wordLowerCase);
+      }
+    });
+    console.log("wordsKnown =>", wordsKnown);
+    // Set con wordsUnKnown y despues hacer un array
+    const setUniqueUnKnown = new Set(wordsUnKnown);
+    const wordsUnKnownArray = Array.from(setUniqueUnKnown);
+    console.log("wordsUnKnownArray =>", wordsUnKnownArray);
+
+    // setWordsUnKnown([...wordsUnKnown]);
+  }, [activeStory]);
+
+  useEffect(() => {
     if (isError) {
       notify();
     }
@@ -69,7 +107,7 @@ export default function Home() {
     window.speechSynthesis.speak(speech);
   };
   const RenderWord = memo(({ word, index }: any) => {
-    // console.log("renderWords =>", index);
+    console.log("renderWords =>", index);
 
     // Your existing logic for rendering a word
     const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
@@ -83,7 +121,7 @@ export default function Home() {
         className={`${
           wordExist ? "text-green-300" : "text-gray-400"
         } cursor-pointer hover:underline`}
-        onClick={() => {
+        onClick={() => {  
           dispatch({
             type: WordActionTypes.SELECTED_ACTIVED_WORD,
             payload: { word: wordClean, isKnown: !!wordExist },
@@ -92,6 +130,7 @@ export default function Home() {
             type: WordActionTypes.SET_ACTIVED_WORD,
             payload: wordExist,
           });
+          speakWordEN(wordClean)
         }}
       >
         {word}{" "}
@@ -99,24 +138,8 @@ export default function Home() {
     );
   });
 
-  const RenderContent = memo(({ text, index }: any) => {
-    const textArray = text.split(" ");
-    // const news = textArray.map((word: any, index: any) =>
-    //   word.toLocaleLowerCase()
-    // );
-    // const setUnique = new Set(news);
-    return (
-      <span key={`${index}-word`}>
-        {textArray.map((word: any, idx: any) => (
-          <RenderWord key={idx} word={word} index={idx} />
-        ))}
-      </span>
-    );
-  });
-
   return (
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
-  
       <div className="flex flex-col h-full overflow-auto">
         <div className="flex-grow overflow-auto p-4">
           <section className="flex justify-between">
@@ -142,7 +165,10 @@ export default function Home() {
           <div className="w-full">
             {activeStory?.paragraphs?.map((paragraph, index) => (
               <p key={index} className="mb-5 ">
-                <RenderContent text={paragraph} index={index} />
+                {paragraph.split(" ").map((word, index) => (
+                  <RenderWord key={index} word={word} index={index} />
+                ))}
+                {/* <RenderContent text={paragraph} index={index} /> */}
               </p>
             ))}
           </div>

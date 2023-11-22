@@ -52,7 +52,7 @@ export const promt__getWordToDictonaryJson = (inputWord: string) => {
   1 categorizar type_word, solo con una o las que creas necesarias
   2 ALWAYS TU RTA must begin with {    and end with } 
   3 SOLO DAR el JSON y NADA MAS no comentario, no sugurencias, NADA, SOLO EL JSON
-  4 Simpre tiene que ser ${NO_EXAMPLES} en el array
+  4 Simpre tiene que ser ${NO_EXAMPLES} en el array, usa emojis si es necesario
 
       ${JSON.stringify(typewords)}
   `;

@@ -3165,48 +3165,6 @@
   },
   {
     "_id": {
-      "$oid": "655be62d577a4f6cae50d3d5"
-    },
-    "es": {
-      "word": "A pesar de",
-      "definition": "Usado para indicar que algo ocurre incluso aunque suceda otra cosa que podría haberlo prevenido."
-    },
-    "pt": {
-      "word": "Apesar de",
-      "definition": "Usado para indicar que algo ocorre mesmo que algo mais pudesse tê-lo impedido."
-    },
-    "word": "despite",
-    "ipa": "/dɪˈspaɪt/",
-    "type_word": [
-      {
-        "name": "Preposition",
-        "sigle": "prep.",
-        "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
-        "_id": {
-          "$oid": "655be62d577a4f6cae50d3d6"
-        }
-      }
-    ],
-    "definition": "Used to indicate that something happens even though something else might have prevented it from happening.",
-    "examples": [
-      "Despite the rain, the picnic was a great success.",
-      "He remains a great player despite his age.",
-      "She went to the party despite feeling unwell.",
-      "Despite their differences, they are great friends.",
-      "He still loves her, despite everything."
-    ],
-    "times_seen": 1,
-    "status": "FAIL",
-    "createdAt": {
-      "$date": "2023-11-20T23:05:17.528Z"
-    },
-    "updatedAt": {
-      "$date": "2023-11-20T23:05:17.528Z"
-    },
-    "__v": 0
-  },
-  {
-    "_id": {
       "$oid": "655bf58a3af4ec8b8becf691"
     },
     "es": {
@@ -7305,48 +7263,6 @@
   },
   {
     "_id": {
-      "$oid": "655d440d47181bc58f3445d9"
-    },
-    "es": {
-      "word": "uno",
-      "definition": "Número entero siguiente al cero y anterior al dos."
-    },
-    "pt": {
-      "word": "um",
-      "definition": "Número inteiro seguinte ao zero e antes dos dois."
-    },
-    "word": "one",
-    "ipa": "/wʌn/",
-    "type_word": [
-      {
-        "name": "Numeral",
-        "sigle": "num.",
-        "description": "Words that denote numbers.",
-        "_id": {
-          "$oid": "655d440d47181bc58f3445da"
-        }
-      }
-    ],
-    "definition": "The number equivalent to the product of a unit and one; the unit of counting or measurement. Used to refer to a single person or thing of a specified kind.",
-    "examples": [
-      "There is only one job available.",
-      "I am one of the students in this class.",
-      "She is one of my favorite authors.",
-      "I need a ticket for one, please.",
-      "He is one of a kind."
-    ],
-    "times_seen": 1,
-    "status": "FAIL",
-    "createdAt": {
-      "$date": "2023-11-21T23:58:05.350Z"
-    },
-    "updatedAt": {
-      "$date": "2023-11-21T23:58:05.350Z"
-    },
-    "__v": 0
-  },
-  {
-    "_id": {
       "$oid": "655d441847181bc58f3445dc"
     },
     "es": {
@@ -8034,6 +7950,2421 @@
     },
     "updatedAt": {
       "$date": "2023-11-22T03:06:48.081Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d75de4243a7f900386b38"
+    },
+    "es": {
+      "word": "ellos",
+      "definition": "Es una palabra en inglés usada para referirse a un grupo de dos o más personas, animales o cosas."
+    },
+    "pt": {
+      "word": "eles",
+      "definition": "É uma palavra em inglês usada para se referir a um grupo de duas ou mais pessoas, animais ou coisas."
+    },
+    "word": "they",
+    "ipa": "/ðeɪ/",
+    "type_word": [
+      {
+        "name": "Pronoun",
+        "sigle": "pron.",
+        "description": "Words used in place of a noun.",
+        "_id": {
+          "$oid": "655d75de4243a7f900386b39"
+        }
+      }
+    ],
+    "definition": "They is used to refer to a group of two or more people, animals or things.",
+    "examples": [
+      "They are coming to the party tonight.",
+      "Can you ask them if they’ll be at the concert?",
+      "Is that car theirs?",
+      "They’re not as happy as they seem.",
+      "They have lived here for forty years."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:30:38.704Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:30:38.704Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d76404243a7f900386b3b"
+    },
+    "es": {
+      "word": "cada",
+      "definition": "usado para referirse a todos los miembros de un grupo de dos o más, considerados individualmente."
+    },
+    "pt": {
+      "word": "cada",
+      "definition": "usado para se referir a todos os membros de um grupo de dois ou mais, considerados individualmente."
+    },
+    "word": "each",
+    "ipa": "/iːtʃ/",
+    "type_word": [
+      {
+        "name": "Determiner",
+        "sigle": "det.",
+        "description": "Words that introduce nouns and provide context.",
+        "_id": {
+          "$oid": "655d76404243a7f900386b3c"
+        }
+      },
+      {
+        "name": "Pronoun",
+        "sigle": "pron.",
+        "description": "Words used in place of a noun.",
+        "_id": {
+          "$oid": "655d76404243a7f900386b3d"
+        }
+      }
+    ],
+    "definition": "used to refer to every one of two or more people or things, regarded and identified separately.",
+    "examples": [
+      "Each of the children received a gift.",
+      "She was carrying a bag in each hand.",
+      "They each have their own personality.",
+      "Each of the schools is very different.",
+      "Each time I see her, she looks more beautiful."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:32:16.116Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:32:16.116Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d77ea13f6a2c599e0a894"
+    },
+    "es": {
+      "word": "deber",
+      "definition": "Expresa obligación o necesidad"
+    },
+    "pt": {
+      "word": "dever",
+      "definition": "Expressa obrigação ou necessidade."
+    },
+    "word": "must",
+    "ipa": "/mʌst/",
+    "type_word": [
+      {
+        "name": "Auxiliary Verb",
+        "sigle": "aux.",
+        "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'.",
+        "_id": {
+          "$oid": "655d77ea13f6a2c599e0a895"
+        }
+      },
+      {
+        "name": "Modal Verb",
+        "sigle": "mod.v.",
+        "description": "A type of auxiliary verb that is used to indicate modality.",
+        "_id": {
+          "$oid": "655d77ea13f6a2c599e0a896"
+        }
+      }
+    ],
+    "definition": "To have to do something; to be required or compelled to do something.",
+    "examples": [
+      "You must arrive at 8 am.",
+      "We must finish the project by the end of the week.",
+      "She must wear a uniform at work.",
+      "You must not smoke on the premises.",
+      "You must be over 18 to enter."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:39:22.211Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:39:22.211Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7a4f13f6a2c599e0a898"
+    },
+    "es": {
+      "word": "reduciendo",
+      "definition": "Disminuir la cantidad, intensidad, fuerza, etc. de algo."
+    },
+    "pt": {
+      "word": "reduzindo",
+      "definition": "Reduzir a quantidade, a intensidade, a força, etc. de algo."
+    },
+    "word": "reducing",
+    "ipa": "/riːˈduːsɪŋ/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7a4f13f6a2c599e0a899"
+        }
+      },
+      {
+        "name": "Gerund",
+        "sigle": "ger.",
+        "description": "Verb forms ending in -ing that function as nouns.",
+        "_id": {
+          "$oid": "655d7a4f13f6a2c599e0a89a"
+        }
+      }
+    ],
+    "definition": "To make something smaller or less in amount, degree, or size.",
+    "examples": [
+      "She is reducing her daily sugar intake.",
+      "I'm trying to reduce the amount of caffeine I drink.",
+      "Companies are reducing their workforce due to the economy.",
+      "We need to reduce our carbon emissions to save the planet.",
+      "He is reducing the time spent on social media."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:49:35.332Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:49:35.332Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7a6213f6a2c599e0a89c"
+    },
+    "es": {
+      "word": "Viene",
+      "definition": "Tercera persona del singular del presente de indicativo del verbo venir. Significa llegar a un lugar desde otro sitio."
+    },
+    "pt": {
+      "word": "Vem",
+      "definition": "Terceira pessoa do singular do presente do indicativo do verbo vir. Significa chegar a um lugar de outro lugar."
+    },
+    "word": "comes",
+    "ipa": "/kʌmz/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7a6213f6a2c599e0a89d"
+        }
+      }
+    ],
+    "definition": "Third person singular present of come. It means to move or travel towards or into a place thought of as near or familiar to the speaker.",
+    "examples": [
+      "He comes to visit every summer.",
+      "The total comes to $27.50.",
+      "A good time comes to those who wait.",
+      "Success often comes to those who dare to act.",
+      "Christmas comes but once a year."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:49:54.170Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:49:54.170Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7a7913f6a2c599e0a89f"
+    },
+    "es": {
+      "word": "sirve",
+      "definition": "Trabajar para, cumplir su deber para, proporcionar alimentos o bebidas, ser suficiente para."
+    },
+    "pt": {
+      "word": "serve",
+      "definition": "Trabalhar para, cumprir o seu dever para, fornecer alimentos ou bebidas, ser suficiente para."
+    },
+    "word": "serves",
+    "ipa": "/sɜːrvz/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7a7913f6a2c599e0a8a0"
+        }
+      }
+    ],
+    "definition": "To work for, to do your duty to, to provide food or drinks, to be enough for.",
+    "examples": [
+      "She serves in the army.",
+      "This restaurant serves the best food in town.",
+      "One pizza serves two people.",
+      "He serves his community by volunteering at the local food bank."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:50:17.321Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:50:17.321Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7ad613f6a2c599e0a8a2"
+    },
+    "es": {
+      "word": "Ser, Estar",
+      "definition": "Usado para indicar la identidad, las cualidades, el número, etc. de alguien o algo."
+    },
+    "pt": {
+      "word": "Ser, Estar",
+      "definition": "Usado para indicar a identidade, as qualidades, o número, etc. de alguém ou algo."
+    },
+    "word": "be",
+    "ipa": "/biː/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7ad613f6a2c599e0a8a3"
+        }
+      },
+      {
+        "name": "Auxiliary Verb",
+        "sigle": "aux.",
+        "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'.",
+        "_id": {
+          "$oid": "655d7ad613f6a2c599e0a8a4"
+        }
+      },
+      {
+        "name": "Infinitive",
+        "sigle": "inf.",
+        "description": "The base form of a verb, usually preceded by 'to'.",
+        "_id": {
+          "$oid": "655d7ad613f6a2c599e0a8a5"
+        }
+      },
+      {
+        "name": "Subjunctive Mood",
+        "sigle": "subj.",
+        "description": "Used to express wishes, hypotheses, or conditions contrary to fact.",
+        "_id": {
+          "$oid": "655d7ad613f6a2c599e0a8a6"
+        }
+      },
+      {
+        "name": "Passive Voice",
+        "sigle": "pass.",
+        "description": "A form where the subject of the sentence is acted upon by the verb.",
+        "_id": {
+          "$oid": "655d7ad613f6a2c599e0a8a7"
+        }
+      }
+    ],
+    "definition": "Used to indicate the identity, qualities, quantities, etc., of someone or something.",
+    "examples": [
+      "Be kind to others.",
+      "He wants to be a doctor.",
+      "She will be here soon.",
+      "I would be surprised if they came.",
+      "This book can be found in the library."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:51:50.966Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:51:50.966Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7be813f6a2c599e0a8a9"
+    },
+    "es": {
+      "word": "brilla",
+      "definition": "Emite luz o brillo, como un sol brillante o una estrella brillante."
+    },
+    "pt": {
+      "word": "brilha",
+      "definition": "Emitir luz ou brilho, como um sol brilhante ou uma estrela brilhante."
+    },
+    "word": "shines",
+    "ipa": "/ʃaɪnz/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7be813f6a2c599e0a8aa"
+        }
+      }
+    ],
+    "definition": "Emits light or brightness, like a bright sun or a shining star.",
+    "examples": [
+      "The sun shines bright on a clear day.",
+      "Her talent shines in every performance.",
+      "She shines in her new role at the organization.",
+      "His new car shines in the sunlight.",
+      "His honest personality shines through his actions."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:56:24.786Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:56:24.786Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7c6713f6a2c599e0a8ac"
+    },
+    "es": {
+      "word": "aplicación",
+      "definition": "Es el uso práctico de un conjunto de conocimientos, aptitudes, competencias."
+    },
+    "pt": {
+      "word": "aplicação",
+      "definition": "É o uso prático de um conjunto de conhecimentos, habilidades, competências."
+    },
+    "word": "application",
+    "ipa": "/ˌæplɪˈkeɪʃn/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d7c6713f6a2c599e0a8ad"
+        }
+      }
+    ],
+    "definition": "Is the practical use of a set of knowledge, skills, competences.",
+    "examples": [
+      "Application of scientific principles.",
+      "Application of knowledge in solving problems.",
+      "Application requires the use of tools and techniques.",
+      "Application in a real-world context.",
+      "Application of skills by a team."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:58:31.485Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:58:31.485Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7c9e13f6a2c599e0a8af"
+    },
+    "es": {
+      "word": "ellos",
+      "definition": "Usado para referirse a un grupo de personas, animales o cosas previamente mencionados o fácilmente identificables."
+    },
+    "pt": {
+      "word": "eles",
+      "definition": "Usado para se referir a um grupo de pessoas, animais ou coisas anteriormente mencionados ou facilmente identificáveis."
+    },
+    "word": "them",
+    "ipa": "/ðɛm/",
+    "type_word": [
+      {
+        "name": "Pronoun",
+        "sigle": "pron.",
+        "description": "Words used in place of a noun.",
+        "_id": {
+          "$oid": "655d7c9e13f6a2c599e0a8b0"
+        }
+      }
+    ],
+    "definition": "Used to refer to a group of people, animals, or things previously mentioned or easily identified.",
+    "examples": [
+      "I asked them to join us.",
+      "The books are for them.",
+      "Tell them I'll be late.",
+      "Give them a call.",
+      "Offer them help if they need it."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:59:26.662Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:59:26.662Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7cb213f6a2c599e0a8b2"
+    },
+    "es": {
+      "word": "o",
+      "definition": "Conjunción que se emplea para expresar alternativa entre dos o más elementos, cosas o ideas."
+    },
+    "pt": {
+      "word": "ou",
+      "definition": "Conjunção usada para expressar uma alternativa entre duas ou mais coisas, pessoas ou ideias."
+    },
+    "word": "or",
+    "ipa": "/ɔːr/",
+    "type_word": [
+      {
+        "name": "Conjunction",
+        "sigle": "conj.",
+        "description": "Words that connect clauses, sentences, words, or phrases.",
+        "_id": {
+          "$oid": "655d7cb213f6a2c599e0a8b3"
+        }
+      }
+    ],
+    "definition": "A conjunction used to connect words of the same type in a sentence, and is used to express an alternative or a choice between two or more things.",
+    "examples": [
+      "You can go by train or by bus.",
+      "Do you prefer coffee or tea?",
+      "You can either stay or go.",
+      "I didn't know whether to laugh or cry.",
+      "She is a teacher or an educator."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T03:59:46.486Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T03:59:46.486Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7ccc13f6a2c599e0a8b5"
+    },
+    "es": {
+      "word": "incluso",
+      "definition": "se utiliza para enfatizar un contraste o una idea sorprendente que se está presentando."
+    },
+    "pt": {
+      "word": "mesmo",
+      "definition": "usado para salientar uma contradição ou uma ideia surpreendente que está sendo apresentada."
+    },
+    "word": "even",
+    "ipa": "/ˈiːvən/",
+    "type_word": [
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+        "_id": {
+          "$oid": "655d7ccc13f6a2c599e0a8b6"
+        }
+      },
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d7ccc13f6a2c599e0a8b7"
+        }
+      }
+    ],
+    "definition": "used to emphasize a contrast or an unexpected idea that is being presented.",
+    "examples": [
+      "He never even opened the letter.",
+      "I like it. I even love it.",
+      "She can't even cook.",
+      "Even though he's older, he's still very active.",
+      "Even if it rains, we'll still go."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:00:12.160Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:00:12.160Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7ce613f6a2c599e0a8b9"
+    },
+    "es": {
+      "word": "Antes",
+      "definition": "En un momento anterior o previo en el tiempo; antes."
+    },
+    "pt": {
+      "word": "Antes",
+      "definition": "Em um momento anterior ou prévio no tempo; antes."
+    },
+    "word": "before",
+    "ipa": "/bɪˈfɔːr/",
+    "type_word": [
+      {
+        "name": "Preposition",
+        "sigle": "prep.",
+        "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+        "_id": {
+          "$oid": "655d7ce613f6a2c599e0a8ba"
+        }
+      },
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+        "_id": {
+          "$oid": "655d7ce613f6a2c599e0a8bb"
+        }
+      },
+      {
+        "name": "Conjunction",
+        "sigle": "conj.",
+        "description": "Words that connect clauses, sentences, words, or phrases.",
+        "_id": {
+          "$oid": "655d7ce613f6a2c599e0a8bc"
+        }
+      }
+    ],
+    "definition": "At or during a time earlier than (the thing mentioned).",
+    "examples": [
+      "Before we proceed, let's verify your identity first.",
+      "I met him once before, but I don't remember when.",
+      "She has a meeting scheduled for the morning, she needs to prepare the presentation before then.",
+      "The event had already started before we arrived.",
+      "Let's clean up before mom and dad get home."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:00:38.764Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:00:38.764Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7cf713f6a2c599e0a8be"
+    },
+    "es": {
+      "word": "nuestro",
+      "definition": "perteneciente o relativo a nosotros"
+    },
+    "pt": {
+      "word": "nosso",
+      "definition": "pertencente ou relativo a nós"
+    },
+    "word": "our",
+    "ipa": "/aʊər/",
+    "type_word": [
+      {
+        "name": "Pronoun",
+        "sigle": "pron.",
+        "description": "Words used in place of a noun.",
+        "_id": {
+          "$oid": "655d7cf713f6a2c599e0a8bf"
+        }
+      }
+    ],
+    "definition": "belonging to or associated with the speaker and one or more other people previously mentioned or easily identified",
+    "examples": [
+      "Our father was very strict with us.",
+      "Our house is over there.",
+      "We must defend our rights.",
+      "Our goal is to win the championship.",
+      "Our intentions were misunderstood."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:00:55.368Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:00:55.368Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7d0c13f6a2c599e0a8c1"
+    },
+    "es": {
+      "word": "ambos",
+      "definition": "Los dos, usados ​​para referirse a dos personas o cosas, consideradas y mencionadas juntas."
+    },
+    "pt": {
+      "word": "ambos",
+      "definition": "Os dois, usados para referir-se a duas pessoas ou coisas, consideradas e mencionadas juntas."
+    },
+    "word": "both",
+    "ipa": "/boʊθ/",
+    "type_word": [
+      {
+        "name": "Determiner",
+        "sigle": "det.",
+        "description": "Words that introduce nouns and provide context.",
+        "_id": {
+          "$oid": "655d7d0c13f6a2c599e0a8c2"
+        }
+      }
+    ],
+    "definition": "Used to refer to two people or things, regarded and identified together.",
+    "examples": [
+      "Both these options would be acceptable.",
+      "They have two sons, both of whom are doctors.",
+      "Both of her parents died last year.",
+      "It's a difficult situation for both parties involved.",
+      "He's both intelligent and good-looking."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:01:16.325Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:01:16.325Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7d2013f6a2c599e0a8c4"
+    },
+    "es": {
+      "word": "así",
+      "definition": "De tal manera o en tal grado."
+    },
+    "pt": {
+      "word": "então",
+      "definition": "Dessa maneira ou nesse grau."
+    },
+    "word": "so",
+    "ipa": "/soʊ/",
+    "type_word": [
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+        "_id": {
+          "$oid": "655d7d2013f6a2c599e0a8c5"
+        }
+      },
+      {
+        "name": "Conjunction",
+        "sigle": "conj.",
+        "description": "Words that connect clauses, sentences, words, or phrases.",
+        "_id": {
+          "$oid": "655d7d2013f6a2c599e0a8c6"
+        }
+      }
+    ],
+    "definition": "In such a manner or to such an extent.",
+    "examples": [
+      "The examination was not so difficult as I expected.",
+      "I am so tired today.",
+      "He is so kind that everyone likes him.",
+      "It was so hot outside that we decided to stay indoors.",
+      "She is so excited to start her new job."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:01:36.958Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:01:36.958Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7d4513f6a2c599e0a8c8"
+    },
+    "es": {
+      "word": "usado",
+      "definition": "Algo que ha sido ya utilizado, que no es nuevo."
+    },
+    "pt": {
+      "word": "usado",
+      "definition": "Algo que já foi utilizado, que não é novo."
+    },
+    "word": "used",
+    "ipa": "/juːzd/",
+    "type_word": [
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d7d4513f6a2c599e0a8c9"
+        }
+      },
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7d4513f6a2c599e0a8ca"
+        }
+      },
+      {
+        "name": "Auxiliary Verb",
+        "sigle": "aux.",
+        "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'.",
+        "_id": {
+          "$oid": "655d7d4513f6a2c599e0a8cb"
+        }
+      },
+      {
+        "name": "Particle",
+        "sigle": "partic.",
+        "description": "A word that joins with a verb to create a phrasal verb, like 'up' in 'pick up'.",
+        "_id": {
+          "$oid": "655d7d4513f6a2c599e0a8cc"
+        }
+      },
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d7d4513f6a2c599e0a8cd"
+        }
+      }
+    ],
+    "definition": "To have employed in the past or to have been in the habit of employing; accustomed or habituated to.",
+    "examples": [
+      "The antique shop had lots of used furniture for sale.",
+      "I used to work full time but now I am retired.",
+      "This path is used frequently by joggers.",
+      "She's used to waking up early, she's been doing it for years.",
+      "I used my savings to pay for the trip."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:02:13.189Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:02:13.189Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7d5a13f6a2c599e0a8cf"
+    },
+    "es": {
+      "word": "un",
+      "definition": "Artículo indefinido que se utiliza ante sustantivos que comienzan por sonido vocálico y ante los que empiezan por sonido consonántico en aquellas zonas donde se produce aspiración de la /h/."
+    },
+    "pt": {
+      "word": "um",
+      "definition": "Artigo indefinido usado antes de substantivos masculinos singulares e de nomes de mulheres que começam com uma vogal."
+    },
+    "word": "an",
+    "ipa": "/æn/",
+    "type_word": [
+      {
+        "name": "Article",
+        "sigle": "art.",
+        "description": "Words that define a noun as specific or unspecific.",
+        "_id": {
+          "$oid": "655d7d5a13f6a2c599e0a8d0"
+        }
+      }
+    ],
+    "definition": "A word used in English before a singular noun that begins with a vowel sound.",
+    "examples": [
+      "An apple a day keeps the doctor away.",
+      "She is an interesting person.",
+      "I need an umbrella because it's raining.",
+      "He is an engineer, she is a doctor.",
+      "We are expecting an important call."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:02:34.168Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:02:34.168Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7d7a13f6a2c599e0a8d2"
+    },
+    "es": {
+      "word": "Por lo tanto",
+      "definition": "Por ese motivo o razón; por consiguiente."
+    },
+    "pt": {
+      "word": "Portanto",
+      "definition": "Por essa razão; consequentemente."
+    },
+    "word": "hence",
+    "ipa": "/hɛns/",
+    "type_word": [
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+        "_id": {
+          "$oid": "655d7d7a13f6a2c599e0a8d3"
+        }
+      }
+    ],
+    "definition": "As a consequence; for this reason.",
+    "examples": [
+      "The water was polluted, hence all the fish have died.",
+      "She was away on business, hence her silence.",
+      "He was tired, hence his poor performance.",
+      "She did well on the practice test, hence her confidence going into the real exam.",
+      "I have a gluten allergy, hence I avoid eating bread."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:03:06.226Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:03:06.226Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7d9e13f6a2c599e0a8d5"
+    },
+    "es": {
+      "word": "por lo tanto",
+      "definition": "Como resultado de un hecho o acción."
+    },
+    "pt": {
+      "word": "portanto",
+      "definition": "Como resultado de um fato ou ação."
+    },
+    "word": "thereby",
+    "ipa": "/ˈðerˌbī/",
+    "type_word": [
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Palabras que modifican verbos, adjetivos u otros adverbios.",
+        "_id": {
+          "$oid": "655d7d9e13f6a2c599e0a8d6"
+        }
+      }
+    ],
+    "definition": "As a result of a particular action or set of facts that has been mentioned.",
+    "examples": [
+      "The company lost a great deal of money. Thereby, they had to stop marketing new products.",
+      "You will save money on transport costs and thereby enable us to offer a much lower price.",
+      "They revised the number of estimated casualties upwards, thereby scaring the public even more.",
+      "He is a well known writer; thereby, his new book is eagerly awaited by his fans.",
+      "Do your best and thereby ensure you won't have any regrets."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:03:42.875Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:03:42.875Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7dda13f6a2c599e0a8d8"
+    },
+    "es": {
+      "word": "desde",
+      "definition": "A partir de un punto en el tiempo hacia adelante."
+    },
+    "pt": {
+      "word": "desde",
+      "definition": "A partir de um ponto no tempo avançando."
+    },
+    "word": "since",
+    "ipa": "/sɪns/",
+    "type_word": [
+      {
+        "name": "Preposition",
+        "sigle": "prep.",
+        "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence.",
+        "_id": {
+          "$oid": "655d7dda13f6a2c599e0a8d9"
+        }
+      },
+      {
+        "name": "Conjunction",
+        "sigle": "conj.",
+        "description": "Words that connect clauses, sentences, words, or phrases.",
+        "_id": {
+          "$oid": "655d7dda13f6a2c599e0a8da"
+        }
+      },
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+        "_id": {
+          "$oid": "655d7dda13f6a2c599e0a8db"
+        }
+      }
+    ],
+    "definition": "From a particular time in the past until a later time, or until now.",
+    "examples": [
+      "I've known her since high school.",
+      "It's a year since we last saw each other.",
+      "She's been working there since she left school.",
+      "He had been feeling tired ever since his illness.",
+      "They haven't seen each other since they were at school."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:04:42.961Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:04:42.961Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7dee13f6a2c599e0a8dd"
+    },
+    "es": {
+      "word": "Proceso",
+      "definition": "Serie de acciones que se llevan a cabo para alcanzar un resultado."
+    },
+    "pt": {
+      "word": "Processo",
+      "definition": "Série de ações que são realizadas para alcançar um resultado."
+    },
+    "word": "process",
+    "ipa": "/ˈprɑːses/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Palabras que nombran a personas, animales, lugares, cosas, ideas o fenómenos.",
+        "_id": {
+          "$oid": "655d7dee13f6a2c599e0a8de"
+        }
+      },
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Palabras que expresan acciones, estados o procesos.",
+        "_id": {
+          "$oid": "655d7dee13f6a2c599e0a8df"
+        }
+      }
+    ],
+    "definition": "A series of actions or steps taken in order to achieve a particular end.",
+    "examples": [
+      "The healing process will take time.",
+      "Data is processed by the computer.",
+      "She's in the process of changing jobs.",
+      "He's undergoing treatment as part of his recovery process.",
+      "In the process of evolution, species which are unable to adapt to change may become extinct."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:05:02.867Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:05:02.867Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7e0c13f6a2c599e0a8e1"
+    },
+    "es": {
+      "word": "dos",
+      "definition": "Número o cantidad que equivale a dos unidades."
+    },
+    "pt": {
+      "word": "dois",
+      "definition": "Número ou quantidade equivalente a duas unidades."
+    },
+    "word": "two",
+    "ipa": "/tu:/",
+    "type_word": [
+      {
+        "name": "Numeral",
+        "sigle": "num.",
+        "description": "Words that denote numbers.",
+        "_id": {
+          "$oid": "655d7e0c13f6a2c599e0a8e2"
+        }
+      }
+    ],
+    "definition": "Equivalent to the sum of one and one; one less than three; 2.",
+    "examples": [
+      "Two of the students failed the test.",
+      "I have two apples in my bag.",
+      "Two people can complete this task faster.",
+      "We waited two hours for the bus to arrive.",
+      "I will call you in two days."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:05:32.688Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:05:32.688Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7e2113f6a2c599e0a8e4"
+    },
+    "es": {
+      "word": "Cuidado",
+      "definition": "La provisión de lo que es necesario para la salud, el bienestar, el mantenimiento y la protección de alguien o algo."
+    },
+    "pt": {
+      "word": "Cuidado",
+      "definition": "A provisão do que é necessário para a saúde, o bem-estar, a manutenção e a proteção de alguém ou algo."
+    },
+    "word": "care",
+    "ipa": "/kɛr/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d7e2113f6a2c599e0a8e5"
+        }
+      },
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7e2113f6a2c599e0a8e6"
+        }
+      }
+    ],
+    "definition": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.",
+    "examples": [
+      "Health care is a fundamental human right.",
+      "She has taken care of the family's needs from a young age.",
+      "We must take care of our environment for future generations.",
+      "Care must be taken to ensure all data is accurate.",
+      "Care should be taken when lifting heavy objects."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:05:53.711Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:05:53.711Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7e3613f6a2c599e0a8e8"
+    },
+    "es": {
+      "word": "web",
+      "definition": "Un sistema de documentos y otros recursos, enlazados por hipervínculos y URL."
+    },
+    "pt": {
+      "word": "web",
+      "definition": "Um sistema de documentos e outros recursos, interligados por hiperlinks e URLs."
+    },
+    "word": "web",
+    "ipa": "/wɛb/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d7e3613f6a2c599e0a8e9"
+        }
+      }
+    ],
+    "definition": "A system of documents and other resources, linked by hyperlinks and URLs.",
+    "examples": [
+      "Most internet users are familiar with using the web to access information.",
+      "The company created a new web for internal communication.",
+      "She has been designing for web for five years.",
+      "Many businesses rely on the web for sales and customer relations.",
+      "He spends a lot of his time browsing the web."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:06:14.622Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:06:14.622Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7e4713f6a2c599e0a8eb"
+    },
+    "es": {
+      "word": "mundo",
+      "definition": "El planeta Tierra y todas las personas y cosas que existen en él."
+    },
+    "pt": {
+      "word": "mundo",
+      "definition": "O planeta Terra e todas as pessoas e coisas que existem nele."
+    },
+    "word": "world",
+    "ipa": "/wɜːrld/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d7e4713f6a2c599e0a8ec"
+        }
+      }
+    ],
+    "definition": "The planet Earth and all the people and things on it.",
+    "examples": [
+      "He's traveled all over the world.",
+      "The world was shocked by the news.",
+      "There are many problems in the world today.",
+      "Disney World is a popular tourist attraction.",
+      "She decided to quit her job and travel the world."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:06:31.191Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:06:31.191Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7f1313f6a2c599e0a8ee"
+    },
+    "es": {
+      "word": "todavía",
+      "definition": "Hasta ahora; hasta el momento presente."
+    },
+    "pt": {
+      "word": "ainda",
+      "definition": "Até agora; até o momento presente."
+    },
+    "word": "yet",
+    "ipa": "/jɛt/",
+    "type_word": [
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases completas.",
+        "_id": {
+          "$oid": "655d7f1313f6a2c599e0a8ef"
+        }
+      },
+      {
+        "name": "Conjunction",
+        "sigle": "conj.",
+        "description": "Palabras que conectan cláusulas, frases, palabras o frases.",
+        "_id": {
+          "$oid": "655d7f1313f6a2c599e0a8f0"
+        }
+      }
+    ],
+    "definition": "Up until the present or a specified or implied time; by now or then.",
+    "examples": [
+      "I haven't told anyone else yet.",
+      "Have you had your lunch yet?",
+      "Yet, despite the turmoil, she felt a strange peace.",
+      "We have yet to discuss the matter.",
+      "The best is yet to come."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:09:55.030Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:09:55.030Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7f4413f6a2c599e0a8f2"
+    },
+    "es": {
+      "word": "sobrepasar",
+      "definition": "Exceder, ser más de lo esperado o necesario."
+    },
+    "pt": {
+      "word": "superar",
+      "definition": "Exceder, estar além do esperado ou necessário."
+    },
+    "word": "surpass",
+    "ipa": "/sərˈpas/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d7f4413f6a2c599e0a8f3"
+        }
+      }
+    ],
+    "definition": "To exceed; be greater than. To be beyond the limit, powers, or capacity of; to outdo.",
+    "examples": [
+      "Her performance surpassed all our expectations.",
+      "He aims to surpass his previous sales records.",
+      "The results far surpass those of previous years.",
+      "Please inform us immediately if costs are likely to surpass our budget.",
+      "This new product surpasses all its competitors in terms of efficiency."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:10:44.830Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:10:44.830Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d7f6613f6a2c599e0a8f5"
+    },
+    "es": {
+      "word": "Su",
+      "definition": "Usado para indicar posesión o asociación con algo o alguien. Plural de 'Su'."
+    },
+    "pt": {
+      "word": "Seu",
+      "definition": "Usado para indicar posse ou associação com algo ou alguém. Plural de 'Seu'."
+    },
+    "word": "their",
+    "ipa": "/ðeər/",
+    "type_word": [
+      {
+        "name": "Pronoun",
+        "sigle": "pron.",
+        "description": "Words used in place of a noun.",
+        "_id": {
+          "$oid": "655d7f6613f6a2c599e0a8f6"
+        }
+      }
+    ],
+    "definition": "Used to indicate possession or association with something or someone. Plural of 'His' or 'Her'.",
+    "examples": [
+      "Their dog is very friendly.",
+      "This is their house.",
+      "Their meeting is scheduled for tomorrow.",
+      "Their ideas were praised by the boss.",
+      "All of their belongings were in the car."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T04:11:18.223Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:11:18.223Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d940018566ee5502f9070"
+    },
+    "es": {
+      "word": "dominio",
+      "definition": "Conocimiento o habilidad completa en un tema o habilidad."
+    },
+    "pt": {
+      "word": "mestria",
+      "definition": "Conhecimento ou habilidade completa em um assunto ou habilidade."
+    },
+    "word": "mastery",
+    "ipa": "/ˈmæstəri/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d940018566ee5502f9071"
+        }
+      }
+    ],
+    "definition": "Complete knowledge or skill in a subject or skill.",
+    "examples": [
+      "She demonstrated her mastery of the language with a fluent and vocabulary-rich conversation.",
+      "His mastery in chess enabled him to win the tournament.",
+      "Despite his short time learning the instrument, he already showed mastery.",
+      "The chef's mastery in cooking is evident in the exquisite dishes he prepares.",
+      "Mastery of a subject often requires years of study and practice."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T05:39:12.135Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T05:39:12.135Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d976a1f41c7664d08223d"
+    },
+    "es": {
+      "word": "Trofeo",
+      "definition": "Objeto decorativo que se otorga como premio en competiciones."
+    },
+    "pt": {
+      "word": "Troféu",
+      "definition": "Objeto decorativo concedido como prêmio em competições."
+    },
+    "word": "trophy",
+    "ipa": "/ˈtrəʊfi/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d976a1f41c7664d08223e"
+        }
+      }
+    ],
+    "definition": "A decorative object awarded as a prize in a competition or contest.",
+    "examples": [
+      "The team was so proud to raise the trophy after their victory.",
+      "The trophy is displayed prominently in her living room.",
+      "He received a trophy for his outstanding performance.",
+      "The trophy will be awarded to the best team in the tournament.",
+      "She dreamed of winning the trophy one day."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T05:53:46.183Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T05:53:46.183Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d97771f41c7664d082240"
+    },
+    "es": {
+      "word": "Desarrollador",
+      "definition": "Una persona o software que crea y prueba componentes u aplicaciones de software."
+    },
+    "pt": {
+      "word": "Desenvolvedor",
+      "definition": "Uma pessoa ou software que cria e testa componentes ou aplicativos de software."
+    },
+    "word": "dev",
+    "ipa": "/dɛv/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d97771f41c7664d082241"
+        }
+      }
+    ],
+    "definition": "A person or software that creates and test software components or applications.",
+    "examples": [
+      "The dev worked all night to solve the issue.",
+      "Dev environment is critical for software development.",
+      "Most tech companies have teams of devs to maintain their software.",
+      "A good dev knows a wide range of programming languages.",
+      "The dev team meets every Monday to discuss the project status."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T05:53:59.516Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T05:53:59.516Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d97841f41c7664d082243"
+    },
+    "es": {
+      "word": "viaje",
+      "definition": "Un acto de viajar de un lugar a otro"
+    },
+    "pt": {
+      "word": "viagem",
+      "definition": "Ato de viajar de um lugar para outro"
+    },
+    "word": "journey",
+    "ipa": "/ˈjərni/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d97841f41c7664d082244"
+        }
+      }
+    ],
+    "definition": "An act of traveling from one place to another.",
+    "examples": [
+      "The journey took three hours.",
+      "We had a long journey ahead of us.",
+      "The journey from New York to Boston took six hours.",
+      "They survived their long arduous journey across the mountains",
+      "She went on a journey through the deep forests."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T05:54:12.609Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T05:54:12.609Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a33b6f863a2e68d3dbc"
+    },
+    "es": {
+      "word": "programación",
+      "definition": "La actividad de escribir programas de computadora."
+    },
+    "pt": {
+      "word": "programação",
+      "definition": "A atividade de escrever programas de computador."
+    },
+    "word": "programming",
+    "ipa": "/ˌproʊˈɡræmɪŋ/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9a33b6f863a2e68d3dbd"
+        }
+      }
+    ],
+    "definition": "The activity of writing computer programs.",
+    "examples": [
+      "I've been doing a lot of programming for my job lately.",
+      "She's studying computer science and wants to get into programming.",
+      "I find programming to be a fun and rewarding activity.",
+      "His programming skills landed him a job at a top tech company.",
+      "There are different programming languages that can be used for different purposes."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:05:39.874Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:05:39.874Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a42b6f863a2e68d3dbf"
+    },
+    "es": {
+      "word": "Progreso",
+      "definition": "Desarrollo hacia una mejora o a una etapa más avanzada."
+    },
+    "pt": {
+      "word": "Progresso",
+      "definition": "Desenvolvimento para uma melhoria ou um estágio mais avançado."
+    },
+    "word": "progress",
+    "ipa": "/ˈprɒgrɛs/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9a42b6f863a2e68d3dc0"
+        }
+      },
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d9a42b6f863a2e68d3dc1"
+        }
+      }
+    ],
+    "definition": "Development towards an improved or more advanced condition.",
+    "examples": [
+      "Our progress has been slow but steady in these past few years.",
+      "The construction of the new building is in progress.",
+      "The student made significant progress in his studies.",
+      "The progress of technology has led to many changes in society.",
+      "The progress report shows that the project is on schedule."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:05:54.049Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:05:54.049Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a4eb6f863a2e68d3dc3"
+    },
+    "es": {
+      "word": "diverso",
+      "definition": "Que es variado y difiere en aspectos como la forma, la naturaleza, el tamaño, la calidad, etc."
+    },
+    "pt": {
+      "word": "diverso",
+      "definition": "Que é variado e difere em aspectos como forma, natureza, tamanho, qualidade, etc."
+    },
+    "word": "diverse",
+    "ipa": "/dɪˈvɜːrs/",
+    "type_word": [
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9a4eb6f863a2e68d3dc4"
+        }
+      }
+    ],
+    "definition": "Showing a great deal of variety; very different.",
+    "examples": [
+      "We live in a culturally diverse society.",
+      "The store sells a diverse range of products.",
+      "The country is known for its diverse climate.",
+      "The team members have diverse professional backgrounds.",
+      "They offer a diverse selection of courses."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:06:06.975Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:06:06.975Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a5db6f863a2e68d3dc6"
+    },
+    "es": {
+      "word": "tierra",
+      "definition": "Parte sólida de la superficie terrestre que no está cubierta de agua"
+    },
+    "pt": {
+      "word": "terra",
+      "definition": "Parte sólida da superfície terrestre que não está coberta por água"
+    },
+    "word": "land",
+    "ipa": "/lænd/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9a5db6f863a2e68d3dc7"
+        }
+      },
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d9a5db6f863a2e68d3dc8"
+        }
+      }
+    ],
+    "definition": "The part of the Earth's surface that is not covered by water.",
+    "examples": [
+      "The plane will land in twenty minutes.",
+      "My family has lived on this land for generations.",
+      "The rover landed safely on Mars.",
+      "The bird landed on the tree branch.",
+      "They hope to land a human on Mars by 2030."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:06:21.343Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:06:21.343Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a68b6f863a2e68d3dca"
+    },
+    "es": {
+      "word": "Latín",
+      "definition": "Antiguo idioma hablado originalmente en el Latium y la Antigua Roma."
+    },
+    "pt": {
+      "word": "Latim",
+      "definition": "Antiga língua falada originalmente no Latium e na Antiga Roma."
+    },
+    "word": "latin",
+    "ipa": "/ˈleɪtɪn/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9a68b6f863a2e68d3dcb"
+        }
+      }
+    ],
+    "definition": "The ancient language originally spoken in Latium and Ancient Rome.",
+    "examples": [
+      "He is studying Latin at university.",
+      "Latin is considered a dead language.",
+      "Many English words originate from Latin.",
+      "Latin is still used in some religious and scientific contexts.",
+      "Knowing Latin can help with understanding other Romance languages."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:06:32.310Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:06:32.310Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a78b6f863a2e68d3dcd"
+    },
+    "es": {
+      "word": "américa",
+      "definition": "Un continente que incluye América del Norte y América del Sur, separada de Asia por el Estrecho de Bering y de Europa por el Océano Atlántico."
+    },
+    "pt": {
+      "word": "américa",
+      "definition": "Um continente que inclui a América do Norte e a América do Sul, separados da Ásia pelo Estreito de Bering e da Europa pelo Oceano Atlântico."
+    },
+    "word": "america",
+    "ipa": "/əˈmɛɹɪkə/",
+    "type_word": [
+      {
+        "name": "Proper Noun",
+        "sigle": "pn.",
+        "description": "Specific names of people, places, organizations, etc., that are capitalized.",
+        "_id": {
+          "$oid": "655d9a78b6f863a2e68d3dce"
+        }
+      }
+    ],
+    "definition": "A continent that includes North America and South America, separated from Asia by the Bering Strait and from Europe by the Atlantic Ocean.",
+    "examples": [
+      "She dreamed of traveling across America.",
+      "The cultures in America are very diverse.",
+      "America is named after Amerigo Vespucci.",
+      "The explorers set sail to find a quicker route to America.",
+      "He moved to America to pursue his career."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:06:48.212Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:06:48.212Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a83b6f863a2e68d3dd0"
+    },
+    "es": {
+      "word": "Significativo",
+      "definition": "Que significa o tiene un sentido determinado."
+    },
+    "pt": {
+      "word": "Significativo",
+      "definition": "Que significa ou tem um sentido determinado."
+    },
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "type_word": [
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9a83b6f863a2e68d3dd1"
+        }
+      }
+    ],
+    "definition": "Having a particular meaning; indicative of something.",
+    "examples": [
+      "His age is not significant to his ability to doing this job.",
+      "The significant transformation of the building started last summer.",
+      "The amount of people who came was significant.",
+      "I am expecting to receive significant profits from this investment.",
+      "Her significant contribution to the project was recognized."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:06:59.744Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:06:59.744Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9a93b6f863a2e68d3dd3"
+    },
+    "es": {
+      "word": "en marcha",
+      "definition": "Se está desarrollando o llevando a cabo."
+    },
+    "pt": {
+      "word": "em andamento",
+      "definition": "Está sendo desenvolvido ou realizado."
+    },
+    "word": "underway",
+    "ipa": "ʌndərˈweɪ",
+    "type_word": [
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9a93b6f863a2e68d3dd4"
+        }
+      },
+      {
+        "name": "Adverb",
+        "sigle": "adv.",
+        "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+        "_id": {
+          "$oid": "655d9a93b6f863a2e68d3dd5"
+        }
+      },
+      {
+        "name": "Phrasal Verb",
+        "sigle": "phr.v.",
+        "description": "A verb combined with a preposition or an adverb (or both), where the combination creates a meaning different from the original verb, such as 'turn off' or 'run into'.",
+        "_id": {
+          "$oid": "655d9a93b6f863a2e68d3dd6"
+        }
+      }
+    ],
+    "definition": "If something is underway, it is happening now.",
+    "examples": [
+      "Construction of the new playground is underway.",
+      "Our plans are well underway.",
+      "The game is underway.",
+      "The project is now firmly underway.",
+      "The conference is already underway."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:07:15.442Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:07:15.442Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9aa2b6f863a2e68d3dd8"
+    },
+    "es": {
+      "word": "Ola",
+      "definition": "Movimiento oscilante que puede tomar varias formas como el agua en un cuerpo de agua."
+    },
+    "pt": {
+      "word": "Onda",
+      "definition": "Movimento oscilante que pode assumir várias formas, como a água em um corpo de água."
+    },
+    "word": "wave",
+    "ipa": "/weɪv/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9aa2b6f863a2e68d3dd9"
+        }
+      },
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d9aa2b6f863a2e68d3dda"
+        }
+      }
+    ],
+    "definition": "An oscillating movement that can take various forms such as the water when in a body of water; To move one's hand or an object left to right and vice versa.",
+    "examples": [
+      "She waved goodbye to her family as she boarded the train.",
+      "The wheat fields waved in the wind.",
+      "Her hand was waving in the air to get the teacher's attention.",
+      "The flag was waving at the top of the mast.",
+      "With each wave, the boat bobbed up and down."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:07:30.189Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:07:30.189Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9ab2b6f863a2e68d3ddc"
+    },
+    "es": {
+      "word": "Experto en tecnología",
+      "definition": "Persona que tiene habilidades o conocimientos en tecnología moderna, especialmente en computación."
+    },
+    "pt": {
+      "word": "Conhecedor de tecnologia",
+      "definition": "Pessoa que possui habilidades ou conhecimento em tecnologia moderna, especialmente em computação."
+    },
+    "word": "tech-savvy",
+    "ipa": "/tɛkˈsævi/",
+    "type_word": [
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9ab2b6f863a2e68d3ddd"
+        }
+      }
+    ],
+    "definition": "A person who is proficient or knowledgeable in modern technology, especially computing.",
+    "examples": [
+      "My grandma is quite tech-savvy; she uses a smartphone and even social media.",
+      "Our team needs a tech-savvy person to handle the new software.",
+      "Tech-savvy individuals have an advantage in the modern job market.",
+      "Being tech-savvy is almost a requirement in today's digital world.",
+      "The tech-savvy entrepreneur started his own software company."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:07:46.168Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:07:46.168Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9abfb6f863a2e68d3ddf"
+    },
+    "es": {
+      "word": "individuos",
+      "definition": "Personas consideradas separadas de un grupo."
+    },
+    "pt": {
+      "word": "indivíduos",
+      "definition": "Pessoas consideradas separadas de um grupo."
+    },
+    "word": "individuals",
+    "ipa": "/ɪndɪˈvɪdʒuəlz/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9abfb6f863a2e68d3de0"
+        }
+      }
+    ],
+    "definition": "People considered separately from a group.",
+    "examples": [
+      "The new policy will affect individuals and businesses alike.",
+      "Individuals can make a difference in their communities.",
+      "The job requires individuals who can work well under pressure.",
+      "These individuals were selected based on their qualifications.",
+      "Educational programs should be tailored to the needs of individuals."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:07:59.371Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:07:59.371Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9acbb6f863a2e68d3de2"
+    },
+    "es": {
+      "word": "proficiente",
+      "definition": "Que tiene un alto grado de competencia en una actividad o conocimiento especializado."
+    },
+    "pt": {
+      "word": "proficiente",
+      "definition": "Que possui alto grau de competência em uma atividade ou conhecimento especializado."
+    },
+    "word": "proficient",
+    "ipa": "/prəˈfɪʃənt/",
+    "type_word": [
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9acbb6f863a2e68d3de3"
+        }
+      }
+    ],
+    "definition": "Competent or skilled in doing or using something.",
+    "examples": [
+      "I'm proficient in Excel.",
+      "She's proficient in two foreign languages.",
+      "He has become proficient at managing his time.",
+      "Although not yet proficient in Japanese, she can get by.",
+      "Computers are proficient at managing data."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:08:11.657Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:08:11.657Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9adab6f863a2e68d3de5"
+    },
+    "es": {
+      "word": "inglés",
+      "definition": "El idioma que se habla principalmente en Inglaterra y en muchos países del mundo como segunda lengua."
+    },
+    "pt": {
+      "word": "inglês",
+      "definition": "O idioma que é falado principalmente na Inglaterra e em muitos países do mundo como segunda língua."
+    },
+    "word": "english",
+    "ipa": "/ˈɪŋɡlɪʃ/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9adab6f863a2e68d3de6"
+        }
+      }
+    ],
+    "definition": "The language that is spoken mainly in England and in many countries around the world as a second language.",
+    "examples": [
+      "She is studying English at university.",
+      "He speaks fluent English.",
+      "I have English classes twice a week.",
+      "She moved to England to improve her English.",
+      "The English language has a rich vocabulary."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:08:26.243Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:08:26.243Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9aecb6f863a2e68d3de8"
+    },
+    "es": {
+      "word": "nivel",
+      "definition": "Posición, situación, grado, etc., que algo o alguien tiene, especialmente comparándolo con otros."
+    },
+    "pt": {
+      "word": "nível",
+      "definition": "Posição, situação, grau, etc., que algo ou alguém possui, especialmente comparando-se com outros."
+    },
+    "word": "level",
+    "ipa": "/ˈlɛvəl/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9aecb6f863a2e68d3de9"
+        }
+      },
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d9aecb6f863a2e68d3dea"
+        }
+      },
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9aecb6f863a2e68d3deb"
+        }
+      }
+    ],
+    "definition": "The position of something or someone, especially compared to others; a specific standard or set of conditions against which something is measured or compared.",
+    "examples": [
+      "The water level of the lake has dropped significantly over the summer months.",
+      "Our company strives to maintain a high level of customer satisfaction.",
+      "Sandy has reached an advanced level in her piano lessons.",
+      "Please level the table by adjusting the length of its legs.",
+      "He leveled criticism at the government's handling of the economy."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:08:44.843Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:08:44.843Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9affb6f863a2e68d3ded"
+    },
+    "es": {
+      "word": "liderando",
+      "definition": "Actuando como el líder o en primer lugar en una situación o campo."
+    },
+    "pt": {
+      "word": "liderando",
+      "definition": "Agindo como o líder ou em primeiro lugar em uma situação ou campo."
+    },
+    "word": "leading",
+    "ipa": "/ˈliːdɪŋ/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d9affb6f863a2e68d3dee"
+        }
+      },
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9affb6f863a2e68d3def"
+        }
+      }
+    ],
+    "definition": "Acting as the leader or first in a situation or field.",
+    "examples": [
+      "She is leading the team to success.",
+      "The leading car was going too fast.",
+      "He is the leading expert in his field.",
+      "She has been leading the project since the beginning.",
+      "The leading role in the play was given to a newcomer."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:09:03.258Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:09:03.258Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9b0eb6f863a2e68d3df1"
+    },
+    "es": {
+      "word": "digital",
+      "definition": "Permite conectar a las personas mediante la tecnología y los datos."
+    },
+    "pt": {
+      "word": "digital",
+      "definition": "Permite conectar pessoas através da tecnologia e dados."
+    },
+    "word": "digital",
+    "ipa": "/ˈdɪdʒɪtl/",
+    "type_word": [
+      {
+        "name": "Adjective",
+        "sigle": "adj.",
+        "description": "Words that describe or modify nouns.",
+        "_id": {
+          "$oid": "655d9b0eb6f863a2e68d3df2"
+        }
+      },
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9b0eb6f863a2e68d3df3"
+        }
+      }
+    ],
+    "definition": "Enables people to connect through technology and data.",
+    "examples": [
+      "The digital era has significantly sped up communication.",
+      "She has a great understanding of digital media. ",
+      "Many companies have been adjusting to digital transformation. ",
+      "Digital skills are increasingly important in today's job market. ",
+      "The digital world offers endless possibilities for learning and entertainment."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:09:18.270Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:09:18.270Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9b1db6f863a2e68d3df5"
+    },
+    "es": {
+      "word": "revolución",
+      "definition": "Cambio radical en las estructuras políticas, económicas o sociales de una comunidad."
+    },
+    "pt": {
+      "word": "revolução",
+      "definition": "Mudança radical nas estruturas políticas, econômicas ou sociais de uma comunidade."
+    },
+    "word": "revolution",
+    "ipa": "/ˌrɛvəˈluːʃən/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9b1db6f863a2e68d3df6"
+        }
+      }
+    ],
+    "definition": "A drastic and far-reaching change in ways of thinking and behaving.",
+    "examples": [
+      "The internet has brought about a revolution in communication.",
+      "The revolution in information technology has transformed the way we work.",
+      "The industrial revolution marked a major turning point in human history.",
+      "She was a leading figure in the feminist revolution of the 1960s.",
+      "The scientific revolution of the 17th century changed the way we understand the world."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:09:33.671Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:09:33.671Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9b2db6f863a2e68d3df8"
+    },
+    "es": {
+      "word": "desarrolladores",
+      "definition": "Personas que crean o diseñan algo, especialmente haciendo cambios significativos durante el desarrollo de un producto, servicio o idea."
+    },
+    "pt": {
+      "word": "desenvolvedores",
+      "definition": "Pessoas que criam ou projetam algo, especialmente fazendo mudanças significativas durante o desenvolvimento de um produto, serviço ou ideia."
+    },
+    "word": "developers",
+    "ipa": "/dɪˈvɛləpərs/",
+    "type_word": [
+      {
+        "name": "Noun",
+        "sigle": "n.",
+        "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+        "_id": {
+          "$oid": "655d9b2db6f863a2e68d3df9"
+        }
+      }
+    ],
+    "definition": "Individuals or entities that build and create software or applications by writing, debugging, and executing the source code.",
+    "examples": [
+      "The developers worked for hours to fix the bug in the code.",
+      "Software developers are in high demand in the tech industry.",
+      "The developers are adding new features to the application.",
+      "The game's developers are giving a presentation on their design process.",
+      "She hired a team of professional developers to create her website."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:09:49.025Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:09:49.025Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d9b38b6f863a2e68d3dfb"
+    },
+    "es": {
+      "word": "Pertenecer",
+      "definition": "Ser parte de algo o estar relacionado con algo."
+    },
+    "pt": {
+      "word": "Pertencer",
+      "definition": "Ser parte de algo ou estar relacionado a algo."
+    },
+    "word": "belong",
+    "ipa": "/bɪˈlɔːŋ/",
+    "type_word": [
+      {
+        "name": "Verb",
+        "sigle": "v.",
+        "description": "Words that express actions, states, or processes.",
+        "_id": {
+          "$oid": "655d9b38b6f863a2e68d3dfc"
+        }
+      }
+    ],
+    "definition": "To be a part of something or related to something.",
+    "examples": [
+      "These books belong to me.",
+      "She felt like she didn't belong at that school.",
+      "All these items belong in the kitchen.",
+      "Does this key belong to you?",
+      "I belong to a local gym."
+    ],
+    "times_seen": 1,
+    "status": "FAIL",
+    "createdAt": {
+      "$date": "2023-11-22T06:10:00.277Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T06:10:00.277Z"
     },
     "__v": 0
   }
