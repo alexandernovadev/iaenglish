@@ -39,7 +39,7 @@ export const WordCard = memo(({ word }: Props) => {
       ) : (
         <>
           <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 flex gap-2">
+            <div className="font-bold text-xl mb-2 flex gap-2 capitalize">
               {word.word}{" "}
               <span className="text-gray-400 text-sm">{word.ipa}</span>
               <span onClick={speakWord} className="cursor-pointer">
@@ -79,7 +79,7 @@ export const WordCard = memo(({ word }: Props) => {
               </summary>
               <p className="text-gray-400">
                 <b>
-                  <i>{word.es?.word}</i>
+                  <i className="capitalize">{word.es?.word}</i>
                   <span
                     onClick={() => speakWordES(word.es?.word!)}
                     className="cursor-pointer"
@@ -97,7 +97,7 @@ export const WordCard = memo(({ word }: Props) => {
               </summary>
               <p className="text-gray-400">
                 <b>
-                  <i>{word.pt?.word}</i>
+                  <i className="capitalize">{word.pt?.word}</i>
                   <span
                     onClick={() => speakWordPT(word.pt?.word!)}
                     className="cursor-pointer"

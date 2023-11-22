@@ -15,14 +15,12 @@ export default async function handler(
     switch (method) {
       case "GET":
         const search = req.query.search;
-        // Asegúrate de que search es una cadena
         const searchStr = Array.isArray(search) ? search[0] : search;
-        // Crea una consulta regex para búsqueda insensible a mayúsculas y minúsculas
         const query = searchStr ? { word: new RegExp(searchStr, "i") } : {};
     
         try {
-            // Obtener las palabras que coinciden con la búsqueda, limitadas a 30
-            const words = await WordModel.find(query).limit(30);
+            // Obtener las palabras que coinciden con la búsqueda, limitadas a 30 y ordernarlas alfabéticamente
+            const words = await WordModel.find(query).limit(30).sort({ word: 1 });
             
             // Obtener el total de palabras que coinciden con la búsqueda
             const total = await WordModel.countDocuments(query);

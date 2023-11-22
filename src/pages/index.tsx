@@ -16,7 +16,7 @@ import { FaBook } from "react-icons/fa";
 import NextLink from "next/link";
 import { FcReading } from "react-icons/fc";
 import { LuBrainCircuit } from "react-icons/lu";
-
+import { RiSpeakFill } from "react-icons/ri";
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
   const [isOpenModal, setIsOpenModal] = useState(false);
@@ -116,11 +116,15 @@ export default function Home() {
 
   return (
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
+  
       <div className="flex flex-col h-full overflow-auto">
         <div className="flex-grow overflow-auto p-4">
           <section className="flex justify-between">
             <NextLink href="/mywords" passHref>
               <FaBook style={{ fontSize: 32 }} />
+            </NextLink>
+            <NextLink href="/sounds" passHref>
+              <RiSpeakFill style={{ fontSize: 32 }} />
             </NextLink>
 
             <h1 className="text-xl font-bold mb-2">{activeStory?.title}</h1>
@@ -238,13 +242,14 @@ export default function Home() {
           <>
             {/* @ts-ignore */}
             <WordCard word={activeWord} />
-
-            <button
-              onClick={() => saveWordDB(activeWord as Word)}
-              className="mt-4 px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-700 transition duration-300"
-            >
-              Agregar Palabra
-            </button>
+            {!selectedActivedWord?.isKnown && (
+              <button
+                onClick={() => saveWordDB(activeWord as Word)}
+                className="mt-4 px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-700 transition duration-300"
+              >
+                Agregar Palabra
+              </button>
+            )}
           </>
         )}
       </Modal>

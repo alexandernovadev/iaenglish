@@ -13,6 +13,12 @@ export enum WordActionTypes {
   IS_ERROR = "IS_ERROR",
   SELECTED_ACTIVED_WORD = "SELECTED_ACTIVED_WORD",
   SET_ACTIVED_WORD = "SET_ACTIVED_WORD",
+  SET_CHECK_KNOW_WORD = "SET_CHECK_KNOW_WORD",
+}
+
+export interface SetKnownWordAction {
+  type: WordActionTypes.SET_CHECK_KNOW_WORD;
+  payload: boolean;
 }
 export interface AddWordAction {
   type: WordActionTypes.ADD_WORD;
@@ -44,7 +50,8 @@ export type WordActions =
   | IsLoadingAction
   | IsErrorAction
   | selectedActivedWordAction
-  | setActivedWordAction;
+  | setActivedWordAction
+  | SetKnownWordAction;
 // Teemp
 
 export interface WordTemp {

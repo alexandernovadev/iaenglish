@@ -1,14 +1,12 @@
-import { typeWord } from './../../interfaces/word';
+import { typeWord } from "./../../interfaces/word";
 import { Word } from "@/interfaces/word";
 import mongoose, { Document, Model, Schema, model } from "mongoose";
-
 
 const typeWordSchema = new Schema({
   name: String,
   sigle: String,
   description: String,
 });
-
 
 const wordSchema = new Schema<Word & Document>(
   {
@@ -30,7 +28,7 @@ const wordSchema = new Schema<Word & Document>(
     },
     type_word: {
       type: [typeWordSchema],
-      required: true
+      required: true,
     },
     definition: String,
     examples: [String],
@@ -41,7 +39,7 @@ const wordSchema = new Schema<Word & Document>(
     status: {
       type: String,
       enum: ["GOOD", "EASY", "HARD", "FAIL"],
-      required: true,
+      default: "FAIL",
     },
     img: String,
     note: String,

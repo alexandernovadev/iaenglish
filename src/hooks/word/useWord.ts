@@ -41,6 +41,8 @@ export const useWord = () => {
     const url = "/api/word";
     const method = "POST";
 
+    formattedData.word = formattedData.word.toLowerCase();
+    // {"word": {"$regex": "^be$", "$options": "i"}}
     try {
       const response = await fetch(url, {
         method: method,

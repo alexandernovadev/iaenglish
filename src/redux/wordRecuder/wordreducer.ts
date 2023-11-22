@@ -1,7 +1,4 @@
-import { Word } from "@/interfaces/word";
 import { WordActionTypes, WordActions, WordState } from "./types";
-import WordDict from "../../../public/englishdb_ai.words.json"
-
 
 const initialState: WordState = {
   words: [],
@@ -19,7 +16,7 @@ export const wordReducer = (
     case WordActionTypes.ADD_WORD:
       return {
         ...state,
-        words: [ ...action.payload],
+        words: [...action.payload],
       };
     case WordActionTypes.IS_LOADING:
       return {
@@ -36,11 +33,11 @@ export const wordReducer = (
         ...state,
         selectedActivedWord: action.payload,
       };
-      case WordActionTypes.SET_ACTIVED_WORD:
-        return {
-          ...state,
-          activeWord: action.payload,
-        }; 
+    case WordActionTypes.SET_ACTIVED_WORD:
+      return {
+        ...state,
+        activeWord: action.payload,
+      };
     default:
       return state;
   }
