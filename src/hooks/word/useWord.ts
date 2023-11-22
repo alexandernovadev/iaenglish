@@ -25,7 +25,8 @@ export const useWord = () => {
         times_seen: 1,
       };
 
-      dispatch({ type: WordActionTypes.ADD_WORD, payload });
+      // dispatch({ type: WordActionTypes.ADD_WORD, payload });
+      dispatch({ type: WordActionTypes.SET_ACTIVED_WORD, payload });
     } catch (error: any) {
       dispatch({ type: WordActionTypes.IS_ERROR, payload: error.message });
     } finally {

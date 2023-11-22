@@ -7859,4 +7859,180 @@
     "$date": "2023-11-22T00:02:35.639Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d6fbb0e28135dab35b902"
+  },
+  "es": {
+    "word": "cambio",
+    "definition": "Hacer o volverse diferente."
+  },
+  "pt": {
+    "word": "mudança",
+    "definition": "Fazer ou tornar-se diferente."
+  },
+  "word": "change",
+  "ipa": "/tʃeɪndʒ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "655d6fbb0e28135dab35b903"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d6fbb0e28135dab35b904"
+      }
+    }
+  ],
+  "definition": "To make or become different.",
+  "examples": [
+    "She decided to change her hairstyle.",
+    "We need to change the way we consume energy.",
+    "That experience completely changed my perspective.",
+    "Can you change a hundred dollar bill?",
+    "He changed his mind at the last moment."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T03:04:27.143Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T03:04:27.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d700c0e28135dab35b906"
+  },
+  "es": {
+    "word": "insaciable",
+    "definition": "Que no puede ser satisfecho o que siempre quiere más de algo."
+  },
+  "pt": {
+    "word": "insaciável",
+    "definition": "Que não pode ser satisfeito ou que sempre quer mais de algo."
+  },
+  "word": "insatiable",
+  "ipa": "/ɪnˈseɪʃəbəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "655d700c0e28135dab35b907"
+      }
+    }
+  ],
+  "definition": "Always wanting more, not able to be satisfied.",
+  "examples": [
+    "Her insatiable curiosity led her to ask more questions.",
+    "His insatiable appetite for power led him down a dark path.",
+    "She has an insatiable desire to learn new languages.",
+    "He has an insatiable thirst for knowledge.",
+    "Her insatiable craving for chocolate makes dieting difficult."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T03:05:48.469Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T03:05:48.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d702c0e28135dab35b909"
+  },
+  "es": {
+    "word": "tiempo",
+    "definition": "Duración de las cosas sujetas a cambio o de los seres que tienen una existencia finita."
+  },
+  "pt": {
+    "word": "tempo",
+    "definition": "Duração das coisas sujeitas à transformação ou dos seres que têm uma existência finita."
+  },
+  "word": "time",
+  "ipa": "/taɪm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "655d702c0e28135dab35b90a"
+      }
+    }
+  ],
+  "definition": "The indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
+  "examples": [
+    "The time is right for a change of strategy.",
+    "Only time will tell if we made the right decision.",
+    "I love the tranquillity that comes with nighttime.",
+    "Time heals all wounds, or so it is said.",
+    "This time, we will not fail."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T03:06:20.542Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T03:06:20.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d70480e28135dab35b90c"
+  },
+  "es": {
+    "word": "Aún",
+    "definition": "En este momento, todavía, o además"
+  },
+  "pt": {
+    "word": "Ainda",
+    "definition": "Neste momento, ainda, ou além disso"
+  },
+  "word": "Still",
+  "ipa": "/stɪl/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "655d70480e28135dab35b90d"
+      }
+    }
+  ],
+  "definition": "At this time, as yet, or in addition",
+  "examples": [
+    "I love you still.",
+    "He is still a student.",
+    "There is still time to finish the project.",
+    "He is still living with his parents.",
+    "Do you still want to go out?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-11-22T03:06:48.081Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T03:06:48.081Z"
+  },
+  "__v": 0
 }]

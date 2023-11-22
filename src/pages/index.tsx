@@ -50,6 +50,7 @@ export default function Home() {
 
   useEffect(() => {
     dispatch({ type: WordActionTypes.IS_LOADING, payload: false });
+    dispatch({ type: WordActionTypes.IS_ERROR, payload: "" });
   }, []);
 
   useEffect(() => {
@@ -67,18 +68,15 @@ export default function Home() {
     const speech = new SpeechSynthesisUtterance(word);
     window.speechSynthesis.speak(speech);
   };
+  const RenderWord = memo(({ word, index }: any) => {
+    // console.log("renderWords =>", index);
 
-  const renderWord = (word: string, index: any) => {
-    console.log("renderWord");
-
-    // Si la palabra existe en el diccionario de palabras debera ser verde si no rojo
+    // Your existing logic for rendering a word
     const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
     const wordExist = Dictonary.find(
-      (word) => word.word.toLocaleLowerCase() === wordLowerCase
+      (w) => w.word.toLocaleLowerCase() === wordLowerCase
     );
-
     const wordClean = word.replace(/[.,]/g, "");
-
     return (
       <span
         key={`${index}-word`}
@@ -99,35 +97,22 @@ export default function Home() {
         {word}{" "}
       </span>
     );
-  };
+  });
 
-  const RenderContent = memo(function renderContent({ text, index }: any) {
+  const RenderContent = memo(({ text, index }: any) => {
     const textArray = text.split(" ");
-
-    const news = textArray.map((word: any, index: any) =>
-      word.toLocaleLowerCase()
-    );
-    const setUnique = new Set(news);
-
+    // const news = textArray.map((word: any, index: any) =>
+    //   word.toLocaleLowerCase()
+    // );
+    // const setUnique = new Set(news);
     return (
       <span key={`${index}-word`}>
-        {textArray.map((word: any, index: any) => renderWord(word, index))}
+        {textArray.map((word: any, idx: any) => (
+          <RenderWord key={idx} word={word} index={idx} />
+        ))}
       </span>
     );
   });
-
-  // const renderContent = (text: string, index: any) => {
-  //   const textArray = text.split(" ");
-
-  //   const news = textArray.map((word, index) => word.toLocaleLowerCase());
-  //   const setUnique = new Set(news);
-
-  //   return (
-  //     <span key={`${index}-word`}>
-  //       {textArray.map((word, index) => renderWord(word, index))}
-  //     </span>
-  //   );
-  // };
 
   return (
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
@@ -189,7 +174,7 @@ export default function Home() {
                 !selectedActivedWord?.word ? "hidden" : ""
               }`}
             >
-              <LuBrainCircuit className="text-2xl"/>
+              <LuBrainCircuit className="text-2xl" />
             </button>
           ) : (
             <button
@@ -247,9 +232,9 @@ export default function Home() {
         </div>
         {isLoadWordm && <p>Estamos trabajando en ello ...</p>}
 
-        {isErrWord && <p>Hubo un error</p>}
+        {isErrWord.length !== 0 && <p>Hubo un error</p>}
 
-        {!isLoadWordm && !isErrWord && (
+        {!isLoadWordm && (
           <>
             {/* @ts-ignore */}
             <WordCard word={activeWord} />

@@ -17,8 +17,6 @@ export const wordReducer = (
 ): WordState => {
   switch (action.type) {
     case WordActionTypes.ADD_WORD:
-        console.log(action.payload);
-        
       return {
         ...state,
         words: [ ...action.payload],
