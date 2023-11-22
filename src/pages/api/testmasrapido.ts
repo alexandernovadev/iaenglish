@@ -22,84 +22,14 @@ export default async function handler(
   res: NextApiResponse<Data>
 ) {
   await connect(); // Establecer conexión con MongoDB
+  const d = [    "tirelessly",
 
-  const d = [
-    "start",
-    "usual",
-    "greetings",
-    "saying",
-    "good",
-    "morning'",
-    "afternoon'",
-    "evening'",
-    "depending",
-    "day",
-    "courteous",
-    "way",
-    "conversation",
-    "how",
-    "you?'",
-    "nice",
-    "meet",
-    "you",
-    "always",
-    "good",
-    "remember",
-    "restaurant",
-    "like",
-    "i'd",
-    "book",
-    "table",
-    "two'",
-    "'could",
-    "recommend",
-    "come",
-    "handy",
-    "direction",
-    "don’t",
-    "hesitate",
-    "say",
-    "show",
-    "me",
-    "map?'",
-    "i",
-    "get",
-    "to?'",
-    "apologizing",
-    "asking",
-    "help",
-    "necessary",
-    "skills",
-    "too",
-    "sorry",
-    "don't",
-    "understand'",
-    "please",
-    "repeat",
-    "polite",
-    "ways",
-    "prompt",
-    "someone",
-    "explain",
-    "something",
-    "again",
-    "excuse",
-    "direct",
-    "useful",
-    "need",
-    "assistance",
-    "any",
-    "politeness",
-    "goes",
-    "long",
-    "happy",
-    "learning",
   ];
 
   try {
     for (let i = 0; i < d.length; i++) {
       const word = d[i];
-      console.log("\n word:GPT", word);
+      console.log("\n GPTeando => 🪖 ", word);
 
       const p = promt__getWordToDictonaryJson(word);
       const response = await GPT(p);
@@ -117,14 +47,14 @@ export default async function handler(
       }
     }
 
-    await disconnect(); 
+    await disconnect();
     res.status(200).json({ message: "Archivo procesado y guardado con éxito" });
   } catch (error) {
     console.log("Error: 🚨", error);
 
     res.status(201).json({ message: "AError" + error });
   } finally {
-    await disconnect(); 
+    await disconnect();
     console.log("😇 Finalizado 🎉🎉");
   }
 }

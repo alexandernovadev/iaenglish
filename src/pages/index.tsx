@@ -21,9 +21,13 @@ import useSpeech from "@/hooks/speehAPI/useSpeech";
 import { speechConfig } from "./voice";
 import { FaMicrophoneLines } from "react-icons/fa6";
 import { TbMicrophoneOff } from "react-icons/tb";
+import { FaWindowRestore } from "react-icons/fa";
+import { StoryActionTypes } from "@/redux/storyReducer/types";
+
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
   const [isOpenModal, setIsOpenModal] = useState(false);
+  const [isModalListStories, setIsModalListStories] = useState(false);
   const { getStoryFromGPT } = useStory();
   const { getWordFromGPT, saveWordDB } = useWord();
   const [wordsKnown, setWordsUnKnown] = useState([]);
@@ -40,20 +44,8 @@ export default function Home() {
 
   const dispatch = useDispatch();
 
-  const notify = () =>
-    toast(
-      <div className="rounded-xl p-4 flex gap-2">
-        <FaCheckCircle style={{ color: "green" }} /> Error con la Story
-      </div>,
-      {
-        style: { padding: 2 },
-        duration: 1800,
-      }
-    );
-
-  const { activeStory, isError, isLoad, selectedActivedWord } = useSelector(
-    (state: RootState) => state.story
-  );
+  const { activeStory, isError, isLoad, selectedActivedWord, stories } =
+    useSelector((state: RootState) => state.story);
 
   const {
     isError: isErrWord,
@@ -105,6 +97,17 @@ export default function Home() {
     // setWordsUnKnown([...wordsUnKnown]);
   }, [activeStory]);
 
+  const notify = () =>
+    toast(
+      <div className="rounded-xl p-4 flex gap-2">
+        <FaCheckCircle style={{ color: "green" }} /> Error con la Story
+      </div>,
+      {
+        style: { padding: 2 },
+        duration: 1800,
+      }
+    );
+
   useEffect(() => {
     if (isError) {
       notify();
@@ -124,11 +127,17 @@ export default function Home() {
     // console.log("renderWords =>", index);
 
     // Your existing logic for rendering a word
-    const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
+    let wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
+    // Eliminar '  al inicio y al final
+    wordLowerCase = wordLowerCase.replace(/^,+/g, "").replace(/,+$/g, "");
+
     const wordExist = Dictonary.find(
       (w) => w.word.toLocaleLowerCase() === wordLowerCase
     );
-    const wordClean = word.replace(/[.,]/g, "");
+    const wordClean = word
+      .replace(/[.,]/g, "")
+      .replace(/^'+/g, "")
+      .replace(/'+$/g, "");
     return (
       <span
         key={`${index}-word`}
@@ -155,16 +164,22 @@ export default function Home() {
   return (
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
       <div className="flex flex-col h-full overflow-auto">
+        <div className="flex gap-4 p-4">
+          <NextLink href="/mywords" passHref>
+            <FaBook style={{ fontSize: 32 }} />
+          </NextLink>
+          <NextLink href="/sounds" passHref>
+            <RiSpeakFill style={{ fontSize: 32 }} />
+          </NextLink>
+          <button onClick={() => setIsModalListStories(true)}>
+            <FaWindowRestore style={{ fontSize: 32 }} />
+          </button>
+        </div>
         <div className="flex-grow overflow-auto p-4">
           <section className="flex justify-between">
-            <NextLink href="/mywords" passHref>
-              <FaBook style={{ fontSize: 32 }} />
-            </NextLink>
-            <NextLink href="/sounds" passHref>
-              <RiSpeakFill style={{ fontSize: 32 }} />
-            </NextLink>
-
-            <h1 className="text-xl font-bold mb-2">{activeStory?.title}</h1>
+            <h1 className="text-4xl font-bold mb-2 py-2">
+              {activeStory?.title}
+            </h1>
 
             <div className="flex gap-3">
               <span className="bg-blue-500 text-white p-2 rounded-full shadow-lg">
@@ -175,7 +190,7 @@ export default function Home() {
               </span>
             </div>
           </section>
-          <h4 className="text-lg mb-2">{activeStory?.subtitle}</h4>
+          <h4 className="text-2xl mb-2 pb-3 ">{activeStory?.subtitle}</h4>
           <div className="w-full">
             {activeStory?.paragraphs?.map((paragraph, index) => (
               <p key={index} className="mb-5 ">
@@ -325,6 +340,37 @@ export default function Home() {
             )}
           </>
         )}
+      </Modal>
+
+      <Modal isOpen={isModalListStories} setIsOpen={setIsModalListStories}>
+        <section className="w-full h-screen overflow-auto">
+          {stories.map((story) => (
+            <div
+              key={story.id}
+              className="flex justify-between items-center p-2 bg-gray-800 rounded-lg mb-2"
+            >
+              <div>
+                <h1 className="text-xl font-bold">{story.title}</h1>
+                <h4 className="text-sm">{story.subtitle}</h4>
+              </div>
+              <div className="flex gap-2  pb-4">
+                <button
+                  onClick={() => {
+                    dispatch({
+                      type: StoryActionTypes.SET_ACTIVE_STORY,
+                      payload: story,
+                    });
+
+                    setIsModalListStories(false);
+                  }}
+                  className="px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300"
+                >
+                  <IoSend />
+                </button>
+              </div>
+            </div>
+          ))}
+        </section>
       </Modal>
     </div>
   );

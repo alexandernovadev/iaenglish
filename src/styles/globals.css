@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html{
+  overflow: hidden;
+  font-family: 'Merriweather', serif;
+  line-height: 2rem;
+}
 
-body {
+body, html {
   color: whitesmoke;
   background: #101827;
 }

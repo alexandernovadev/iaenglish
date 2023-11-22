@@ -8,7 +8,7 @@ const initialState: StoryState = {
   selectedActivedWord: {
     word: "",
     isKnown: false,
-  },
+  }, // ESTO NO DEBERIA ESTAR AQUI
   isLoad: false,
   isError: "",
 };
@@ -38,6 +38,11 @@ export const storyReducer = (
       return {
         ...state,
         selectedActivedWord: action.payload,
+      };
+    case StoryActionTypes.SET_ACTIVE_STORY:
+      return {
+        ...state,
+        activeStory: action.payload,
       };
     default:
       return state;

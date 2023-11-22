@@ -1,6 +1,6 @@
 import { Story } from "@/interfaces/story";
 
-const NO_PARAGRAPHS = 3;
+const NO_PARAGRAPHS = 5;
 
 export const GetPromt_StoryToRead = ({
   level = "B2",
@@ -9,14 +9,14 @@ export const GetPromt_StoryToRead = ({
 }: Story) => {
   return `
 
-  Generar un JSON with a story about ${topicUser} with level ${level} of english all story in language "/${language}/"
+  Generar un JSON with a investgacion/articulo about ${topicUser} with level ${level} of english all story in language "/${language}/"
   , your RTA must be related to topic and
   con las siguientes claves:
 
 
   'title': maximos 16 char,
   'subtitle' un subtile con max 40 char
-  'paragraps'un array con 3 parrafos de maximo 410 caratersies cadao uno
+  'paragraps'un array con 5 parrafos de maximo 490 caratersies minimo 400
 
     example:
     {
@@ -35,13 +35,13 @@ export const GetPromt_StoryToRead = ({
           government, engineering, and the arts continue to influence modern society. The remnants of 
           its grandeur, seen in ruins and artifacts, testify to a civilization that, for centuries, 
           was the epicenter of human achievement and a beacon of cultural and political might
-         "]
+         ","...",".."]
     }
     NOTE: 
   1 SOLO DAR el JSON y NADA MAS no comentarios, no sugurencias, NADAAA, SOLO EL JSON
   2 ALWAYS TU RTA must begin with {    and end with } 
   3 Si topicUser es una palabra estrañs, haraz un story sobre la MOON y Goku dbz :
-  4 Simpre tiene ques generar ${NO_PARAGRAPHS} paragraphs en el array
+  4 Simpre tiene ques generar 5 paragraphs en el array
     
   `;
 };
