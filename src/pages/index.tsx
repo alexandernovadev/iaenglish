@@ -20,6 +20,7 @@ import { RiSpeakFill } from "react-icons/ri";
 import useSpeech from "@/hooks/speehAPI/useSpeech";
 import { speechConfig } from "./voice";
 import { FaMicrophoneLines } from "react-icons/fa6";
+import { TbMicrophoneOff } from "react-icons/tb";
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
   const [isOpenModal, setIsOpenModal] = useState(false);
@@ -27,8 +28,15 @@ export default function Home() {
   const { getWordFromGPT, saveWordDB } = useWord();
   const [wordsKnown, setWordsUnKnown] = useState([]);
 
-  const { text, voices, startListening, speak, setText, setConfigUser } =
-    useSpeech(speechConfig,"REPLACE");
+  const {
+    text,
+    voices,
+    startListening,
+    speak,
+    setText,
+    setConfigUser,
+    isListening,
+  } = useSpeech(speechConfig, "REPLACE");
 
   const dispatch = useDispatch();
 
@@ -113,7 +121,7 @@ export default function Home() {
     window.speechSynthesis.speak(speech);
   };
   const RenderWord = memo(({ word, index }: any) => {
-    console.log("renderWords =>", index);
+    // console.log("renderWords =>", index);
 
     // Your existing logic for rendering a word
     const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
@@ -180,6 +188,12 @@ export default function Home() {
           </div>
         </div>
 
+        <div className="flex flex-col gap-2 max-w-xl px-3">
+          <h1 className="flex-grow truncate text-lg first-line:capitalize font-bold text-yellow-300">
+            {text ? text : "🗣️ Speak "}
+          </h1>
+        </div>
+
         <div className="flex items-center justify-between p-2 bg-slate-700 px-4">
           {selectedActivedWord?.word ? (
             <div className="flex flex-col">
@@ -202,37 +216,53 @@ export default function Home() {
             <>No hay word</>
           )}
 
-          <div className="flex flex-col gap-2">
-            <h1 className="flex-grow truncate text-xl capitalize font-bold">{text? text: '🗣️ Speak '}</h1>
-            <button
-              onClick={() => startListening()}
-              className="px-2 py-1 bg-green-600 rounded hover:bg-green-700 transition duration-300 flex justify-center"
-            >
-              <FaMicrophoneLines />
-            </button>
+          <div className="flex gap-3">
+            {isListening ? (
+              <button
+                onClick={() => {
+                  startListening();
+                }}
+                className="px-2 py-1 bg-red-600 rounded hover:bg-red-700 transition duration-300 flex justify-cente items-center"
+              >
+                <TbMicrophoneOff />
+              </button>
+            ) : (
+              <button
+                onClick={() => {
+                  startListening();
+                }}
+                className="px-2 py-1 bg-green-600 rounded hover:bg-green-700 transition duration-300 flex justify-center"
+              >
+                <FaMicrophoneLines />{" "}
+                <small className="text-sm">
+                  {" "}
+                  {speechConfig.recognitionLang}
+                </small>
+              </button>
+            )}
+            {!selectedActivedWord?.isKnown ? (
+              <button
+                onClick={() => {
+                  getWordFromGPT(selectedActivedWord?.word!);
+                  setIsOpenModal(true);
+                }}
+                className={` px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300 ${
+                  !selectedActivedWord?.word ? "hidden" : ""
+                }`}
+              >
+                <LuBrainCircuit className="text-2xl" />
+              </button>
+            ) : (
+              <button
+                onClick={() => {
+                  setIsOpenModal(true);
+                }}
+                className="text-2xl px-2 py-1 bg-gray-800 border border-gray-600 rounded hover:yellow-blue-700 transition duration-300"
+              >
+                <FcReading />
+              </button>
+            )}
           </div>
-          {!selectedActivedWord?.isKnown ? (
-            <button
-              onClick={() => {
-                getWordFromGPT(selectedActivedWord?.word!);
-                setIsOpenModal(true);
-              }}
-              className={` px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300 ${
-                !selectedActivedWord?.word ? "hidden" : ""
-              }`}
-            >
-              <LuBrainCircuit className="text-2xl" />
-            </button>
-          ) : (
-            <button
-              onClick={() => {
-                setIsOpenModal(true);
-              }}
-              className="text-2xl px-2 py-1 bg-yellow-600 rounded hover:yellow-blue-700 transition duration-300"
-            >
-              <FcReading />
-            </button>
-          )}
         </div>
 
         <form

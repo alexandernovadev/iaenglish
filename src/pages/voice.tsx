@@ -2,9 +2,9 @@ import useSpeech from "@/hooks/speehAPI/useSpeech";
 import React, { useState, useEffect } from "react";
 
 export const speechConfig = {
-  recognitionLang: process.env.REACT_APP_SPEECH_RECOGNITION_LANG || "es-ES",
+  recognitionLang: process.env.REACT_APP_SPEECH_RECOGNITION_LANG || "en-UK",
   synthesisLang: process.env.REACT_APP_SPEECH_SYNTHESIS_LANG || "en-US",
-  continuous: true,
+  continuous: false,
   voiceName: "Google US English",
   rate: 1.2,
   pitch: 1,

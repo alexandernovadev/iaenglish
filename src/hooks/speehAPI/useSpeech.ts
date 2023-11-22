@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
-import { SpeechConfig } from "./types";
+import { SpeechConfig, TextConcatType } from "./types";
 
-type TextConcatType = "CONCAT" | "REPLACE" | "NONE";
 const useSpeech = (
   config: SpeechConfig,
   textConcatType: TextConcatType = "REPLACE"
@@ -55,7 +54,6 @@ const useSpeech = (
             ? finalTranscript + interimTranscript
             : "Stupid Love ";
         setText(textResult);
-        setIsListening(false);
       };
 
       speechRecognition.onend = () => {

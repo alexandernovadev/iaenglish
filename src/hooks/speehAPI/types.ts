@@ -12,3 +12,5 @@ export interface SpeechConfig {
   volume?: number; // Volumen de la voz
 
 }
+
+export type TextConcatType = "CONCAT" | "REPLACE" | "NONE";
