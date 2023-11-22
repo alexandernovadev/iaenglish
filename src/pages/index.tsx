@@ -17,12 +17,18 @@ import NextLink from "next/link";
 import { FcReading } from "react-icons/fc";
 import { LuBrainCircuit } from "react-icons/lu";
 import { RiSpeakFill } from "react-icons/ri";
+import useSpeech from "@/hooks/speehAPI/useSpeech";
+import { speechConfig } from "./voice";
+import { FaMicrophoneLines } from "react-icons/fa6";
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
   const [isOpenModal, setIsOpenModal] = useState(false);
   const { getStoryFromGPT } = useStory();
   const { getWordFromGPT, saveWordDB } = useWord();
   const [wordsKnown, setWordsUnKnown] = useState([]);
+
+  const { text, voices, startListening, speak, setText, setConfigUser } =
+    useSpeech(speechConfig,"REPLACE");
 
   const dispatch = useDispatch();
 
@@ -121,7 +127,7 @@ export default function Home() {
         className={`${
           wordExist ? "text-green-300" : "text-gray-400"
         } cursor-pointer hover:underline`}
-        onClick={() => {  
+        onClick={() => {
           dispatch({
             type: WordActionTypes.SELECTED_ACTIVED_WORD,
             payload: { word: wordClean, isKnown: !!wordExist },
@@ -130,7 +136,7 @@ export default function Home() {
             type: WordActionTypes.SET_ACTIVED_WORD,
             payload: wordExist,
           });
-          speakWordEN(wordClean)
+          speakWordEN(wordClean);
         }}
       >
         {word}{" "}
@@ -176,24 +182,35 @@ export default function Home() {
 
         <div className="flex items-center justify-between p-2 bg-slate-700 px-4">
           {selectedActivedWord?.word ? (
-            <h1 className="flex-grow truncate text-3xl capitalize font-bold">
-              {selectedActivedWord?.word}
-              <span
-                onClick={() => speakWordEN(selectedActivedWord?.word!)}
-                className="cursor-pointer"
-              >
-                {" "}
-                🔊{" "}
-              </span>
+            <div className="flex flex-col">
+              <h1 className="flex-grow truncate text-2xl capitalize font-bold">
+                {selectedActivedWord?.word}
+                <span
+                  onClick={() => speakWordEN(selectedActivedWord?.word!)}
+                  className="cursor-pointer"
+                >
+                  {" "}
+                  🔊{" "}
+                </span>
+              </h1>
               <span className="px-2 text-xl text-gray-300">
                 {" "}
                 {activeWord?.ipa}
               </span>
-            </h1>
+            </div>
           ) : (
             <>No hay word</>
           )}
 
+          <div className="flex flex-col gap-2">
+            <h1 className="flex-grow truncate text-xl capitalize font-bold">{text? text: '🗣️ Speak '}</h1>
+            <button
+              onClick={() => startListening()}
+              className="px-2 py-1 bg-green-600 rounded hover:bg-green-700 transition duration-300 flex justify-center"
+            >
+              <FaMicrophoneLines />
+            </button>
+          </div>
           {!selectedActivedWord?.isKnown ? (
             <button
               onClick={() => {
