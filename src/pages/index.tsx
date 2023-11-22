@@ -14,6 +14,8 @@ import { FaCheckCircle } from "react-icons/fa";
 import toast from "react-hot-toast";
 import { FaBook } from "react-icons/fa";
 import NextLink from "next/link";
+import { FcReading } from "react-icons/fc";
+import { LuBrainCircuit } from "react-icons/lu";
 
 export default function Home() {
   const [word, setword] = useState("Historia de Napoleon ");
@@ -183,18 +185,20 @@ export default function Home() {
                 getWordFromGPT(selectedActivedWord?.word!);
                 setIsOpenModal(true);
               }}
-              className="w-1/5 px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300"
+              className={` px-2 py-1 bg-blue-600 rounded hover:bg-blue-700 transition duration-300 ${
+                !selectedActivedWord?.word ? "hidden" : ""
+              }`}
             >
-              Gptear
+              <LuBrainCircuit className="text-2xl"/>
             </button>
           ) : (
             <button
               onClick={() => {
                 setIsOpenModal(true);
               }}
-              className="w-1/5 px-2 py-1 bg-yellow-600 rounded hover:yellow-blue-700 transition duration-300"
+              className="text-2xl px-2 py-1 bg-yellow-600 rounded hover:yellow-blue-700 transition duration-300"
             >
-              Ver Definicion
+              <FcReading />
             </button>
           )}
         </div>
