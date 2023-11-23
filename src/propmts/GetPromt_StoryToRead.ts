@@ -1,6 +1,6 @@
 import { Story } from "@/interfaces/story";
 
-const NO_PARAGRAPHS = 5;
+const NO_PARAGRAPHS = 7;
 
 export const GetPromt_StoryToRead = ({
   level = "B2",
@@ -9,14 +9,14 @@ export const GetPromt_StoryToRead = ({
 }: Story) => {
   return `
 
-  Generar un JSON with a investgacion/articulo about ${topicUser} with level ${level} of english all story in language "/${language}/"
+  Generar un JSON with a tips about ${topicUser} with level ${level} of english all story in language "/${language}/"
   , your RTA must be related to topic and
   con las siguientes claves:
 
 
   'title': maximos 16 char,
   'subtitle' un subtile con max 40 char
-  'paragraps'un array con 5 parrafos de maximo 490 caratersies minimo 400
+  'paragraps'un array con 5 parrafos de maximo 790 caratersies minimo 710
 
     example:
     {

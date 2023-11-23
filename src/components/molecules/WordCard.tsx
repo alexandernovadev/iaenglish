@@ -4,10 +4,11 @@ import Image from "next/image";
 import { memo } from "react";
 
 interface Props {
-  word: Word ;
+  word: Word;
+  isShowOnlyWord?: boolean;
 }
-export const WordCard = memo(({ word }: Props) => {
-  console.log("HOLLLA");
+export const WordCard = memo(({ word, isShowOnlyWord }: Props) => {
+  // console.log("HOLLLA"); // se repita muchas veces OJO
 
   const speakWord = () => {
     const speech = new SpeechSynthesisUtterance(word.word);
@@ -57,73 +58,82 @@ export const WordCard = memo(({ word }: Props) => {
               </span>
             ))}
 
+            {isShowOnlyWord}
             <p className="text-gray-300 text-base mt-4">{word.definition}</p>
           </div>
-          <ul className="px-6 list-disc">
-            {word.examples?.map((example, index) => (
-              <li key={index} className="text-gray-300 text-sm mb-1">
-                {example}
-              </li>
-            ))}
-          </ul>
-          {word.img &&
-           <div className="p-4">
-            <Image src={word.img} 
-            className="rounded-xl w-[200px] h-[180px]" alt="Name Image here" />
-          </div> 
-          }
-          <div className="px-6 py-2">
-            <details className="mb-2">
-              <summary className="text-gray-300 cursor-pointer">
-                Spanish (es)
-              </summary>
-              <p className="text-gray-400">
-                <b>
-                  <i className="capitalize">{word.es?.word}</i>
-                  <span
-                    onClick={() => speakWordES(word.es?.word!)}
-                    className="cursor-pointer"
-                  >
-                    {" "}
-                    🔊
-                  </span>
-                </b>{" "}
-                : {word.es?.definition}
-              </p>
-            </details>
-            <details>
-              <summary className="text-gray-300 cursor-pointer">
-                Portuguese (pt)
-              </summary>
-              <p className="text-gray-400">
-                <b>
-                  <i className="capitalize">{word.pt?.word}</i>
-                  <span
-                    onClick={() => speakWordPT(word.pt?.word!)}
-                    className="cursor-pointer"
-                  >
-                    {" "}
-                    🔊
-                  </span>
-                </b>
-                : {word.pt?.definition}
-              </p>
-            </details>
-          </div>
-          <div className="px-6 py-2 text-gray-400 text-xs">
-            <div>Times Seen: {word.times_seen}</div>
-            <div>Status: {word.status}</div>
-            {word.createdAt && word.updatedAt && (
-              <>
-                <div>
-                  Created: {new Date(word.createdAt).toLocaleDateString()}
+
+          {isShowOnlyWord && (
+            <>
+              <ul className="px-6 list-disc">
+                {word.examples?.map((example, index) => (
+                  <li key={index} className="text-gray-300 text-sm mb-1">
+                    {example}
+                  </li>
+                ))}
+              </ul>
+              {word.img && (
+                <div className="p-4">
+                  <Image
+                    src={word.img}
+                    className="rounded-xl w-[200px] h-[180px]"
+                    alt="Name Image here"
+                  />
                 </div>
-                <div>
-                  Updated: {new Date(word.updatedAt).toLocaleDateString()}
-                </div>
-              </>
-            )}
-          </div>
+              )}
+              <div className="px-6 py-2">
+                <details className="mb-2">
+                  <summary className="text-gray-300 cursor-pointer">
+                    Spanish (es)
+                  </summary>
+                  <p className="text-gray-400">
+                    <b>
+                      <i className="capitalize">{word.es?.word}</i>
+                      <span
+                        onClick={() => speakWordES(word.es?.word!)}
+                        className="cursor-pointer"
+                      >
+                        {" "}
+                        🔊
+                      </span>
+                    </b>{" "}
+                    : {word.es?.definition}
+                  </p>
+                </details>
+                <details>
+                  <summary className="text-gray-300 cursor-pointer">
+                    Portuguese (pt)
+                  </summary>
+                  <p className="text-gray-400">
+                    <b>
+                      <i className="capitalize">{word.pt?.word}</i>
+                      <span
+                        onClick={() => speakWordPT(word.pt?.word!)}
+                        className="cursor-pointer"
+                      >
+                        {" "}
+                        🔊
+                      </span>
+                    </b>
+                    : {word.pt?.definition}
+                  </p>
+                </details>
+              </div>
+              <div className="px-6 py-2 text-gray-400 text-xs">
+                <div>Times Seen: {word.times_seen}</div>
+                <div>Status: {word.status}</div>
+                {word.createdAt && word.updatedAt && (
+                  <>
+                    <div>
+                      Created: {new Date(word.createdAt).toLocaleDateString()}
+                    </div>
+                    <div>
+                      Updated: {new Date(word.updatedAt).toLocaleDateString()}
+                    </div>
+                  </>
+                )}
+              </div>
+            </>
+          )}
         </>
       )}
     </div>
