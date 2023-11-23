@@ -80,7 +80,7 @@ export default function Home() {
     setUnique.forEach((word) => {
       const wordLowerCase = word.toLocaleLowerCase().replace(/[.,]/g, "");
       const wordExist = Dictonary.find(
-        (w) => w.word.toLocaleLowerCase() === wordLowerCase
+        (w) => w.word?.toLocaleLowerCase() === wordLowerCase
       );
       if (wordExist) {
         wordsKnown.push(wordLowerCase);
@@ -132,7 +132,7 @@ export default function Home() {
     wordLowerCase = wordLowerCase.replace(/^,+/g, "").replace(/,+$/g, "");
 
     const wordExist = Dictonary.find(
-      (w) => w.word.toLocaleLowerCase() === wordLowerCase
+      (w) => w.word?.toLocaleLowerCase() === wordLowerCase
     );
     const wordClean = word
       .replace(/[.,]/g, "")
@@ -165,14 +165,14 @@ export default function Home() {
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
       <div className="flex flex-col h-full overflow-auto">
         <div className="flex gap-4 p-4">
-          <NextLink href="/mywords" passHref>
+          <NextLink href="/worddb" passHref>
             <FaBook style={{ fontSize: 32 }} />
           </NextLink>
           <NextLink href="/sounds" passHref>
             <RiSpeakFill style={{ fontSize: 32 }} />
           </NextLink>
-          <button onClick={() => setIsModalListStories(true)}>
-            <FaWindowRestore style={{ fontSize: 32 }} />
+          <button onClick={() => setIsModalListStories(true)} className="flex">
+            <FaWindowRestore style={{ fontSize: 32 }} /> | {stories.length}
           </button>
         </div>
         <div className="flex-grow overflow-auto p-4">

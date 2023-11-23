@@ -21,9 +21,25 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-  await connect(); // Establecer conexión con MongoDB
-  const d = [    "tirelessly",
+  const d = [
 
+    "sacrificing",
+    "body",
+    "obtain",
+    "piece",
+    "cake'",
+    "easy",
+    "simple",
+    "do",
+    "conveys",
+    "completing",
+    "task",
+    "effortless",
+    "eating",
+    "delicious",
+    "moist",
+    "slice",
+    "cake"
   ];
 
   try {
@@ -42,19 +58,19 @@ export default async function handler(
         times_seen: 1,
       };
       if (payload.type_word !== null) {
+        await connect();
         const wordDB = await WordModel.create(payload);
         console.log("Saved con éxito: 🏁");
+        await disconnect();
       }
     }
 
-    await disconnect();
     res.status(200).json({ message: "Archivo procesado y guardado con éxito" });
   } catch (error) {
     console.log("Error: 🚨", error);
 
     res.status(201).json({ message: "AError" + error });
   } finally {
-    await disconnect();
     console.log("😇 Finalizado 🎉🎉");
   }
 }
