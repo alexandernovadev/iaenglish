@@ -164,16 +164,29 @@ export default function Home() {
   return (
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
       <div className="flex flex-col h-full overflow-auto">
-        <div className="flex gap-4 p-4">
-          <NextLink href="/worddb" passHref>
-            <FaBook style={{ fontSize: 32 }} />
-          </NextLink>
-          <NextLink href="/sounds" passHref>
-            <RiSpeakFill style={{ fontSize: 32 }} />
-          </NextLink>
-          <button onClick={() => setIsModalListStories(true)} className="flex">
-            <FaWindowRestore style={{ fontSize: 32 }} /> | {stories.length}
-          </button>
+        <div className="flex justify-between p-4">
+          <div className="flex gap-4">
+            <NextLink href="/worddb" passHref>
+              <FaBook style={{ fontSize: 32 }} />
+            </NextLink>
+            <NextLink href="/sounds" passHref>
+              <RiSpeakFill style={{ fontSize: 32 }} />
+            </NextLink>
+            <button
+              onClick={() => setIsModalListStories(true)}
+              className="flex"
+            >
+              <FaWindowRestore style={{ fontSize: 32 }} /> | {stories.length}
+            </button>
+          </div>
+          {activeStory?.subtitle?.includes("Lyrics by") && (
+            <div className="flex gap-4">
+              <audio controls>
+                <source src={`/${activeStory.title}.mp3`} type="audio/mpeg" />
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          )}
         </div>
         <div className="flex-grow overflow-auto p-4">
           <section className="flex justify-between">
@@ -204,7 +217,7 @@ export default function Home() {
         </div>
 
         <div className="flex flex-col gap-2 max-w-xl px-3">
-          <h1 className="flex-grow truncate text-lg first-line:capitalize font-bold text-yellow-300">
+          <h1 className="flex-grow truncate text-lg  font-bold text-yellow-300" contenteditable="true">
             {text ? text : "🗣️ Speak "}
           </h1>
         </div>

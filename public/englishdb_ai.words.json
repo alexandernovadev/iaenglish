@@ -30489,4 +30489,5752 @@
     "$date": "2023-11-23T03:27:09.837Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac33"
+  },
+  "es": {
+    "word": "análisis",
+    "definition": "Examen detallado de algo para conocer sus características o sus partes."
+  },
+  "pt": {
+    "word": "análise",
+    "definition": "Exame detalhado de algo para conhecer suas características ou suas partes."
+  },
+  "word": "analysis",
+  "ipa": "/ə'nælɪsɪs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Detailed examination of something to understand its characteristics or its parts.",
+  "examples": [
+    "The analysis of the water sample revealed contaminants.",
+    "A financial analysis is essential for the business plan.",
+    "The lab specializes in DNA analysis.",
+    "Her analysis of the situation was spot on.",
+    "The book provides a thorough analysis of the political system."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac34"
+  },
+  "es": {
+    "word": "comparativo",
+    "definition": "Que sirve para comparar o denota un grado mayor o menor de una cualidad."
+  },
+  "pt": {
+    "word": "comparativo",
+    "definition": "Que serve para comparar ou denota um grau maior ou menor de uma qualidade."
+  },
+  "word": "comparative",
+  "ipa": "/kəmˈpærətɪv/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Used to compare or denote a greater or lesser degree of a quality.",
+  "examples": [
+    "She did a comparative study of classical and modern art.",
+    "The comparative analysis showed significant differences.",
+    "His performance was comparatively better this year.",
+    "Comparative data is essential for the research.",
+    "The comparative quiet of the suburbs was appealing."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac35"
+  },
+  "es": {
+    "word": "superlativo",
+    "definition": "Que expresa el grado más alto de una cualidad."
+  },
+  "pt": {
+    "word": "superlativo",
+    "definition": "Que expressa o grau mais alto de uma qualidade."
+  },
+  "word": "superlative",
+  "ipa": "/suːˈpɜːrlətɪv/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Expressing the highest degree of a quality.",
+  "examples": [
+    "He received superlative praise for his work.",
+    "Her performance was the superlative in the competition.",
+    "This is a superlative example of medieval architecture.",
+    "He is known for his superlative skills in negotiation.",
+    "The wine received superlative reviews."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac36"
+  },
+  "es": {
+    "word": "estructuras",
+    "definition": "Modo en que están organizadas o distribuidas las diferentes partes de un conjunto."
+  },
+  "pt": {
+    "word": "estruturas",
+    "definition": "Modo como estão organizadas ou distribuídas as diferentes partes de um conjunto."
+  },
+  "word": "structures",
+  "ipa": "/ˈstrʌktʃərz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The manner in which the different parts of a whole are organized or distributed.",
+  "examples": [
+    "The earthquake damaged several structures in the city.",
+    "Social structures influence our daily lives.",
+    "The course examines the structures of the human brain.",
+    "They studied the structures of ancient temples.",
+    "The company is implementing new management structures."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac37"
+  },
+  "es": {
+    "word": "arte",
+    "definition": "Actividad humana que busca expresar ideas, emociones o, en general, una visión del mundo a través de diversos recursos."
+  },
+  "pt": {
+    "word": "arte",
+    "definition": "Atividade humana que busca expressar ideias, emoções ou, em geral, uma visão do mundo através de diversos recursos."
+  },
+  "word": "art",
+  "ipa": "/ɑːrt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Human activity that seeks to express ideas, emotions, or a worldview through various means.",
+  "examples": [
+    "The museum showcases art from different cultures.",
+    "She has always had a passion for art.",
+    "Art can be a powerful form of expression.",
+    "He studied art history in college.",
+    "The gallery features contemporary art."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac38"
+  },
+  "es": {
+    "word": "comparando",
+    "definition": "Acción de examinar las similitudes y diferencias entre dos o más elementos."
+  },
+  "pt": {
+    "word": "comparando",
+    "definition": "Ação de examinar as semelhanças e diferenças entre dois ou mais elementos."
+  },
+  "word": "comparing",
+  "ipa": "/kəmˈpɛərɪŋ/",
+  "type_word": [
+    {
+      "name": "Gerund",
+      "sigle": "ger.",
+      "description": "Verb forms ending in -ing that function as nouns."
+    }
+  ],
+  "definition": "The act of examining similarities and differences between two or more elements.",
+  "examples": [
+    "Comparing different cultures can be enlightening.",
+    "She spent the afternoon comparing prices at different stores.",
+    "Comparing the old model with the new one shows significant improvements.",
+    "He enjoys comparing notes with his colleagues.",
+    "Comparing their results, they noticed several discrepancies."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac39"
+  },
+  "es": {
+    "word": "contrastando",
+    "definition": "Poner en comparación dos o más cosas para mostrar sus diferencias."
+  },
+  "pt": {
+    "word": "contrastando",
+    "definition": "Colocar em comparação duas ou mais coisas para mostrar suas diferenças."
+  },
+  "word": "contrasting",
+  "ipa": "/ˈkɒntræstɪŋ/",
+  "type_word": [
+    {
+      "name": "Gerund",
+      "sigle": "ger.",
+      "description": "Verb forms ending in -ing that function as nouns."
+    }
+  ],
+  "definition": "Placing two or more things in comparison to show their differences.",
+  "examples": [
+    "Contrasting the two paintings reveals their distinct styles.",
+    "She enjoyed contrasting urban and rural lifestyles.",
+    "Contrasting their approaches shows a clear difference in methodology.",
+    "The essay involved contrasting classical and modern theories.",
+    "Contrasting colors can create a striking effect."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac3a"
+  },
+  "es": {
+    "word": "expresar",
+    "definition": "Manifestar pensamientos, sentimientos o información."
+  },
+  "pt": {
+    "word": "expressar",
+    "definition": "Manifestar pensamentos, sentimentos ou informações."
+  },
+  "word": "express",
+  "ipa": "/ɪkˈspres/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To convey thoughts, feelings, or information.",
+  "examples": [
+    "He found it hard to express his feelings.",
+    "The artist uses color to express emotion.",
+    "Please express your opinion on the matter.",
+    "She expressed gratitude to her supporters.",
+    "The report expresses concern over the issue."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac3b"
+  },
+  "es": {
+    "word": "comparaciones",
+    "definition": "Acciones de señalar o examinar las similitudes o diferencias entre dos o más cosas."
+  },
+  "pt": {
+    "word": "comparações",
+    "definition": "Ações de apontar ou examinar as semelhanças ou diferenças entre duas ou mais coisas."
+  },
+  "word": "comparisons",
+  "ipa": "/kəmˈpærɪsənz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Actions of pointing out or examining the similarities or differences between two or more things.",
+  "examples": [
+    "Comparisons between the two models are inevitable.",
+    "The report includes comparisons of the two systems.",
+    "We made comparisons between the two products.",
+    "Linguists have made comparisons between the two languages.",
+    "Comparisons of the two paintings reveal their similarities."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac3c"
+  },
+  "es": {
+    "word": "identificar",
+    "definition": "Reconocer a una persona o cosa entre las demás por sus rasgos o características."
+  },
+  "pt": {
+    "word": "identificar",
+    "definition": "Reconhecer uma pessoa ou coisa dentre as demais por suas características ou traços."
+  },
+  "word": "identify",
+  "ipa": "/aɪˈdɛntɪfaɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Recognize or distinguish (someone or something) by their characteristics or traits.",
+  "examples": [
+    "It's important to identify the problem areas.",
+    "She identified the man at the parade.",
+    "They are trying to identify what went wrong.",
+    "Can you identify the source of the issue?",
+    "He was able to identify the bird by its song."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac3d"
+  },
+  "es": {
+    "word": "más alto",
+    "definition": "De la mayor altura."
+  },
+  "pt": {
+    "word": "mais alto",
+    "definition": "De maior altura."
+  },
+  "word": "highest",
+  "ipa": "/ˈhaɪɪst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Of the greatest height.",
+  "examples": [
+    "The highest mountain in the world.",
+    "She scored the highest in the class.",
+    "This is the highest I've ever jumped.",
+    "The highest level of achievement.",
+    "They reached the highest point of the hill."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac3e"
+  },
+  "es": {
+    "word": "más bajo",
+    "definition": "De menor altura."
+  },
+  "pt": {
+    "word": "mais baixo",
+    "definition": "De menor altura."
+  },
+  "word": "lowest",
+  "ipa": "/ˈloʊɪst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Of the least height.",
+  "examples": [
+    "The lowest point in the valley.",
+    "He got the lowest score on the test.",
+    "This is the lowest I've ever felt.",
+    "The lowest temperature recorded was -20 degrees.",
+    "They reached the lowest level of the building."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac3f"
+  },
+  "es": {
+    "word": "grado",
+    "definition": "Una etapa en una escala de intensidad o cantidad."
+  },
+  "pt": {
+    "word": "grau",
+    "definition": "Um estágio em uma escala de intensidade ou quantidade."
+  },
+  "word": "degree",
+  "ipa": "/dɪˈɡriː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A step or stage in a process, scale, or series.",
+  "examples": [
+    "She has a degree in biology.",
+    "The angle was measured at 30 degrees.",
+    "There are varying degrees of success.",
+    "He suffered first-degree burns.",
+    "The water was heated to a certain degree."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac40"
+  },
+  "es": {
+    "word": "permitir",
+    "definition": "Dar autorización o posibilidad para algo."
+  },
+  "pt": {
+    "word": "permitir",
+    "definition": "Dar autorização ou possibilidade para algo."
+  },
+  "word": "allow",
+  "ipa": "/əˈlaʊ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Give permission or opportunity for something.",
+  "examples": [
+    "The rules allow you to enter.",
+    "She was allowed to go home early.",
+    "Allow me to explain.",
+    "This ticket allows you unlimited travel.",
+    "Do not allow the water to boil."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac41"
+  },
+  "es": {
+    "word": "diferencias",
+    "definition": "Aspectos en los que algo es distinto de otra cosa."
+  },
+  "pt": {
+    "word": "diferenças",
+    "definition": "Aspectos em que algo é diferente de outra coisa."
+  },
+  "word": "differences",
+  "ipa": "/ˈdɪfərənsɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Ways in which things are not the same as each other.",
+  "examples": [
+    "The cultural differences between the countries are vast.",
+    "They discussed the differences in their opinions.",
+    "There are many differences between the two plans.",
+    "We need to respect our differences.",
+    "The differences in color are quite noticeable."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac42"
+  },
+  "es": {
+    "word": "similitudes",
+    "definition": "Aspectos en los que algo se asemeja a otra cosa."
+  },
+  "pt": {
+    "word": "similaridades",
+    "definition": "Aspectos em que algo se assemelha a outra coisa."
+  },
+  "word": "similarities",
+  "ipa": "/ˌsɪmɪˈlærɪtiz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Ways in which things are alike or comparable.",
+  "examples": [
+    "There are many similarities between the two theories.",
+    "They were discussing the similarities in their research.",
+    "The similarities between the siblings are uncanny.",
+    "We should focus on our similarities, not our differences.",
+    "Despite the similarities, the two cases are quite different."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac43"
+  },
+  "es": {
+    "word": "objetos",
+    "definition": "Cosas materiales que pueden ser percibidas o tocadas."
+  },
+  "pt": {
+    "word": "objetos",
+    "definition": "Coisas materiais que podem ser percebidas ou tocadas."
+  },
+  "word": "objects",
+  "ipa": "/ˈɒbdʒɛkts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Material things that can be seen and touched.",
+  "examples": [
+    "He collected various objects from his travels.",
+    "The room was filled with antique objects.",
+    "Please remove all objects from the table.",
+    "The museum displays objects of historical interest.",
+    "She arranged the objects in a specific order."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac44"
+  },
+  "es": {
+    "word": "personas",
+    "definition": "Ser humano individual."
+  },
+  "pt": {
+    "word": "pessoas",
+    "definition": "Ser humano individual."
+  },
+  "word": "people",
+  "ipa": "/ˈpiːpəl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Human beings in general or considered collectively.",
+  "examples": [
+    "There were a lot of people at the concert.",
+    "She enjoys meeting new people.",
+    "People say it's going to rain today.",
+    "Different people have different opinions.",
+    "People are waiting for the announcement."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac45"
+  },
+  "es": {
+    "word": "ideas",
+    "definition": "Pensamientos o concepciones formadas por la mente."
+  },
+  "pt": {
+    "word": "ideias",
+    "definition": "Pensamentos ou concepções formadas pela mente."
+  },
+  "word": "ideas",
+  "ipa": "/aɪˈdiːəz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Thoughts or conceptions formed by the mind.",
+  "examples": [
+    "She has some interesting ideas.",
+    "I have an idea for a new product.",
+    "He has no idea what to do.",
+    "I have no idea what you're talking about.",
+    "I have a good idea."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac46"
+  },
+  "es": {
+    "word": "comparar",
+    "definition": "Examinar o analizar dos o más objetos o ideas para descubrir sus relaciones o diferencias."
+  },
+  "pt": {
+    "word": "comparar",
+    "definition": "Examinar ou analisar dois ou mais objetos ou ideias para descobrir suas relações ou diferenças."
+  },
+  "word": "compare",
+  "ipa": "/kəmˈpeər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Examine or analyze two or more items to discover their relations or differences.",
+  "examples": [
+    "Let's compare the two solutions.",
+    "You cannot compare apples to oranges.",
+    "Compare your results with the standard values.",
+    "Historians compare ancient civilizations.",
+    "They compared their experiences."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac47"
+  },
+  "es": {
+    "word": "comparado",
+    "definition": "Participio pasado de 'comparar', utilizado para describir algo que ha sido examinado en relación con otro objeto o idea."
+  },
+  "pt": {
+    "word": "comparado",
+    "definition": "Particípio passado de 'comparar', usado para descrever algo que foi examinado em relação a outro objeto ou ideia."
+  },
+  "word": "compared",
+  "ipa": "/kəmˈpeərd/",
+  "type_word": [
+    {
+      "name": "Participle",
+      "sigle": "part.",
+      "description": "Verb forms used as adjectives or to form verb tenses."
+    }
+  ],
+  "definition": "Past participle of 'compare', used to describe something that has been examined in relation to another object or idea.",
+  "examples": [
+    "Compared to last year, our profits have increased.",
+    "His skills are nothing compared to hers.",
+    "Compared with the old model, this one is more advanced.",
+    "The risks involved are minimal compared to the potential rewards.",
+    "His writing style is often compared to Hemingway's."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac48"
+  },
+  "es": {
+    "word": "palabra",
+    "definition": "Unidad lingüística con significado, que puede ser pronunciada o escrita."
+  },
+  "pt": {
+    "word": "palavra",
+    "definition": "Unidade linguística com significado, que pode ser pronunciada ou escrita."
+  },
+  "word": "word",
+  "ipa": "/wɜːrd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A single distinct meaningful element of speech or writing.",
+  "examples": [
+    "The word 'language' has six letters.",
+    "She whispered a word in his ear.",
+    "Can you define this word?",
+    "The word 'hope' is important in every language.",
+    "I forgot the word I wanted to use."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac49"
+  },
+  "es": {
+    "word": "más alto",
+    "definition": "Comparativo de 'alto', utilizado para indicar que algo tiene una altura mayor en comparación con otra cosa."
+  },
+  "pt": {
+    "word": "mais alto",
+    "definition": "Comparativo de 'alto', usado para indicar que algo é mais elevado em altura em comparação com outra coisa."
+  },
+  "word": "taller",
+  "ipa": "/ˈtɔːlər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Comparative form of 'tall', used to indicate that something has a greater height compared to another thing.",
+  "examples": [
+    "He is taller than his brother.",
+    "These trees are taller than those.",
+    "She grew taller over the summer.",
+    "The new building is much taller.",
+    "Taller athletes have an advantage in basketball."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac4a"
+  },
+  "es": {
+    "word": "que",
+    "definition": "Utilizado para introducir una cláusula especificativa o comparativa."
+  },
+  "pt": {
+    "word": "que",
+    "definition": "Usado para introduzir uma cláusula especificativa ou comparativa."
+  },
+  "word": "than",
+  "ipa": "/ðæn/",
+  "type_word": [
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases."
+    },
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence."
+    }
+  ],
+  "definition": "Used to introduce a clause of comparison.",
+  "examples": [
+    "He is taller than I am.",
+    "More than one person complained.",
+    "She is better at tennis than he.",
+    "They read more books than we did.",
+    "It's more expensive than I thought."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac4b"
+  },
+  "es": {
+    "word": "frase",
+    "definition": "Secuencia de palabras que forma una unidad de sentido y que contiene un verbo."
+  },
+  "pt": {
+    "word": "frase",
+    "definition": "Sequência de palavras que forma uma unidade de sentido e contém um verbo."
+  },
+  "word": "sentence",
+  "ipa": "/ˈsɛntəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command.",
+  "examples": [
+    "The sentence was easy to understand.",
+    "He wrote a long sentence.",
+    "A sentence should have proper punctuation.",
+    "The judge gave him a five-year sentence.",
+    "This sentence contains six words."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac4c"
+  },
+  "es": {
+    "word": "altura",
+    "definition": "Medida de algo de arriba abajo o de un nivel del suelo hacia arriba."
+  },
+  "pt": {
+    "word": "altura",
+    "definition": "Medida de algo de cima para baixo ou de um nível do solo para cima."
+  },
+  "word": "height",
+  "ipa": "/haɪt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The measurement of someone or something from head to foot or from base to top.",
+  "examples": [
+    "His height is six feet.",
+    "The height of the building is impressive.",
+    "She measured the height of the tree.",
+    "The mountain's height is over 3000 meters.",
+    "Height is an advantage in basketball."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac4d"
+  },
+  "es": {
+    "word": "forma",
+    "definition": "La apariencia externa o contorno de algo."
+  },
+  "pt": {
+    "word": "forma",
+    "definition": "A aparência externa ou contorno de algo."
+  },
+  "word": "form",
+  "ipa": "/fɔːrm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The visible shape or configuration of something.",
+  "examples": [
+    "The clouds formed a strange shape.",
+    "Fill out this application form.",
+    "The sculpture had an unusual form.",
+    "He formed a new company.",
+    "The players formed a circle."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655f973841e776404fb7ac4e"
+  },
+  "es": {
+    "word": "adjetivo",
+    "definition": "Palabra que describe o modifica un sustantivo o un pronombre."
+  },
+  "pt": {
+    "word": "adjetivo",
+    "definition": "Palavra que descreve ou modifica um substantivo ou um pronome."
+  },
+  "word": "adjective",
+  "ipa": "/ˈædʒɪktɪv/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A word naming an attribute of a noun, such as sweet, red, or technical.",
+  "examples": [
+    "The word 'big' is an adjective.",
+    "The adjective 'big' is used to describe the noun 'house'.",
+    "The adjective 'big' is used to modify the noun 'house'.",
+    "The adjective 'big' is used to qualify the noun 'house'.",
+    "The adjective 'big' is used to characterize the noun 'house'."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac4f"
+  },
+  "es": {
+    "word": "yo",
+    "definition": "Primera persona del singular del pronombre personal."
+  },
+  "pt": {
+    "word": "eu",
+    "definition": "Primeira pessoa do singular do pronome pessoal."
+  },
+  "word": "i",
+  "ipa": "/aɪ/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun."
+    }
+  ],
+  "definition": "First person singular pronoun.",
+  "examples": [
+    "I went to the store.",
+    "I think therefore I am.",
+    "I will call you tomorrow.",
+    "I love to read books.",
+    "I can play the piano."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac50"
+  },
+  "es": {
+    "word": "hice",
+    "definition": "Primera persona del singular del pasado simple del verbo hacer."
+  },
+  "pt": {
+    "word": "fiz",
+    "definition": "Primeira pessoa do singular do pretérito perfeito do verbo fazer."
+  },
+  "word": "made",
+  "ipa": "/meɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Past tense of the verb 'make'.",
+  "examples": [
+    "She made a cake.",
+    "He made a mistake.",
+    "They made a decision.",
+    "I made a promise.",
+    "We made a plan."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac51"
+  },
+  "es": {
+    "word": "letras",
+    "definition": "Conjunto de palabras que componen una canción o poema."
+  },
+  "pt": {
+    "word": "letras",
+    "definition": "Conjunto de palavras que compõem uma música ou poema."
+  },
+  "word": "lyrics",
+  "ipa": "/ˈlɪrɪks/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The words of a song.",
+  "examples": [
+    "She writes her own lyrics.",
+    "The lyrics of the song are powerful.",
+    "He forgot the lyrics on stage.",
+    "The band released the lyrics online.",
+    "The lyrics resonated with the audience."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac52"
+  },
+  "es": {
+    "word": "besar",
+    "definition": "Tocar algo con los labios, especialmente como muestra de amor o afecto."
+  },
+  "pt": {
+    "word": "beijar",
+    "definition": "Tocar algo com os lábios, especialmente como demonstração de amor ou afeto."
+  },
+  "word": "kiss",
+  "ipa": "/kɪs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To touch with the lips as a sign of affection, greeting, respect, or amorous intention.",
+  "examples": [
+    "They kiss each other goodbye.",
+    "He kissed her on the cheek.",
+    "The mother kissed her child goodnight.",
+    "They shared their first kiss under the stars.",
+    "He longed to kiss her."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac53"
+  },
+  "es": {
+    "word": "esta noche",
+    "definition": "Referente a la noche del día actual."
+  },
+  "pt": {
+    "word": "esta noite",
+    "definition": "Referente à noite do dia atual."
+  },
+  "word": "tonight",
+  "ipa": "/təˈnaɪt/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "This night or the night of this day.",
+  "examples": [
+    "We're going out tonight.",
+    "The stars are beautiful tonight.",
+    "He has a meeting tonight.",
+    "Are you free tonight?",
+    "I'll finish the project tonight."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac54"
+  },
+  "es": {
+    "word": "querer",
+    "definition": "Sentir deseo o necesidad de algo o alguien."
+  },
+  "pt": {
+    "word": "querer",
+    "definition": "Sentir desejo ou necessidade de algo ou alguém."
+  },
+  "word": "want",
+  "ipa": "/wɒnt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To have a desire to possess or do something.",
+  "examples": [
+    "I want a cup of coffee.",
+    "She wants to travel the world.",
+    "They want a bigger house.",
+    "He wants to learn to play guitar.",
+    "Do you want to join us?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac55"
+  },
+  "es": {
+    "word": "dar",
+    "definition": "Transferir la posesión de algo a alguien."
+  },
+  "pt": {
+    "word": "dar",
+    "definition": "Transferir a posse de algo para alguém."
+  },
+  "word": "give",
+  "ipa": "/ɡɪv/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To present voluntarily and without expecting compensation.",
+  "examples": [
+    "Please give her the message.",
+    "I will give you a call.",
+    "They give to charity every year.",
+    "Give me your hand.",
+    "He gave a lot of effort in the project."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac56"
+  },
+  "es": {
+    "word": "oscuridad",
+    "definition": "Ausencia de luz o iluminación, haciendo difícil o imposible ver."
+  },
+  "pt": {
+    "word": "escuridão",
+    "definition": "Ausência de luz ou iluminação, tornando difícil ou impossível ver."
+  },
+  "word": "darkness",
+  "ipa": "/ˈdɑːknəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The absence of light, making it difficult or impossible to see.",
+  "examples": [
+    "He was afraid of the darkness.",
+    "The room was filled with complete darkness.",
+    "She found comfort in the darkness of the night.",
+    "The darkness of the forest was intimidating.",
+    "They used a flashlight to navigate through the darkness."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac57"
+  },
+  "es": {
+    "word": "hay",
+    "definition": "Forma del verbo 'haber' usada para expresar la existencia de algo."
+  },
+  "pt": {
+    "word": "há",
+    "definition": "Forma do verbo 'haver' usada para expressar a existência de algo."
+  },
+  "word": "there's",
+  "ipa": "/ðeərz/",
+  "type_word": [
+    {
+      "name": "Contraction",
+      "sigle": "contr.",
+      "description": "A shortened form of a group of words."
+    }
+  ],
+  "definition": "Contraction of 'there is', used to indicate the existence of something.",
+  "examples": [
+    "There's a cat in the garden.",
+    "There's no time to waste.",
+    "There's someone at the door.",
+    "There's a lot to consider.",
+    "There's a mistake in the document."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac58"
+  },
+  "es": {
+    "word": "tu",
+    "definition": "Pronombre posesivo que indica que algo pertenece a la persona con la que se habla."
+  },
+  "pt": {
+    "word": "seu",
+    "definition": "Pronome possessivo que indica que algo pertence à pessoa com quem se fala."
+  },
+  "word": "your",
+  "ipa": "/jɔːr/",
+  "type_word": [
+    {
+      "name": "Determiner",
+      "sigle": "det.",
+      "description": "Words that modify nouns or noun phrases and determine specificity of the noun phrase."
+    }
+  ],
+  "definition": "Belonging to or associated with the person or people that the speaker is addressing.",
+  "examples": [
+    "Your house is beautiful.",
+    "Your car is fast.",
+    "Your family is lovely.",
+    "Your dog is cute.",
+    "Your children are smart."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac59"
+  },
+  "es": {
+    "word": "canción",
+    "definition": "Composición musical con letra."
+  },
+  "pt": {
+    "word": "canção",
+    "definition": "Composição musical com letra."
+  },
+  "word": "song",
+  "ipa": "/sɒŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A musical composition with lyrics.",
+  "examples": [
+    "She wrote a song for her mother.",
+    "The song was a hit.",
+    "He sang a song for the audience.",
+    "The song was stuck in my head.",
+    "The song was about love."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac5a"
+  },
+  "es": {
+    "word": "pies",
+    "definition": "Extremidades del cuerpo humano usadas para caminar y sostenerse."
+  },
+  "pt": {
+    "word": "pés",
+    "definition": "Extremidades do corpo humano usadas para caminhar e sustentar-se."
+  },
+  "word": "feet",
+  "ipa": "/fiːt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The lower extremity of the leg below the ankle, on which a person stands or walks.",
+  "examples": [
+    "She stood on her feet.",
+    "He has size 11 feet.",
+    "The cat has four feet.",
+    "She dipped her feet in the pool.",
+    "They measured the room in feet."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac5b"
+  },
+  "es": {
+    "word": "causar",
+    "definition": "Ser la razón o el origen de algo."
+  },
+  "pt": {
+    "word": "causar",
+    "definition": "Ser a razão ou a origem de algo."
+  },
+  "word": "cause",
+  "ipa": "/kɔːz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Make (something) happen.",
+  "examples": [
+    "The storm caused a power outage.",
+    "Smoking can cause cancer.",
+    "Her speech caused controversy.",
+    "The leak caused water damage.",
+    "The policy change caused confusion."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac5c"
+  },
+  "es": {
+    "word": "niña",
+    "definition": "Una joven o niña pequeña."
+  },
+  "pt": {
+    "word": "menina",
+    "definition": "Uma jovem ou menina pequena."
+  },
+  "word": "girl",
+  "ipa": "/ɡɜːrl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A female child or young woman.",
+  "examples": [
+    "The little girl played with dolls.",
+    "She is a smart girl.",
+    "The girl ran across the field.",
+    "A young girl entered the room.",
+    "That girl is my sister."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac5d"
+  },
+  "es": {
+    "word": "eran",
+    "definition": "Forma del verbo 'ser' o 'estar' en pasado."
+  },
+  "pt": {
+    "word": "eram",
+    "definition": "Forma do verbo 'ser' ou 'estar' no passado."
+  },
+  "word": "were",
+  "ipa": "/wɜːr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Auxiliary Verb",
+      "sigle": "aux.",
+      "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'."
+    }
+  ],
+  "definition": "Past tense of 'be'.",
+  "examples": [
+    "They were happy together.",
+    "We were at the party last night.",
+    "The books were on the table.",
+    "You were my best friend.",
+    "The flowers were blooming."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac5e"
+  },
+  "es": {
+    "word": "me",
+    "definition": "Forma reflexiva o enfática de 'yo'."
+  },
+  "pt": {
+    "word": "me",
+    "definition": "Forma reflexiva ou enfática de 'eu'."
+  },
+  "word": "me",
+  "ipa": "/miː/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun."
+    }
+  ],
+  "definition": "Used by a speaker to refer to themselves as the object of a verb or preposition.",
+  "examples": [
+    "He gave me the book.",
+    "Can you help me?",
+    "She told me a secret.",
+    "Send me the details.",
+    "They asked me to join."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac5f"
+  },
+  "es": {
+    "word": "bebé",
+    "definition": "Un niño muy pequeño, especialmente uno recién nacido."
+  },
+  "pt": {
+    "word": "bebê",
+    "definition": "Uma criança muito pequena, especialmente uma recém-nascida."
+  },
+  "word": "baby",
+  "ipa": "/ˈbeɪbi/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A very young child, especially one newly or recently born.",
+  "examples": [
+    "The baby was sleeping quietly.",
+    "She is a beautiful baby girl.",
+    "They adopted a baby boy.",
+    "The baby needs a diaper change.",
+    "She held the baby in her arms."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac60"
+  },
+  "es": {
+    "word": "no puedo",
+    "definition": "Forma contraída de 'no puedo', que indica incapacidad o prohibición."
+  },
+  "pt": {
+    "word": "não posso",
+    "definition": "Forma contraída de 'não posso', indicando incapacidade ou proibição."
+  },
+  "word": "can't",
+  "ipa": "/kænt/",
+  "type_word": [
+    {
+      "name": "Auxiliary Verb",
+      "sigle": "aux.",
+      "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'."
+    }
+  ],
+  "definition": "Contraction of 'cannot', indicating inability or prohibition.",
+  "examples": [
+    "I can't find my keys.",
+    "You can't go there alone.",
+    "She can't eat peanuts.",
+    "We can't afford to be late.",
+    "He can't speak Spanish."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac61"
+  },
+  "es": {
+    "word": "conseguir",
+    "definition": "Obtener o adquirir algo."
+  },
+  "pt": {
+    "word": "obter",
+    "definition": "Conseguir ou adquirir algo."
+  },
+  "word": "get",
+  "ipa": "/ɡɛt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Come to have or hold (something); receive.",
+  "examples": [
+    "I need to get a new phone.",
+    "She got a job offer.",
+    "We got permission to go.",
+    "He got a surprise gift.",
+    "They got a chance to explain."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa3e741e776404fb7ac62"
+  },
+  "es": {
+    "word": "suficiente",
+    "definition": "En cantidad o grado necesario o adecuado."
+  },
+  "pt": {
+    "word": "suficiente",
+    "definition": "Em quantidade ou grau necessário ou adequado."
+  },
+  "word": "enough",
+  "ipa": "/ɪˈnʌf/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "As much or as many as required.",
+  "examples": [
+    "I have enough money.",
+    "She doesn't have enough time.",
+    "We ate enough food.",
+    "He didn't sleep enough.",
+    "They didn't study enough."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac63"
+  },
+  "es": {
+    "word": "ojos",
+    "definition": "Órganos de la visión en los seres humanos y animales."
+  },
+  "pt": {
+    "word": "olhos",
+    "definition": "Órgãos da visão em seres humanos e animais."
+  },
+  "word": "eyes",
+  "ipa": "/aɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The visual organs in humans and animals.",
+  "examples": [
+    "Her eyes sparkled with joy.",
+    "He closed his eyes and fell asleep.",
+    "The cat's eyes glowed in the dark.",
+    "She has blue eyes.",
+    "He wore sunglasses to protect his eyes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac64"
+  },
+  "es": {
+    "word": "sentir",
+    "definition": "Experimentar sensaciones a través de los sentidos."
+  },
+  "pt": {
+    "word": "sentir",
+    "definition": "Experimentar sensações através dos sentidos."
+  },
+  "word": "feel",
+  "ipa": "/fiːl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To experience sensations through the senses.",
+  "examples": [
+    "I feel cold in this room.",
+    "She felt happy after hearing the good news.",
+    "He can feel the texture with his fingers.",
+    "They feel strongly about this issue.",
+    "I feel tired after the long journey."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac65"
+  },
+  "es": {
+    "word": "magia",
+    "definition": "El arte de producir fenómenos extraordinarios mediante trucos o poderes sobrenaturales."
+  },
+  "pt": {
+    "word": "magia",
+    "definition": "A arte de produzir fenômenos extraordinários através de truques ou poderes sobrenaturais."
+  },
+  "word": "magic",
+  "ipa": "/ˈmædʒɪk/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The art of producing extraordinary phenomena by tricks or supernatural powers.",
+  "examples": [
+    "The magician performed amazing magic tricks.",
+    "She believes in the magic of love.",
+    "The story is full of magic and adventure.",
+    "He used a magic wand in his act.",
+    "The room was decorated to create a magic atmosphere."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac66"
+  },
+  "es": {
+    "word": "salvaje",
+    "definition": "Referente a lo no domesticado o no cultivado, en estado natural."
+  },
+  "pt": {
+    "word": "selvagem",
+    "definition": "Referente ao que não é domesticado ou cultivado, em estado natural."
+  },
+  "word": "wild",
+  "ipa": "/waɪld/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Pertaining to that which is not domesticated or cultivated, in a natural state.",
+  "examples": [
+    "The wild landscape was breathtaking.",
+    "He saw a wild tiger in the jungle.",
+    "Her wild imagination led to creative ideas.",
+    "The party got a bit wild later in the evening.",
+    "They went on a wild adventure."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac67"
+  },
+  "es": {
+    "word": "nosotros estamos",
+    "definition": "Forma contraída de 'nosotros estamos', usada para expresar el estado o la acción en la que se encuentran el hablante y su grupo."
+  },
+  "pt": {
+    "word": "nós estamos",
+    "definition": "Forma contraída de 'nós estamos', usada para expressar o estado ou a açãom que o falante e seu grupo se encontram."
+  },
+  "word": "we're",
+  "ipa": "/wiːr/",
+  "type_word": [
+    {
+      "name": "Contraction",
+      "sigle": "contr.",
+      "description": "A shortened form of a word or group of words, with the omitted letters often replaced in written English by an apostrophe."
+    }
+  ],
+  "definition": "Contracted form of 'we are', used to express the state or action in which the speaker and their group are involved.",
+  "examples": [
+    "We're going to the park.",
+    "We're happy with the results.",
+    "We're considering your proposal.",
+    "We're looking forward to the weekend.",
+    "We're not sure about this decision."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac68"
+  },
+  "es": {
+    "word": "vamos a",
+    "definition": "Forma contraída de 'going to', utilizada para expresar una acción futura o una intención."
+  },
+  "pt": {
+    "word": "vamos",
+    "definition": "Forma contraída de 'going to', usada para expressar uma ação futura ou uma intenção."
+  },
+  "word": "gonna",
+  "ipa": "/ˈgɒnə/",
+  "type_word": [
+    {
+      "name": "Contraction",
+      "sigle": "contr.",
+      "description": "A shortened form of a word or group of words, with the omitted letters often replaced in written English by an apostrophe."
+    }
+  ],
+  "definition": "Contracted form of 'going to', used to express a future action or intention.",
+  "examples": [
+    "We're gonna watch a movie tonight.",
+    "I'm gonna start exercising tomorrow.",
+    "She's gonna call you later.",
+    "They're gonna travel next month.",
+    "He's gonna fix it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac69"
+  },
+  "es": {
+    "word": "hacer",
+    "definition": "Realizar una acción o trabajo."
+  },
+  "pt": {
+    "word": "fazer",
+    "definition": "Realizar uma ação ou trabalho."
+  },
+  "word": "make",
+  "ipa": "/meɪk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To perform an action or task.",
+  "examples": [
+    "She wants to make a cake.",
+    "They make a great team.",
+    "He made a mistake.",
+    "Can you make a call?",
+    "I'll make arrangements for the trip."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa53341e776404fb7ac6a"
+  },
+  "es": {
+    "word": "oh",
+    "definition": "Exclamación usada para expresar sorpresa, dolor, placer, etc."
+  },
+  "pt": {
+    "word": "oh",
+    "definition": "Exclamação usada para expressar surpresa, dor, prazer, etc."
+  },
+  "word": "oh",
+  "ipa": "/oʊ/",
+  "type_word": [
+    {
+      "name": "Interjection",
+      "sigle": "interj.",
+      "description": "Words used to express emotion or a sudden utterance."
+    }
+  ],
+  "definition": "An exclamation used to express surprise, pain, pleasure, etc.",
+  "examples": [
+    "Oh, I didn't see you there!",
+    "Oh no, I forgot my keys.",
+    "Oh, that's great news!",
+    "Oh, it hurts!",
+    "Oh, what a beautiful view!"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa5e541e776404fb7ac6b"
+  },
+  "es": {
+    "word": "amando",
+    "definition": "Expresión de la acción de amar, en forma continua o en progreso."
+  },
+  "pt": {
+    "word": "amando",
+    "definition": "Expressão da ação de amar, de forma contínua ou em progresso."
+  },
+  "word": "lovin'",
+  "ipa": "/ˈlʌv.ɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Gerund",
+      "sigle": "ger.",
+      "description": "Verb forms ending in -ing that function as nouns."
+    }
+  ],
+  "definition": "A casual or colloquial form of 'loving', often used in songs or informal speech.",
+  "examples": [
+    "She's lovin' the new job.",
+    "I'm just lovin' this weather.",
+    "They're lovin' every moment of their vacation.",
+    "He keeps lovin' her despite everything.",
+    "We're really lovin' this music."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fa5e541e776404fb7ac6c"
+  },
+  "es": {
+    "word": "porque",
+    "definition": "Expresión utilizada para introducir una razón o causa."
+  },
+  "pt": {
+    "word": "porque",
+    "definition": "Expressão usada para introduzir uma razão ou causa."
+  },
+  "word": "'cause",
+  "ipa": "/kɔːz/",
+  "type_word": [
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases."
+    }
+  ],
+  "definition": "Colloquial contraction of 'because', often used in informal speech or writing.",
+  "examples": [
+    "I left early 'cause I was tired.",
+    "She didn't come 'cause she was sick.",
+    "We're going out to eat 'cause it's late.",
+    "I can't join you 'cause I have work.",
+    "He's upset 'cause he lost the game."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac6d"
+  },
+  "es": {
+    "word": "Grooveando",
+    "definition": "En el acto de disfrutar, relajarse, especialmente al ritmo de la música."
+  },
+  "pt": {
+    "word": "Groovando",
+    "definition": "No ato de curtir, relaxar, especialmente ao ritmo da música."
+  },
+  "word": "groovin'",
+  "ipa": "/ˈɡruːvɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Engaged in or enjoying something, especially music.",
+  "examples": [
+    "They were groovin' to the beat.",
+    "I spent the evening groovin' with friends.",
+    "She was groovin' on the dance floor.",
+    "Everyone is groovin' to the band's new song.",
+    "He was groovin' to his favorite tune."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac6e"
+  },
+  "es": {
+    "word": "Porque",
+    "definition": "Forma coloquial de 'por qué', utilizada para preguntar la razón o el motivo de algo."
+  },
+  "pt": {
+    "word": "'cause",
+    "definition": "Forma coloquial de 'porque', usada para perguntar a razão ou o motivo de algo."
+  },
+  "word": "'cause",
+  "ipa": "/kɔːz/",
+  "type_word": [
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, words, or phrases."
+    }
+  ],
+  "definition": "Colloquial form of 'because', used to give a reason or cause.",
+  "examples": [
+    "I'm late 'cause my car broke down.",
+    "She's upset 'cause she lost her phone.",
+    "'Cause you asked, I'll tell you.",
+    "I can't go out 'cause I'm sick.",
+    "He didn't come 'cause he was busy."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac6f"
+  },
+  "es": {
+    "word": "Advertencia",
+    "definition": "Acción de advertir o hacer consciente de algo, especialmente de un peligro o problema."
+  },
+  "pt": {
+    "word": "Aviso",
+    "definition": "Ação de avisar ou fazer consciente de algo, especialmente de um perigo ou problema."
+  },
+  "word": "warnin'",
+  "ipa": "/ˈwɔːrnɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Act of advising or informing about a danger or problem.",
+  "examples": [
+    "There's a warnin' about severe weather conditions.",
+    "He kept warnin' them about the risks.",
+    "The sign was a warnin' to stay away.",
+    "She received a warnin' about her behavior.",
+    "The warnin' came too late to avoid the accident."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac70"
+  },
+  "es": {
+    "word": "Atractivo",
+    "definition": "Que tiene un aspecto físico agradable o atractivo."
+  },
+  "pt": {
+    "word": "Bem-apessoado",
+    "definition": "Que tem uma aparência física agradável ou atraente."
+  },
+  "word": "good-lookin'",
+  "ipa": "/ɡʊdˈlʊkɪn/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Physically attractive or appealing in appearance.",
+  "examples": [
+    "She noticed a good-lookin' guy across the room.",
+    "He's really good-lookin' and smart.",
+    "They make a good-lookin' couple.",
+    "That's a good-lookin' outfit you've got.",
+    "She's always been good-lookin' since her youth."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac71"
+  },
+  "es": {
+    "word": "corte de pelo plano",
+    "definition": "Corte de pelo con la parte superior plana."
+  },
+  "pt": {
+    "word": "corte de cabelo plano",
+    "definition": "Corte de cabelo com a parte superior plana."
+  },
+  "word": "flat-top",
+  "ipa": "/ˈflætˌtɒp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A haircut with the hair style flat across the top.",
+  "examples": [
+    "He got a flat-top haircut.",
+    "The military often favors a flat-top style.",
+    "His flat-top made him look taller.",
+    "The barber is skilled in giving a flat-top.",
+    "Flat-tops were popular in the 1950s."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac72"
+  },
+  "es": {
+    "word": "ju-ju",
+    "definition": "Objeto o práctica supersticiosa africana."
+  },
+  "pt": {
+    "word": "ju-ju",
+    "definition": "Objeto ou prática supersticiosa africana."
+  },
+  "word": "ju-ju",
+  "ipa": "/ˈdʒuːˌdʒuː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "African superstition or magical object.",
+  "examples": [
+    "He wore a ju-ju amulet for protection.",
+    "The village had its own ju-ju rituals.",
+    "They believed the ju-ju would bring good luck.",
+    "The witch doctor created a powerful ju-ju.",
+    "Ju-ju charms are common in some cultures."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac73"
+  },
+  "es": {
+    "word": "mugre de dedo del pie",
+    "definition": "Suciedad o residuo acumulado en los dedos del pie."
+  },
+  "pt": {
+    "word": "sujeira de dedo do pé",
+    "definition": "Sujeira ou resíduo acumulado nos dedos do pé."
+  },
+  "word": "toe-jam",
+  "ipa": "/ˈtoʊˌdʒæm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Dirt or residue accumulated between the toes.",
+  "examples": [
+    "After removing his shoes, he noticed toe-jam.",
+    "Toe-jam is common after wearing shoes all day.",
+    "He cleaned the toe-jam during his bath.",
+    "Toe-jam can be uncomfortable.",
+    "Socks help reduce toe-jam formation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac74"
+  },
+  "es": {
+    "word": "morsa",
+    "definition": "Un gran mamífero marino con colmillos largos."
+  },
+  "pt": {
+    "word": "morsa",
+    "definition": "Um grande mamífero marinho com presas longas."
+  },
+  "word": "walrus",
+  "ipa": "/ˈwɔːlrəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A large marine mammal with long tusks.",
+  "examples": [
+    "The walrus is known for its large tusks.",
+    "A group of walruses lay on the ice.",
+    "Walruses are found in Arctic regions.",
+    "The walrus's tusks are used for defense.",
+    "Walrus populations are affected by climate change."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac75"
+  },
+  "es": {
+    "word": "bota de goma",
+    "definition": "Calzado impermeable hecho de goma."
+  },
+  "pt": {
+    "word": "bota de borracha",
+    "definition": "Calçado impermeável feito de borracha."
+  },
+  "word": "gumboot",
+  "ipa": "/ˈɡʌmˌbuːt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Waterproof footwear made from rubber.",
+  "examples": [
+    "He wore gumboots during the rainy season.",
+    "Gumboots are essential for farming work.",
+    "She splashed in puddles with her gumboots.",
+    "Gumboots protect feet from getting wet.",
+    "Many gardeners prefer using gumboots."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac76"
+  },
+  "es": {
+    "word": "Ono",
+    "definition": "Apellido japonés, a menudo asociado con Yoko Ono."
+  },
+  "pt": {
+    "word": "Ono",
+    "definition": "Sobrenome japonês, frequentemente associado a Yoko Ono."
+  },
+  "word": "ono",
+  "ipa": "/ˈoʊnoʊ/",
+  "type_word": [
+    {
+      "name": "Proper Noun",
+      "sigle": "pn.",
+      "description": "Specific names of people, places, organizations, etc., that are capitalized."
+    }
+  ],
+  "definition": "A Japanese surname, often associated with Yoko Ono.",
+  "examples": [
+    "Yoko Ono is known for her artistic work.",
+    "The Ono family has a rich history.",
+    "Ono is a common surname in Japan.",
+    "She read a biography of Yoko Ono.",
+    "Ono's contribution to art is significant."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac77"
+  },
+  "es": {
+    "word": "montaña rusa",
+    "definition": "Atracción de feria con subidas y bajadas rápidas."
+  },
+  "pt": {
+    "word": "montanha-russa",
+    "definition": "Atração de parque de diversões com subidas e descidas rápidas."
+  },
+  "word": "roller-coaster",
+  "ipa": "/ˈroʊlərˌkoʊstər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An amusement ride with fast ascents and descents.",
+  "examples": [
+    "The roller-coaster had several loops.",
+    "She screamed on the roller-coaster.",
+    "They waited an hour for the roller-coaster ride.",
+    "The roller-coaster was the park's main attraction.",
+    "His emotions were like a roller-coaster."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac78"
+  },
+  "es": {
+    "word": "mojo",
+    "definition": "Encanto o influencia personal; magia negra en la cultura afroamericana."
+  },
+  "pt": {
+    "word": "mojo",
+    "definition": "Charme ou influência pessoal; magia negra na cultura afro-americana."
+  },
+  "word": "mojo",
+  "ipa": "/ˈmoʊdʒoʊ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Personal charm or influence; black magic in African-American culture.",
+  "examples": [
+    "He's got a lot of mojo on stage.",
+    "Her mojo was unmistakable.",
+    "He lost his mojo after the incident.",
+    "She used a mojo bag for luck.",
+    "His mojo was part of his appeal."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac79"
+  },
+  "es": {
+    "word": "Impermeable",
+    "definition": "Que no permite el paso del agua o de la humedad."
+  },
+  "pt": {
+    "word": "À prova de água",
+    "definition": "Que não permite a passagem de água ou umidade."
+  },
+  "word": "Waterproof",
+  "ipa": "/ˈwɔːtərpruːf/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Impervious to water.",
+  "examples": [
+    "This jacket is completely waterproof.",
+    "They sell waterproof cameras.",
+    "Make sure the tent is waterproof before camping.",
+    "He applied a waterproof coating to the deck.",
+    "Waterproof boots are essential for hiking."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac7a"
+  },
+  "es": {
+    "word": "Calzado",
+    "definition": "Conjunto de piezas de vestir que se utilizan para cubrir y proteger el pie."
+  },
+  "pt": {
+    "word": "Calçado",
+    "definition": "Conjunto de peças de vestir usadas para cobrir e proteger o pé."
+  },
+  "word": "Footwear",
+  "ipa": "/ˈfʊtwɛər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A covering worn on the feet, such as shoes, boots, or sandals.",
+  "examples": [
+    "He bought new footwear for the trip.",
+    "Footwear should be comfortable and durable.",
+    "The store specializes in athletic footwear.",
+    "She has a large collection of fashionable footwear.",
+    "Proper footwear is important for foot health."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac7b"
+  },
+  "es": {
+    "word": "Hecho",
+    "definition": "Formado o creado a partir de algo."
+  },
+  "pt": {
+    "word": "Feito",
+    "definition": "Formado ou criado a partir de algo."
+  },
+  "word": "Made",
+  "ipa": "/meɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Participle",
+      "sigle": "part.",
+      "description": "Verb forms used as adjectives or to form verb tenses."
+    }
+  ],
+  "definition": "Formed or created from something.",
+  "examples": [
+    "The table is made of wood.",
+    "She made a cake for his birthday.",
+    "This fabric is made from recycled materials.",
+    "The film was made in the 1950s.",
+    "They made a decision after much deliberation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac7c"
+  },
+  "es": {
+    "word": "De",
+    "definition": "Indica el origen, la materia, o el contenido de algo."
+  },
+  "pt": {
+    "word": "De",
+    "definition": "Indica a origem, a matéria ou o conteúdo de algo."
+  },
+  "word": "From",
+  "ipa": "/frəm/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence."
+    }
+  ],
+  "definition": "Indicating the point in space or time at which a journey, action, or process starts.",
+  "examples": [
+    "She walked away from the house.",
+    "This wine comes from France.",
+    "They work from nine to five.",
+    "The show will run from January to March.",
+    "He read from the book."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac7d"
+  },
+  "es": {
+    "word": "Caucho",
+    "definition": "Material elástico obtenido del látex de algunas plantas o fabricado artificialmente."
+  },
+  "pt": {
+    "word": "Borracha",
+    "definition": "Material elástico obtido do látex de algumas plantas ou fabricado artificialmente."
+  },
+  "word": "Rubber",
+  "ipa": "/ˈrʌbər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A tough elastic polymeric substance made from the latex of a tropical plant or synthetically.",
+  "examples": [
+    "Tires are usually made of rubber.",
+    "She put a rubber band around the papers.",
+    "Rubber gloves are necessary for this work.",
+    "The boots are made with natural rubber.",
+    "He bounced the rubber ball against the wall."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac7e"
+  },
+  "es": {
+    "word": "duro",
+    "definition": "Que tiene una consistencia sólida y firme, difícil de deformar, cortar o romper."
+  },
+  "pt": {
+    "word": "duro",
+    "definition": "Que tem uma consistência sólida e firme, difícil de deformar, cortar ou quebrar."
+  },
+  "word": "tough",
+  "ipa": "/tʌf/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Having a solid and firm consistency; difficult to break or deform.",
+  "examples": [
+    "Leather is a tough material.",
+    "He had a tough decision to make.",
+    "The exam was really tough.",
+    "She's tough, but fair.",
+    "Life in the mountains is tough."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac7f"
+  },
+  "es": {
+    "word": "together-beatles",
+    "definition": "No aplicable."
+  },
+  "pt": {
+    "word": "together-beatles",
+    "definition": "Não aplicável."
+  },
+  "word": "together-beatles",
+  "ipa": "/təˈɡɛðər ˈbiːtəlz/",
+  "type_word": [
+    {
+      "name": "Proper Noun",
+      "sigle": "pn.",
+      "description": "Specific names of people, places, organizations, etc., that are capitalized."
+    }
+  ],
+  "definition": "Not applicable.",
+  "examples": [
+    "The song 'Come Together' by The Beatles.",
+    "'Together' is often associated with The Beatles.",
+    "Fans reminisce about The Beatles when hearing 'together'.",
+    "The Beatles' influence is evident in 'together'.",
+    "Togetherness is a theme in many Beatles' songs."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac80"
+  },
+  "es": {
+    "word": "beatles",
+    "definition": "Nombre de una famosa banda de música británica."
+  },
+  "pt": {
+    "word": "beatles",
+    "definition": "Nome de uma famosa banda britânica de música."
+  },
+  "word": "beatles",
+  "ipa": "/ˈbiːtəlz/",
+  "type_word": [
+    {
+      "name": "Proper Noun",
+      "sigle": "pn.",
+      "description": "Specific names of people, places, organizations, etc., that are capitalized."
+    }
+  ],
+  "definition": "Name of a famous British music band.",
+  "examples": [
+    "The Beatles were a legendary band.",
+    "She loves listening to The Beatles.",
+    "The Beatles revolutionized music.",
+    "He has all The Beatles' albums.",
+    "The Beatles' style evolved over time."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac81"
+  },
+  "es": {
+    "word": "disparar",
+    "definition": "Hacer que un arma de fuego lance un proyectil."
+  },
+  "pt": {
+    "word": "atirar",
+    "definition": "Fazer com que uma arma de fogo lance um projétil."
+  },
+  "word": "shoot",
+  "ipa": "/ʃuːt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To cause a firearm to discharge a projectile.",
+  "examples": [
+    "He learned how to shoot a gun.",
+    "She will shoot the scene tomorrow.",
+    "They shoot arrows with great skill.",
+    "The movie was shot in New York.",
+    "He shoots, he scores!"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac82"
+  },
+  "es": {
+    "word": "aquí",
+    "definition": "En este lugar o en este momento."
+  },
+  "pt": {
+    "word": "aqui",
+    "definition": "Neste lugar ou neste momento."
+  },
+  "word": "here",
+  "ipa": "/hɪər/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "In this place or at this moment.",
+  "examples": [
+    "Come here and look at this.",
+    "I live here in this city.",
+    "The party is happening here.",
+    "Here is where we met.",
+    "Put the book here on the table."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac83"
+  },
+  "es": {
+    "word": "viejo",
+    "definition": "Que tiene muchos años de existencia o antigüedad."
+  },
+  "pt": {
+    "word": "velho",
+    "definition": "Que tem muitos anos de existência ou antiguidade."
+  },
+  "word": "old",
+  "ipa": "/oʊld/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Having many years of existence or antiquity.",
+  "examples": [
+    "He lives in an old house.",
+    "She found an old coin.",
+    "This is an old tradition.",
+    "He's getting old.",
+    "That book is very old."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac84"
+  },
+  "es": {
+    "word": "él",
+    "definition": "Pronombre personal que se refiere a un hombre o un chico."
+  },
+  "pt": {
+    "word": "ele",
+    "definition": "Pronome pessoal que se refere a um homem ou um rapaz."
+  },
+  "word": "he",
+  "ipa": "/hiː/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun."
+    }
+  ],
+  "definition": "Personal pronoun referring to a man or a boy.",
+  "examples": [
+    "He is my brother.",
+    "He went to the store.",
+    "He can speak three languages.",
+    "He loves playing soccer.",
+    "He works hard every day."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac85"
+  },
+  "es": {
+    "word": "arriba",
+    "definition": "Hacia un lugar o posición más alta."
+  },
+  "pt": {
+    "word": "acima",
+    "definition": "Para um lugar ou posição mais alta."
+  },
+  "word": "up",
+  "ipa": "/ʌp/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    },
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence."
+    }
+  ],
+  "definition": "Toward a higher place or position.",
+  "examples": [
+    "Look up at the sky.",
+    "He climbed up the ladder.",
+    "She picked up the phone.",
+    "Tie the balloons up.",
+    "He jumped up in excitement."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac86"
+  },
+  "es": {
+    "word": "lentamente",
+    "definition": "A una velocidad baja; no rápido."
+  },
+  "pt": {
+    "word": "lentamente",
+    "definition": "A uma velocidade baixa; não rápido."
+  },
+  "word": "slowly",
+  "ipa": "/ˈsloʊli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "At a low speed; not quickly.",
+  "examples": [
+    "He walked slowly to the store.",
+    "She speaks slowly and clearly.",
+    "The sun slowly set.",
+    "He slowly opened the door.",
+    "The snail moved slowly."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fad9e41e776404fb7ac87"
+  },
+  "es": {
+    "word": "consiguió",
+    "definition": "Forma pasada de 'conseguir', que significa obtener o lograr algo."
+  },
+  "pt": {
+    "word": "conseguiu",
+    "definition": "Forma passada de 'conseguir', que significa obter ou alcançar algo."
+  },
+  "word": "got",
+  "ipa": "/ɡɑːt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Past form of 'get', which means to obtain or achieve something.",
+  "examples": [
+    "He got a new car.",
+    "She got a promotion at work.",
+    "They got married last year.",
+    "I got a new job.",
+    "We got a new house."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac88"
+  },
+  "es": {
+    "word": "ojo",
+    "definition": "Parte del cuerpo que permite ver."
+  },
+  "pt": {
+    "word": "olho",
+    "definition": "Parte do corpo que permite ver."
+  },
+  "word": "eyeball",
+  "ipa": "/ˈaɪbɔːl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The globe-shaped part of the eye of a vertebrate, within the eyelids and socket.",
+  "examples": [
+    "She has very distinctive green eyeballs.",
+    "The artist painted the eyeball with great detail.",
+    "He felt like someone was eyeballing him from across the room.",
+    "The eyeball is a complex and sensitive organ.",
+    "After the accident, his eyeball was injured."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac89"
+  },
+  "es": {
+    "word": "sagrado",
+    "definition": "Relacionado con la religión o lo divino."
+  },
+  "pt": {
+    "word": "sagrado",
+    "definition": "Relacionado com a religião ou o divino."
+  },
+  "word": "holy",
+  "ipa": "/ˈhoʊli/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Dedicated or consecrated to a religious purpose; sacred.",
+  "examples": [
+    "The holy temple was a place of worship.",
+    "She felt a holy reverence for the ancient ritual.",
+    "The priest is a holy man.",
+    "They embarked on a holy quest.",
+    "The book is considered holy by many."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac8a"
+  },
+  "es": {
+    "word": "rodillo",
+    "definition": "Herramienta o máquina que se mueve sobre rodillos."
+  },
+  "pt": {
+    "word": "rolo",
+    "definition": "Ferramenta ou máquina que se move sobre rolos."
+  },
+  "word": "roller",
+  "ipa": "/ˈroʊlər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A cylinder that rotates around a central axis and is used in various machines and devices.",
+  "examples": [
+    "She used a paint roller to paint the wall.",
+    "The suitcase has four rollers for easy movement.",
+    "He put his documents through the paper roller.",
+    "The roller on the conveyor belt moved smoothly.",
+    "Her hair was curled using hot rollers."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac8b"
+  },
+  "es": {
+    "word": "cabello",
+    "definition": "Filamentos que crecen en la cabeza de las personas."
+  },
+  "pt": {
+    "word": "cabelo",
+    "definition": "Filamentos que crescem na cabeça das pessoas."
+  },
+  "word": "hair",
+  "ipa": "/hɛr/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The fine thread-like strands growing from the skin of humans, mammals, and some other animals.",
+  "examples": [
+    "She brushed her long, brown hair.",
+    "He had a few strands of gray hair.",
+    "She styles her hair in a braid.",
+    "They found a hair in the soup.",
+    "His hair was wet from the rain."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac8c"
+  },
+  "es": {
+    "word": "rodilla",
+    "definition": "Articulación del medio de la pierna."
+  },
+  "pt": {
+    "word": "joelho",
+    "definition": "Articulação do meio da perna."
+  },
+  "word": "knee",
+  "ipa": "/niː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The joint between the thigh and the lower leg in humans.",
+  "examples": [
+    "He fell and injured his knee.",
+    "She wears a brace on her knee.",
+    "The child sat on his grandfather's knee.",
+    "He bent down on one knee to propose.",
+    "Her knee ached after the long hike."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac8d"
+  },
+  "es": {
+    "word": "bromista",
+    "definition": "Persona que hace bromas o chistes."
+  },
+  "pt": {
+    "word": "brincalhão",
+    "definition": "Pessoa que faz piadas ou gracejos."
+  },
+  "word": "joker",
+  "ipa": "/ˈdʒoʊkər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A person who is fond of joking; a clown or jester.",
+  "examples": [
+    "He's always been the joker in the family.",
+    "The class joker kept everyone laughing.",
+    "A joker in the deck of cards.",
+    "He played the role of the joker in the play.",
+    "The joker made a funny remark that eased the tension."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac8e"
+  },
+  "es": {
+    "word": "qué",
+    "definition": "Palabra utilizada para hacer preguntas o exclamaciones."
+  },
+  "pt": {
+    "word": "o que",
+    "definition": "Palavra usada para fazer perguntas ou exclamações."
+  },
+  "word": "what",
+  "ipa": "/wɒt/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Interjection",
+      "sigle": "interj.",
+      "description": "Words used to express emotion or a sudden utterance."
+    }
+  ],
+  "definition": "Asking for information specifying something; expressing surprise or seeking repetition.",
+  "examples": [
+    "What is your name?",
+    "What! You're moving to Spain?",
+    "What time is it?",
+    "I didn't understand what he said.",
+    "What a beautiful sunset!"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac8f"
+  },
+  "es": {
+    "word": "por favor",
+    "definition": "Expresión utilizada para hacer una solicitud de manera cortés."
+  },
+  "pt": {
+    "word": "por favor",
+    "definition": "Expressão usada para fazer um pedido de maneira educada."
+  },
+  "word": "please",
+  "ipa": "/pliːz/",
+  "type_word": [
+    {
+      "name": "Interjection",
+      "sigle": "interj.",
+      "description": "Words used to express emotion or a sudden utterance."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Used as a polite addition to requests, commands, etc.",
+  "examples": [
+    "Please pass the salt.",
+    "Can you please help me?",
+    "Please be quiet in the library.",
+    "He asked her to stay, please.",
+    "Please, let's not argue."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac90"
+  },
+  "es": {
+    "word": "usar",
+    "definition": "Poner en práctica o servicio algo."
+  },
+  "pt": {
+    "word": "usar",
+    "definition": "Colocar em prática ou serviço algo."
+  },
+  "word": "wear",
+  "ipa": "/wɛr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To carry or have on one's body, especially as clothing.",
+  "examples": [
+    "She likes to wear red dresses.",
+    "He wears glasses for reading.",
+    "They wear helmets for safety.",
+    "This fabric wears well.",
+    "You should wear a coat in this cold weather."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac91"
+  },
+  "es": {
+    "word": "lustre para zapatos",
+    "definition": "Sustancia utilizada para dar brillo a los zapatos."
+  },
+  "pt": {
+    "word": "graxa para sapatos",
+    "definition": "Substância usada para dar brilho aos sapatos."
+  },
+  "word": "shoeshine",
+  "ipa": "/ˈʃuːʃaɪn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A substance used to give shoes a shiny appearance.",
+  "examples": [
+    "He bought some black shoeshine for his leather shoes.",
+    "The shoeshine made her boots look new.",
+    "He offered shoeshine services at the airport.",
+    "A quick shoeshine made a big difference.",
+    "She keeps a tin of shoeshine in her bag."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac92"
+  },
+  "es": {
+    "word": "fútbol",
+    "definition": "Deporte de equipo jugado entre dos equipos de once jugadores con una pelota esférica."
+  },
+  "pt": {
+    "word": "futebol",
+    "definition": "Esporte de equipe jogado entre duas equipes de onze jogadores com uma bola esférica."
+  },
+  "word": "football",
+  "ipa": "/ˈfʊtbɔːl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A form of team game played in North America with an oval ball on a field marked out as a gridiron, or the round ball game known as soccer in North America.",
+  "examples": [
+    "He plays football at the college level.",
+    "Football is a popular sport worldwide.",
+    "They went to the stadium to watch a football match.",
+    "She's a huge football fan.",
+    "The children were playing football in the park."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac93"
+  },
+  "es": {
+    "word": "mono",
+    "definition": "Animal mamífero primata, especialmente los que no son antropoides."
+  },
+  "pt": {
+    "word": "macaco",
+    "definition": "Animal mamífero primata, especialmente os que não são antropoides."
+  },
+  "word": "monkey",
+  "ipa": "/ˈmʌŋki/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
+  "examples": [
+    "The children were amused by the playful monkeys at the zoo.",
+    "Monkeys are known for their intelligence and agility.",
+    "He saw a group of monkeys swinging from tree to tree.",
+    "She adopted a rescue monkey.",
+    "Monkeys are an important part of the ecosystem in rainforests."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac94"
+  },
+  "es": {
+    "word": "dedo",
+    "definition": "Cada una de las extremidades de las manos y pies en los seres humanos y algunos animales."
+  },
+  "pt": {
+    "word": "dedo",
+    "definition": "Cada uma das extremidades das mãos e pés em seres humanos e alguns animais."
+  },
+  "word": "finger",
+  "ipa": "/ˈfɪŋɡər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Each of the four slender jointed parts attached to either hand (or five, if the thumb is included).",
+  "examples": [
+    "He cut his finger while chopping vegetables.",
+    "She wore a ring on her left ring finger.",
+    "He pointed his finger at the suspect.",
+    "Her fingers were cold from the snow.",
+    "She skillfully played the piano with her fingers."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac95"
+  },
+  "es": {
+    "word": "coca-cola",
+    "definition": "Marca de un refresco popular de cola."
+  },
+  "pt": {
+    "word": "coca-cola",
+    "definition": "Marca de um refrigerante popular de cola."
+  },
+  "word": "coca-cola",
+  "ipa": "/ˌkoʊ.kəˈkoʊ.lə/",
+  "type_word": [
+    {
+      "name": "Proper Noun",
+      "sigle": "pn.",
+      "description": "Specific names of people, places, organizations, etc., that are capitalized."
+    }
+  ],
+  "definition": "A trademark for a popular carbonated soft drink.",
+  "examples": [
+    "He ordered a coca-cola at the restaurant.",
+    "Coca-Cola is known worldwide.",
+    "She prefers coca-cola over other soft drinks.",
+    "They served ice-cold coca-cola at the party.",
+    "Coca-Cola has been a popular drink for decades."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac96"
+  },
+  "es": {
+    "word": "decir",
+    "definition": "Expresar verbalmente algo."
+  },
+  "pt": {
+    "word": "dizer",
+    "definition": "Expressar algo verbalmente."
+  },
+  "word": "tell",
+  "ipa": "/tɛl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Communicate information, facts, or news to someone in spoken or written words.",
+  "examples": [
+    "He could tell she was upset.",
+    "Tell me about your holiday.",
+    "She told a story to the children.",
+    "Can you tell the time?",
+    "I can tell that he's lying."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac97"
+  },
+  "es": {
+    "word": "libre",
+    "definition": "Que no está en prisión o esclavitud, o que no está ocupado o restringido."
+  },
+  "pt": {
+    "word": "livre",
+    "definition": "Que não está em prisão ou escravidão, ou que não está ocupado ou restrito."
+  },
+  "word": "free",
+  "ipa": "/friː/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Not under the control or in the power of another; able to act or be done as one wishes.",
+  "examples": [
+    "I have some free time this afternoon.",
+    "The bird flew free from its cage.",
+    "She was happy to be free from her responsibilities for a week.",
+    "Buy one, get one free offer.",
+    "He was set free after the evidence proved his innocence."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac98"
+  },
+  "es": {
+    "word": "juntos",
+    "definition": "Con compañía de otro u otros."
+  },
+  "pt": {
+    "word": "juntos",
+    "definition": "Com companhia de outro ou outros."
+  },
+  "word": "together",
+  "ipa": "/təˈɡɛðər/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "With or in proximity to another person or people.",
+  "examples": [
+    "They walked together in the park.",
+    "We're in this together.",
+    "Let's work together to solve this.",
+    "The family stayed together during the crisis.",
+    "She put her hands together in thanks."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac99"
+  },
+  "es": {
+    "word": "derecho",
+    "definition": "En dirección recta o hacia el lado del cuerpo humano opuesto al corazón."
+  },
+  "pt": {
+    "word": "direito",
+    "definition": "Em direção reta ou para o lado do corpo humano oposto ao coração."
+  },
+  "word": "right",
+  "ipa": "/raɪt/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Morally good, justified, or acceptable; true or correct as a fact.",
+  "examples": [
+    "She knew it was the right decision.",
+    "Turn right at the next street.",
+    "He was standing right behind her.",
+    "You have the right to remain silent.",
+    "It's right that she apologized."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac9a"
+  },
+  "es": {
+    "word": "sobre",
+    "definition": "Indicando movimiento en una posición superior sin contacto, o movimiento hacia tal posición."
+  },
+  "pt": {
+    "word": "sobre",
+    "definition": "Indicando movimento em uma posição superior sem contato, ou movimento em direção a tal posição."
+  },
+  "word": "over",
+  "ipa": "/ˈəʊvər/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words that link nouns, pronouns and phrases to other words in a sentence."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Extending directly upward from.",
+  "examples": [
+    "The plane flew over the city.",
+    "The ball rolled over the hill.",
+    "She put a blanket over the baby.",
+    "He climbed over the fence.",
+    "The bridge goes over the river."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb1a141e776404fb7ac9b"
+  },
+  "es": {
+    "word": "uso",
+    "definition": "Acción o manera de utilizar algo."
+  },
+  "pt": {
+    "word": "uso",
+    "definition": "Ação ou maneira de utilizar algo."
+  },
+  "word": "usage",
+  "ipa": "/ˈjuːsɪdʒ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The action or manner of using something.",
+  "examples": [
+    "The usage of plastic has increased over the years.",
+    "He was unfamiliar with the usage of the new software.",
+    "Her language usage is always precise.",
+    "There are different usages of the word in different contexts.",
+    "The book provides a guide to the usage of these terms."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb2ae41e776404fb7ac9c"
+  },
+  "es": {
+    "word": "sí",
+    "definition": "Expresión afirmativa."
+  },
+  "pt": {
+    "word": "sim",
+    "definition": "Expressão afirmativa."
+  },
+  "word": "yeah",
+  "ipa": "/jɛə/",
+  "type_word": [
+    {
+      "name": "Interjection",
+      "sigle": "interj.",
+      "description": "Words used to express emotion or a sudden utterance."
+    }
+  ],
+  "definition": "Informal way of saying 'yes'.",
+  "examples": [
+    "Yeah, I think that's a good idea.",
+    "Yeah, I'll be there at eight.",
+    "She said yeah to his proposal.",
+    "Yeah, that makes sense.",
+    "Yeah, I've seen that movie too."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb2ae41e776404fb7ac9d"
+  },
+  "es": {
+    "word": "¡Uf!",
+    "definition": "Expresión de disgusto o desagrado."
+  },
+  "pt": {
+    "word": "Ufa!",
+    "definition": "Expressão de desgosto ou desagrado."
+  },
+  "word": "Ugh!",
+  "ipa": "/ʌɡ/",
+  "type_word": [
+    {
+      "name": "Interjection",
+      "sigle": "interj.",
+      "description": "Words used to express emotion or a sudden utterance."
+    }
+  ],
+  "definition": "Expression of disgust, disappointment, or annoyance.",
+  "examples": [
+    "Ugh! I can't believe he did that.",
+    "Ugh, this weather is terrible.",
+    "She said 'ugh' when she saw the mess.",
+    "Ugh, I have so much work to do.",
+    "He groaned 'ugh' after hearing the bad news."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb2ae41e776404fb7ac9e"
+  },
+  "es": {
+    "word": "fangoso",
+    "definition": "Cubierto o lleno de barro."
+  },
+  "pt": {
+    "word": "lamacento",
+    "definition": "Coberto ou cheio de lama."
+  },
+  "word": "muddy",
+  "ipa": "/ˈmʌdi/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Covered in or full of mud.",
+  "examples": [
+    "His shoes were muddy after the hike.",
+    "The muddy water obscured the view.",
+    "She slipped in the muddy field.",
+    "The children played in the muddy puddle.",
+    "They had to clean the muddy paw prints off the floor."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb2ae41e776404fb7ac9f"
+  },
+  "es": {
+    "word": "agua",
+    "definition": "Líquido transparente, incoloro, inodoro e insípido en su estado puro, que forma los ríos, lagos y mares."
+  },
+  "pt": {
+    "word": "água",
+    "definition": "Líquido transparente, incolor, inodoro e insípido em seu estado puro, que forma os rios, lagos e mares."
+  },
+  "word": "water",
+  "ipa": "/ˈwɔːtər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A clear, colorless, odorless, and tasteless liquid, essential for most plant and animal life and the most widely used of all solvents.",
+  "examples": [
+    "She drank a glass of water.",
+    "Water is necessary for life.",
+    "The plant needs more water.",
+    "They went swimming in the water.",
+    "The water in the lake was crystal clear."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb2ae41e776404fb7aca0"
+  },
+  "es": {
+    "word": "filtro",
+    "definition": "Dispositivo o sustancia que se usa para eliminar impurezas o partículas sólidas de un líquido o gas."
+  },
+  "pt": {
+    "word": "filtro",
+    "definition": "Dispositivo ou substância que é usado para eliminar impurezas ou partículas sólidas de um líquido ou gás."
+  },
+  "word": "filter",
+  "ipa": "/ˈfɪltər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A device or substance used to remove impurities or solid particles from a liquid or gas.",
+  "examples": [
+    "The coffee filter prevents grounds from getting into the cup.",
+    "He changed the air filter in the car.",
+    "The water filter purifies drinking water.",
+    "She used a filter to enhance the photo.",
+    "A filter is necessary for the aquarium."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb2ae41e776404fb7aca1"
+  },
+  "es": {
+    "word": "temprano",
+    "definition": "En un momento cercano al inicio de un periodo, especialmente la mañana."
+  },
+  "pt": {
+    "word": "cedo",
+    "definition": "Em um momento próximo ao início de um período, especialmente a manhã."
+  },
+  "word": "early",
+  "ipa": "/ˈɜːrli/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Near the beginning of a period of time, especially before the usual or expected time.",
+  "examples": [
+    "He woke up early in the morning.",
+    "The flowers bloomed early this year.",
+    "She arrived early for the meeting.",
+    "Early detection of the disease is crucial.",
+    "It's still early to make a decision."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb2ae41e776404fb7aca2"
+  },
+  "es": {
+    "word": "duro",
+    "definition": "Firme, sólido o resistente, no suave o flexible."
+  },
+  "pt": {
+    "word": "duro",
+    "definition": "Firme, sólido ou resistente, não macio ou flexível."
+  },
+  "word": "hard",
+  "ipa": "/hɑːrd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Firm, solid, or resistant; not soft or flexible.",
+  "examples": [
+    "The ground was hard and dry.",
+    "She worked hard to achieve her goals.",
+    "The math problem was too hard for him.",
+    "He kicked the ball hard.",
+    "The candy was hard as a rock."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7aca3"
+  },
+  "es": {
+    "word": "bolsa",
+    "definition": "Recipiente flexible de tela, papel o plástico, usado para llevar cosas."
+  },
+  "pt": {
+    "word": "bolsa",
+    "definition": "Recipiente flexível de tecido, papel ou plástico, usado para transportar coisas."
+  },
+  "word": "bag",
+  "ipa": "/bæg/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A flexible container with an opening at the top, used for carrying things.",
+  "examples": [
+    "She carried her books in a shoulder bag.",
+    "He picked up the trash bag.",
+    "A plastic bag can be harmful to the environment.",
+    "She rummaged through her bag for her keys.",
+    "The bag was heavy with groceries."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7aca4"
+  },
+  "es": {
+    "word": "producción",
+    "definition": "El proceso de hacer o fabricar algo."
+  },
+  "pt": {
+    "word": "produção",
+    "definition": "O processo de fazer ou fabricar algo."
+  },
+  "word": "production",
+  "ipa": "/prəˈdʌkʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The process of making or manufacturing something.",
+  "examples": [
+    "The factory increased its production this year.",
+    "She works in film production.",
+    "The play is in production at the local theater.",
+    "They discussed the production of the new model.",
+    "The production line was stopped due to a malfunction."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7aca5"
+  },
+  "es": {
+    "word": "aparador",
+    "definition": "Mueble con cajones y compartimentos para guardar platos, cubiertos y otros enseres de comedor."
+  },
+  "pt": {
+    "word": "aparador",
+    "definition": "Móvel com gavetas e compartimentos para guardar pratos, talheres e outros utensílios de jantar."
+  },
+  "word": "sideboard",
+  "ipa": "/ˈsaɪdbɔːrd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A piece of furniture with drawers and shelves for the display of plates, dishes, and silverware.",
+  "examples": [
+    "The antique sideboard was a family heirloom.",
+    "She arranged the dishes on the sideboard.",
+    "The sideboard in the dining room was made of oak.",
+    "They put a vase of flowers on the sideboard.",
+    "He polished the sideboard until it shone."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7aca6"
+  },
+  "es": {
+    "word": "espinal",
+    "definition": "Relacionado con la columna vertebral o la médula espinal."
+  },
+  "pt": {
+    "word": "espinhal",
+    "definition": "Relacionado à coluna vertebral ou à medula espinhal."
+  },
+  "word": "spinal",
+  "ipa": "/ˈspaɪnəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Relating to the spine or spinal cord.",
+  "examples": [
+    "She suffered a spinal injury in the accident.",
+    "The doctor specializes in spinal surgery.",
+    "Spinal health is important for overall well-being.",
+    "They did a spinal tap to test for meningitis.",
+    "The yoga pose is good for spinal flexibility."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7aca7"
+  },
+  "es": {
+    "word": "galleta",
+    "definition": "Pastelillo crujiente y plano, generalmente dulce, horneado a partir de un masa."
+  },
+  "pt": {
+    "word": "biscoito",
+    "definition": "Pequeno bolo crocante e plano, geralmente doce, assado a partir de uma massa."
+  },
+  "word": "cracker",
+  "ipa": "/ˈkrækər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A thin, crisp biscuit.",
+  "examples": [
+    "She spread cheese on a cracker.",
+    "The soup was served with crackers.",
+    "He enjoyed eating saltine crackers as a snack.",
+    "The crackers were flavored with herbs.",
+    "She packed crackers for her lunch."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7aca8"
+  },
+  "es": {
+    "word": "debajo",
+    "definition": "En una posición inferior a algo, cubierto por ello o sostenido por ello."
+  },
+  "pt": {
+    "word": "abaixo",
+    "definition": "Em uma posição inferior a algo, coberto por ele ou sustentado por ele."
+  },
+  "word": "below",
+  "ipa": "/bɪˈloʊ/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words that link nouns, pronouns and phrases to other words in a sentence."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "At a lower level or layer.",
+  "examples": [
+    "The temperature dropped below zero.",
+    "He lives in the apartment below mine.",
+    "The fish swim below the surface of the water.",
+    "She wore a scarf below her coat.",
+    "The sun sank below the horizon."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7aca9"
+  },
+  "es": {
+    "word": "mantener",
+    "definition": "Conservar en una condición o posición; sostener."
+  },
+  "pt": {
+    "word": "segurar",
+    "definition": "Preservar em uma condição ou posição; sustentar."
+  },
+  "word": "hold",
+  "ipa": "/hoʊld/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To grasp, carry, or support with one's arms or hands.",
+  "examples": [
+    "She holds the baby in her arms.",
+    "Can you hold this for a moment?",
+    "He held the door open for her.",
+    "They held hands while walking.",
+    "The box was too heavy to hold."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acaa"
+  },
+  "es": {
+    "word": "sillón",
+    "definition": "Asiento cómodo y de respaldo alto para una persona."
+  },
+  "pt": {
+    "word": "poltrona",
+    "definition": "Assento confortável e de encosto alto para uma pessoa."
+  },
+  "word": "armchair",
+  "ipa": "/ˈɑːrmˌtʃɛr/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A comfortable chair with sides that support one's arms.",
+  "examples": [
+    "He sat in his favorite armchair reading a book.",
+    "The armchair was upholstered in leather.",
+    "She curled up in the armchair with a cup of tea.",
+    "They bought a new armchair for the living room.",
+    "The old armchair creaked when you sat in it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acab"
+  },
+  "es": {
+    "word": "enfermedad",
+    "definition": "Alteración de la salud física o mental."
+  },
+  "pt": {
+    "word": "doença",
+    "definition": "Alteração da saúde física ou mental."
+  },
+  "word": "disiease",
+  "ipa": "/dɪˈziːz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A disorder of structure or function in a human, animal, or plant, especially one that produces specific signs or symptoms or that affects a specific location and is not simply a direct result of physical injury.",
+  "examples": [
+    "She suffers from a rare disease.",
+    "The disease is caused by a virus.",
+    "The disease is common in tropical climates.",
+    "The disease is spread by mosquitoes.",
+    "The disease is fatal if left untreated."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acac"
+  },
+  "es": {
+    "word": "decir",
+    "definition": "Expresar verbalmente algo."
+  },
+  "pt": {
+    "word": "dizer",
+    "definition": "Expressar algo verbalmente."
+  },
+  "word": "tell",
+  "ipa": "/tɛl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Communicate information, facts, or news to someone in spoken or written words.",
+  "examples": [
+    "He could tell she was upset.",
+    "Tell me about your holiday.",
+    "She told a story to the children.",
+    "Can you tell the time?",
+    "I can tell that he's lying."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acad"
+  },
+  "es": {
+    "word": "sagrado",
+    "definition": "Relacionado con la religión o lo divino."
+  },
+  "pt": {
+    "word": "sagrado",
+    "definition": "Relacionado com a religião ou o divino."
+  },
+  "word": "holy",
+  "ipa": "/ˈhoʊli/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Dedicated or consecrated to a religious purpose; sacred.",
+  "examples": [
+    "The holy temple was a place of worship.",
+    "She felt a holy reverence for the ancient ritual.",
+    "The priest is a holy man.",
+    "They embarked on a holy quest.",
+    "The book is considered holy by many."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acae"
+  },
+  "es": {
+    "word": "floreció",
+    "definition": "Creció y se desarrolló de manera exitosa."
+  },
+  "pt": {
+    "word": "floresceu",
+    "definition": "Cresceu e se desenvolveu com sucesso."
+  },
+  "word": "flourished",
+  "ipa": "/ˈflɜːrɪʃt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Grew and developed successfully.",
+  "examples": [
+    "The ancient civilization flourished for centuries.",
+    "During the Renaissance, art and culture flourished in Europe.",
+    "Her talent for painting flourished as she got older.",
+    "The business flourished after expanding into new markets.",
+    "The garden flourished with colorful flowers."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acaf"
+  },
+  "es": {
+    "word": "a lo largo de",
+    "definition": "De manera continua a lo largo de un período de tiempo o una distancia."
+  },
+  "pt": {
+    "word": "ao longo",
+    "definition": "De maneira contínua ao longo de um período de tempo ou distância."
+  },
+  "word": "along",
+  "ipa": "/əˈlɔŋ/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words that link nouns, pronouns, and phrases to other words in a sentence."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Continuously over a period of time or distance.",
+  "examples": [
+    "They walked along the beach for hours.",
+    "The road stretched along the riverbank.",
+    "She sang along with the music.",
+    "We hiked along the trail in the forest.",
+    "He traveled along the coast."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb0"
+  },
+  "es": {
+    "word": "tombs",
+    "definition": "Tumbas o sepulcros, especialmente los monumentos funerarios."
+  },
+  "pt": {
+    "word": "túmulos",
+    "definition": "Túmulos ou sepulcros, especialmente os monumentos funerários."
+  },
+  "word": "tombs",
+  "ipa": "/tuːmz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Graves or burial places, especially monumental ones.",
+  "examples": [
+    "The ancient tombs were filled with treasures.",
+    "Many tombs have intricate carvings and inscriptions.",
+    "Archaeologists discovered a new tomb in Egypt.",
+    "Visitors come to see the royal tombs in the valley.",
+    "The tombs are a historical and cultural treasure."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb1"
+  },
+  "es": {
+    "word": "laden",
+    "definition": "Cargado o lleno de algo, especialmente de peso o carga."
+  },
+  "pt": {
+    "word": "carregado",
+    "definition": "Cheio ou repleto de algo, especialmente de peso ou carga."
+  },
+  "word": "laden",
+  "ipa": "/ˈleɪdən/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Loaded or filled with something, especially with weight or cargo.",
+  "examples": [
+    "The ship was laden with precious cargo.",
+    "Her arms were laden with shopping bags.",
+    "The tree branches were laden with ripe fruit.",
+    "The truck was heavily laden with supplies.",
+    "The laden shelves were about to collapse."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb2"
+  },
+  "es": {
+    "word": "treasures",
+    "definition": "Objetos de gran valor, riqueza o importancia, a menudo guardados o escondidos."
+  },
+  "pt": {
+    "word": "tesouros",
+    "definition": "Objetos de grande valor, riqueza ou importância, frequentemente guardados ou escondidos."
+  },
+  "word": "treasures",
+  "ipa": "/ˈtrɛʒərz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Objects of great value, wealth, or importance, often kept or hidden.",
+  "examples": [
+    "The pirate's map led them to hidden treasures.",
+    "The museum displays ancient treasures from different cultures.",
+    "She uncovered a box of hidden treasures in the attic.",
+    "Explorers search for lost treasures in the jungle.",
+    "Family heirlooms are often considered treasures."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb3"
+  },
+  "es": {
+    "word": "offer",
+    "definition": "Presentar algo para que sea aceptado o rechazado, especialmente como un acto de generosidad o cortesía."
+  },
+  "pt": {
+    "word": "oferecer",
+    "definition": "Apresentar algo para ser aceito ou recusado, especialmente como um ato de generosidade ou cortesia."
+  },
+  "word": "offer",
+  "ipa": "/ˈɔfər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Present something to be accepted or rejected, especially as an act of generosity or courtesy.",
+  "examples": [
+    "She offered him a piece of cake.",
+    "The company made an attractive job offer.",
+    "He declined the generous offer of help.",
+    "The restaurant has a special offer on Fridays.",
+    "The offer was too good to refuse."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb4"
+  },
+  "es": {
+    "word": "glimpse",
+    "definition": "Una breve visión o vislumbre de algo."
+  },
+  "pt": {
+    "word": "vislumbre",
+    "definition": "Uma visão breve ou relance de algo."
+  },
+  "word": "glimpse",
+  "ipa": "/ɡlɪm(p)s/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A brief view or sight of something.",
+  "examples": [
+    "He caught a glimpse of her in the crowd.",
+    "The hikers had a glimpse of the mountain's peak.",
+    "She managed to glimpse the rare bird in the trees.",
+    "A glimpse of the sunset was breathtaking.",
+    "They only had a glimpse of the elusive creature."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb5"
+  },
+  "es": {
+    "word": "believed",
+    "definition": "Considerar algo como verdadero o cierto, basado en la fe, la confianza o la evidencia."
+  },
+  "pt": {
+    "word": "acreditava",
+    "definition": "Considerar algo como verdadeiro ou certo, com base na fé, confiança ou evidência."
+  },
+  "word": "believed",
+  "ipa": "/bɪˈliːvd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Consider something to be true or certain, based on faith, trust, or evidence.",
+  "examples": [
+    "She believed in the power of positive thinking.",
+    "Many people believed the ancient legend.",
+    "He believed that honesty was the best policy.",
+    "Scientists believed the theory was correct.",
+    "They believed in each other's abilities."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb6"
+  },
+  "es": {
+    "word": "eternal",
+    "definition": "Sin fin o principio; duradero para siempre."
+  },
+  "pt": {
+    "word": "eterno",
+    "definition": "Sem fim ou começo; duradouro para sempre."
+  },
+  "word": "eternal",
+  "ipa": "/ɪˈtɜːrnəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Without end or beginning; lasting forever.",
+  "examples": [
+    "Love is often seen as an eternal emotion.",
+    "The concept of time is a challenge to grasp the eternal.",
+    "He made an eternal promise to always be there.",
+    "The beauty of nature is often described as eternal.",
+    "In many cultures, the soul is considered eternal."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb7"
+  },
+  "es": {
+    "word": "intervention",
+    "definition": "Acción de intervenir o interferir en una situación, a menudo con el propósito de mejorarla o cambiarla."
+  },
+  "pt": {
+    "word": "intervenção",
+    "definition": "Ação de intervir ou interferir em uma situação, frequentemente com o propósito de melhorá-la ou modificá-la."
+  },
+  "word": "intervention",
+  "ipa": "/ˌɪntəˈvɛnʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The action of intervening or interfering in a situation, often with the purpose of improving or changing it.",
+  "examples": [
+    "The intervention of a mediator resolved the dispute.",
+    "Medical interventions can save lives.",
+    "The government's intervention in the economy had consequences.",
+    "Family and friends staged an intervention to help him.",
+    "Foreign intervention can have political implications."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb8"
+  },
+  "es": {
+    "word": "temples",
+    "definition": "Las partes laterales de la cabeza, a cada lado de la frente, sobre las sienes."
+  },
+  "pt": {
+    "word": "templos",
+    "definition": "As partes laterais da cabeça, de cada lado da testa, sobre as têmporas."
+  },
+  "word": "temples",
+  "ipa": "/ˈtɛmpəlz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The side parts of the head, on each side of the forehead, above the temples.",
+  "examples": [
+    "He massaged his temples to relieve the headache.",
+    "The pain throbbed in her temples.",
+    "She gently touched her temples with her fingers.",
+    "He felt a pulsation in his temples.",
+    "The temples are often a sensitive area."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acb9"
+  },
+  "es": {
+    "word": "hieroglyphs",
+    "definition": "Símbolos o caracteres pictográficos utilizados en la escritura de algunas antiguas civilizaciones, como la egipcia."
+  },
+  "pt": {
+    "word": "hieróglifos",
+    "definition": "Símbolos ou caracteres pictográficos usados na escrita de algumas antigas civilizações, como a egípcia."
+  },
+  "word": "hieroglyphs",
+  "ipa": "/ˈhaɪərəɡlɪfs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Symbols or pictographic characters used in the writing of some ancient civilizations, such as the Egyptian.",
+  "examples": [
+    "The hieroglyphs on the ancient tablet were a mystery to decipher.",
+    "Scholars study hieroglyphs to understand ancient texts.",
+    "The walls of the tomb were covered in hieroglyphs.",
+    "He could recognize a few common hieroglyphs.",
+    "Hieroglyphs were used for religious and monumental inscriptions."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acba"
+  },
+  "es": {
+    "word": "depicted",
+    "definition": "Representado o descrito en una imagen, pintura o descripción."
+  },
+  "pt": {
+    "word": "representado",
+    "definition": "Representado ou descrito em uma imagem, pintura ou descrição."
+  },
+  "word": "depicted",
+  "ipa": "/dɪˈpɪktɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Represented or described in a picture, painting, or description.",
+  "examples": [
+    "The mural depicted scenes from the city's history.",
+    "The artist depicted the beauty of nature in his paintings.",
+    "The book cover depicted the main character in a dramatic pose.",
+    "The documentary depicted the lives of indigenous people.",
+    "The movie depicted a fictional world of magic and adventure."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acbb"
+  },
+  "es": {
+    "word": "dynamic",
+    "definition": "En constante cambio o evolución; caracterizado por la actividad y energía."
+  },
+  "pt": {
+    "word": "dinâmico",
+    "definition": "Em constante mudança ou evolução; caracterizado pela atividade e energia."
+  },
+  "word": "dynamic",
+  "ipa": "/daɪˈnæmɪk/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Constantly changing or evolving; characterized by activity and energy.",
+  "examples": [
+    "The dynamic nature of the technology industry requires adaptation.",
+    "She has a dynamic personality that draws people in.",
+    "The team's dynamic approach led to innovative solutions.",
+    "A dynamic market demands quick decision-making.",
+    "The concert was filled with dynamic performances."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acbc"
+  },
+  "es": {
+    "word": "relationship",
+    "definition": "La conexión, asociación o vínculo entre personas, objetos o ideas."
+  },
+  "pt": {
+    "word": "relacionamento",
+    "definition": "A conexão, associação ou vínculo entre pessoas, objetos ou ideias."
+  },
+  "word": "relationship",
+  "ipa": "/rɪˈleɪʃənˌʃɪp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The connection, association, or bond between people, objects, or ideas.",
+  "examples": [
+    "A strong relationship is built on trust and communication.",
+    "She has a close relationship with her siblings.",
+    "The relationship between cause and effect is complex.",
+    "Their business relationship has been successful for years.",
+    "Effective communication is key to a healthy relationship."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acbd"
+  },
+  "es": {
+    "word": "marked",
+    "definition": "Notable o evidente; con señales o características distintivas."
+  },
+  "pt": {
+    "word": "marcado",
+    "definition": "Notável ou evidente; com sinais ou características distintivas."
+  },
+  "word": "marked",
+  "ipa": "/mɑːrkt/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Notable or evident; with distinctive signs or characteristics.",
+  "examples": [
+    "There was a marked improvement in her performance.",
+    "The marked difference between the two paintings was clear.",
+    "His talent for music was marked from a young age.",
+    "The marked decline in sales raised concerns.",
+    "The storm left a marked impact on the landscape."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acbe"
+  },
+  "es": {
+    "word": "monumental",
+    "definition": "Impresionante en tamaño, escala o importancia; relacionado con monumentos."
+  },
+  "pt": {
+    "word": "monumental",
+    "definition": "Impressionante em tamanho, escala ou importância; relacionado com monumentos."
+  },
+  "word": "monumental",
+  "ipa": "/ˌmɑːnjuːˈmɛntəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Impressive in size, scale, or importance; related to monuments.",
+  "examples": [
+    "The monumental architecture of the ancient city is awe-inspiring.",
+    "She created a monumental sculpture for the public square.",
+    "The historical battle was a monumental event in the nation's history.",
+    "The monument stands as a testament to the city's monumental achievements.",
+    "The task of rebuilding the city was monumental."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acbf"
+  },
+  "es": {
+    "word": "architectural",
+    "definition": "Relativo a la arquitectura o la construcción de edificios."
+  },
+  "pt": {
+    "word": "arquitetônico",
+    "definition": "Relativo à arquitetura ou à construção de edifícios."
+  },
+  "word": "architectural",
+  "ipa": "/ˌɑːrkɪˈtɛktʃərəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Relating to architecture or the construction of buildings.",
+  "examples": [
+    "The city is known for its architectural landmarks.",
+    "He studied architectural design in college.",
+    "The architectural style of the building is unique.",
+    "They are experts in architectural restoration.",
+    "The exhibition explores the evolution of architectural innovation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc0"
+  },
+  "es": {
+    "word": "feats",
+    "definition": "Logros notables o hazañas destacadas."
+  },
+  "pt": {
+    "word": "feitos",
+    "definition": "Conquistas notáveis ou façanhas destacadas."
+  },
+  "word": "feats",
+  "ipa": "/fiːts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Notable achievements or outstanding accomplishments.",
+  "examples": [
+    "His athletic feats earned him several awards.",
+    "The team's feats in the competition were impressive.",
+    "She was recognized for her feats in science and research.",
+    "The historical figure is known for his legendary feats.",
+    "Overcoming adversity, he achieved remarkable feats."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc1"
+  },
+  "es": {
+    "word": "pyramids",
+    "definition": "Estructuras arquitectónicas con forma de pirámide, especialmente las antiguas pirámides egipcias."
+  },
+  "pt": {
+    "word": "pirâmides",
+    "definition": "Estruturas arquitetônicas em forma de pirâmide, especialmente as antigas pirâmides egípcias."
+  },
+  "word": "pyramids",
+  "ipa": "/ˈpɪrəˌmɪdz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Architectural structures in the shape of a pyramid, especially the ancient Egyptian pyramids.",
+  "examples": [
+    "The pyramids of Giza are world-famous landmarks.",
+    "Archaeologists explore the mysteries of the pyramids.",
+    "The step pyramids were significant in ancient cultures.",
+    "The construction of the pyramids required immense labor.",
+    "Tourists flock to see the ancient pyramids."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc2"
+  },
+  "es": {
+    "word": "giza",
+    "definition": "El área en Egipto donde se encuentran las famosas pirámides de Giza."
+  },
+  "pt": {
+    "word": "giza",
+    "definition": "A área no Egito onde estão localizadas as famosas pirâmides de Gizé."
+  },
+  "word": "giza",
+  "ipa": "/ˈdʒiːzə/",
+  "type_word": [
+    {
+      "name": "Proper Noun",
+      "sigle": "pn.",
+      "description": "Specific names of people, places, organizations, etc., that are capitalized."
+    }
+  ],
+  "definition": "The area in Egypt where the famous pyramids of Giza are located.",
+  "examples": [
+    "Visitors from around the world come to Giza to see the pyramids.",
+    "The archaeological site of Giza is of great historical importance.",
+    "The pyramids of Giza are a UNESCO World Heritage site.",
+    "Researchers continue to uncover secrets of ancient Giza.",
+    "Giza is a must-visit destination for history enthusiasts."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc3"
+  },
+  "es": {
+    "word": "mystical",
+    "definition": "Relacionado con lo espiritual, lo misterioso o lo sobrenatural; de naturaleza mística."
+  },
+  "pt": {
+    "word": "místico",
+    "definition": "Relacionado com o espiritual, o misterioso ou o sobrenatural; de natureza mística."
+  },
+  "word": "mystical",
+  "ipa": "/ˈmɪstɪkəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Related to the spiritual, mysterious, or supernatural; of a mystical nature.",
+  "examples": [
+    "She had a mystical experience during meditation.",
+    "The ancient texts contain mystical teachings.",
+    "The forest was shrouded in mystical legends.",
+    "The mystical powers of the sorcerer were legendary.",
+    "The mystical atmosphere of the temple was awe-inspiring."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc4"
+  },
+  "es": {
+    "word": "rituales",
+    "definition": "Prácticas o ceremonias realizadas de acuerdo con un conjunto de reglas o tradiciones, a menudo con significado religioso o cultural."
+  },
+  "pt": {
+    "word": "rituais",
+    "definition": "Práticas ou cerimônias realizadas de acordo com um conjunto de regras ou tradições, frequentemente com significado religioso ou cultural."
+  },
+  "word": "rituals",
+  "ipa": "/ˈrɪtʃuəlz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Practices or ceremonies performed according to a set of rules or traditions, often with religious or cultural significance.",
+  "examples": [
+    "The tribe had elaborate rituals for harvesting crops.",
+    "She performed the morning ritual of yoga and meditation.",
+    "Rituals play a significant role in their cultural celebrations.",
+    "The wedding ceremony included traditional rituals.",
+    "The initiation ritual was a rite of passage for young adults."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc5"
+  },
+  "es": {
+    "word": "momificación",
+    "definition": "El proceso de preservar un cuerpo después de la muerte mediante la eliminación de la humedad y la descomposición."
+  },
+  "pt": {
+    "word": "mumificação",
+    "definition": "O processo de preservar um corpo após a morte através da remoção de umidade e decomposição."
+  },
+  "word": "mummification",
+  "ipa": "/ˌmʌmɪfɪˈkeɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The process of preserving a body after death by removing moisture and decomposition.",
+  "examples": [
+    "Ancient Egyptians practiced mummification to prepare the deceased for the afterlife.",
+    "The mummification process involved carefully wrapping the body in linen bandages.",
+    "Mummification was a complex and ritualistic procedure.",
+    "The museum has a collection of artifacts related to mummification.",
+    "The discovery of well-preserved mummies shed light on ancient burial practices."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc6"
+  },
+  "es": {
+    "word": "percibido",
+    "definition": "Entendido o notado a través de los sentidos o la mente."
+  },
+  "pt": {
+    "word": "percebido",
+    "definition": "Entendido ou notado através dos sentidos ou da mente."
+  },
+  "word": "perceived",
+  "ipa": "/pərˈsiːvd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Understood or noticed through the senses or the mind.",
+  "examples": [
+    "Her perceived lack of enthusiasm was concerning to the team.",
+    "The artist's work often explores the relationship between reality and perceived reality.",
+    "Perceived threats can trigger the body's stress response.",
+    "His perceived success was the result of years of hard work.",
+    "The perceived value of the product influenced its price."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc7"
+  },
+  "es": {
+    "word": "colocado",
+    "definition": "Puesto o situado en un lugar específico o posición."
+  },
+  "pt": {
+    "word": "colocado",
+    "definition": "Colocado ou situado em um local específico ou posição."
+  },
+  "word": "laid",
+  "ipa": "/leɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Placed or situated in a specific location or position.",
+  "examples": [
+    "She laid the book on the table.",
+    "He laid the foundation for the new building.",
+    "The eggs were carefully laid in the nest.",
+    "They laid the groundwork for future research.",
+    "The carpet was laid in the living room."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc8"
+  },
+  "es": {
+    "word": "descanso",
+    "definition": "Período de tiempo en el que alguien se relaja o se recupera después de un esfuerzo físico o mental."
+  },
+  "pt": {
+    "word": "descanso",
+    "definition": "Período de tempo em que alguém relaxa ou se recupera após um esforço físico ou mental."
+  },
+  "word": "rest",
+  "ipa": "/rɛst/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A period of time during which someone relaxes or recovers after physical or mental exertion.",
+  "examples": [
+    "She needed a rest after a long day at work.",
+    "The doctor recommended plenty of rest for the patient.",
+    "Taking short breaks can improve productivity during work rests.",
+    "The vacation was a much-needed rest for the family.",
+    "He enjoyed the rest and relaxation of a spa day."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb63441e776404fb7acc9"
+  },
+  "es": {
+    "word": "grande",
+    "definition": "De tamaño considerable en comparación con otros objetos de su tipo."
+  },
+  "pt": {
+    "word": "grande",
+    "definition": "De tamanho considerável em comparação com outros objetos de seu tipo."
+  },
+  "word": "grand",
+  "ipa": "/ɡrænd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Of considerable size compared to other objects of its kind.",
+  "examples": [
+    "The grand piano dominated the living room.",
+    "The cathedral's architecture was grand and impressive.",
+    "He had a grand vision for the future of the company.",
+    "The grand canyon is a natural wonder.",
+    "She wore a grand gown to the gala event."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acca"
+  },
+  "es": {
+    "word": "divino",
+    "definition": "Relacionado con lo celestial o lo sagrado; supremamente bueno o hermoso."
+  },
+  "pt": {
+    "word": "divino",
+    "definition": "Relacionado com o celestial ou o sagrado; supremamente bom ou belo."
+  },
+  "word": "divine",
+  "ipa": "/dɪˈvaɪn/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Related to the celestial or the sacred; supremely good or beautiful.",
+  "examples": [
+    "The cathedral's architecture is truly divine.",
+    "Many consider the sunset over the ocean to be a divine sight.",
+    "She had a divine talent for singing.",
+    "The priest spoke of divine intervention in their lives.",
+    "To meditate is to seek a connection with the divine."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7accb"
+  },
+  "es": {
+    "word": "bancos",
+    "definition": "Instituciones financieras que ofrecen servicios de depósito y préstamo de dinero."
+  },
+  "pt": {
+    "word": "bancos",
+    "definition": "Instituições financeiras que oferecem serviços de depósito e empréstimo de dinheiro."
+  },
+  "word": "banks",
+  "ipa": "/bæŋks/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Financial institutions that offer deposit and loan services.",
+  "examples": [
+    "I need to visit the banks to open a savings account.",
+    "Banks play a crucial role in the economy.",
+    "She works at one of the largest banks in the country.",
+    "They decided to banks together for their mortgage.",
+    "The riverbanks were lined with beautiful trees."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7accc"
+  },
+  "es": {
+    "word": "Nilo",
+    "definition": "El río más largo del mundo, ubicado en el noreste de África."
+  },
+  "pt": {
+    "word": "Nilo",
+    "definition": "O rio mais longo do mundo, localizado no nordeste da África."
+  },
+  "word": "Nile",
+  "ipa": "/naɪl/",
+  "type_word": [
+    {
+      "name": "Proper Noun",
+      "sigle": "pn.",
+      "description": "Specific names of people, places, organizations, etc., that are capitalized."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The longest river in the world, located in Northeast Africa.",
+  "examples": [
+    "The Nile River is of great historical and geographical significance.",
+    "Ancient Egypt thrived along the banks of the Nile.",
+    "They took a boat cruise on the Nile.",
+    "The Nile flows through multiple countries in Africa.",
+    "The Nile Delta is known for its fertile lands."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7accd"
+  },
+  "es": {
+    "word": "río",
+    "definition": "Corriente natural de agua que fluye en una dirección específica."
+  },
+  "pt": {
+    "word": "rio",
+    "definition": "Corrente natural de água que flui em uma direção específica."
+  },
+  "word": "river",
+  "ipa": "/ˈrɪvər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A natural flow of water that moves in a specific direction.",
+  "examples": [
+    "The Amazon River is the largest river in the world by volume.",
+    "Many cities are built along the banks of rivers.",
+    "They went fishing in the river last weekend.",
+    "The river meandered through the lush forest.",
+    "Crossing the river proved to be a challenging task."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acce"
+  },
+  "es": {
+    "word": "fascinante",
+    "definition": "Que causa interés o atracción intensa; encantador."
+  },
+  "pt": {
+    "word": "fascinante",
+    "definition": "Que causa interesse ou atração intensa; encantador."
+  },
+  "word": "fascinating",
+  "ipa": "/ˈfæsɪˌneɪtɪŋ/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Causing intense interest or attraction; charming.",
+  "examples": [
+    "The documentary about space exploration was absolutely fascinating.",
+    "Her stories about her travels were always fascinating to listen to.",
+    "The history of ancient civilizations is truly fascinating.",
+    "He found the scientific research on the topic fascinating.",
+    "The art exhibition was a fascinating display of creativity."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7accf"
+  },
+  "es": {
+    "word": "período",
+    "definition": "Un tramo específico de tiempo o una era en la historia."
+  },
+  "pt": {
+    "word": "período",
+    "definition": "Um período específico de tempo ou uma era na história."
+  },
+  "word": "period",
+  "ipa": "/ˈpɪəriəd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A specific stretch of time or an era in history.",
+  "examples": [
+    "The Jurassic period is known for its dinosaurs.",
+    "She studied the Romantic period in literature.",
+    "The Victorian period was marked by significant social changes.",
+    "The Middle Ages was a tumultuous period in European history.",
+    "The Renaissance period saw a revival of arts and learning."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd0"
+  },
+  "es": {
+    "word": "dónde",
+    "definition": "En o hacia qué lugar o dirección."
+  },
+  "pt": {
+    "word": "onde",
+    "definition": "Em ou em direção a que lugar ou direção."
+  },
+  "word": "where",
+  "ipa": "/wɛr/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    },
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect words, phrases, or clauses."
+    }
+  ],
+  "definition": "In or toward what place or direction.",
+  "examples": [
+    "Where are you going?",
+    "I don't know where he went.",
+    "Where did you find that treasure?",
+    "Tell me where you want to go.",
+    "The map shows where the treasure is buried."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd1"
+  },
+  "es": {
+    "word": "mortal",
+    "definition": "Sujeto a morir; que puede causar la muerte."
+  },
+  "pt": {
+    "word": "mortal",
+    "definition": "Sujeito a morrer; que pode causar a morte."
+  },
+  "word": "mortal",
+  "ipa": "/ˈmɔrtəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Subject to death; capable of causing death.",
+  "examples": [
+    "All living creatures are mortal.",
+    "The mortal wound was too severe to heal.",
+    "He faced mortal danger during the expedition.",
+    "The duel was a fight to the mortal end.",
+    "The mortal remains of the king were laid to rest."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd2"
+  },
+  "es": {
+    "word": "mundos",
+    "definition": "Plural de 'mundo', que se refiere a planetas habitados o realidades diferentes."
+  },
+  "pt": {
+    "word": "mundos",
+    "definition": "Plural de 'mundo', que se refere a planetas habitados ou realidades diferentes."
+  },
+  "word": "worlds",
+  "ipa": "/wɜrldz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Plural of 'world,' referring to inhabited planets or different realities.",
+  "examples": [
+    "There may be other worlds beyond our solar system.",
+    "The worlds of science fiction often explore alternate realities.",
+    "Exploring new worlds has always been a human ambition.",
+    "In mythology, gods and creatures exist in different worlds.",
+    "The concept of parallel worlds is a fascinating topic."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd3"
+  },
+  "es": {
+    "word": "entrelazados",
+    "definition": "Unidos o conectados de manera compleja o íntima."
+  },
+  "pt": {
+    "word": "entrelaçados",
+    "definition": "Unidos ou conectados de forma complexa ou íntima."
+  },
+  "word": "intertwined",
+  "ipa": "/ˌɪntərˈtwaɪnd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "United or connected in a complex or intimate way.",
+  "examples": [
+    "Their fates were intertwined from a young age.",
+    "The two storylines in the novel are deeply intertwined.",
+    "Love and art are often intertwined in human experience.",
+    "The history of these two nations is tightly intertwined.",
+    "In nature, ecosystems are intricately intertwined."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd4"
+  },
+  "es": {
+    "word": "fechado",
+    "definition": "Que tiene una fecha específica o está cerrado a la entrada."
+  },
+  "pt": {
+    "word": "datado",
+    "definition": "Que tem uma data específica ou está fechado para entrada."
+  },
+  "word": "dated",
+  "ipa": "/ˈdeɪtɪd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Having a specific date or being closed to entry.",
+  "examples": [
+    "The letter was dated April 15th, 2023.",
+    "The old building was dated and in need of renovation.",
+    "Her fashion choices looked dated compared to current trends.",
+    "The event is dated for next Saturday.",
+    "The museum is currently dated for maintenance work."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd5"
+  },
+  "es": {
+    "word": "atrás",
+    "definition": "En dirección al lugar de partida o hacia el pasado."
+  },
+  "pt": {
+    "word": "atrás",
+    "definition": "Em direção ao local de partida ou em direção ao passado."
+  },
+  "word": "back",
+  "ipa": "/bæk/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "In the direction of the starting point or toward the past.",
+  "examples": [
+    "The car backed into the parking space.",
+    "She took a step back from the edge of the cliff.",
+    "The company is looking back at its history.",
+    "The movie is set in the 1950s, looking back at the past.",
+    "The book looks back at the history of the country."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd6"
+  },
+  "es": {
+    "word": "3150",
+    "definition": "Número que representa una cantidad."
+  },
+  "pt": {
+    "word": "3150",
+    "definition": "Número que representa uma quantidade."
+  },
+  "word": "3150",
+  "ipa": "/ˈθriːˈfɪv ˈsɛvənˈtiː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A number representing a quantity.",
+  "examples": [
+    "The total cost is 3150 dollars.",
+    "She counted 3150 books on the shelf.",
+    "His car's mileage is 3150 miles.",
+    "They sold 3150 tickets for the concert.",
+    "The room can hold 3150 people."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd7"
+  },
+  "es": {
+    "word": "bce",
+    "definition": "Abreviatura de 'Before Common Era' (Antes de la Era Común), utilizado para fechar eventos en la historia antes del año 1 CE (Era Común)."
+  },
+  "pt": {
+    "word": "aEC",
+    "definition": "Abreviação de 'Antes da Era Comum', usada para datar eventos na história antes do ano 1 EC (Era Comum)."
+  },
+  "word": "bce",
+  "ipa": "/biː.siː.iː/",
+  "type_word": [
+    {
+      "name": "Abbreviation",
+      "sigle": "abbr.",
+      "description": "Shortened form of a word or phrase."
+    }
+  ],
+  "definition": "Abbreviation for 'Before Common Era,' used to date events in history before the year 1 CE (Common Era).",
+  "examples": [
+    "The construction of the pyramids began in 2600 BCE.",
+    "The Bronze Age started around 3200 BCE.",
+    "The ancient civilization existed from 4000 BCE to 1000 BCE.",
+    "The Stonehenge monument was built around 2500 BCE.",
+    "Many historical artifacts date back to the period of 2000 BCE."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd8"
+  },
+  "es": {
+    "word": "living",
+    "definition": "Estar vivo; la condición de estar vivo."
+  },
+  "pt": {
+    "word": "vivo",
+    "definition": "Estar vivo; a condição de estar vivo."
+  },
+  "word": "living",
+  "ipa": "/ˈlɪvɪŋ/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Being alive; the condition of being alive.",
+  "examples": [
+    "All living organisms require water to survive.",
+    "The living room is where we spend most of our time.",
+    "He believed in the afterlife where the soul continues living.",
+    "The study of living creatures is called biology.",
+    "Living beings exhibit various forms of life."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acd9"
+  },
+  "es": {
+    "word": "ruled",
+    "definition": "Controlado o gobernado por una autoridad o líder."
+  },
+  "pt": {
+    "word": "governado",
+    "definition": "Controlado ou governado por uma autoridade ou líder."
+  },
+  "word": "ruled",
+  "ipa": "/ruːld/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Controlled or governed by an authority or leader.",
+  "examples": [
+    "The kingdom was ruled by a wise king.",
+    "During the monarchy, the country was ruled by queens and kings.",
+    "The dictator ruled with an iron fist.",
+    "The city is ruled by a mayor and city council.",
+    "Under the new law, the territory is ruled independently."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acda"
+  },
+  "es": {
+    "word": "surrounded",
+    "definition": "Estar alrededor o cercado por algo."
+  },
+  "pt": {
+    "word": "cercado",
+    "definition": "Estar rodeado o cercado por algo."
+  },
+  "word": "surrounded",
+  "ipa": "/səˈraʊndɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "To be encircled or enclosed by something.",
+  "examples": [
+    "The fortress was surrounded by a high stone wall.",
+    "She felt surrounded by the beauty of nature.",
+    "The city is surrounded by mountains on all sides.",
+    "The island is surrounded by clear blue waters.",
+    "They found themselves surrounded by a dense forest."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acdb"
+  },
+  "es": {
+    "word": "myths",
+    "definition": "Narrativas tradicionales que explican creencias o fenómenos, a menudo involucrando dioses o héroes."
+  },
+  "pt": {
+    "word": "mitos",
+    "definition": "Narrativas tradicionais que explicam crenças ou fenômenos, frequentemente envolvendo deuses ou heróis."
+  },
+  "word": "myths",
+  "ipa": "/mɪθs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Traditional narratives that explain beliefs or phenomena, often involving gods or heroes.",
+  "examples": [
+    "Greek myths tell the stories of ancient gods and heroes.",
+    "Myths from different cultures often have similar themes.",
+    "The myth of Atlantis has fascinated people for centuries.",
+    "Myths are a way to pass down cultural knowledge.",
+    "The creation myth explains how the world began."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acdc"
+  },
+  "es": {
+    "word": "legends",
+    "definition": "Historias populares o tradicionales que a menudo incluyen elementos sobrenaturales o extraordinarios."
+  },
+  "pt": {
+    "word": "lendas",
+    "definition": "Histórias populares ou tradicionais que frequentemente incluem elementos sobrenaturais ou extraordinários."
+  },
+  "word": "legends",
+  "ipa": "/ˈlɛdʒənds/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Popular or traditional stories often including supernatural or extraordinary elements.",
+  "examples": [
+    "Arthurian legends tell of King Arthur and the Knights of the Round Table.",
+    "Urban legends are often spooky or mysterious tales.",
+    "Legends about dragons exist in many cultures.",
+    "The legend of Robin Hood is a famous folk story.",
+    "Native American legends are rich in cultural significance."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acdd"
+  },
+  "es": {
+    "word": "realm",
+    "definition": "Un reino o dominio, especialmente en un contexto abstracto."
+  },
+  "pt": {
+    "word": "reino",
+    "definition": "Um reino ou domínio, especialmente em um contexto abstrato."
+  },
+  "word": "realm",
+  "ipa": "/rɛlm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A kingdom or domain, especially in an abstract context.",
+  "examples": [
+    "In the realm of science, many discoveries are made.",
+    "She entered a realm of fantasy and imagination.",
+    "The realm of politics is often complex and unpredictable.",
+    "Exploring the realm of art can be a rewarding experience.",
+    "His writings delve into the realm of philosophy."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acde"
+  },
+  "es": {
+    "word": "supernatural",
+    "definition": "Relacionado con lo que está más allá de lo natural o lo explicado por la ciencia; fenómeno inexplicable o misterioso."
+  },
+  "pt": {
+    "word": "sobrenatural",
+    "definition": "Relacionado com o que está além do natural ou do explicado pela ciência; fenômeno inexplicável ou misterioso."
+  },
+  "word": "supernatural",
+  "ipa": "/ˌsuːpərˈnætʃərəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Related to what is beyond the natural or explained by science; inexplicable or mysterious phenomenon.",
+  "examples": [
+    "Ghosts and spirits are often considered supernatural entities.",
+    "Many cultures have beliefs in supernatural powers.",
+    "The supernatural elements in the story add to its intrigue.",
+    "Exploring the supernatural can be both frightening and fascinating.",
+    "Some people have reported encounters with supernatural beings."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7acdf"
+  },
+  "es": {
+    "word": "beings",
+    "definition": "Ser vivo; entidad con existencia y conciencia."
+  },
+  "pt": {
+    "word": "seres",
+    "definition": "Ser vivo; entidade com existência e consciência."
+  },
+  "word": "beings",
+  "ipa": "/ˈbiːɪŋz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A living being; an entity with existence and consciousness.",
+  "examples": [
+    "Human beings are capable of complex thoughts and emotions.",
+    "All beings on Earth are connected through the ecosystem.",
+    "She believed in the existence of extraterrestrial beings.",
+    "In many myths, beings from other realms interact with humans.",
+    "The existence of supernatural beings is a topic of debate."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "655fb7a941e776404fb7ace0"
+  },
+  "es": {
+    "word": "deidades",
+    "definition": "Dioses o seres divinos en una religión o creencia."
+  },
+  "pt": {
+    "word": "deidades",
+    "definition": "Deuses ou seres divinos em uma religião ou crença."
+  },
+  "word": "deities",
+  "ipa": "/ˈdiːɪtiz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Gods or divine beings in a religion or belief system.",
+  "examples": [
+    "In Greek mythology, there are numerous deities with various powers.",
+    "Many ancient cultures worshiped a pantheon of deities.",
+    "These deities are often depicted in religious art and literature.",
+    "The concept of deities varies from one religion to another.",
+    "People offer prayers and sacrifices to their deities."
+  ],
+  "times_seen": 1,
+  "status": "SUCCESS"
 }]

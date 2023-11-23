@@ -7,7 +7,7 @@ interface Props {
   word: Word;
   isShowOnlyWord?: boolean;
 }
-export const WordCard = memo(({ word, isShowOnlyWord }: Props) => {
+export const WordCard = memo(({ word, isShowOnlyWord = true }: Props) => {
   // console.log("HOLLLA"); // se repita muchas veces OJO
 
   const speakWord = () => {
