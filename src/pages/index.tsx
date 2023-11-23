@@ -321,7 +321,7 @@ export default function Home() {
             <AiOutlineLoading className="animate-spin  text-2xl text-green-600" />
           )}
         </form>
-        <small className="text-green text-xs">__________v1 1.99.99</small>
+        <small className="text-green text-xs">__________v1 3.1.9</small>
       </div>
 
       <Modal isOpen={isOpenModal} setIsOpen={setIsOpenModal}>
