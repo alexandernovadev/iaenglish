@@ -36,6 +36,7 @@ export default function Home() {
     text,
     voices,
     startListening,
+    stopListening,
     speak,
     setText,
     setConfigUser,
@@ -217,7 +218,7 @@ export default function Home() {
         </div>
 
         <div className="flex flex-col gap-2 max-w-xl px-3">
-          <h1 className="flex-grow truncate text-lg  font-bold text-yellow-300" contenteditable="true">
+          <h1 className="flex-grow truncate text-lg  font-bold text-yellow-300">
             {text ? text : "🗣️ Speak "}
           </h1>
         </div>
@@ -248,7 +249,7 @@ export default function Home() {
             {isListening ? (
               <button
                 onClick={() => {
-                  startListening();
+                  stopListening();
                 }}
                 className="px-2 py-1 bg-red-600 rounded hover:bg-red-700 transition duration-300 flex justify-cente items-center"
               >

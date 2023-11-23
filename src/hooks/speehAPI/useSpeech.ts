@@ -77,6 +77,13 @@ const useSpeech = (
     window.speechSynthesis.speak(speech);
   };
 
+  const stopListening = () => {
+    if (speechRecognition) {
+      speechRecognition.stop();
+      setIsListening(false);
+    }
+  };
+
   const getAvailableVoices = () =>
     setVoices(window.speechSynthesis.getVoices());
 
@@ -84,7 +91,10 @@ const useSpeech = (
     text,
     isListening,
     voices,
+
+
     startListening,
+    stopListening,
     speak,
     setText,
     setConfigUser,
