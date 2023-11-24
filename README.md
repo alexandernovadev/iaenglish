@@ -25,4 +25,9 @@ Lyric
   isLoad
   isError
 
-Chat
+
+todas las words que tengan un espacio en blanco, o almento dos palabras
+{"$or": [{"word": {"$regex": "\\s"}}, {"word": {"$regex": "\\s+\\w+\\s"}}]}
+
+
+
