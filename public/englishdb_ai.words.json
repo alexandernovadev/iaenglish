@@ -17555,80 +17555,6 @@
 },
 {
   "_id": {
-    "$oid": "655e5ddabed567f26426a9bb"
-  },
-  "es": {
-    "word": null,
-    "definition": null
-  },
-  "pt": {
-    "word": null,
-    "definition": null
-  },
-  "word": "this word does not exist!",
-  "ipa": "You are Stupid",
-  "type_word": [
-    {
-      "name": null,
-      "sigle": null,
-      "description": null,
-      "_id": {
-        "$oid": "655e5ddabed567f26426a9bc"
-      }
-    },
-    {
-      "name": null,
-      "sigle": null,
-      "description": null,
-      "_id": {
-        "$oid": "655e5ddabed567f26426a9bd"
-      }
-    },
-    {
-      "name": null,
-      "sigle": null,
-      "description": null,
-      "_id": {
-        "$oid": "655e5ddabed567f26426a9be"
-      }
-    },
-    {
-      "name": null,
-      "sigle": null,
-      "description": null,
-      "_id": {
-        "$oid": "655e5ddabed567f26426a9bf"
-      }
-    },
-    {
-      "name": null,
-      "sigle": null,
-      "description": null,
-      "_id": {
-        "$oid": "655e5ddabed567f26426a9c0"
-      }
-    }
-  ],
-  "definition": null,
-  "examples": [
-    null,
-    null,
-    null,
-    null,
-    null
-  ],
-  "times_seen": 1,
-  "status": "FAIL",
-  "createdAt": {
-    "$date": "2023-11-22T20:00:26.544Z"
-  },
-  "updatedAt": {
-    "$date": "2023-11-22T20:00:26.544Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "655e5e10f463e3a7a51d0645"
   },
   "es": {
@@ -32410,38 +32336,6 @@
 },
 {
   "_id": {
-    "$oid": "655fad9e41e776404fb7ac6e"
-  },
-  "es": {
-    "word": "Porque",
-    "definition": "Forma coloquial de 'por qué', utilizada para preguntar la razón o el motivo de algo."
-  },
-  "pt": {
-    "word": "'cause",
-    "definition": "Forma coloquial de 'porque', usada para perguntar a razão ou o motivo de algo."
-  },
-  "word": "'cause",
-  "ipa": "/kɔːz/",
-  "type_word": [
-    {
-      "name": "Conjunction",
-      "sigle": "conj.",
-      "description": "Words that connect clauses, sentences, words, or phrases."
-    }
-  ],
-  "definition": "Colloquial form of 'because', used to give a reason or cause.",
-  "examples": [
-    "I'm late 'cause my car broke down.",
-    "She's upset 'cause she lost her phone.",
-    "'Cause you asked, I'll tell you.",
-    "I can't go out 'cause I'm sick.",
-    "He didn't come 'cause he was busy."
-  ],
-  "times_seen": 1,
-  "status": "FAIL"
-},
-{
-  "_id": {
     "$oid": "655fad9e41e776404fb7ac6f"
   },
   "es": {
@@ -33890,38 +33784,6 @@
 },
 {
   "_id": {
-    "$oid": "655fb1a141e776404fb7ac9b"
-  },
-  "es": {
-    "word": "uso",
-    "definition": "Acción o manera de utilizar algo."
-  },
-  "pt": {
-    "word": "uso",
-    "definition": "Ação ou maneira de utilizar algo."
-  },
-  "word": "usage",
-  "ipa": "/ˈjuːsɪdʒ/",
-  "type_word": [
-    {
-      "name": "Noun",
-      "sigle": "n.",
-      "description": "Words that name people, animals, places, things, ideas, or phenomena."
-    }
-  ],
-  "definition": "The action or manner of using something.",
-  "examples": [
-    "The usage of plastic has increased over the years.",
-    "He was unfamiliar with the usage of the new software.",
-    "Her language usage is always precise.",
-    "There are different usages of the word in different contexts.",
-    "The book provides a guide to the usage of these terms."
-  ],
-  "times_seen": 1,
-  "status": "FAIL"
-},
-{
-  "_id": {
     "$oid": "655fb2ae41e776404fb7ac9c"
   },
   "es": {
@@ -34443,70 +34305,6 @@
     "The disease is common in tropical climates.",
     "The disease is spread by mosquitoes.",
     "The disease is fatal if left untreated."
-  ],
-  "times_seen": 1,
-  "status": "FAIL"
-},
-{
-  "_id": {
-    "$oid": "655fb63441e776404fb7acac"
-  },
-  "es": {
-    "word": "decir",
-    "definition": "Expresar verbalmente algo."
-  },
-  "pt": {
-    "word": "dizer",
-    "definition": "Expressar algo verbalmente."
-  },
-  "word": "tell",
-  "ipa": "/tɛl/",
-  "type_word": [
-    {
-      "name": "Verb",
-      "sigle": "v.",
-      "description": "Words that express actions, states, or processes."
-    }
-  ],
-  "definition": "Communicate information, facts, or news to someone in spoken or written words.",
-  "examples": [
-    "He could tell she was upset.",
-    "Tell me about your holiday.",
-    "She told a story to the children.",
-    "Can you tell the time?",
-    "I can tell that he's lying."
-  ],
-  "times_seen": 1,
-  "status": "FAIL"
-},
-{
-  "_id": {
-    "$oid": "655fb63441e776404fb7acad"
-  },
-  "es": {
-    "word": "sagrado",
-    "definition": "Relacionado con la religión o lo divino."
-  },
-  "pt": {
-    "word": "sagrado",
-    "definition": "Relacionado com a religião ou o divino."
-  },
-  "word": "holy",
-  "ipa": "/ˈhoʊli/",
-  "type_word": [
-    {
-      "name": "Adjective",
-      "sigle": "adj.",
-      "description": "Words that describe or modify nouns."
-    }
-  ],
-  "definition": "Dedicated or consecrated to a religious purpose; sacred.",
-  "examples": [
-    "The holy temple was a place of worship.",
-    "She felt a holy reverence for the ancient ritual.",
-    "The priest is a holy man.",
-    "They embarked on a holy quest.",
-    "The book is considered holy by many."
   ],
   "times_seen": 1,
   "status": "FAIL"
@@ -38579,6 +38377,3697 @@
     "The picture is much sharper now.",
     "He answered with a sharper tone.",
     "Her skills have become sharper over the years."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad29"
+  },
+  "es": {
+    "word": "importancia",
+    "definition": "Cualidad o condición de ser importante."
+  },
+  "pt": {
+    "word": "importância",
+    "definition": "Qualidade ou condição de ser importante."
+  },
+  "word": "importance",
+  "ipa": "/ɪmˈpɔːrtəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The quality or state of being important.",
+  "examples": [
+    "The importance of a good education cannot be overstated.",
+    "His role had great importance in the project's success.",
+    "Understanding the importance of teamwork is essential.",
+    "She stressed the importance of being on time.",
+    "The book gained importance over the years."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad2a"
+  },
+  "es": {
+    "word": "frasal",
+    "definition": "Perteneciente o relativo a las frases."
+  },
+  "pt": {
+    "word": "frasal",
+    "definition": "Pertencente ou relativo às frases."
+  },
+  "word": "phrasal",
+  "ipa": "/ˈfreɪzəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Relating to phrases, especially to phrasal verbs.",
+  "examples": [
+    "A phrasal verb is an important part of English grammar.",
+    "He is studying phrasal expressions in different languages.",
+    "Phrasal adjectives can be tricky to understand.",
+    "This dictionary has a section on phrasal verbs.",
+    "Understanding phrasal usage is key to mastering the language."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad2b"
+  },
+  "es": {
+    "word": "aspecto",
+    "definition": "Apariencia o carácter de algo."
+  },
+  "pt": {
+    "word": "aspecto",
+    "definition": "Aparência ou caráter de algo."
+  },
+  "word": "aspect",
+  "ipa": "/ˈæspɛkt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A particular part or feature of a situation, idea, or problem.",
+  "examples": [
+    "He considered all aspects of the complex situation.",
+    "This book covers various aspects of history.",
+    "The technical aspect of the job is challenging.",
+    "Her personality has many positive aspects.",
+    "Understanding different aspects of culture is fascinating."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad2c"
+  },
+  "es": {
+    "word": "aquellos",
+    "definition": "Usado para referirse a personas o cosas que están lejos en el espacio o el tiempo."
+  },
+  "pt": {
+    "word": "aqueles",
+    "definition": "Usado para referir-se a pessoas ou coisas que estão longe no espaço ou no tempo."
+  },
+  "word": "those",
+  "ipa": "/ðoʊz/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun."
+    },
+    {
+      "name": "Determiner",
+      "sigle": "det.",
+      "description": "Words that introduce nouns and provide context."
+    }
+  ],
+  "definition": "Used to identify a specific person or thing observed by the speaker.",
+  "examples": [
+    "Those were the best days of my life.",
+    "I don't like those shoes.",
+    "Those who study hard succeed.",
+    "Can you see those birds in the tree?",
+    "I remember those times with fondness."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad2d"
+  },
+  "es": {
+    "word": "versátil",
+    "definition": "Capaz de adaptarse fácilmente a diferentes funciones o actividades."
+  },
+  "pt": {
+    "word": "versátil",
+    "definition": "Capaz de se adaptar facilmente a diferentes funções ou atividades."
+  },
+  "word": "versatile",
+  "ipa": "/ˈvɜːrsətaɪl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Able to adapt or be adapted to many different functions or activities.",
+  "examples": [
+    "She is a versatile actress who can play any role.",
+    "A versatile tool can serve multiple purposes.",
+    "His versatile skills made him an asset to the team.",
+    "This kitchen gadget is surprisingly versatile.",
+    "Her versatile talents were evident in her work."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad2e"
+  },
+  "es": {
+    "word": "combinaciones",
+    "definition": "El acto o proceso de combinar dos o más cosas."
+  },
+  "pt": {
+    "word": "combinações",
+    "definition": "O ato ou processo de combinar duas ou mais coisas."
+  },
+  "word": "combinations",
+  "ipa": "/ˌkɒmbɪˈneɪʃənz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The act or process of combining two or more things.",
+  "examples": [
+    "The recipe calls for unique combinations of spices.",
+    "Different combinations of genes determine traits.",
+    "He tried several combinations to unlock the safe.",
+    "The game involves making combinations of colored tiles.",
+    "There are numerous possible combinations in the puzzle."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad2f"
+  },
+  "es": {
+    "word": "partículas",
+    "definition": "Pequeñas porciones de materia."
+  },
+  "pt": {
+    "word": "partículas",
+    "definition": "Pequenas porções de matéria."
+  },
+  "word": "particles",
+  "ipa": "/ˈpɑːrtɪkəlz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Tiny portions of matter.",
+  "examples": [
+    "Dust particles are visible in the sunlight.",
+    "The air was filled with tiny particles of water.",
+    "He is studying the behavior of particles at high temperatures.",
+    "Particles smaller than the eye can see can still be harmful.",
+    "The collision of particles can release enormous energy."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad30"
+  },
+  "es": {
+    "word": "añadir",
+    "definition": "Poner algo con otra cosa para aumentarla o mejorarla."
+  },
+  "pt": {
+    "word": "adicionar",
+    "definition": "Colocar algo com outra coisa para aumentá-la ou melhorá-la."
+  },
+  "word": "add",
+  "ipa": "/æd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Join (something) to something else so as to increase the size, number, or amount.",
+  "examples": [
+    "Add the flour to the mixture.",
+    "If you add three and four, you get seven.",
+    "They decided to add a new room to the house.",
+    "Add the name to the list.",
+    "He added some interesting facts to the conversation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad31"
+  },
+  "es": {
+    "word": "matiz",
+    "definition": "Una sutil diferencia o variación en el color, el tono, el significado, etc."
+  },
+  "pt": {
+    "word": "nuance",
+    "definition": "Uma diferença sutil ou variação na cor, tom, significado, etc."
+  },
+  "word": "nuance",
+  "ipa": "/ˈnjuːɑːns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A subtle difference in or shade of meaning, expression, or sound.",
+  "examples": [
+    "He listened to the subtle nuances in the music.",
+    "Her performance was full of emotional nuance.",
+    "Understanding the nuances of the language is challenging.",
+    "The nuance of the colors in the painting is remarkable.",
+    "They debated the nuances of the word's meaning."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad32"
+  },
+  "es": {
+    "word": "permitiendo",
+    "definition": "Dar la capacidad o medios para hacer algo; hacer posible."
+  },
+  "pt": {
+    "word": "permitindo",
+    "definition": "Dar a capacidade ou meios para fazer algo; tornar possível."
+  },
+  "word": "allowing",
+  "ipa": "/əˈlaʊɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Give (someone) the permission or means to do something; make it possible.",
+  "examples": [
+    "The new policy is allowing more people to access healthcare.",
+    "Allowing extra time for the project proved beneficial.",
+    "His condition is allowing him to resume normal activities.",
+    "They are allowing the public to visit the gardens.",
+    "Allowing employees to work from home increased productivity."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad33"
+  },
+  "es": {
+    "word": "aprendices",
+    "definition": "Personas que están aprendiendo un oficio o habilidad."
+  },
+  "pt": {
+    "word": "aprendizes",
+    "definition": "Pessoas que estão aprendendo um ofício ou habilidade."
+  },
+  "word": "learners",
+  "ipa": "/ˈlɜːrnərz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "People who are learning a subject or skill.",
+  "examples": [
+    "The course is suitable for both beginners and advanced learners.",
+    "Learners of the language often struggle with pronunciation.",
+    "The school provides individual attention to each of its learners.",
+    "Online platforms are popular among language learners.",
+    "The program caters to learners with different learning styles."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad34"
+  },
+  "es": {
+    "word": "ellos mismos",
+    "definition": "Usado para enfatizar que las personas especificadas y nadie más son involucradas."
+  },
+  "pt": {
+    "word": "eles mesmos",
+    "definition": "Usado para enfatizar que as pessoas especificadas e ninguém mais são envolvidas."
+  },
+  "word": "themselves",
+  "ipa": "/ðəmˈsɛlvz/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun."
+    }
+  ],
+  "definition": "Used to emphasize that the people specified and no one else are involved.",
+  "examples": [
+    "They completed the project themselves.",
+    "The children baked the cookies themselves.",
+    "They should be proud of themselves.",
+    "The athletes train themselves rigorously.",
+    "They built the house themselves."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad35"
+  },
+  "es": {
+    "word": "mayor",
+    "definition": "De gran tamaño, cantidad, o intensidad."
+  },
+  "pt": {
+    "word": "maior",
+    "definition": "De grande tamanho, quantidade ou intensidade."
+  },
+  "word": "greater",
+  "ipa": "/ˈgreɪtər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "More considerable in size, amount, or intensity.",
+  "examples": [
+    "There is a greater need for awareness.",
+    "His greater experience was evident.",
+    "The greater part of the audience applauded.",
+    "She has a greater understanding of the subject.",
+    "The project requires greater attention to detail."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6560380a41e776404fb7ad36"
+  },
+  "es": {
+    "word": "precisión",
+    "definition": "La calidad de ser exacto y exacto."
+  },
+  "pt": {
+    "word": "precisão",
+    "definition": "A qualidade de ser exato e correto."
+  },
+  "word": "precision",
+  "ipa": "/prɪˈsɪʒən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The quality of being exact and accurate.",
+  "examples": [
+    "The machine parts were made with high precision.",
+    "He answered the question with precision.",
+    "The study requires precision in data collection.",
+    "Her precision in timing was crucial to the performance.",
+    "The artist's work is known for its precision."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad37"
+  },
+  "es": {
+    "word": "reason",
+    "definition": "La facultad de pensar, entender y formar juicios lógicos."
+  },
+  "pt": {
+    "word": "razão",
+    "definition": "A faculdade de pensar, entender e formar julgamentos lógicos."
+  },
+  "word": "reason",
+  "ipa": "/ˈriːzn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The faculty of thinking, understanding, and forming logical judgments.",
+  "examples": [
+    "She used reason to solve the complex problem.",
+    "It's important to approach this with reason rather than emotion.",
+    "He couldn't find a reason for their behavior.",
+    "To reason with someone means to persuade them with logical arguments.",
+    "The reason for the delay was a technical issue."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad38"
+  },
+  "es": {
+    "word": "why",
+    "definition": "Used to ask for what reason or purpose."
+  },
+  "pt": {
+    "word": "por que",
+    "definition": "Usado para perguntar por qual motivo ou propósito."
+  },
+  "word": "why",
+  "ipa": "/waɪ/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words used to modify verbs, adjectives, other adverbs, or entire sentences."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Used to ask for what reason or purpose.",
+  "examples": [
+    "Why did you do that?",
+    "I don't know why he left so early.",
+    "Tell me why you made that decision.",
+    "Why is the sky blue?",
+    "Can you explain why this happened?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad39"
+  },
+  "es": {
+    "word": "rely",
+    "definition": "Depender de alguien o algo en particular."
+  },
+  "pt": {
+    "word": "depender",
+    "definition": "Contar com alguém ou algo em particular."
+  },
+  "word": "rely",
+  "ipa": "/rɪˈlaɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Depend on someone or something in particular.",
+  "examples": [
+    "I rely on my alarm clock to wake me up in the morning.",
+    "She can rely on her friends for support.",
+    "Don't rely too heavily on luck.",
+    "He relied on his experience to solve the problem.",
+    "You can rely on him to keep his promises."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad3a"
+  },
+  "es": {
+    "word": "convey",
+    "definition": "Transmitir o comunicar información, sentimientos o pensamientos."
+  },
+  "pt": {
+    "word": "transmitir",
+    "definition": "Passar ou comunicar informações, sentimentos ou pensamentos."
+  },
+  "word": "convey",
+  "ipa": "/kənˈveɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Transmit or communicate information, feelings, or thoughts.",
+  "examples": [
+    "She used gestures to convey her message.",
+    "Words alone may not convey the depth of his emotions.",
+    "Art can convey complex ideas and emotions.",
+    "The tone of voice can convey sarcasm.",
+    "The painting conveys a sense of tranquility."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad3b"
+  },
+  "es": {
+    "word": "meanings",
+    "definition": "The ideas and concepts that are represented by a word, phrase, or symbol."
+  },
+  "pt": {
+    "word": "significados",
+    "definition": "As ideias e conceitos representados por uma palavra, frase ou símbolo."
+  },
+  "word": "meanings",
+  "ipa": "/ˈmiːnɪŋz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The ideas and concepts that are represented by a word, phrase, or symbol.",
+  "examples": [
+    "Different cultures may have different meanings for the same symbol.",
+    "Understanding the meanings of words is essential for effective communication.",
+    "The study of semantics is concerned with meanings in language.",
+    "Interpreting the meanings of dreams can be challenging.",
+    "She explored the hidden meanings in the text."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad3c"
+  },
+  "es": {
+    "word": "familiarizing",
+    "definition": "Becoming knowledgeable about something by learning or experiencing it."
+  },
+  "pt": {
+    "word": "familiarizar",
+    "definition": "Tornar-se conhecedor de algo através da aprendizagem ou experiência."
+  },
+  "word": "familiarizing",
+  "ipa": "/fəˈmɪliəˌraɪzɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Becoming knowledgeable about something by learning or experiencing it.",
+  "examples": [
+    "Familiarizing yourself with new technology can be challenging.",
+    "She spent hours familiarizing herself with the subject matter.",
+    "The first step in learning a language is familiarizing yourself with its basics.",
+    "He's in the process of familiarizing himself with the company's policies.",
+    "Familiarizing with cultural customs is important when traveling."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad3d"
+  },
+  "es": {
+    "word": "oneself",
+    "definition": "A person's own self or individuality."
+  },
+  "pt": {
+    "word": "si mesmo",
+    "definition": "O próprio eu ou individualidade de uma pessoa."
+  },
+  "word": "oneself",
+  "ipa": "/wʌnˈsɛlf/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun."
+    }
+  ],
+  "definition": "A person's own self or individuality.",
+  "examples": [
+    "It's important to be true to oneself.",
+    "She reflected on the nature of oneself and identity.",
+    "Knowing oneself is the first step to personal growth.",
+    "He found peace within oneself through meditation.",
+    "Expressing oneself through art is therapeutic."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad3e"
+  },
+  "es": {
+    "word": "better",
+    "definition": "Superior in quality, condition, or performance; more advantageous or effective."
+  },
+  "pt": {
+    "word": "melhor",
+    "definition": "Superior em qualidade, condição ou desempenho; mais vantajoso ou eficaz."
+  },
+  "word": "better",
+  "ipa": "/ˈbɛtər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Superior in quality, condition, or performance; more advantageous or effective.",
+  "examples": [
+    "She is a better singer than her sister.",
+    "This new version of the software is better.",
+    "He knows how to cook better than anyone I know.",
+    "They worked hard to make their relationship better.",
+    "Practice makes you better at anything."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad3f"
+  },
+  "es": {
+    "word": "understand",
+    "definition": "Comprehend the nature or meaning of; grasp with the mind."
+  },
+  "pt": {
+    "word": "entender",
+    "definition": "Compreender a natureza ou o significado de; compreender com a mente."
+  },
+  "word": "understand",
+  "ipa": "/ˌʌndərˈstænd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Comprehend the nature or meaning of; grasp with the mind.",
+  "examples": [
+    "I don't understand what she's saying.",
+    "Can you help me understand this concept?",
+    "He couldn't understand the instructions.",
+    "Understanding different cultures is important in today's world.",
+    "She took the time to understand his perspective."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad40"
+  },
+  "es": {
+    "word": "natural",
+    "definition": "Existing in or caused by nature; not made or caused by humankind."
+  },
+  "pt": {
+    "word": "natural",
+    "definition": "Existente na natureza ou causado pela natureza; não feito ou causado pelo ser humano."
+  },
+  "word": "natural",
+  "ipa": "/ˈnætʃərəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Existing in or caused by nature; not made or caused by humankind.",
+  "examples": [
+    "The natural world is full of beauty.",
+    "Her talent for singing is completely natural.",
+    "Eating natural foods is good for your health.",
+    "The river's course is determined by natural factors.",
+    "He has a natural ability to make people laugh."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad41"
+  },
+  "es": {
+    "word": "advantage",
+    "definition": "A condition or circumstance that puts one in a favorable or superior position."
+  },
+  "pt": {
+    "word": "vantagem",
+    "definition": "Uma condição ou circunstância que coloca alguém em uma posição favorável ou superior."
+  },
+  "word": "advantage",
+  "ipa": "/ədˈvæntɪdʒ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A condition or circumstance that puts one in a favorable or superior position.",
+  "examples": [
+    "Having a good education is an advantage in life.",
+    "They used their speed to their advantage in the race.",
+    "Being bilingual can be a great advantage in the job market.",
+    "He took advantage of the opportunity to learn from experts.",
+    "Having supportive parents can be a significant advantage."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad42"
+  },
+  "es": {
+    "word": "expand",
+    "definition": "Increase in size, volume, quantity, or scope; make larger or more extensive."
+  },
+  "pt": {
+    "word": "expandir",
+    "definition": "Aumentar em tamanho, volume, quantidade ou escopo; tornar maior ou mais extenso."
+  },
+  "word": "expand",
+  "ipa": "/ɪkˈspænd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Increase in size, volume, quantity, or scope; make larger or more extensive.",
+  "examples": [
+    "The company plans to expand its operations to new markets.",
+    "She wants to expand her knowledge in various areas of study.",
+    "The city is expanding its public transportation system.",
+    "The company is expanding its product line.",
+    "The universe is expanding at an increasing rate."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad43"
+  },
+  "es": {
+    "word": "one's",
+    "definition": "Pertaining to or belonging to oneself; used to indicate possession or ownership."
+  },
+  "pt": {
+    "word": "one's",
+    "definition": "Relativo a ou pertencente a si mesmo; usado para indicar posse ou propriedade."
+  },
+  "word": "one's",
+  "ipa": "/wʌnz/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Pertaining to or belonging to oneself; used to indicate possession or ownership.",
+  "examples": [
+    "One's health is one's most valuable possession.",
+    "You should take care of one's belongings.",
+    "It's important to prioritize one's own well-being.",
+    "She wore her one's favorite dress to the party."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad44"
+  },
+  "es": {
+    "word": "vocabulary",
+    "definition": "The body of words used in a particular language; all the words known and used by a person."
+  },
+  "pt": {
+    "word": "vocabulário",
+    "definition": "O conjunto de palavras usadas em uma língua particular; todas as palavras conhecidas e usadas por uma pessoa."
+  },
+  "word": "vocabulary",
+  "ipa": "/vəˈkæbjələri/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The body of words used in a particular language; all the words known and used by a person.",
+  "examples": [
+    "Her vocabulary includes a wide range of words from different languages.",
+    "Expanding your vocabulary can improve your communication skills.",
+    "Learning a new language requires building a new vocabulary.",
+    "He has an extensive vocabulary due to his love for reading."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad45"
+  },
+  "es": {
+    "word": "repertoire",
+    "definition": "A stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform."
+  },
+  "pt": {
+    "word": "repertório",
+    "definition": "Um conjunto de peças teatrais, danças ou músicas que uma companhia ou um artista conhece ou está preparado para apresentar."
+  },
+  "word": "repertoire",
+  "ipa": "/ˈrɛpərtwɑːr/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.",
+  "examples": [
+    "The ballet company has a diverse repertoire of classical and contemporary performances.",
+    "As a musician, it's important to have a wide repertoire to cater to different audiences.",
+    "She showcased her entire repertoire of magic tricks at the talent show.",
+    "The theater troupe rehearsed their repertoire for the upcoming season."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad46"
+  },
+  "es": {
+    "word": "multiple",
+    "definition": "Having or involving several parts, elements, or members."
+  },
+  "pt": {
+    "word": "múltiplo",
+    "definition": "Tendo ou envolvendo várias partes, elementos ou membros."
+  },
+  "word": "multiple",
+  "ipa": "/ˈmʌltɪpl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Having or involving several parts, elements, or members.",
+  "examples": [
+    "The project requires the coordination of multiple teams.",
+    "He faced multiple challenges in his career.",
+    "The book has multiple chapters on different topics.",
+    "She has multiple talents, including singing and dancing."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad47"
+  },
+  "es": {
+    "word": "giving",
+    "definition": "The act of bestowing, delivering, or transferring something to someone."
+  },
+  "pt": {
+    "word": "dar",
+    "definition": "O ato de conceder, entregar ou transferir algo para alguém."
+  },
+  "word": "giving",
+  "ipa": "/ˈɡɪvɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "The act of bestowing, delivering, or transferring something to someone.",
+  "examples": [
+    "Her giving nature is appreciated by everyone around her.",
+    "Giving back to the community is important to him.",
+    "The giving of gifts is a common tradition during the holidays.",
+    "She has a giving spirit and is always willing to help others."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad48"
+  },
+  "es": {
+    "word": "ability",
+    "definition": "The capacity to do something; the skill or competence to perform a task."
+  },
+  "pt": {
+    "word": "habilidade",
+    "definition": "A capacidade de fazer algo; a habilidade ou competência para realizar uma tarefa."
+  },
+  "word": "ability",
+  "ipa": "/əˈbɪləti/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The capacity to do something; the skill or competence to perform a task.",
+  "examples": [
+    "His ability to solve complex problems is remarkable.",
+    "Developing your ability to communicate effectively is crucial in any profession.",
+    "She has a natural ability for playing musical instruments.",
+    "Training and practice can enhance your ability in various fields."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad49"
+  },
+  "es": {
+    "word": "ways",
+    "definition": "The method or manner in which something is done or happens; a course of action or a way of doing something."
+  },
+  "pt": {
+    "word": "maneiras",
+    "definition": "O método ou maneira como algo é feito ou acontece; um curso de ação ou uma maneira de fazer algo."
+  },
+  "word": "ways",
+  "ipa": "/weɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The method or manner in which something is done or happens; a course of action or a way of doing something.",
+  "examples": [
+    "There are many ways to solve this problem.",
+    "She has a unique way of approaching challenges.",
+    "In some cultures, there are traditional ways of greeting people.",
+    "Exploring different ways of thinking can lead to innovation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad4a"
+  },
+  "es": {
+    "word": "flexibility",
+    "definition": "The quality of being adaptable or variable; the ability to bend or change easily."
+  },
+  "pt": {
+    "word": "flexibilidade",
+    "definition": "A qualidade de ser adaptável ou variável; a capacidade de dobrar ou mudar facilmente."
+  },
+  "word": "flexibility",
+  "ipa": "/flɛksəˈbɪləti/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The quality of being adaptable or variable; the ability to bend or change easily.",
+  "examples": [
+    "Having flexibility in your schedule allows for spontaneity.",
+    "Yoga and stretching exercises can improve your physical flexibility.",
+    "Flexibility in decision-making is important in a fast-changing world.",
+    "Adaptability and flexibility are key traits for success in the modern workplace."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad4b"
+  },
+  "es": {
+    "word": "effective",
+    "definition": "Successful in producing a desired or intended result; having the desired effect."
+  },
+  "pt": {
+    "word": "eficaz",
+    "definition": "Bem-sucedido em produzir um resultado desejado ou pretendido; tendo o efeito desejado."
+  },
+  "word": "effective",
+  "ipa": "/ɪˈfɛktɪv/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Successful in producing a desired or intended result; having the desired effect.",
+  "examples": [
+    "The new marketing strategy proved to be highly effective in increasing sales.",
+    "Effective communication is essential for a healthy relationship.",
+    "She found a more effective way to complete the task.",
+    "Taking regular breaks can make your work more effective and efficient."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad4c"
+  },
+  "es": {
+    "word": "deeper",
+    "definition": "Extending or situated relatively far down from a surface; having great intensity, depth, or significance."
+  },
+  "pt": {
+    "word": "mais profundo",
+    "definition": "Estendendo-se ou situado relativamente longe da superfície; tendo grande intensidade, profundidade ou significado."
+  },
+  "word": "deeper",
+  "ipa": "/ˈdiːpər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Extending or situated relatively far down from a surface; having great intensity, depth, or significance.",
+  "examples": [
+    "The submarine explored the deeper parts of the ocean.",
+    "Their conversation delved into deeper philosophical questions.",
+    "She wanted to understand the deeper meaning of the poem.",
+    "He looked into her eyes and saw a deeper connection."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad4d"
+  },
+  "es": {
+    "word": "additionally",
+    "definition": "As well; in addition; furthermore; also."
+  },
+  "pt": {
+    "word": "adicionalmente",
+    "definition": "Além disso; além disso; além disso; também."
+  },
+  "word": "additionally",
+  "ipa": "/əˈdɪʃənəli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "As well; in addition; furthermore; also.",
+  "examples": [
+    "She completed the project on time, and additionally, she exceeded the client's expectations.",
+    "Additionally, I would like to thank everyone who contributed to this success.",
+    "He not only finished his work early but additionally helped his colleagues with their tasks.",
+    "You can find the instructions in the manual, and additionally, there's a video tutorial available."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad4e"
+  },
+  "es": {
+    "word": "written",
+    "definition": "Escrito o redactado en forma de texto."
+  },
+  "pt": {
+    "word": "escrito",
+    "definition": "Escrito ou redigido em forma de texto."
+  },
+  "word": "written",
+  "ipa": "/ˈrɪtən/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "In the form of text that has been created or recorded in a written or printed format.",
+  "examples": [
+    "The book contains many written records of historical events.",
+    "He received a written warning from his boss.",
+    "Written communication is an essential part of business.",
+    "The contract was signed with a written agreement.",
+    "Her written work is highly praised by critics."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad4f"
+  },
+  "es": {
+    "word": "spoken",
+    "definition": "Expresado verbalmente en lugar de ser escrito."
+  },
+  "pt": {
+    "word": "falado",
+    "definition": "Expresso verbalmente em vez de ser escrito."
+  },
+  "word": "spoken",
+  "ipa": "/ˈspoʊkən/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Expressed in words by speaking rather than in written form.",
+  "examples": [
+    "Spoken language is the primary means of communication for humans.",
+    "Her spoken words conveyed a sense of urgency.",
+    "The spoken agreement was legally binding.",
+    "He preferred spoken instructions over written ones.",
+    "Spoken poetry can be very moving."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad50"
+  },
+  "es": {
+    "word": "literature",
+    "definition": "Obras escritas, especialmente aquellas consideradas de valor artístico o intelectual."
+  },
+  "pt": {
+    "word": "literatura",
+    "definition": "Obras escritas, especialmente aquelas consideradas de valor artístico ou intelectual."
+  },
+  "word": "literature",
+  "ipa": "/ˈlɪtərətʃər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Written works, especially those considered to have artistic or intellectual value.",
+  "examples": [
+    "English literature includes works by Shakespeare and Dickens.",
+    "She studied world literature in college.",
+    "Literature can provide insights into different cultures.",
+    "The library has a vast collection of literature.",
+    "Literature often reflects the society in which it was created."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad51"
+  },
+  "es": {
+    "word": "news",
+    "definition": "Información sobre eventos recientes o acontecimientos actuales."
+  },
+  "pt": {
+    "word": "notícias",
+    "definition": "Informação sobre eventos recentes ou acontecimentos atuais."
+  },
+  "word": "news",
+  "ipa": "/nuz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Information about recent events or current happenings.",
+  "examples": [
+    "I heard the news about the earthquake on the radio.",
+    "The news report covered the latest political developments.",
+    "She reads the news online every morning.",
+    "Breaking news: a fire has broken out in the city center.",
+    "The news anchor delivered the evening news."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad52"
+  },
+  "es": {
+    "word": "movies",
+    "definition": "Películas cinematográficas."
+  },
+  "pt": {
+    "word": "filmes",
+    "definition": "Filmes cinematográficos."
+  },
+  "word": "movies",
+  "ipa": "/ˈmuvi/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Cinematic films.",
+  "examples": [
+    "They went to the movies to see the latest blockbuster.",
+    "Movies provide a form of entertainment for people of all ages.",
+    "She enjoys watching classic movies from the 1950s.",
+    "The film festival showcased independent movies from around the world.",
+    "Movies often reflect societal trends and values."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad53"
+  },
+  "es": {
+    "word": "songs",
+    "definition": "Composiciones musicales con letras que se cantan."
+  },
+  "pt": {
+    "word": "canções",
+    "definition": "Composições musicais com letras que são cantadas."
+  },
+  "word": "songs",
+  "ipa": "/sɔŋz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Musical compositions with lyrics that are sung.",
+  "examples": [
+    "Her songs are known for their emotional depth.",
+    "They sang songs around the campfire.",
+    "Songs can express a wide range of emotions.",
+    "The concert featured a mix of old and new songs.",
+    "He wrote the lyrics for many hit songs."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad54"
+  },
+  "es": {
+    "word": "fully",
+    "definition": "Completamente o en su totalidad."
+  },
+  "pt": {
+    "word": "totalmente",
+    "definition": "Completamente ou na sua totalidade."
+  },
+  "word": "fully",
+  "ipa": "/ˈfʊli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Completely or in entirety.",
+  "examples": [
+    "She was fully aware of the consequences.",
+    "I fully support your decision.",
+    "He was fully committed to the project.",
+    "Please read the instructions fully before starting.",
+    "The room was fully decorated for the party."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad55"
+  },
+  "es": {
+    "word": "grasp",
+    "definition": "Agarrar o comprender algo con firmeza."
+  },
+  "pt": {
+    "word": "agarrar",
+    "definition": "Segurar ou compreender algo com firmeza."
+  },
+  "word": "grasp",
+  "ipa": "/ɡræsp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To seize or hold firmly; to understand or comprehend.",
+  "examples": [
+    "She tried to grasp the slippery object but it slipped away.",
+    "He grasped her hand and held it tightly.",
+    "I can't seem to grasp the concept of advanced calculus.",
+    "The child had a good grasp of basic arithmetic.",
+    "His grasp of the English language improved over time."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad56"
+  },
+  "es": {
+    "word": "intended",
+    "definition": "Planificado o diseñado para un propósito específico."
+  },
+  "pt": {
+    "word": "destinado",
+    "definition": "Planeado ou projetado para um propósito específico."
+  },
+  "word": "intended",
+  "ipa": "/ɪnˈtɛndɪd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Planned or designed for a specific purpose.",
+  "examples": [
+    "The intended use of this tool is for cutting wood.",
+    "He received the intended message loud and clear.",
+    "The product did not have the intended effect on customers.",
+    "The intended outcome of the project was achieved.",
+    "The letter was addressed to the intended recipient."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad57"
+  },
+  "es": {
+    "word": "finer",
+    "definition": "Más delgado o de mayor calidad."
+  },
+  "pt": {
+    "word": "mais fino",
+    "definition": "Mais fino ou de maior qualidade."
+  },
+  "word": "finer",
+  "ipa": "/ˈfaɪnər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Thinner or of higher quality.",
+  "examples": [
+    "The chef used a finer knife for precision cutting.",
+    "She appreciated the finer details of the artwork.",
+    "This fabric is much finer than the previous one.",
+    "The wine connoisseur could taste the finer notes in the wine.",
+    "He has a taste for finer things in life."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad58"
+  },
+  "es": {
+    "word": "nuances",
+    "definition": "Pequeñas diferencias o matices en algo."
+  },
+  "pt": {
+    "word": "nuances",
+    "definition": "Pequenas diferenças ou matizes em algo."
+  },
+  "word": "nuances",
+  "ipa": "/nuːˈɑnsɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Small differences or subtle distinctions in something.",
+  "examples": [
+    "The actress's performance was filled with nuanced emotions.",
+    "He could perceive the nuances in the painting that others missed.",
+    "Understanding the nuances of a foreign language can be challenging.",
+    "The negotiation relied on recognizing the nuances of the deal.",
+    "She appreciated the nuances of different musical styles."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad59"
+  },
+  "es": {
+    "word": "media",
+    "definition": "Los medios de comunicación, como la televisión, la radio y los periódicos."
+  },
+  "pt": {
+    "word": "mídia",
+    "definition": "Os meios de comunicação, como televisão, rádio e jornais."
+  },
+  "word": "media",
+  "ipa": "/ˈmiːdiə/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The means of communication, such as television, radio, and newspapers.",
+  "examples": [
+    "The media plays a significant role in shaping public opinion.",
+    "She works in the field of digital media.",
+    "Media coverage of the event was extensive.",
+    "The media industry has undergone significant changes in recent years.",
+    "The media often influences social and political discourse."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad5a"
+  },
+  "es": {
+    "word": "richer",
+    "definition": "Tener una mayor cantidad de riqueza o recursos."
+  },
+  "pt": {
+    "word": "mais rico",
+    "definition": "Possuir uma maior quantidade de riqueza ou recursos."
+  },
+  "word": "richer",
+  "ipa": "/ˈrɪtʃər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Having a greater amount of wealth or resources.",
+  "examples": [
+    "The entrepreneur became richer after the success of his business.",
+    "Her life became richer after she started volunteering.",
+    "The country is richer in natural resources than most others.",
+    "A diverse diet can make your meals richer in nutrients.",
+    "Cultural exchanges can make societies richer in experiences."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad5b"
+  },
+  "es": {
+    "word": "appreciation",
+    "definition": "Reconocimiento y valoración de la calidad, méritos o importancia de algo o alguien."
+  },
+  "pt": {
+    "word": "apreciação",
+    "definition": "Reconhecimento e valorização da qualidade, méritos ou importância de algo ou alguém."
+  },
+  "word": "appreciation",
+  "ipa": "/əˌpriːʃiˈeɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Recognition and valuation of the quality, merits, or importance of something or someone.",
+  "examples": [
+    "She expressed her appreciation for the thoughtful gift.",
+    "The teacher's appreciation of the student's hard work was evident.",
+    "Appreciation for art varies from person to person.",
+    "They showed their appreciation by applauding loudly.",
+    "An attitude of appreciation can lead to a happier life."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad5c"
+  },
+  "es": {
+    "word": "lastly",
+    "definition": "Finalmente, en último lugar o para concluir una lista o discurso."
+  },
+  "pt": {
+    "word": "por último",
+    "definition": "Finalmente, em último lugar ou para concluir uma lista ou discurso."
+  },
+  "word": "lastly",
+  "ipa": "/ˈlæstli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Finally, in the last place, or to conclude a list or speech.",
+  "examples": [
+    "First, we need to gather the ingredients. Next, we'll prepare the dough. Lastly, we'll bake the cake.",
+    "He discussed various topics in his presentation. Lastly, he addressed the questions from the audience.",
+    "Lastly, I want to thank everyone for their support during this project.",
+    "The agenda for the meeting includes several items, and lastly, we'll discuss future plans.",
+    "We've covered many aspects of the issue, and lastly, let's talk about potential solutions."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad5d"
+  },
+  "es": {
+    "word": "indispensable",
+    "definition": "Absolutamente necesario o esencial, sin el cual no se puede prescindir."
+  },
+  "pt": {
+    "word": "indispensável",
+    "definition": "Absolutamente necessário ou essencial, sem o qual não se pode prescindir."
+  },
+  "word": "indispensable",
+  "ipa": "/ˌɪndɪˈspɛnsəbəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Absolutely necessary or essential, without which one cannot do without.",
+  "examples": [
+    "Good communication is indispensable in a successful team.",
+    "Reliable transportation is indispensable for this job.",
+    "In today's world, digital literacy is indispensable for many tasks.",
+    "Sleep is indispensable for maintaining good health.",
+    "Trust is an indispensable element in any meaningful relationship."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad5e"
+  },
+  "es": {
+    "word": "achieving",
+    "definition": "Realizar o llevar a cabo un objetivo, resultado o meta deseada."
+  },
+  "pt": {
+    "word": "atingir",
+    "definition": "Realizar ou alcançar um objetivo, resultado ou meta desejada."
+  },
+  "word": "achieving",
+  "ipa": "/əˈtʃiːvɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To accomplish or bring about a desired goal, outcome, or objective.",
+  "examples": [
+    "She is focused on achieving her career aspirations.",
+    "Teamwork is crucial for achieving success in this project.",
+    "Setting clear goals is the first step towards achieving them.",
+    "He takes pride in achieving his fitness targets.",
+    "They are dedicated to achieving excellence in their field."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad5f"
+  },
+  "es": {
+    "word": "fluency",
+    "definition": "La capacidad de hablar o escribir con facilidad y sin esfuerzo en un idioma o sobre un tema."
+  },
+  "pt": {
+    "word": "fluência",
+    "definition": "A capacidade de falar ou escrever com facilidade e sem esforço em um idioma ou sobre um tema."
+  },
+  "word": "fluency",
+  "ipa": "/ˈfluːənsi/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The ability to speak or write with ease and without effort in a language or on a subject.",
+  "examples": [
+    "Language fluency is an important skill for international business.",
+    "She gained fluency in Spanish after living in Madrid for a year.",
+    "His fluency in mathematics is impressive.",
+    "The key to achieving fluency in a foreign language is practice.",
+    "Writing fluency is essential for effective communication."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad60"
+  },
+  "es": {
+    "word": "sounding",
+    "definition": "Emisión de un sonido o la acción de hacer que algo produzca un sonido."
+  },
+  "pt": {
+    "word": "produzindo som",
+    "definition": "Emissão de um som ou a ação de fazer com que algo produza um som."
+  },
+  "word": "sounding",
+  "ipa": "/ˈsaʊndɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "The emission of a sound or the action of making something produce a sound.",
+  "examples": [
+    "The sounding of the alarm alerted everyone to evacuate the building.",
+    "The sounding of the trumpet marked the beginning of the ceremony.",
+    "He enjoys the sounding of church bells on Sunday mornings.",
+    "The sounding of the engine indicated that the car was running smoothly.",
+    "The sounding of laughter filled the room with joy."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad61"
+  },
+  "es": {
+    "word": "authenticity",
+    "definition": "La cualidad de ser genuino, real y verdadero en lugar de falso o imitativo."
+  },
+  "pt": {
+    "word": "autenticidade",
+    "definition": "A qualidade de ser genuíno, real e verdadeiro em vez de falso ou imitativo."
+  },
+  "word": "authenticity",
+  "ipa": "/ˌɔːθənˈtɪsəti/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The quality of being genuine, real, and true rather than false or imitative.",
+  "examples": [
+    "The authenticity of the ancient artifact was confirmed by experts.",
+    "She values authenticity in her relationships.",
+    "The artist's work is praised for its authenticity and originality.",
+    "Authenticity is a key factor in building trust with others.",
+    "The documentary aimed to capture the authenticity of everyday life in the city."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad62"
+  },
+  "es": {
+    "word": "naturalness",
+    "definition": "La cualidad de ser natural o sin artificialidad en comportamiento, apariencia o estilo."
+  },
+  "pt": {
+    "word": "naturalidade",
+    "definition": "A qualidade de ser natural ou sem artificialidade no comportamento, aparência ou estilo."
+  },
+  "word": "naturalness",
+  "ipa": "/ˈnætʃəlnɪs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The quality of being natural or free from artificiality in behavior, appearance, or style.",
+  "examples": [
+    "Her naturalness made everyone feel comfortable around her.",
+    "The actor's performance was praised for its naturalness.",
+    "Achieving a look of naturalness in makeup is an art.",
+    "The key to effective communication is speaking with naturalness and sincerity.",
+    "The photographer aimed to capture the naturalness of the landscape."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad63"
+  },
+  "es": {
+    "word": "confidence",
+    "definition": "La creencia en las propias habilidades y en la certeza de poder realizar algo con éxito."
+  },
+  "pt": {
+    "word": "confiança",
+    "definition": "A crença nas próprias habilidades e na certeza de poder realizar algo com sucesso."
+  },
+  "word": "confidence",
+  "ipa": "/ˈkɑːnfɪdəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Belief in one's own abilities and the certainty of being able to successfully accomplish something.",
+  "examples": [
+    "Self-confidence is important for personal growth and achievement.",
+    "He expressed confidence in his team's ability to win the competition.",
+    "Building confidence in public speaking takes practice and preparation.",
+    "She approached the challenge with confidence and determination.",
+    "Confidence can be a key factor in overcoming obstacles."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad64"
+  },
+  "es": {
+    "word": "further",
+    "definition": "En una medida o grado adicional o más avanzado."
+  },
+  "pt": {
+    "word": "mais",
+    "definition": "Em uma medida ou grau adicional ou mais avançado."
+  },
+  "word": "further",
+  "ipa": "/ˈfɜːrðər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To a greater or more advanced extent or degree.",
+  "examples": [
+    "He needed further information to make a decision.",
+    "The project will require further funding to be completed.",
+    "They are planning further improvements to the system.",
+    "To succeed, you must push yourself further than you thought possible.",
+    "She wants to explore this topic further in her research."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "65603a0741e776404fb7ad65"
+  },
+  "es": {
+    "word": "abilities",
+    "definition": "Capacidades y destrezas que una persona posee para realizar tareas o actividades."
+  },
+  "pt": {
+    "word": "habilidades",
+    "definition": "Capacidades e habilidades que uma pessoa possui para realizar tarefas ou atividades."
+  },
+  "word": "abilities",
+  "ipa": "/əˈbɪlɪtiz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Capacities and skills that a person possesses to perform tasks or activities.",
+  "examples": [
+    "Her abilities in problem-solving are impressive.",
+    "Teamwork allows individuals to combine their abilities for greater success.",
+    "He is known for his artistic abilities in painting and sculpture.",
+    "Developing your abilities requires practice and dedication.",
+    "The assessment measures students' abilities in various subjects."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad66"
+  },
+  "es": {
+    "word": "obras",
+    "definition": "Creaciones artísticas representadas en teatros o en otros medios."
+  },
+  "pt": {
+    "word": "peças",
+    "definition": "Criações artísticas apresentadas em teatros ou em outros meios."
+  },
+  "word": "plays",
+  "ipa": "/pleɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Artistic creations performed in theaters or other mediums.",
+  "examples": [
+    "The theater company performs classic plays.",
+    "She writes plays for a local theater group.",
+    "They watched one of Shakespeare's plays.",
+    "The children's plays are always fun to watch.",
+    "He enjoys attending plays at the community center."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad67"
+  },
+  "es": {
+    "word": "defendiendo",
+    "definition": "Proteger o mantener una posición o argumento contra oposición o ataque."
+  },
+  "pt": {
+    "word": "defendendo",
+    "definition": "Proteger ou sustentar uma posição ou argumento contra oposição ou ataque."
+  },
+  "word": "fending",
+  "ipa": "/ˈfɛndɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Protecting or upholding a position or argument against opposition or attack.",
+  "examples": [
+    "He was fending off criticisms of his decision.",
+    "The boxer is fending off his opponent's attacks.",
+    "She's been fending for herself since she was young.",
+    "Fending against misinformation is important.",
+    "They spent the debate fending off attacks from other candidates."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad68"
+  },
+  "es": {
+    "word": "construido",
+    "definition": "Creado, formado o erigido, generalmente refiriéndose a edificaciones o estructuras."
+  },
+  "pt": {
+    "word": "construído",
+    "definition": "Criado, formado ou erguido, geralmente referindo-se a edifícios ou estruturas."
+  },
+  "word": "built",
+  "ipa": "/bɪlt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Created, formed, or erected, usually referring to buildings or structures.",
+  "examples": [
+    "The new library was built last year.",
+    "He has built a reputation for being honest.",
+    "The house is solidly built.",
+    "She built a successful business from scratch.",
+    "The bridge was built to reduce traffic congestion."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad69"
+  },
+  "es": {
+    "word": "catálogo",
+    "definition": "Colección o lista organizada de ítems, como productos, obras, o datos."
+  },
+  "pt": {
+    "word": "catálogo",
+    "definition": "Coleção ou lista organizada de itens, como produtos, obras ou dados."
+  },
+  "word": "catalog",
+  "ipa": "/ˈkætəˌlɒg/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A collection or organized list of items, such as products, works, or data.",
+  "examples": [
+    "The museum has an extensive catalog of artifacts.",
+    "They cataloged the library's new acquisitions.",
+    "The catalog features a range of products.",
+    "She spent hours browsing through the fashion catalog.",
+    "Cataloging the data took several weeks."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad6a"
+  },
+  "es": {
+    "word": "anticuerpos",
+    "definition": "Proteínas producidas por el sistema inmunológico para identificar y neutralizar sustancias extrañas."
+  },
+  "pt": {
+    "word": "anticorpos",
+    "definition": "Proteínas produzidas pelo sistema imunológico para identificar e neutralizar substâncias estranhas."
+  },
+  "word": "antibodies",
+  "ipa": "/ˈæntɪˌbɒdiz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Proteins produced by the immune system to identify and neutralize foreign substances.",
+  "examples": [
+    "Antibodies play a key role in immune response.",
+    "Vaccination stimulates the production of antibodies.",
+    "The test detected antibodies to the virus.",
+    "Her body produced antibodies after the infection.",
+    "The presence of specific antibodies indicates immunity."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad6b"
+  },
+  "es": {
+    "word": "así",
+    "definition": "De esta manera o en este modo; por lo tanto, consecuentemente."
+  },
+  "pt": {
+    "word": "assim",
+    "definition": "Dessa maneira ou modo; portanto, consequentemente."
+  },
+  "word": "thus",
+  "ipa": "/ðʌs/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "In this way or manner; therefore, consequently.",
+  "examples": [
+    "He failed to meet the deadline, thus losing the contract.",
+    "The evidence was inconclusive, thus no action was taken.",
+    "He studied hard and thus passed the exam.",
+    "The road was blocked, thus they took a detour.",
+    "Their decision was based on data, and thus was well-informed."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad6c"
+  },
+  "es": {
+    "word": "cada",
+    "definition": "Indica inclusión de todos los miembros de una clase o grupo, sin excepción."
+  },
+  "pt": {
+    "word": "cada",
+    "definition": "Indica inclusão de todos os membros de uma classe ou grupo, sem exceção."
+  },
+  "word": "every",
+  "ipa": "/ˈɛvri/",
+  "type_word": [
+    {
+      "name": "Determiner",
+      "sigle": "det.",
+      "description": "Words that specify nouns."
+    }
+  ],
+  "definition": "Indicates inclusion of all members of a class or group, without exception.",
+  "examples": [
+    "Every student must complete the assignment.",
+    "She checks her email every morning.",
+    "Every detail of the plan was carefully considered.",
+    "They meet every week to discuss progress.",
+    "Every piece of evidence was crucial to the case."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad6d"
+  },
+  "es": {
+    "word": "temporada",
+    "definition": "Periodo de tiempo específico caracterizado por ciertas condiciones o eventos."
+  },
+  "pt": {
+    "word": "temporada",
+    "definition": "Período de tempo específico caracterizado por certas condições ou eventos."
+  },
+  "word": "season",
+  "ipa": "/ˈsiːzən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A specific period of time characterized by certain conditions or events.",
+  "examples": [
+    "Winter is my favorite season.",
+    "The team had a successful season.",
+    "The season finale of the show was exciting.",
+    "They grow different crops each season.",
+    "The tourist season peaks in the summer."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad6e"
+  },
+  "es": {
+    "word": "prueba",
+    "definition": "Evaluación o examen de algo para determinar su naturaleza, calidad o veracidad."
+  },
+  "pt": {
+    "word": "teste",
+    "definition": "Avaliação ou exame de algo para determinar sua natureza, qualidade ou veracidade."
+  },
+  "word": "test",
+  "ipa": "/tɛst/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "An examination or assessment of something to determine its nature, quality, or truthfulness.",
+  "examples": [
+    "She passed her driving test.",
+    "The product must undergo rigorous tests.",
+    "He failed the test and had to retake it.",
+    "The laboratory is conducting tests on the sample.",
+    "They test the software for bugs before release."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad6f"
+  },
+  "es": {
+    "word": "tomado",
+    "definition": "Agarrado, capturado o recibido por alguien o algo."
+  },
+  "pt": {
+    "word": "tomado",
+    "definition": "Pego, capturado ou recebido por alguém ou algo."
+  },
+  "word": "taken",
+  "ipa": "/ˈteɪkən/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Seized, captured, or received by someone or something.",
+  "examples": [
+    "The photo was taken last summer.",
+    "The suspect was taken into custody.",
+    "He has taken a new approach to the problem.",
+    "The medicine should be taken with food.",
+    "The opportunity was taken by another candidate."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad70"
+  },
+  "es": {
+    "word": "riesgo",
+    "definition": "La posibilidad de que algo peligroso o desagradable suceda."
+  },
+  "pt": {
+    "word": "risco",
+    "definition": "A possibilidade de algo perigoso ou desagradável acontecer."
+  },
+  "word": "risk",
+  "ipa": "/rɪsk/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The possibility of something dangerous or unpleasant happening.",
+  "examples": [
+    "There is a high risk of injury in extreme sports.",
+    "Taking risks can lead to success or failure.",
+    "The doctor explained the risks of the surgery.",
+    "They decided to risk everything on a new business venture.",
+    "Risk assessment is important in project management."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad71"
+  },
+  "es": {
+    "word": "debido",
+    "definition": "A causa de; como resultado de algo."
+  },
+  "pt": {
+    "word": "devido",
+    "definition": "Por causa de; como resultado de algo."
+  },
+  "word": "due",
+  "ipa": "/djuː/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Because of; as a result of something.",
+  "examples": [
+    "The train was delayed due to bad weather.",
+    "He received recognition due to his hard work.",
+    "The project was successful due to effective teamwork.",
+    "Due to unforeseen circumstances, the event was canceled.",
+    "Payments are due at the end of the month."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad72"
+  },
+  "es": {
+    "word": "naturalmente",
+    "definition": "De una manera que es natural; sin esfuerzo o artificio."
+  },
+  "pt": {
+    "word": "naturalmente",
+    "definition": "De maneira que é natural; sem esforço ou artifício."
+  },
+  "word": "naturally",
+  "ipa": "/ˈnætʃərəli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "In a way that is natural; without effort or artifice.",
+  "examples": [
+    "She naturally excelled in sports.",
+    "The flowers grew naturally in the wild.",
+    "He naturally assumed the leadership role.",
+    "They were naturally inclined to help others.",
+    "The process occurs naturally in the environment."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad73"
+  },
+  "es": {
+    "word": "más débil",
+    "definition": "Menos fuerte o poderoso; con menos fuerza o resistencia."
+  },
+  "pt": {
+    "word": "mais fraco",
+    "definition": "Menos forte ou poderoso; com menos força ou resistência."
+  },
+  "word": "weaker",
+  "ipa": "/ˈwiːkər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Less strong or powerful; with less strength or resistance.",
+  "examples": [
+    "The structure was weaker than expected.",
+    "He felt weaker after the illness.",
+    "The team's defense was weaker this season.",
+    "A weaker currency can affect the economy.",
+    "Their argument was weaker compared to the opposing view."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad74"
+  },
+  "es": {
+    "word": "inmune",
+    "definition": "Resistente a una enfermedad o a un agente patógeno específico."
+  },
+  "pt": {
+    "word": "imune",
+    "definition": "Resistente a uma doença ou a um agente patogênico específico."
+  },
+  "word": "immune",
+  "ipa": "/ɪˈmjuːn/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Resistant to a specific disease or pathogen.",
+  "examples": [
+    "She is immune to chickenpox.",
+    "People can become immune after vaccination.",
+    "The immune system protects the body from infections.",
+    "Some people are genetically immune to certain diseases.",
+    "The population developed herd immunity."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad75"
+  },
+  "es": {
+    "word": "inyección",
+    "definition": "El acto de inyectar un líquido en el cuerpo, especialmente un medicamento o vacuna."
+  },
+  "pt": {
+    "word": "injeção",
+    "definition": "O ato de injetar um líquido no corpo, especialmente um medicamento ou vacina."
+  },
+  "word": "shot",
+  "ipa": "/ʃɒt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The act of injecting a liquid into the body, especially a medicine or vaccine.",
+  "examples": [
+    "She received a flu shot at the clinic.",
+    "The doctor gave him a shot for pain relief.",
+    "Vaccination shots are important for public health.",
+    "He was nervous about getting his first shot.",
+    "The nurse prepared the shot for the patient."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad76"
+  },
+  "es": {
+    "word": "imperativo",
+    "definition": "De vital importancia; necesario o esencial."
+  },
+  "pt": {
+    "word": "imperativo",
+    "definition": "De vital importância; necessário ou essencial."
+  },
+  "word": "imperative",
+  "ipa": "/ɪmˈpɛrətɪv/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Of vital importance; necessary or essential.",
+  "examples": [
+    "It's imperative to act quickly in an emergency.",
+    "The imperative nature of the situation was clear.",
+    "He spoke in an imperative tone.",
+    "The environmental crisis poses an imperative challenge.",
+    "Following the rules is absolutely imperative."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad77"
+  },
+  "es": {
+    "word": "escudo",
+    "definition": "Algo que protege o defiende de daño, peligro o ataque."
+  },
+  "pt": {
+    "word": "escudo",
+    "definition": "Algo que protege ou defende de dano, perigo ou ataque."
+  },
+  "word": "shield",
+  "ipa": "/ʃiːld/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Something that protects or defends from harm, danger, or attack.",
+  "examples": [
+    "The warrior carried a shield into battle.",
+    "He used the umbrella as a shield from the rain.",
+    "She tried to shield her eyes from the bright light.",
+    "The spacecraft had a heat shield for re-entry.",
+    "He shielded his friend from criticism."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad78"
+  },
+  "es": {
+    "word": "higiene",
+    "definition": "Prácticas o condiciones que sirven para mantener la salud y prevenir la propagación de enfermedades."
+  },
+  "pt": {
+    "word": "higiene",
+    "definition": "Práticas ou condições que servem para manter a saúde e prevenir a propagação de doenças."
+  },
+  "word": "hygiene",
+  "ipa": "/ˈhaɪdʒiːn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Practices or conditions that serve to maintain health and prevent the spread of diseases.",
+  "examples": [
+    "Good personal hygiene is essential for health.",
+    "The hospital follows strict hygiene protocols.",
+    "Hand hygiene is important to prevent infections.",
+    "Food hygiene practices reduce the risk of illness.",
+    "Hygiene standards are high in the food industry."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad79"
+  },
+  "es": {
+    "word": "saludable",
+    "definition": "Bueno para la salud; promoviendo o indicativo de buena salud."
+  },
+  "pt": {
+    "word": "saudável",
+    "definition": "Bom para a saúde; promovendo ou indicativo de boa saúde."
+  },
+  "word": "healthy",
+  "ipa": "/ˈhɛlθi/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Good for health; promoting or indicative of good health.",
+  "examples": [
+    "Eating healthy foods is important for well-being.",
+    "She leads a healthy lifestyle.",
+    "A healthy diet includes fruits and vegetables.",
+    "Regular exercise contributes to a healthy body.",
+    "It's important to have a healthy balance in life."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad7a"
+  },
+  "es": {
+    "word": "estilo de vida",
+    "definition": "La forma en que una persona o grupo vive, incluyendo sus patrones de comportamiento, interacciones y hábitos."
+  },
+  "pt": {
+    "word": "estilo de vida",
+    "definition": "A maneira como uma pessoa ou grupo vive, incluindo seus padrões de comportamento, interações e hábitos."
+  },
+  "word": "lifestyle",
+  "ipa": "/ˈlaɪfstaɪl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The way in which a person or group lives, including their patterns of behavior, interactions, and habits.",
+  "examples": [
+    "Adopting a healthy lifestyle can improve well-being.",
+    "The city offers a fast-paced lifestyle.",
+    "Many people aspire to a luxurious lifestyle.",
+    "Her lifestyle changed after moving to the countryside.",
+    "A sedentary lifestyle can lead to health problems."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad7b"
+  },
+  "es": {
+    "word": "ayuda",
+    "definition": "Asistencia o apoyo proporcionado a alguien o algo."
+  },
+  "pt": {
+    "word": "ajuda",
+    "definition": "Assistência ou apoio fornecido a alguém ou algo."
+  },
+  "word": "aid",
+  "ipa": "/eɪd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Assistance or support provided to someone or something.",
+  "examples": [
+    "He offered aid to the injured hiker.",
+    "The organization provides aid to disaster victims.",
+    "She came to their aid in a time of need.",
+    "Financial aid is available for students.",
+    "The aid package was sent to the affected area."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad7c"
+  },
+  "es": {
+    "word": "luchar",
+    "definition": "Combatir o enfrentarse, especialmente en un conflicto o en un esfuerzo por lograr algo."
+  },
+  "pt": {
+    "word": "lutar",
+    "definition": "Combater ou enfrentar-se, especialmente em um conflito ou em um esforço para alcançar algo."
+  },
+  "word": "fight",
+  "ipa": "/faɪt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To battle or confront, especially in a conflict or in an effort to achieve something.",
+  "examples": [
+    "The soldiers fight bravely in battle.",
+    "He will fight for justice.",
+    "The fight against poverty is ongoing.",
+    "The fight scene in the movie was intense.",
+    "They had a fight about their plans."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad7d"
+  },
+  "es": {
+    "word": "aunque",
+    "definition": "Indica una contraposición o contraste con lo que se ha mencionado anteriormente."
+  },
+  "pt": {
+    "word": "embora",
+    "definition": "Indica uma contraposição ou contraste com o que foi mencionado anteriormente."
+  },
+  "word": "though",
+  "ipa": "/ðoʊ/",
+  "type_word": [
+    {
+      "name": "Conjunction",
+      "sigle": "conj.",
+      "description": "Words that connect clauses, sentences, or words."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Indicates a contrast or opposition to what has been previously mentioned.",
+  "examples": [
+    "He's very friendly, though he can be shy.",
+    "She decided to go, even though it was raining.",
+    "I like the idea, though I have some doubts.",
+    "Though tired, he continued working.",
+    "It's a small car, but fast though."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad7e"
+  },
+  "es": {
+    "word": "de por vida",
+    "definition": "Que dura toda la vida; permanente o continuo a lo largo de la vida de una persona."
+  },
+  "pt": {
+    "word": "por toda a vida",
+    "definition": "Que dura toda a vida; permanente ou contínuo ao longo da vida de uma pessoa."
+  },
+  "word": "life-long",
+  "ipa": "/ˈlaɪfˌlɔːŋ/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Lasting for the entirety of one's life; permanent or continuous throughout someone's life.",
+  "examples": [
+    "She has a life-long passion for music.",
+    "His life-long dream was to travel the world.",
+    "He dedicated his life-long career to teaching.",
+    "Life-long learning is important for personal growth.",
+    "They shared a life-long friendship."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad7f"
+  },
+  "es": {
+    "word": "combatiente",
+    "definition": "Una persona que lucha o combate, especialmente en un conflicto armado o una causa."
+  },
+  "pt": {
+    "word": "combatente",
+    "definition": "Uma pessoa que luta ou combate, especialmente em um conflito armado ou uma causa."
+  },
+  "word": "combatant",
+  "ipa": "/kəmˈbætənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A person who fights or battles, especially in an armed conflict or a cause.",
+  "examples": [
+    "The combatants were ready for battle.",
+    "He was a skilled combatant in martial arts.",
+    "The treaty was signed by all combatants in the war.",
+    "Non-combatant civilians must be protected.",
+    "The history book described the combatants of the war."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad80"
+  },
+  "es": {
+    "word": "aprender",
+    "definition": "Adquirir conocimiento o habilidad a través del estudio o la experiencia."
+  },
+  "pt": {
+    "word": "aprender",
+    "definition": "Adquirir conhecimento ou habilidade através do estudo ou da experiência."
+  },
+  "word": "learn",
+  "ipa": "/lɜːrn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To acquire knowledge or skill through study or experience.",
+  "examples": [
+    "Children learn quickly.",
+    "She wants to learn a new language.",
+    "He learned to cook from his grandmother.",
+    "We learn from our mistakes.",
+    "The class is eager to learn."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad81"
+  },
+  "es": {
+    "word": "silenciosamente",
+    "definition": "De manera callada, sin hacer ruido o sin hablar."
+  },
+  "pt": {
+    "word": "silenciosamente",
+    "definition": "De maneira calada, sem fazer barulho ou sem falar."
+  },
+  "word": "silently",
+  "ipa": "/ˈsaɪləntli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "In a quiet manner, without making noise or speaking.",
+  "examples": [
+    "She walked silently through the house.",
+    "He watched silently from the sidelines.",
+    "The audience waited silently for the performance to begin.",
+    "She sat silently, lost in thought.",
+    "The snow fell silently outside."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad82"
+  },
+  "es": {
+    "word": "lucha",
+    "definition": "Esforzarse por superar dificultades o alcanzar un objetivo; conflicto o competición."
+  },
+  "pt": {
+    "word": "luta",
+    "definition": "Esforçar-se para superar dificuldades ou alcançar um objetivo; conflito ou competição."
+  },
+  "word": "struggle",
+  "ipa": "/ˈstrʌɡəl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To strive to overcome difficulties or achieve a goal; conflict or competition.",
+  "examples": [
+    "He faced a long struggle with illness.",
+    "The struggle for independence was intense.",
+    "She struggles to balance work and family.",
+    "Their struggle for equality continues.",
+    "The struggle against poverty requires collective efforts."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad83"
+  },
+  "es": {
+    "word": "puntero",
+    "definition": "Indicador o elemento que señala o dirige la atención hacia algo específico."
+  },
+  "pt": {
+    "word": "ponteiro",
+    "definition": "Indicador ou elemento que aponta ou direciona a atenção para algo específico."
+  },
+  "word": "pointer",
+  "ipa": "/ˈpɔɪntər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An indicator or element that points or directs attention to something specific.",
+  "examples": [
+    "Use the laser pointer to highlight the key points.",
+    "The instructor gave us several helpful pointers.",
+    "The dog breed, Pointer, is known for hunting.",
+    "She used the cursor as a pointer on the screen.",
+    "The teacher's pointer helped students follow along."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656043ff41e776404fb7ad84"
+  },
+  "es": {
+    "word": "guiando",
+    "definition": "Dirigir, liderar o mostrar el camino a alguien o algo."
+  },
+  "pt": {
+    "word": "guiando",
+    "definition": "Dirigir, liderar ou mostrar o caminho para alguém ou algo."
+  },
+  "word": "guiding",
+  "ipa": "/ˈɡaɪdɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Directing, leading, or showing the way to someone or something.",
+  "examples": [
+    "He's guiding the team through the project.",
+    "The guide was guiding tourists through the city.",
+    "She spent her career guiding students.",
+    "The principles guiding their decision were clear.",
+    "Guiding light helps sailors navigate."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad85"
+  },
+  "es": {
+    "word": "de la vida",
+    "definition": "Perteneciente o relacionado con la vida."
+  },
+  "pt": {
+    "word": "da vida",
+    "definition": "Pertencente ou relacionado à vida."
+  },
+  "word": "life's",
+  "ipa": "/laɪfs/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Belonging to or related to life.",
+  "examples": [
+    "Life's challenges can be difficult to overcome.",
+    "She found inspiration in life's beauty.",
+    "The book explores life's mysteries.",
+    "We should cherish life's precious moments.",
+    "Life's journey is filled with surprises."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad86"
+  },
+  "es": {
+    "word": "historia",
+    "definition": "Narración de eventos imaginarios o reales que se cuentan oralmente o por escrito."
+  },
+  "pt": {
+    "word": "história",
+    "definition": "Narrativa de eventos imaginários ou reais contados oralmente ou por escrito."
+  },
+  "word": "story",
+  "ipa": "/ˈstɔːri/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A narrative of imaginary or real events told orally or in writing.",
+  "examples": [
+    "She loves to write short stories.",
+    "The book tells the story of a young adventurer.",
+    "He shared an interesting story from his travels.",
+    "The movie is based on a true story.",
+    "Stories have the power to inspire and entertain."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad87"
+  },
+  "es": {
+    "word": "influenza",
+    "definition": "Enfermedad viral infecciosa que afecta las vías respiratorias y causa fiebre y síntomas similares a los de la gripe."
+  },
+  "pt": {
+    "word": "influenza",
+    "definition": "Doença infecciosa viral que afeta as vias respiratórias e causa febre e sintomas semelhantes aos da gripe."
+  },
+  "word": "influenza",
+  "ipa": "/ˌɪnfləˈɛnzə/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An infectious viral disease that affects the respiratory tract and causes fever and flu-like symptoms.",
+  "examples": [
+    "Influenza can spread rapidly in crowded areas.",
+    "The influenza vaccine is recommended for high-risk individuals.",
+    "He was diagnosed with influenza and had to rest at home.",
+    "Influenza outbreaks can be serious public health concerns.",
+    "Preventing influenza is important for public health."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad88"
+  },
+  "es": {
+    "word": "esperanza de vida",
+    "definition": "El período de tiempo durante el cual algo, como un organismo o una entidad, está vivo o en existencia."
+  },
+  "pt": {
+    "word": "expectativa de vida",
+    "definition": "O período de tempo durante o qual algo, como um organismo ou uma entidade, está vivo ou em existência."
+  },
+  "word": "lifespan",
+  "ipa": "/ˈlaɪfspæn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The period of time during which something, such as an organism or an entity, is alive or in existence.",
+  "examples": [
+    "The lifespan of a butterfly is relatively short.",
+    "Healthy habits can extend your lifespan.",
+    "The lifespan of a product depends on its quality.",
+    "They studied the lifespan of various species.",
+    "Extending the human lifespan is a scientific goal."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad89"
+  },
+  "es": {
+    "word": "gripe",
+    "definition": "Enfermedad infecciosa viral que causa fiebre, dolores musculares y malestar general."
+  },
+  "pt": {
+    "word": "gripe",
+    "definition": "Doença infecciosa viral que causa febre, dores musculares e mal-estar geral."
+  },
+  "word": "flu",
+  "ipa": "/fluː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A viral infectious disease that causes fever, muscle aches, and general discomfort.",
+  "examples": [
+    "She caught the flu and had to stay home.",
+    "Getting a flu shot can help prevent illness.",
+    "The flu virus spreads quickly in crowded places.",
+    "He had a severe case of the flu last winter.",
+    "Flu symptoms can include coughing and sneezing."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad8a"
+  },
+  "es": {
+    "word": "notorio",
+    "definition": "Conocido por comportamiento negativo o infame; famoso por algo malo."
+  },
+  "pt": {
+    "word": "notório",
+    "definition": "Conhecido por comportamento negativo ou infame; famoso por algo ruim."
+  },
+  "word": "notorious",
+  "ipa": "/noʊˈtɔːriəs/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Known for negative or infamous behavior; famous for something bad.",
+  "examples": [
+    "The criminal was notorious for his daring heists.",
+    "The city's notorious traffic jams are frustrating for commuters.",
+    "She gained a notorious reputation for her scandals.",
+    "The hotel has a notorious haunted room.",
+    "The band achieved notorious success with their controversial song."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad8b"
+  },
+  "es": {
+    "word": "viral",
+    "definition": "Relacionado con un virus o causado por un virus; que se propaga rápidamente en línea o de persona a persona."
+  },
+  "pt": {
+    "word": "viral",
+    "definition": "Relacionado com um vírus ou causado por um vírus; que se propaga rapidamente online ou de pessoa para pessoa."
+  },
+  "word": "viral",
+  "ipa": "/ˈvaɪrəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Related to a virus or caused by a virus; spreading rapidly online or from person to person.",
+  "examples": [
+    "The doctor diagnosed a viral infection.",
+    "The video went viral on social media.",
+    "Viral marketing can be highly effective.",
+    "The outbreak of a viral disease raised concerns.",
+    "Her blog post became a viral sensation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad8c"
+  },
+  "es": {
+    "word": "infección",
+    "definition": "La invasión y multiplicación de microorganismos patógenos en el cuerpo."
+  },
+  "pt": {
+    "word": "infecção",
+    "definition": "A invasão e multiplicação de microorganismos patogênicos no corpo."
+  },
+  "word": "infection",
+  "ipa": "/ɪnˈfɛkʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The invasion and multiplication of pathogenic microorganisms in the body.",
+  "examples": [
+    "He developed an infection after the surgery.",
+    "Infection control measures are essential in healthcare settings.",
+    "The antibiotic was prescribed to treat the infection.",
+    "She had a skin infection from a cut.",
+    "Preventing the spread of infection is a public health priority."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad8d"
+  },
+  "es": {
+    "word": "aparentemente",
+    "definition": "Aparentemente; de acuerdo con las apariencias."
+  },
+  "pt": {
+    "word": "aparentemente",
+    "definition": "Aparentemente; de acordo com as aparências."
+  },
+  "word": "seemingly",
+  "ipa": "/ˈsiːmɪŋli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Apparently; according to appearances.",
+  "examples": [
+    "Seemingly, everything was going well in the project.",
+    "She was seemingly unaffected by the criticism.",
+    "The car was seemingly in good condition.",
+    "His success was seemingly overnight.",
+    "Seemingly, he had no reason to be upset."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad8e"
+  },
+  "es": {
+    "word": "sigue",
+    "definition": "Viene después de algo en el tiempo, orden o secuencia."
+  },
+  "pt": {
+    "word": "segue",
+    "definition": "Vem depois de algo no tempo, ordem ou sequência."
+  },
+  "word": "follows",
+  "ipa": "/ˈfɒloʊz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Comes after something in time, order, or sequence.",
+  "examples": [
+    "The second chapter follows the first in the book.",
+    "As night follows day, he knew he would see her again.",
+    "The results will be published in the order they were received, with no exceptions.",
+    "She followed the recipe step by step.",
+    "The pattern follows a specific sequence."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad8f"
+  },
+  "es": {
+    "word": "a lo largo de",
+    "definition": "En todo momento o lugar; durante todo el tiempo o la extensión de algo."
+  },
+  "pt": {
+    "word": "ao longo de",
+    "definition": "Em todo momento ou lugar; durante todo o tempo ou a extensão de algo."
+  },
+  "word": "throughout",
+  "ipa": "/θruːˈaʊt/",
+  "type_word": [
+    {
+      "name": "Preposition",
+      "sigle": "prep.",
+      "description": "Words that link nouns, pronouns, and phrases to other words in a sentence."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "At every moment or place; during the whole time or extent of something.",
+  "examples": [
+    "She remained calm throughout the entire ordeal.",
+    "Rainfall was consistent throughout the week.",
+    "He wore a smile throughout the meeting despite his nervousness.",
+    "The problem persisted throughout the year.",
+    "The disease spread throughout the country."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad90"
+  },
+  "es": {
+    "word": "vidas",
+    "definition": "La forma plural de 'life', que se refiere a la condición que distingue a los seres vivos de los objetos inanimados y que implica el crecimiento, la reproducción, la capacidad de respuesta a estímulos y la adaptación al entorno."
+  },
+  "pt": {
+    "word": "vidas",
+    "definition": "A forma plural de 'vida', que se refere à condição que distingue os seres vivos dos objetos inanimados e envolve crescimento, reprodução, capacidade de resposta a estímulos e adaptação ao ambiente."
+  },
+  "word": "lives",
+  "ipa": "/laɪvz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The plural form of 'life,' referring to the condition that distinguishes living beings from inanimate objects and involves growth, reproduction, responsiveness to stimuli, and adaptation to the environment.",
+  "examples": [
+    "Human lives are characterized by a wide range of experiences.",
+    "The preservation of endangered species is essential to protect their lives.",
+    "She lives in a small town in the countryside.",
+    "Lives were lost in the tragic accident.",
+    "Living a fulfilling life is a common goal."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad91"
+  },
+  "es": {
+    "word": "evaluando",
+    "definition": "La acción de medir, evaluar o juzgar algo, generalmente de manera precisa o cuidadosa."
+  },
+  "pt": {
+    "word": "avaliando",
+    "definition": "A ação de medir, avaliar ou julgar algo, geralmente de forma precisa ou cuidadosa."
+  },
+  "word": "gauging",
+  "ipa": "/ˈɡeɪdʒɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The action of measuring, assessing, or judging something, typically with precision or careful consideration.",
+  "examples": [
+    "The gauging of public opinion is important for politicians.",
+    "Accurate gauging of temperature is crucial for scientific experiments.",
+    "He spent hours gauging the depth of the river before crossing.",
+    "The success of the project depends on effective gauging of market demand.",
+    "Gauging the impact of climate change is a complex task."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad92"
+  },
+  "es": {
+    "word": "inmunidad",
+    "definition": "La capacidad del cuerpo para resistir infecciones o enfermedades, generalmente debido a la exposición previa al patógeno o a través de la vacunación."
+  },
+  "pt": {
+    "word": "imunidade",
+    "definition": "A capacidade do corpo de resistir a infecções ou doenças, geralmente devido à exposição prévia ao patógeno ou à vacinação."
+  },
+  "word": "immunity",
+  "ipa": "/ɪˈmjuːnəti/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The body's ability to resist infections or diseases, typically due to prior exposure to the pathogen or through vaccination.",
+  "examples": [
+    "Vaccination can provide immunity against certain diseases.",
+    "The immune system plays a crucial role in maintaining immunity.",
+    "Her immunity to the virus protected her from getting sick.",
+    "Herd immunity is important for preventing the spread of contagious diseases.",
+    "Some people have a natural immunity to certain infections."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad93"
+  },
+  "es": {
+    "word": "infancia",
+    "definition": "La etapa de la vida que abarca desde el nacimiento hasta la adolescencia, generalmente marcada por el crecimiento y desarrollo físico y mental."
+  },
+  "pt": {
+    "word": "infância",
+    "definition": "O estágio da vida que vai do nascimento à adolescência, geralmente marcado pelo crescimento e desenvolvimento físico e mental."
+  },
+  "word": "childhood",
+  "ipa": "/ˈtʃaɪldhʊd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The stage of life that spans from birth to adolescence, typically characterized by physical and mental growth and development.",
+  "examples": [
+    "Her childhood memories were filled with joy and laughter.",
+    "Childhood experiences can have a lasting impact on a person's life.",
+    "The importance of early childhood education is widely recognized.",
+    "Many parents cherish the innocence of their children's childhood.",
+    "Childhood vaccinations are essential for preventing diseases."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad94"
+  },
+  "es": {
+    "word": "encuentro",
+    "definition": "Un encuentro casual o planeado con alguien o algo, a menudo inesperado."
+  },
+  "pt": {
+    "word": "encontro",
+    "definition": "Um encontro casual ou planejado com alguém ou algo, muitas vezes inesperado."
+  },
+  "word": "encounter",
+  "ipa": "/ɪnˈkaʊntər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A casual or planned meeting with someone or something, often unexpected.",
+  "examples": [
+    "Their encounter at the cafe led to a deep conversation.",
+    "He had a chance encounter with a famous author at the bookstore.",
+    "The unexpected encounter with a wild animal startled them.",
+    "Their first encounter left a lasting impression on both of them.",
+    "She hoped to encounter new opportunities during her travels."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad95"
+  },
+  "es": {
+    "word": "cuerpos",
+    "definition": "La forma plural de 'body', que se refiere al físico de un ser humano o animal, o la estructura física de un objeto."
+  },
+  "pt": {
+    "word": "corpos",
+    "definition": "A forma plural de 'corpo', que se refere ao físico de um ser humano ou animal, ou à estrutura física de um objeto."
+  },
+  "word": "bodies",
+  "ipa": "/ˈbɒdiz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The plural form of 'body,' referring to the physical form of a human or animal, or the physical structure of an object.",
+  "examples": [
+    "Human bodies are remarkably complex.",
+    "The bodies of athletes are finely tuned machines.",
+    "The bodies of different species have unique adaptations.",
+    "The forensic team examined the bodies found at the crime scene.",
+    "The spacecraft was designed with durable bodies to withstand the harsh conditions of space."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad96"
+  },
+  "es": {
+    "word": "ajustando",
+    "definition": "La acción de hacer cambios o adaptaciones para que algo funcione o se ajuste mejor a una situación o necesidad específica."
+  },
+  "pt": {
+    "word": "ajustando",
+    "definition": "A ação de fazer mudanças ou adaptações para que algo funcione ou se ajuste melhor a uma situação ou necessidade específica."
+  },
+  "word": "adjusting",
+  "ipa": "/əˈdʒʌstɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The action of making changes or adaptations to make something work or fit better into a specific situation or need.",
+  "examples": [
+    "She was adjusting the settings on the thermostat to keep the room warm.",
+    "The mechanic spent hours adjusting the engine to improve its performance.",
+    "Adjusting to a new environment can be challenging.",
+    "The company is constantly adjusting its strategies to stay competitive.",
+    "Parents are often busy adjusting to the demands of raising children."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656047f241e776404fb7ad97"
+  },
+  "es": {
+    "word": "nuevo",
+    "definition": "Recién hecho, inventado, descubierto o adquirido; no usado previamente."
+  },
+  "pt": {
+    "word": "novo",
+    "definition": "Recém feito, inventado, descoberto ou adquirido; não usado previamente."
+  },
+  "word": "new",
+  "ipa": "/njuː/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Recently made, invented, discovered, or acquired; not previously used.",
+  "examples": [
+    "She bought a new car to replace her old one.",
+    "The company introduced a new product to the market.",
+    "The new employee was eager to learn.",
+    "The new building was designed by a famous architect.",
+    "The new restaurant was packed with customers."
   ],
   "times_seen": 1,
   "status": "FAIL"

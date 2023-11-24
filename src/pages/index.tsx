@@ -162,6 +162,13 @@ export default function Home() {
     );
   });
 
+  const deleteLocalStrorage = () => {
+    // Delete all local storage
+    localStorage.clear();
+    alert("Se ha borrado todo el local storage");
+  }
+
+
   return (
     <div className="w-full h-screen bg-slate-800 text-white overflow-hidden">
       <div className="flex flex-col h-full overflow-auto">
@@ -218,7 +225,7 @@ export default function Home() {
         </div>
 
         <div className="flex flex-col gap-2 max-w-xl px-3">
-          <h1 className="flex-grow truncate text-lg  font-bold text-yellow-300">
+          <h1 className="flex-grow truncate text-lg  font-bold text-yellow-300" onDoubleClick={deleteLocalStrorage}>
             {text ? text : "🗣️ Speak "}
           </h1>
         </div>
@@ -321,7 +328,7 @@ export default function Home() {
             <AiOutlineLoading className="animate-spin  text-2xl text-green-600" />
           )}
         </form>
-        <small className="text-green text-xs">__________v1 3.1.9</small>
+        <small className="text-green text-xs">__________v2 0.0.Alpah</small>
       </div>
 
       <Modal isOpen={isOpenModal} setIsOpen={setIsOpenModal}>
