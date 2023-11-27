@@ -1,38 +1,3 @@
-# The core of this app should be the REDUX
- WORD 
-  words
-  activeWord
-  selectedUserWord
-  isLoad
-  isError
-
-Story
-  stories
-  activeStory
-  isLoad
-  isError
-
-Speech
- lang : string
- voice : string
- config :{}
- isListening: boolean
- userSpeeh: string
-
-Lyric
-  lyrics
-  active_lyric
-  isLoad
-  isError
-
-
-todas las words que tengan un espacio en blanco, o almento dos palabras
-{"$or": [{"word": {"$regex": "\\s"}}, {"word": {"$regex": "\\s+\\w+\\s"}}]}
-
-
-
-
-
 [
   {
     "es": {
@@ -342,37 +307,34 @@ todas las words que tengan un espacio en blanco, o almento dos palabras
 
 GENERATE JSON (TU RTA SOLO TIENE QUE SER UN JSON)un par mas SOLO PARA LA PALABARAs para 
 [
- 
- "coherent",
-    "helps",
-    "structure",
-    "sentences",
-    "correct",
-    "verb",
-    "employ",
-    "appropriate",
-    "order",
-    "ensures",
-    "delivered",
-    "accurately",
+    "speaker's",
+    "credibility",
+    "professionalism",
+    "showcases",
+    "competence",
+    "attention",
+    "detail",
+    "similarly",
+    "foundation",
+    "writers",
+    "clear",
+    "organized"
 ]
+
 OJO con las mismas llaves que tienen todos,.SIGUE EL EJEMPLO
 
 es
- word
- definition
+ word - (LA PALABRA EN ESPAÑOL, LA TRADUCCION)
+ definition - LA DEFINICION EN ESPAÑOL, LA TRADUCCION)
 pt
-  word
- definition
+  word  -LA PALABRA EN PT LA TRADUCCION)
+  definition - LA PALABRA EN PT LA TRADUCCION)
 word
 ipd
-type_word [
+type_word 
 definition
-examples
+examples [6 item always]
 times_seen 1
 status :"FAIL"
-
-comienzo con "coherent" , ...
-
-
-
+ 
+comienza con "speaker's" , ...
