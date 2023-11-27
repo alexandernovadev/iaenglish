@@ -3,6 +3,8 @@ import { Word } from "@/interfaces/word";
 import { connect, disconnect } from "@/mongo";
 import { WordModel } from "@/mongo/models/Word";
 import { NextApiRequest, NextApiResponse } from "next";
+import { words__CLEAN } from "../../../word";
+
 
 export default async function handler(
   req: NextApiRequest,
@@ -18,6 +20,7 @@ export default async function handler(
         // const rta = await searchAndDeleteRepeatedWords();
         const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
+        // const rta = await LoopArrayEach10Elements();
         res.status(200).json(rta);
 
         break;
@@ -77,8 +80,10 @@ const wordsNotInMongo = async () => {
   // Las palabras que no estén en mongo, agregarlas a un array y devolverlas como respuesta
   const wordsInMongo = await WordModel.find({}).select("word");
   const wordsInMongoArray = wordsInMongo.map((word) => word.word);
-  const wordsNotInMongo = WORDSHERERAAW.filter(
+  const wordsNotInMongo = words__CLEAN.filter(
     (word) => !wordsInMongoArray.includes(word)
   );
   return { wordsNotInMongo, r: wordsNotInMongo.length };
 };
+
+
