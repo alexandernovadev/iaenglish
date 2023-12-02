@@ -59681,4 +59681,6613 @@
   ],
   "times_seen": 1,
   "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef55"
+  },
+  "es": {
+    "word": "reparar",
+    "definition": "Arreglar algo que está roto o dañado."
+  },
+  "pt": {
+    "word": "consertar",
+    "definition": "Consertar algo que está quebrado ou danificado."
+  },
+  "word": "mend",
+  "ipa": "/mɛnd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To fix something that is broken or damaged.",
+  "examples": [
+    "She mended the torn dress.",
+    "He mended the broken chair.",
+    "The mechanic mended the car's engine.",
+    "I need to mend these socks.",
+    "They learned to mend fences on the farm."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef56"
+  },
+  "es": {
+    "word": "murmurar",
+    "definition": "Hablar en voz baja, especialmente para que otros no puedan oír."
+  },
+  "pt": {
+    "word": "murmurar",
+    "definition": "Falar em voz baixa, especialmente para que outros não possam ouvir."
+  },
+  "word": "murmur",
+  "ipa": "/ˈmɜːrmər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To speak in a low voice, especially to avoid being overheard.",
+  "examples": [
+    "They murmured in agreement.",
+    "She murmured a quick prayer.",
+    "He murmured her name in his sleep.",
+    "The audience began to murmur with impatience.",
+    "She could hear the murmur of the stream nearby."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef57"
+  },
+  "es": {
+    "word": "clavo",
+    "definition": "Un pequeño objeto metálico puntiagudo utilizado para sujetar cosas."
+  },
+  "pt": {
+    "word": "prego",
+    "definition": "Um pequeno objeto metálico pontiagudo usado para fixar coisas."
+  },
+  "word": "nail",
+  "ipa": "/neɪl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A small pointed metal object used to fasten things.",
+  "examples": [
+    "He hammered the nail into the wall.",
+    "She pulled a nail out of the board.",
+    "The picture was hung on a nail.",
+    "He picked up a nail from the floor.",
+    "The carpenter used nails to build the frame."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef5f"
+  },
+  "es": {
+    "word": "reventar",
+    "definition": "Hacer estallar o explotar algo, especialmente con un ruido fuerte."
+  },
+  "pt": {
+    "word": "estourar",
+    "definition": "Fazer algo explodir, especialmente com um ruído alto."
+  },
+  "word": "pop",
+  "ipa": "/pɑp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To make something burst or explode, especially with a loud noise.",
+  "examples": [
+    "Balloons pop when they are pricked.",
+    "He popped the cork of the champagne bottle.",
+    "Popcorn pops when heated.",
+    "She popped a bubble gum bubble.",
+    "The balloon popped loudly and startled everyone."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef60"
+  },
+  "es": {
+    "word": "poseer",
+    "definition": "Tener algo como propiedad; ser dueño de algo."
+  },
+  "pt": {
+    "word": "possuir",
+    "definition": "Ter algo como propriedade; ser dono de algo."
+  },
+  "word": "possess",
+  "ipa": "/pəˈzɛs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To have something as one's property; to own something.",
+  "examples": [
+    "She possesses a rare collection of stamps.",
+    "He possesses great knowledge in this field.",
+    "The museum possesses several original paintings.",
+    "They possess the skills needed for the job.",
+    "The old house is said to possess a strange charm."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef61"
+  },
+  "es": {
+    "word": "publicar",
+    "definition": "Hacer que algo sea conocido por el público en general, especialmente a través de la impresión o transmisión."
+  },
+  "pt": {
+    "word": "publicar",
+    "definition": "Tornar algo conhecido pelo público em geral, especialmente através de impressão ou transmissão."
+  },
+  "word": "post",
+  "ipa": "/poʊst/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To make something known to the public, especially by printing or broadcasting.",
+  "examples": [
+    "She posted a photo on her Instagram account.",
+    "The company posted a job opening online.",
+    "He posted the news on his blog.",
+    "They posted updates throughout the event.",
+    "The notice was posted on the bulletin board."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef62"
+  },
+  "es": {
+    "word": "preparar",
+    "definition": "Hacer los arreglos o poner en condición necesaria para algo."
+  },
+  "pt": {
+    "word": "preparar",
+    "definition": "Fazer os arranjos ou colocar em condição necessária para algo."
+  },
+  "word": "prepare",
+  "ipa": "/prɪˈpɛr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To make ready or put in proper condition for something.",
+  "examples": [
+    "She prepares meals for the family every day.",
+    "He is preparing for the exams.",
+    "They prepared the room for the guests.",
+    "Prepare your presentation for the meeting.",
+    "The athletes prepare rigorously for the competition."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef63"
+  },
+  "es": {
+    "word": "presionar",
+    "definition": "Ejercer fuerza sobre una superficie."
+  },
+  "pt": {
+    "word": "pressionar",
+    "definition": "Exercer força sobre uma superfície."
+  },
+  "word": "press",
+  "ipa": "/prɛs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To apply force against a surface.",
+  "examples": [
+    "Press the button to start the machine.",
+    "He pressed his hand against the door.",
+    "Press the dough into a flat circle.",
+    "She pressed the cloth to stop the bleeding.",
+    "They pressed flowers in a book."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef64"
+  },
+  "es": {
+    "word": "fingir",
+    "definition": "Actuar como si algo fuera cierto cuando no lo es."
+  },
+  "pt": {
+    "word": "fingir",
+    "definition": "Agir como se algo fosse verdadeiro quando não é."
+  },
+  "word": "pretend",
+  "ipa": "/prɪˈtɛnd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To act as if something is true when it is not.",
+  "examples": [
+    "The children like to pretend they're pirates.",
+    "She pretended to be asleep.",
+    "Let's pretend we're on an adventure.",
+    "He pretended he hadn't heard her.",
+    "Pretend you're a famous singer."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef65"
+  },
+  "es": {
+    "word": "tirar",
+    "definition": "Ejercer fuerza en algo para moverlo hacia uno mismo."
+  },
+  "pt": {
+    "word": "puxar",
+    "definition": "Exercer força em algo para movê-lo em direção a si mesmo."
+  },
+  "word": "pull",
+  "ipa": "/pʊl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To exert force on something so as to move it towards oneself.",
+  "examples": [
+    "Pull the door to open it.",
+    "She pulled the rope tightly.",
+    "He pulled the suitcase along with him.",
+    "Pull the chair closer to the table.",
+    "The dog pulled on its leash."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef66"
+  },
+  "es": {
+    "word": "bombear",
+    "definition": "Mover un líquido o gas mediante una bomba."
+  },
+  "pt": {
+    "word": "bombear",
+    "definition": "Mover um líquido ou gás por meio de uma bomba."
+  },
+  "word": "pump",
+  "ipa": "/pʌmp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To move a liquid or gas using a pump.",
+  "examples": [
+    "The machine pumps water out of the basement.",
+    "He pumped air into the bicycle tire.",
+    "The heart pumps blood throughout the body.",
+    "Pump the gas pedal to start the car.",
+    "They pumped the oil from the ground."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef67"
+  },
+  "es": {
+    "word": "golpear",
+    "definition": "Dar un golpe rápido y fuerte con el puño."
+  },
+  "pt": {
+    "word": "soco",
+    "definition": "Dar um golpe rápido e forte com o punho."
+  },
+  "word": "punch",
+  "ipa": "/pʌntʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To strike with a quick, strong blow with the fist.",
+  "examples": [
+    "He punched the bag as part of his training.",
+    "She punched him playfully on the shoulder.",
+    "The boxer punched his opponent in the face.",
+    "Punch the dough down before shaping.",
+    "They punched a hole in the wall."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef68"
+  },
+  "es": {
+    "word": "radiar",
+    "definition": "Emitir energía, especialmente luz o calor, en todas direcciones."
+  },
+  "pt": {
+    "word": "radiar",
+    "definition": "Emitir energia, especialmente luz ou calor, em todas as direções."
+  },
+  "word": "radiate",
+  "ipa": "/ˈreɪdieɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To emit energy, especially light or heat, in all directions.",
+  "examples": [
+    "The sun radiates heat and light.",
+    "Her face radiated happiness.",
+    "The heater radiates warmth throughout the room.",
+    "The star radiates energy into space.",
+    "She radiated confidence during her presentation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef69"
+  },
+  "es": {
+    "word": "llover",
+    "definition": "Caída de agua de las nubes en forma de gotas."
+  },
+  "pt": {
+    "word": "chover",
+    "definition": "Queda de água das nuvens em forma de gotas."
+  },
+  "word": "rain",
+  "ipa": "/reɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The falling of water from clouds in the form of drops.",
+  "examples": [
+    "It started to rain heavily.",
+    "The forecast says it will rain tomorrow.",
+    "Rain washed the streets clean.",
+    "We need rain for the crops.",
+    "It rained all night long."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef6a"
+  },
+  "es": {
+    "word": "levantar",
+    "definition": "Mover o elevar algo a una posición más alta."
+  },
+  "pt": {
+    "word": "levantar",
+    "definition": "Mover ou elevar algo para uma posição mais alta."
+  },
+  "word": "raise",
+  "ipa": "/reɪz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To move or lift something to a higher position.",
+  "examples": [
+    "Raise your hand if you know the answer.",
+    "They raised the flag in the morning.",
+    "She raised her eyes from the book.",
+    "He raised the window to let fresh air in.",
+    "The crane raised the heavy load."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef6b"
+  },
+  "es": {
+    "word": "darse cuenta",
+    "definition": "Llegar a comprender algo completamente."
+  },
+  "pt": {
+    "word": "perceber",
+    "definition": "Chegar a compreender algo completamente."
+  },
+  "word": "realize",
+  "ipa": "/ˈrɪəlaɪz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To become fully aware of something as a fact.",
+  "examples": [
+    "I suddenly realized that I was lost.",
+    "She realized the importance of the test.",
+    "He realized his dream of becoming a pilot.",
+    "They didn't realize the risk they were taking.",
+    "You will realize the benefits of exercise."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef6c"
+  },
+  "es": {
+    "word": "reinar",
+    "definition": "Ejercer autoridad suprema, especialmente como monarca."
+  },
+  "pt": {
+    "word": "reinar",
+    "definition": "Exercer autoridade suprema, especialmente como monarca."
+  },
+  "word": "reign",
+  "ipa": "/reɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To exercise supreme authority, especially as a monarch.",
+  "examples": [
+    "Queen Elizabeth reigns over the United Kingdom.",
+    "Peace reigned in the country after the war.",
+    "The king reigned wisely and justly.",
+    "Fear reigned in the village after the incident.",
+    "She reigned as the champion for three years."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef6d"
+  },
+  "es": {
+    "word": "rechazar",
+    "definition": "Negar la aceptación o el apoyo a algo."
+  },
+  "pt": {
+    "word": "rejeitar",
+    "definition": "Negar aceitação ou apoio a algo."
+  },
+  "word": "reject",
+  "ipa": "/rɪˈdʒɛkt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To refuse to accept or support something.",
+  "examples": [
+    "He rejected the offer for the new job.",
+    "The manuscript was rejected by the publisher.",
+    "She rejected the idea immediately.",
+    "They rejected him from the club.",
+    "The proposal was rejected by the committee."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef6e"
+  },
+  "es": {
+    "word": "alegrarse",
+    "definition": "Sentir o mostrar gran felicidad o alegría."
+  },
+  "pt": {
+    "word": "alegrar-se",
+    "definition": "Sentir ou mostrar grande felicidade ou alegria."
+  },
+  "word": "rejoice",
+  "ipa": "/rɪˈdʒɔɪs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To feel or show great happiness or joy.",
+  "examples": [
+    "They rejoiced at the news of the baby's birth.",
+    "The whole town rejoiced in their victory.",
+    "She rejoiced at the success of her students.",
+    "We will rejoice together in the good times.",
+    "The family rejoiced when he returned home safely."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef6f"
+  },
+  "es": {
+    "word": "responder",
+    "definition": "Decir algo en respuesta a algo que alguien ha dicho o escrito."
+  },
+  "pt": {
+    "word": "responder",
+    "definition": "Dizer algo em resposta a algo que alguém disse ou escreveu."
+  },
+  "word": "reply",
+  "ipa": "/rɪˈplaɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To say something in response to something someone has said or written.",
+  "examples": [
+    "She replied to his question with a smile.",
+    "He replied to the email promptly.",
+    "They replied that they would attend the wedding.",
+    "The company has not yet replied to my letter.",
+    "Can you reply to the message I sent you?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef70"
+  },
+  "es": {
+    "word": "informar",
+    "definition": "Dar información sobre algo, especialmente de manera oficial."
+  },
+  "pt": {
+    "word": "relatar",
+    "definition": "Dar informações sobre algo, especialmente de forma oficial."
+  },
+  "word": "report",
+  "ipa": "/rɪˈpɔrt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To give information about something, especially in an official way.",
+  "examples": [
+    "She reported the theft to the police.",
+    "The journalist reported on the war.",
+    "He reported the results of the study.",
+    "The committee will report its findings tomorrow.",
+    "They are required to report any changes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef71"
+  },
+  "es": {
+    "word": "reproducir",
+    "definition": "Producir una copia de algo; o en biología, producir descendencia."
+  },
+  "pt": {
+    "word": "reproduzir",
+    "definition": "Produzir uma cópia de algo; ou em biologia, produzir descendência."
+  },
+  "word": "reproduce",
+  "ipa": "/ˌriːprəˈdus/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To produce a copy of something; or in biology, to produce offspring.",
+  "examples": [
+    "The machine can reproduce the document in seconds.",
+    "Plants reproduce by means of seeds.",
+    "The artist's work is reproduced in many books.",
+    "Some species reproduce only under certain conditions.",
+    "The cells reproduce rapidly."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef72"
+  },
+  "es": {
+    "word": "robar",
+    "definition": "Tomar algo ilegalmente de alguien, generalmente por la fuerza."
+  },
+  "pt": {
+    "word": "roubar",
+    "definition": "Tomar algo ilegalmente de alguém, geralmente pela força."
+  },
+  "word": "rob",
+  "ipa": "/rɑb/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To take something illegally from someone, usually by force.",
+  "examples": [
+    "The bank was robbed yesterday.",
+    "He was robbed while walking through the park.",
+    "They planned to rob the jewelry store.",
+    "She was robbed of her purse.",
+    "The thieves robbed him of all his money."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef73"
+  },
+  "es": {
+    "word": "mecer",
+    "definition": "Mover o balancear suavemente hacia adelante y hacia atrás."
+  },
+  "pt": {
+    "word": "balançar",
+    "definition": "Mover ou balançar suavemente para frente e para trás."
+  },
+  "word": "rock",
+  "ipa": "/rɑk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To move or sway gently back and forth.",
+  "examples": [
+    "She rocked the baby to sleep.",
+    "He sat in the chair, rocking gently.",
+    "The boat rocked on the waves.",
+    "They rocked back and forth to the music.",
+    "The earthquake rocked the city."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef74"
+  },
+  "es": {
+    "word": "rodar",
+    "definition": "Moverse en una dirección girando sobre un eje o punto."
+  },
+  "pt": {
+    "word": "rolar",
+    "definition": "Mover-se em uma direção girando sobre um eixo ou ponto."
+  },
+  "word": "roll",
+  "ipa": "/roʊl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To move in a direction by turning over and over on an axis or point.",
+  "examples": [
+    "The ball rolled down the hill.",
+    "She rolled the dough out flat.",
+    "The waves rolled onto the shore.",
+    "He rolled up the sleeves of his shirt.",
+    "The kids love to roll down the grassy slope."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef75"
+  },
+  "es": {
+    "word": "pudrir",
+    "definition": "Descomponerse o descomponer algo, especialmente alimentos o material orgánico, a través de un proceso natural."
+  },
+  "pt": {
+    "word": "apodrecer",
+    "definition": "Decompor-se ou decompor algo, especialmente alimentos ou material orgânico, por meio de um processo natural."
+  },
+  "word": "rot",
+  "ipa": "/rɑt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To decay or cause something, especially food or organic material, to decay through a natural process.",
+  "examples": [
+    "The wood started to rot.",
+    "Fruits will rot if left too long.",
+    "The leaves rot and enrich the soil.",
+    "Vegetables rot quickly in warm weather.",
+    "The damp conditions caused the books to rot."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef76"
+  },
+  "es": {
+    "word": "dispersar",
+    "definition": "Hacer que algo o alguien se separe y se mueva en diferentes direcciones."
+  },
+  "pt": {
+    "word": "dispersar",
+    "definition": "Fazer com que algo ou alguém se separe e mova em diferentes direções."
+  },
+  "word": "scatter",
+  "ipa": "/ˈskætər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To cause something or someone to separate and move in different directions.",
+  "examples": [
+    "The wind scattered the leaves.",
+    "Birds scattered as the cat approached.",
+    "He scattered the seeds on the ground.",
+    "The crowd scattered when it started to rain.",
+    "She scattered toys all over the floor."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef77"
+  },
+  "es": {
+    "word": "regañar",
+    "definition": "Reprender a alguien, especialmente de manera severa o enfadada."
+  },
+  "pt": {
+    "word": "repreender",
+    "definition": "Repreender alguém, especialmente de maneira severa ou irritada."
+  },
+  "word": "scold",
+  "ipa": "/skoʊld/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To rebuke someone, especially in a severe or angry manner.",
+  "examples": [
+    "She scolded the child for running into the street.",
+    "He was scolded by his boss for being late.",
+    "The teacher scolded the students for their poor behavior.",
+    "My mother scolded me for not cleaning my room.",
+    "He scolded the dog for barking."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef78"
+  },
+  "es": {
+    "word": "quemar",
+    "definition": "Quemar la superficie de algo con calor o fuego."
+  },
+  "pt": {
+    "word": "queimar",
+    "definition": "Queimar a superfície de algo com calor ou fogo."
+  },
+  "word": "scorch",
+  "ipa": "/skɔrtʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To burn the surface of something with heat or fire.",
+  "examples": [
+    "The hot pan scorched the tablecloth.",
+    "She accidentally scorched her dress with the iron.",
+    "The intense heat scorched the landscape.",
+    "He scorched the toast while cooking breakfast.",
+    "The sun scorched the plants during the heatwave."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef79"
+  },
+  "es": {
+    "word": "sellar",
+    "definition": "Cerrar o asegurar algo con un sello para evitar que se abra o para marcarlo."
+  },
+  "pt": {
+    "word": "selar",
+    "definition": "Fechar ou assegurar algo com um selo para evitar que se abra ou para marcá-lo."
+  },
+  "word": "seal",
+  "ipa": "/siːl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To close or secure something with a seal to prevent it from being opened or to mark it.",
+  "examples": [
+    "Seal the envelope before mailing it.",
+    "He sealed the box with tape.",
+    "The deal was sealed with a handshake.",
+    "Seal the windows to prevent drafts.",
+    "The letter was sealed with wax."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef7a"
+  },
+  "es": {
+    "word": "buscar",
+    "definition": "Intentar encontrar algo o a alguien."
+  },
+  "pt": {
+    "word": "procurar",
+    "definition": "Tentar encontrar algo ou alguém."
+  },
+  "word": "search",
+  "ipa": "/sɜːrtʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To try to find something or someone.",
+  "examples": [
+    "She searched her bag for the keys.",
+    "Police are searching for the missing person.",
+    "He searched the internet for information.",
+    "They searched the house for evidence.",
+    "Search the area for any clues."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef7b"
+  },
+  "es": {
+    "word": "separar",
+    "definition": "Hacer que las personas o cosas estén apartadas unas de otras."
+  },
+  "pt": {
+    "word": "separar",
+    "definition": "Fazer com que pessoas ou coisas fiquem distantes umas das outras."
+  },
+  "word": "separate",
+  "ipa": "/ˈsɛpəˌreɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To cause people or things to be apart from each other.",
+  "examples": [
+    "The teacher separated the fighting students.",
+    "Separate the eggs into yolks and whites.",
+    "They decided to separate after ten years of marriage.",
+    "The river separates the two towns.",
+    "Please separate the recyclable materials."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef7c"
+  },
+  "es": {
+    "word": "resolver",
+    "definition": "Llegar a un acuerdo o solución; establecerse en un lugar o condición."
+  },
+  "pt": {
+    "word": "resolver",
+    "definition": "Chegar a um acordo ou solução; estabelecer-se em um lugar ou condição."
+  },
+  "word": "settle",
+  "ipa": "/ˈsɛtl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To reach an agreement or solution; to establish oneself in a place or condition.",
+  "examples": [
+    "They settled the dispute amicably.",
+    "The family settled in a new country.",
+    "Dust settled on the old books.",
+    "Let's settle this matter once and for all.",
+    "After the storm, the waters settled."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef7d"
+  },
+  "es": {
+    "word": "encogerse de hombros",
+    "definition": "Levantar y bajar los hombros para expresar indiferencia o ignorancia."
+  },
+  "pt": {
+    "word": "dar de ombros",
+    "definition": "Levantar e baixar os ombros para expressar indiferença ou ignorância."
+  },
+  "word": "shrug",
+  "ipa": "/ʃrʌɡ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To raise and lower the shoulders to express indifference or ignorance.",
+  "examples": [
+    "She shrugged when asked about her plans.",
+    "He shrugged off the criticism.",
+    "I asked him why, but he just shrugged.",
+    "She shrugged her shoulders in response.",
+    "They shrugged at the news, unconcerned."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef7e"
+  },
+  "es": {
+    "word": "suspirar",
+    "definition": "Exhalar un suspiro, generalmente como expresión de cansancio, alivio, tristeza o anhelo."
+  },
+  "pt": {
+    "word": "suspirar",
+    "definition": "Exalar um suspiro, geralmente como expressão de cansaço, alívio, tristeza ou desejo."
+  },
+  "word": "sigh",
+  "ipa": "/saɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To exhale a sigh, usually as an expression of tiredness, relief, sadness, or longing.",
+  "examples": [
+    "She sighed deeply and sat down.",
+    "He sighed with relief when he found his keys.",
+    "The old man sighed with nostalgia.",
+    "She sighed in frustration at the delay.",
+    "He sighed happily, contented with the moment."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef7f"
+  },
+  "es": {
+    "word": "firmar",
+    "definition": "Escribir el nombre de uno en un documento como prueba de identidad o intención."
+  },
+  "pt": {
+    "word": "assinar",
+    "definition": "Escrever o próprio nome em um documento como prova de identidade ou intenção."
+  },
+  "word": "sign",
+  "ipa": "/saɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To write one's name on a document as proof of identity or intention.",
+  "examples": [
+    "Please sign your name here.",
+    "She signed the contract without reading it.",
+    "He signed the letter with a flourish.",
+    "They signed the agreement after lengthy negotiations.",
+    "Sign the check before you mail it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef80"
+  },
+  "es": {
+    "word": "pecar",
+    "definition": "Cometer una ofensa moral o religiosa."
+  },
+  "pt": {
+    "word": "pecar",
+    "definition": "Cometer uma ofensa moral ou religiosa."
+  },
+  "word": "sin",
+  "ipa": "/sɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To commit a moral or religious offense.",
+  "examples": [
+    "They believe that lying is a sin.",
+    "She confessed her sins to the priest.",
+    "To sin against one's conscience is wrong.",
+    "He was taught that stealing is a sin.",
+    "She repented her sins and sought forgiveness."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef81"
+  },
+  "es": {
+    "word": "sorber",
+    "definition": "Beber algo tomando pequeñas cantidades con los labios."
+  },
+  "pt": {
+    "word": "sorver",
+    "definition": "Beber algo tomando pequenas quantidades com os lábios."
+  },
+  "word": "sip",
+  "ipa": "/sɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To drink something by taking small amounts with the lips.",
+  "examples": [
+    "She sipped her coffee slowly.",
+    "He took a sip of water.",
+    "Sip the soup; it's hot.",
+    "They sipped champagne at the celebration.",
+    "She sipped her tea while watching the sunset."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef82"
+  },
+  "es": {
+    "word": "esquiar",
+    "definition": "Deslizarse sobre la nieve usando esquís."
+  },
+  "pt": {
+    "word": "esquiar",
+    "definition": "Deslizar-se sobre a neve usando esquis."
+  },
+  "word": "ski",
+  "ipa": "/skiː/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To glide over snow using skis.",
+  "examples": [
+    "They went to ski in the mountains.",
+    "She learned to ski when she was five.",
+    "He skis every weekend in winter.",
+    "They are planning a ski trip.",
+    "Skiing is her favorite winter sport."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef83"
+  },
+  "es": {
+    "word": "saltar",
+    "definition": "Moverse hacia adelante o hacia arriba de un salto; omitir algo."
+  },
+  "pt": {
+    "word": "pular",
+    "definition": "Mover-se para frente ou para cima com um salto; omitir algo."
+  },
+  "word": "skip",
+  "ipa": "/skɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To move forward or upward by a jump; to omit something.",
+  "examples": [
+    "The children skip rope in the playground.",
+    "He skipped a stone across the water.",
+    "She decided to skip the meeting.",
+    "I'll skip dessert, thanks.",
+    "They skipped through the field."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef84"
+  },
+  "es": {
+    "word": "abofetear",
+    "definition": "Golpear a alguien con la mano abierta."
+  },
+  "pt": {
+    "word": "esbofetear",
+    "definition": "Bater em alguém com a mão aberta."
+  },
+  "word": "slap",
+  "ipa": "/slæp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To hit someone with an open hand.",
+  "examples": [
+    "She slapped him in the face.",
+    "He gave the horse a slap on the back.",
+    "Don't slap the table while eating.",
+    "She playfully slapped his arm.",
+    "He angrily slapped the document on the desk."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef85"
+  },
+  "es": {
+    "word": "resbalar",
+    "definition": "Deslizarse accidentalmente y perder el equilibrio."
+  },
+  "pt": {
+    "word": "escorregar",
+    "definition": "Deslizar acidentalmente e perder o equilíbrio."
+  },
+  "word": "slip",
+  "ipa": "/slɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To slide accidentally and lose one's balance.",
+  "examples": [
+    "She slipped on the icy sidewalk.",
+    "The book slipped from his hands.",
+    "He slipped quietly into the room.",
+    "The name slips my mind.",
+    "Be careful not to slip while hiking."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef86"
+  },
+  "es": {
+    "word": "ralentizar",
+    "definition": "Reducir la velocidad de movimiento o actividad."
+  },
+  "pt": {
+    "word": "desacelerar",
+    "definition": "Reduzir a velocidade de movimento ou atividade."
+  },
+  "word": "slow",
+  "ipa": "/sloʊ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To reduce the speed of movement or activity.",
+  "examples": [
+    "Slow down, you're driving too fast.",
+    "The train began to slow as it approached the station.",
+    "He slowed his pace to match hers.",
+    "The economy has slowed in recent months.",
+    "The project slowed due to lack of funds."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef87"
+  },
+  "es": {
+    "word": "romper",
+    "definition": "Quebrar violentamente algo en pedazos."
+  },
+  "pt": {
+    "word": "quebrar",
+    "definition": "Quebrar algo violentamente em pedaços."
+  },
+  "word": "smash",
+  "ipa": "/smæʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To break something violently into pieces.",
+  "examples": [
+    "He smashed the window with a rock.",
+    "The car smashed into a tree.",
+    "She smashed the plate in anger.",
+    "The waves smashed against the rocks.",
+    "He smashed the record for the fastest lap."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef88"
+  },
+  "es": {
+    "word": "oler",
+    "definition": "Percepción de los olores a través de la nariz."
+  },
+  "pt": {
+    "word": "cheirar",
+    "definition": "Percepção de odores através do nariz."
+  },
+  "word": "smell",
+  "ipa": "/smɛl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The act of perceiving odors through the nose.",
+  "examples": [
+    "I can smell something burning.",
+    "Roses smell so sweet.",
+    "He smelled the soup to see if it was good.",
+    "She smelled gas and called the fire department.",
+    "I love to smell fresh coffee in the morning."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef89"
+  },
+  "es": {
+    "word": "sonreír",
+    "definition": "Formar una expresión feliz con la boca."
+  },
+  "pt": {
+    "word": "sorrir",
+    "definition": "Formar uma expressão feliz com a boca."
+  },
+  "word": "smile",
+  "ipa": "/smaɪl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To form a happy expression with the mouth.",
+  "examples": [
+    "She smiled when she saw her friend.",
+    "He smiled at the good news.",
+    "The baby smiled in her sleep.",
+    "They smiled for the camera.",
+    "She smiled politely during the conversation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656b9e72112adff214e8ef8a"
+  },
+  "es": {
+    "word": "fumar",
+    "definition": "Inhalar y exhalar el humo de un cigarrillo, pipa, etc."
+  },
+  "pt": {
+    "word": "fumar",
+    "definition": "Inalar e exalar a fumaça de um cigarro, cachimbo, etc."
+  },
+  "word": "smoke",
+  "ipa": "/smoʊk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To inhale and exhale the smoke of a cigarette, pipe, etc.",
+  "examples": [
+    "He smokes two packs of cigarettes a day.",
+    "She went outside to smoke a cigarette.",
+    "They were smoking cigars to celebrate.",
+    "He's trying to quit smoking.",
+    "I could smell the smoke from his pipe."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef8b"
+  },
+  "es": {
+    "word": "snatch",
+    "definition": "Arrebatar o agarrar algo con rapidez y fuerza."
+  },
+  "pt": {
+    "word": "arrebatar",
+    "definition": "Agarrar ou segurar algo rapidamente e com força."
+  },
+  "word": "snatch",
+  "ipa": "/snætʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Grab or seize something quickly and forcefully.",
+  "examples": [
+    "He tried to snatch the purse from her hand.",
+    "The eagle swooped down to snatch the fish from the water.",
+    "The thief snatched the necklace and ran away."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef8c"
+  },
+  "es": {
+    "word": "sneeze",
+    "definition": "Expulsar aire repentinamente por la nariz debido a una irritación."
+  },
+  "pt": {
+    "word": "espirrar",
+    "definition": "Expelir ar repentinamente pelo nariz devido a uma irritação."
+  },
+  "word": "sneeze",
+  "ipa": "/sniz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Expel air suddenly through the nose due to irritation.",
+  "examples": [
+    "She couldn't stop sneezing because of her allergies.",
+    "I always sneeze when I'm around cats.",
+    "A sneeze is a reflex to remove irritants from the nasal passages."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef8d"
+  },
+  "es": {
+    "word": "sniff",
+    "definition": "Inhalar audiblemente para oler algo."
+  },
+  "pt": {
+    "word": "cheirar",
+    "definition": "Inalar de forma audível para cheirar algo."
+  },
+  "word": "sniff",
+  "ipa": "/snɪf/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Inhale audibly to smell something.",
+  "examples": [
+    "He sniffed the flower to enjoy its fragrance.",
+    "The dog sniffed the ground to find a scent.",
+    "I could smell something delicious, so I had to sniff around."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef8e"
+  },
+  "es": {
+    "word": "snore",
+    "definition": "Producir ruido al respirar mientras se duerme."
+  },
+  "pt": {
+    "word": "roncar",
+    "definition": "Produzir ruído ao respirar enquanto se dorme."
+  },
+  "word": "snore",
+  "ipa": "/snɔːr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Produce noise while breathing during sleep.",
+  "examples": [
+    "My dad snores loudly at night.",
+    "She couldn't sleep because her roommate was snoring.",
+    "Snoring can be a sign of sleep apnea."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef8f"
+  },
+  "es": {
+    "word": "snow",
+    "definition": "Precipitación de cristales de hielo que caen de las nubes."
+  },
+  "pt": {
+    "word": "neve",
+    "definition": "Precipitação de cristais de gelo que caem das nuvens."
+  },
+  "word": "snow",
+  "ipa": "/snoʊ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Precipitation of ice crystals falling from the clouds.",
+  "examples": [
+    "Children love to play in the snow.",
+    "It's snowing heavily, and the roads are slippery.",
+    "She decided to go skiing on the fresh snowfall."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef90"
+  },
+  "es": {
+    "word": "soak",
+    "definition": "Sumergir algo en un líquido y dejarlo absorberlo."
+  },
+  "pt": {
+    "word": "embeber",
+    "definition": "Submergir algo em um líquido e permitir que absorva."
+  },
+  "word": "soak",
+  "ipa": "/soʊk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Submerge something in a liquid and allow it to absorb.",
+  "examples": [
+    "She likes to soak her feet in warm water after a long day.",
+    "You should soak the beans overnight before cooking them.",
+    "The rain started to soak through our clothes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef91"
+  },
+  "es": {
+    "word": "soothe",
+    "definition": "Calmar o aliviar el dolor o la incomodidad."
+  },
+  "pt": {
+    "word": "acalmar",
+    "definition": "Aliviar ou reduzir a dor ou o desconforto."
+  },
+  "word": "soothe",
+  "ipa": "/suːð/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Calms or relieves pain or discomfort.",
+  "examples": [
+    "She used aloe vera to soothe her sunburned skin.",
+    "His soothing words helped her relax after a stressful day.",
+    "Music can often soothe the soul."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef92"
+  },
+  "es": {
+    "word": "spare",
+    "definition": "Tener algo adicional o de reserva; no usar algo en particular."
+  },
+  "pt": {
+    "word": "reserva",
+    "definition": "Ter algo adicional ou de reserva; não usar algo em particular."
+  },
+  "word": "spare",
+  "ipa": "/spɛr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos."
+    }
+  ],
+  "definition": "Have something additional or in reserve; not use something in particular.",
+  "examples": [
+    "I always carry a spare tire in my car in case of a flat.",
+    "Can you spare some time to help me with this project?",
+    "She had a spare key for emergencies."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef93"
+  },
+  "es": {
+    "word": "spark",
+    "definition": "Generar una chispa o una pequeña llama."
+  },
+  "pt": {
+    "word": "faísca",
+    "definition": "Gerar uma faísca ou uma pequena chama."
+  },
+  "word": "spark",
+  "ipa": "/spɑrk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Generate a spark or a small flame.",
+  "examples": [
+    "He used a flint to spark a fire in the wilderness.",
+    "The spark from the welding torch was incredibly hot.",
+    "Their argument seemed to spark a heated debate."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef94"
+  },
+  "es": {
+    "word": "sparkle",
+    "definition": "Brillar o destellar con luz intensa y rápida."
+  },
+  "pt": {
+    "word": "brilhar",
+    "definition": "Brilhar ou cintilar com luz intensa e rápida."
+  },
+  "word": "sparkle",
+  "ipa": "/ˈspɑrkəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Shine or twinkle with intense and rapid light.",
+  "examples": [
+    "The stars sparkle in the night sky.",
+    "Her eyes sparkled with excitement when she saw the gift.",
+    "The diamond on her finger sparkled brilliantly."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef95"
+  },
+  "es": {
+    "word": "speculate",
+    "definition": "Hacer conjeturas o suposiciones sin tener evidencia concreta."
+  },
+  "pt": {
+    "word": "especular",
+    "definition": "Fazer conjecturas ou suposições sem evidência concreta."
+  },
+  "word": "speculate",
+  "ipa": "/ˈspɛkjəˌleɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Make guesses or suppositions without concrete evidence.",
+  "examples": [
+    "Investors often speculate about the stock market's future performance.",
+    "It's not wise to speculate on matters you know little about.",
+    "He liked to speculate about the existence of extraterrestrial life."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef96"
+  },
+  "es": {
+    "word": "spell",
+    "definition": "Escribir o pronunciar las letras de una palabra en orden."
+  },
+  "pt": {
+    "word": "soletrar",
+    "definition": "Escrever ou pronunciar as letras de uma palavra em ordem."
+  },
+  "word": "spell",
+  "ipa": "/spɛl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Write or pronounce the letters of a word in order.",
+  "examples": [
+    "Can you spell your name for me, please?",
+    "She's learning to spell simple words in school.",
+    "The spelling of 'banana' is not difficult."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef97"
+  },
+  "es": {
+    "word": "spill",
+    "definition": "Dejar caer un líquido accidentalmente; verter o derramar."
+  },
+  "pt": {
+    "word": "derramar",
+    "definition": "Deixar cair um líquido acidentalmente; verter ou derramar."
+  },
+  "word": "spill",
+  "ipa": "/spɪl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Accidentally let a liquid fall; pour or shed.",
+  "examples": [
+    "She spilled coffee all over her white shirt.",
+    "Please be careful not to spill the milk.",
+    "The spill of oil in the ocean had devastating consequences."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef98"
+  },
+  "es": {
+    "word": "spoil",
+    "definition": "Arruinar o estropear algo; mimar excesivamente a alguien."
+  },
+  "pt": {
+    "word": "estragar",
+    "definition": "Arruinar ou estragar algo; mimar alguém em excesso."
+  },
+  "word": "spoil",
+  "ipa": "/spɔɪl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Ruin or damage something; excessively pamper someone.",
+  "examples": [
+    "Leaving the fruit out in the sun will spoil it.",
+    "Don't spoil your dinner by eating too many snacks.",
+    "Parents sometimes spoil their children with too many gifts."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef99"
+  },
+  "es": {
+    "word": "spot",
+    "definition": "Ver o detectar algo, generalmente pequeño o difícil de ver."
+  },
+  "pt": {
+    "word": "avistar",
+    "definition": "Ver ou detectar algo, geralmente pequeno ou difícil de ver."
+  },
+  "word": "spot",
+  "ipa": "/spɑt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "See or detect something, usually small or hard to see.",
+  "examples": [
+    "She spotted a rare bird in the tree.",
+    "Can you spot the difference between these two pictures?",
+    "There's a spot on your shirt, right here."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef9a"
+  },
+  "es": {
+    "word": "spray",
+    "definition": "Rociar o dispersar líquido en pequeñas gotas."
+  },
+  "pt": {
+    "word": "spray",
+    "definition": "Borrifar ou dispersar líquido em pequenas gotas."
+  },
+  "word": "spray",
+  "ipa": "/spreɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Spray or disperse liquid in small droplets.",
+  "examples": [
+    "She used a spray bottle to water the plants.",
+    "The ocean waves created a misty spray in the air.",
+    "The graffiti artist used spray paint to create the mural."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef9b"
+  },
+  "es": {
+    "word": "sprout",
+    "definition": "Comenzar a crecer o brotar, especialmente una planta."
+  },
+  "pt": {
+    "word": "broto",
+    "definition": "Começar a crescer ou brotar, especialmente uma planta."
+  },
+  "word": "sprout",
+  "ipa": "/spraʊt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Begin to grow or bud, especially a plant.",
+  "examples": [
+    "The seeds sprouted after a week of rain.",
+    "Tiny sprouts appeared in the garden beds in spring.",
+    "Bean sprouts are often used in Asian cuisine."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef9c"
+  },
+  "es": {
+    "word": "squash",
+    "definition": "Aplastar o comprimir algo con fuerza; un deporte de raqueta."
+  },
+  "pt": {
+    "word": "esmagar",
+    "definition": "Esmagar ou comprimir algo com força; um esporte de raquete."
+  },
+  "word": "squash",
+  "ipa": "/skwɒʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Crush or compress something with force; a racket sport.",
+  "examples": [
+    "He accidentally squashed the bug with his shoe.",
+    "Squash the grapes to make juice.",
+    "I play squash every Saturday with my friends."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef9d"
+  },
+  "es": {
+    "word": "squeak",
+    "definition": "Hacer un sonido agudo o chirriante, generalmente de poca intensidad."
+  },
+  "pt": {
+    "word": "chiar",
+    "definition": "Emitir um som agudo ou estridente, geralmente de baixa intensidade."
+  },
+  "word": "squeak",
+  "ipa": "/skwik/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Make a high-pitched or squeaky sound, usually of low intensity.",
+  "examples": [
+    "The old door squeaks when you open it.",
+    "The mouse squeaked as it ran across the floor.",
+    "The brakes on the bike started to squeak."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef9e"
+  },
+  "es": {
+    "word": "squeal",
+    "definition": "Gritar o chillar en voz aguda, a menudo debido a emoción o miedo."
+  },
+  "pt": {
+    "word": "gritar",
+    "definition": "Gritar ou chiar em voz aguda, frequentemente devido a emoção ou medo."
+  },
+  "word": "squeal",
+  "ipa": "/skwiːl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Shout or scream in a high-pitched voice, often due to excitement or fear.",
+  "examples": [
+    "The children squealed with delight at the sight of the ice cream truck.",
+    "The tires of the car squealed as it screeched to a stop.",
+    "She let out a squeal when she saw the surprise party."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8ef9f"
+  },
+  "es": {
+    "word": "squeeze",
+    "definition": "Aplicar presión para comprimir o exprimir algo."
+  },
+  "pt": {
+    "word": "apertar",
+    "definition": "Aplicar pressão para comprimir ou espremer algo."
+  },
+  "word": "squeeze",
+  "ipa": "/skwiːz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Apply pressure to compress or extract something.",
+  "examples": [
+    "She squeezed the lemon to get juice for the recipe.",
+    "He had to squeeze through the narrow gap in the fence.",
+    "The tight squeeze through the crowd was challenging."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa0"
+  },
+  "es": {
+    "word": "stain",
+    "definition": "Marcar o manchar algo de manera permanente."
+  },
+  "pt": {
+    "word": "mancha",
+    "definition": "Marcar ou manchar algo permanentemente."
+  },
+  "word": "stain",
+  "ipa": "/steɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Mark or discolor something permanently.",
+  "examples": [
+    "The red wine stain wouldn't come out of the carpet.",
+    "She accidentally stained her favorite shirt with ink.",
+    "The stain on the wall was a reminder of the past."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa1"
+  },
+  "es": {
+    "word": "stamp",
+    "definition": "Presionar o golpear con fuerza una superficie para dejar una marca o impresión."
+  },
+  "pt": {
+    "word": "carimbo",
+    "definition": "Pressionar ou bater com força em uma superfície para deixar uma marca ou impressão."
+  },
+  "word": "stamp",
+  "ipa": "/stæmp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Press or strike a surface forcefully to leave a mark or impression.",
+  "examples": [
+    "He used a rubber stamp to mark the documents.",
+    "The horse's hoofprints were stamped into the muddy ground.",
+    "She gave the envelope a stamp before mailing it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa2"
+  },
+  "es": {
+    "word": "stare",
+    "definition": "Mirar fijamente y sin pestañear a algo o alguien."
+  },
+  "pt": {
+    "word": "olhar fixamente",
+    "definition": "Olhar fixamente e sem pestanejar para algo ou alguém."
+  },
+  "word": "stare",
+  "ipa": "/stɛr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Look fixedly and without blinking at something or someone.",
+  "examples": [
+    "She couldn't help but stare at the beautiful sunset.",
+    "The child stared at the magician's tricks in amazement.",
+    "His intense stare made her feel uncomfortable."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa3"
+  },
+  "es": {
+    "word": "stay",
+    "definition": "Permanecer o quedarse en un lugar por un período de tiempo."
+  },
+  "pt": {
+    "word": "ficar",
+    "definition": "Permanecer ou ficar em um lugar por um período de tempo."
+  },
+  "word": "stay",
+  "ipa": "/steɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Remain or linger in a place for a period of time.",
+  "examples": [
+    "They decided to stay at the beach for the weekend.",
+    "I can't stay long; I have to leave soon.",
+    "The hotel offers a comfortable and pleasant stay."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa4"
+  },
+  "es": {
+    "word": "steal",
+    "definition": "Tomar algo sin permiso o de manera clandestina."
+  },
+  "pt": {
+    "word": "roubar",
+    "definition": "Pegar algo sem permissão ou de forma clandestina."
+  },
+  "word": "steal",
+  "ipa": "/stiːl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Take something without permission or in a clandestine manner.",
+  "examples": [
+    "She tried to steal a cookie from the jar without her mom noticing.",
+    "Stealing is a crime that can result in legal consequences.",
+    "He stole a glance at his watch while in the meeting."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa5"
+  },
+  "es": {
+    "word": "steer",
+    "definition": "Dirigir o guiar algo en una dirección específica."
+  },
+  "pt": {
+    "word": "dirigir",
+    "definition": "Conduzir ou guiar algo em uma direção específica."
+  },
+  "word": "steer",
+  "ipa": "/stɪər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Guide or direct something in a specific direction.",
+  "examples": [
+    "She had to steer the boat away from the rocks.",
+    "He carefully steered the car through heavy traffic.",
+    "The captain can steer the ship even in rough seas."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa6"
+  },
+  "es": {
+    "word": "step",
+    "definition": "Mover un pie después del otro al caminar; un nivel o fase de un proceso."
+  },
+  "pt": {
+    "word": "passo",
+    "definition": "Mover um pé após o outro ao caminhar; um nível ou fase de um processo."
+  },
+  "word": "step",
+  "ipa": "/stɛp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Move one foot after the other while walking; a level or phase of a process.",
+  "examples": [
+    "She took a step forward to get a better view.",
+    "We need to complete this project step by step.",
+    "His dance moves were perfectly in sync with the music's beat."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa7"
+  },
+  "es": {
+    "word": "stir",
+    "definition": "Mover o revolver una sustancia con un objeto, como una cuchara."
+  },
+  "pt": {
+    "word": "mexer",
+    "definition": "Mover ou mexer uma substância com um objeto, como uma colher."
+  },
+  "word": "stir",
+  "ipa": "/stɜːr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Move or agitate a substance with an object, such as a spoon.",
+  "examples": [
+    "She stirred the soup to make sure it was evenly heated.",
+    "Stir the paint before applying it to the wall.",
+    "The storm stirred up the ocean, creating huge waves."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa8"
+  },
+  "es": {
+    "word": "stitch",
+    "definition": "Unir o coser dos partes de algo con hilo y aguja; un punto de sutura."
+  },
+  "pt": {
+    "word": "costurar",
+    "definition": "Unir ou costurar duas partes de algo com linha e agulha; um ponto de sutura."
+  },
+  "word": "stitch",
+  "ipa": "/stɪtʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Join or sew two parts of something with thread and needle; a stitch.",
+  "examples": [
+    "She carefully stitched the torn fabric back together.",
+    "He needed several stitches to close the wound.",
+    "Sewing requires skill in creating neat and even stitches."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efa9"
+  },
+  "es": {
+    "word": "store",
+    "definition": "Guardar algo en un lugar específico para su posterior uso."
+  },
+  "pt": {
+    "word": "armazenar",
+    "definition": "Guardar algo em um local específico para uso posterior."
+  },
+  "word": "store",
+  "ipa": "/stɔːr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Place something in a specific location for later use.",
+  "examples": [
+    "She will store her winter clothes in the attic during the summer.",
+    "The store sells a variety of household items.",
+    "You can find all kinds of products in the grocery store."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efaa"
+  },
+  "es": {
+    "word": "strap",
+    "definition": "Una banda de tela o material similar que se utiliza para sujetar o atar algo."
+  },
+  "pt": {
+    "word": "alça",
+    "definition": "Uma faixa de tecido ou material semelhante usada para segurar ou amarrar algo."
+  },
+  "word": "strap",
+  "ipa": "/stræp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "A strip of fabric or similar material used to hold or tie something.",
+  "examples": [
+    "She adjusted the strap of her backpack for a better fit.",
+    "The watch had a leather strap with a metal buckle.",
+    "Use the strap to secure the luggage to the roof of the car."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efab"
+  },
+  "es": {
+    "word": "strengthen",
+    "definition": "Hacer que algo sea más fuerte o resistente."
+  },
+  "pt": {
+    "word": "fortalecer",
+    "definition": "Tornar algo mais forte ou resistente."
+  },
+  "word": "strengthen",
+  "ipa": "/ˈstrɛŋθən/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Make something stronger or more resilient.",
+  "examples": [
+    "Regular exercise can help strengthen your muscles.",
+    "They are taking measures to strengthen the security of the building.",
+    "Strengthening relationships is important for a successful team."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efac"
+  },
+  "es": {
+    "word": "stretch",
+    "definition": "Estirar o alargar algo; una extensión de tiempo o espacio."
+  },
+  "pt": {
+    "word": "esticar",
+    "definition": "Esticar ou alongar algo; uma extensão de tempo ou espaço."
+  },
+  "word": "stretch",
+  "ipa": "/strɛtʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Extend or lengthen something; an extension of time or space.",
+  "examples": [
+    "She used yoga to stretch her muscles and improve flexibility.",
+    "The road stretched for miles through the desert.",
+    "Taking a stretch break at work can relieve tension."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efad"
+  },
+  "es": {
+    "word": "strip",
+    "definition": "Quitar o despojar algo de su cubierta o revestimiento."
+  },
+  "pt": {
+    "word": "retirar",
+    "definition": "Remover ou despojar algo de sua cobertura ou revestimento."
+  },
+  "word": "strip",
+  "ipa": "/strɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Remove or strip something of its covering or coating.",
+  "examples": [
+    "She stripped the old paint from the furniture before repainting it.",
+    "The wind can strip the leaves from the trees during a storm.",
+    "He decided to strip the wallpaper and redecorate the room."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efae"
+  },
+  "es": {
+    "word": "stroke",
+    "definition": "Un movimiento suave y continuo de la mano o un objeto sobre una superficie; una enfermedad que afecta el cerebro."
+  },
+  "pt": {
+    "word": "acidente vascular cerebral",
+    "definition": "Um movimento suave e contínuo da mão ou de um objeto sobre uma superfície; uma doença que afeta o cérebro."
+  },
+  "word": "stroke",
+  "ipa": "/stroʊk/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "A smooth and continuous movement of the hand or an object over a surface; a disease that affects the brain.",
+  "examples": [
+    "She painted the canvas with long, fluid strokes.",
+    "He had a stroke that left him partially paralyzed.",
+    "Using gentle strokes, she brushed the cat's fur."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efaf"
+  },
+  "es": {
+    "word": "stuff",
+    "definition": "Llenar un espacio o contenedor con cosas; objetos o cosas en general."
+  },
+  "pt": {
+    "word": "encher",
+    "definition": "Preencher um espaço ou recipiente com coisas; objetos ou coisas em geral."
+  },
+  "word": "stuff",
+  "ipa": "/stʌf/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Fill a space or container with things; objects or things in general.",
+  "examples": [
+    "She had to stuff her suitcase with clothes for the trip.",
+    "The attic was filled with all sorts of old stuff.",
+    "Don't forget to stuff the turkey before roasting it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb0"
+  },
+  "es": {
+    "word": "subtract",
+    "definition": "Restar o quitar una cantidad de otra."
+  },
+  "pt": {
+    "word": "subtrair",
+    "definition": "Subtrair ou tirar uma quantidade de outra."
+  },
+  "word": "subtract",
+  "ipa": "/səbˈtrækt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Subtract or take away an amount from another.",
+  "examples": [
+    "To find the difference, you need to subtract one number from the other.",
+    "If you subtract expenses from your income, you get your net profit.",
+    "Don't forget to subtract tax from the total before paying."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb1"
+  },
+  "es": {
+    "word": "succeed",
+    "definition": "Lograr un objetivo o tener éxito en una tarea o empresa."
+  },
+  "pt": {
+    "word": "ter sucesso",
+    "definition": "Alcançar um objetivo ou ser bem-sucedido em uma tarefa ou empreendimento."
+  },
+  "word": "succeed",
+  "ipa": "/səkˈsiːd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Achieve a goal or be successful in a task or enterprise.",
+  "examples": [
+    "With hard work and determination, you can succeed in anything you set your mind to.",
+    "She succeeded in winning the championship after years of training.",
+    "To succeed in business, you need a solid plan and dedication."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb2"
+  },
+  "es": {
+    "word": "suck",
+    "definition": "Inhalar o chupar algo con la boca; ser de mala calidad o desagradable."
+  },
+  "pt": {
+    "word": "chupar",
+    "definition": "Inalar ou sugar algo com a boca; ser de má qualidade ou desagradável."
+  },
+  "word": "suck",
+  "ipa": "/sʌk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Inhale or suck something with the mouth; be of poor quality or unpleasant.",
+  "examples": [
+    "Babies suck on pacifiers to soothe themselves.",
+    "The movie was so bad; it really sucked.",
+    "He sucked the venom out of the snakebite to save his friend."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb3"
+  },
+  "es": {
+    "word": "suggest",
+    "definition": "Hacer una propuesta o recomendación; indicar o insinuar algo."
+  },
+  "pt": {
+    "word": "sugerir",
+    "definition": "Fazer uma proposta ou recomendação; indicar ou insinuar algo."
+  },
+  "word": "suggest",
+  "ipa": "/səˈdʒɛst/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Make a proposal or recommendation; indicate or imply something.",
+  "examples": [
+    "She suggested going to the beach for the weekend.",
+    "His expression suggested that he was not pleased with the news.",
+    "Can you suggest a good book for me to read?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb4"
+  },
+  "es": {
+    "word": "suit",
+    "definition": "Un conjunto de ropa que consta de una chaqueta y pantalones del mismo material y color; ser apropiado o conveniente para algo."
+  },
+  "pt": {
+    "word": "terno",
+    "definition": "Um conjunto de roupas que consiste em um paletó e calças do mesmo material e cor; ser apropriado ou conveniente para algo."
+  },
+  "word": "suit",
+  "ipa": "/suːt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "A set of clothing consisting of a jacket and trousers made of the same material and color; be appropriate or suitable for something.",
+  "examples": [
+    "He wore a sharp black suit to the formal event.",
+    "This job doesn't suit my qualifications and interests.",
+    "The red color suits her complexion perfectly."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb5"
+  },
+  "es": {
+    "word": "supply",
+    "definition": "Proporcionar o suministrar algo; una cantidad de algo disponible para su uso."
+  },
+  "pt": {
+    "word": "fornecer",
+    "definition": "Fornecer ou abastecer algo; uma quantidade de algo disponível para uso."
+  },
+  "word": "supply",
+  "ipa": "/səˈplaɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Provide or furnish something; an amount of something available for use.",
+  "examples": [
+    "The company will supply the necessary materials for the project.",
+    "There's a limited supply of fresh water in the desert.",
+    "Suppliers are responsible for delivering goods on time."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb6"
+  },
+  "es": {
+    "word": "suppose",
+    "definition": "Aceptar algo como cierto o probable; imaginar o conjeturar."
+  },
+  "pt": {
+    "word": "supor",
+    "definition": "Aceitar algo como verdadeiro ou provável; imaginar ou conjecturar."
+  },
+  "word": "suppose",
+  "ipa": "/səˈpoʊz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Accept something as true or likely; imagine or conjecture.",
+  "examples": [
+    "I suppose you're right about that.",
+    "Let's suppose for a moment that it's possible.",
+    "She supposed that he would arrive late."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb7"
+  },
+  "es": {
+    "word": "surprise",
+    "definition": "Sentimiento de asombro o desconcierto; hacer algo inesperado."
+  },
+  "pt": {
+    "word": "surpresa",
+    "definition": "Sentimento de surpresa ou desconcerto; fazer algo inesperado."
+  },
+  "word": "surprise",
+  "ipa": "/səˈpraɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "A feeling of astonishment or perplexity; do something unexpected.",
+  "examples": [
+    "Her surprise at the party was genuine and heartwarming.",
+    "I wanted to surprise you with this gift.",
+    "The sudden thunderstorm took us by surprise."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb8"
+  },
+  "es": {
+    "word": "surround",
+    "definition": "Estar alrededor o cercar algo o alguien en todas partes; rodear."
+  },
+  "pt": {
+    "word": "cercar",
+    "definition": "Estar ao redor ou cercar algo ou alguém por todos os lados; rodear."
+  },
+  "word": "surround",
+  "ipa": "/səˈraʊnd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Be all around or encircle something or someone everywhere; enclose.",
+  "examples": [
+    "The mountains surround the valley, creating a breathtaking view.",
+    "We decided to surround the garden with a wooden fence.",
+    "His friends surrounded him with love and support during tough times."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efb9"
+  },
+  "es": {
+    "word": "suspect",
+    "definition": "Creer que algo es posible o probable; tener sospechas de algo o alguien."
+  },
+  "pt": {
+    "word": "suspeitar",
+    "definition": "Acreditar que algo é possível ou provável; ter suspeitas de algo ou alguém."
+  },
+  "word": "suspect",
+  "ipa": "/səˈspɛkt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Believe something is possible or likely; have suspicions about something or someone.",
+  "examples": [
+    "I suspect that he might be hiding something from us.",
+    "The police had a suspect in custody for questioning.",
+    "She couldn't help but suspect his true intentions."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efba"
+  },
+  "es": {
+    "word": "suspend",
+    "definition": "Colgar algo de manera temporal; interrumpir o aplazar algo por un período de tiempo."
+  },
+  "pt": {
+    "word": "suspender",
+    "definition": "Suspender algo temporariamente; interromper ou adiar algo por um período de tempo."
+  },
+  "word": "suspend",
+  "ipa": "/səˈspɛnd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Hang something temporarily; interrupt or postpone something for a period of time.",
+  "examples": [
+    "She decided to suspend the painting on the wall for a new arrangement.",
+    "The school may suspend the student for his behavior.",
+    "They had to suspend the project due to lack of funding."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efbb"
+  },
+  "es": {
+    "word": "switch",
+    "definition": "Cambiar o intercambiar algo por otra cosa; un dispositivo para encender o apagar."
+  },
+  "pt": {
+    "word": "trocar",
+    "definition": "Trocar ou substituir algo por outra coisa; um dispositivo para ligar ou desligar."
+  },
+  "word": "switch",
+  "ipa": "/swɪtʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Change or replace something with another thing; a device for turning on or off.",
+  "examples": [
+    "I need to switch my phone because it's not working properly.",
+    "She flipped the switch to turn on the lights in the room.",
+    "Can we switch the meeting time to accommodate everyone?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efbc"
+  },
+  "es": {
+    "word": "tame",
+    "definition": "Hacer que un animal salvaje sea dócil o domestico; controlar o calmar algo."
+  },
+  "pt": {
+    "word": "domesticar",
+    "definition": "Tornar um animal selvagem dócil ou doméstico; controlar ou acalmar algo."
+  },
+  "word": "tame",
+  "ipa": "/teɪm/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos."
+    }
+  ],
+  "definition": "Make a wild animal docile or domestic; control or calm something.",
+  "examples": [
+    "He managed to tame the wild horse and make it rideable.",
+    "The therapist helped her tame her anxiety and fears.",
+    "The once wild lion became quite tame after years in captivity."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efbd"
+  },
+  "es": {
+    "word": "tap",
+    "definition": "Golpear suavemente algo con los dedos o un objeto; un grifo o válvula para controlar el flujo de líquido."
+  },
+  "pt": {
+    "word": "tocar",
+    "definition": "Bater suavemente algo com os dedos ou um objeto; uma torneira ou válvula para controlar o fluxo de líquido."
+  },
+  "word": "tap",
+  "ipa": "/tæp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Gently strike something with fingers or an object; a faucet or valve to control the flow of liquid.",
+  "examples": [
+    "She tapped her fingers on the table as she waited for the food.",
+    "He used a wrench to tap the water from the pipe.",
+    "Turn the tap to release the water into the bucket."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efbe"
+  },
+  "es": {
+    "word": "taste",
+    "definition": "La sensación de sabor percibida al probar algo; probar o experimentar el sabor de algo."
+  },
+  "pt": {
+    "word": "gosto",
+    "definition": "A sensação de sabor percebida ao experimentar algo; experimentar ou degustar o sabor de algo."
+  },
+  "word": "taste",
+  "ipa": "/teɪst/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "The sensation of flavor perceived when trying something; try or experience the flavor of something.",
+  "examples": [
+    "The taste of the food was delicious.",
+    "He wanted to taste the new dessert on the menu.",
+    "She could taste the saltiness of the sea in the air."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efbf"
+  },
+  "es": {
+    "word": "tease",
+    "definition": "Burlarse o provocar a alguien en tono juguetón; hacer algo para provocar la curiosidad o el interés."
+  },
+  "pt": {
+    "word": "provocar",
+    "definition": "Zombar ou provocar alguém de forma brincalhona; fazer algo para provocar curiosidade ou interesse."
+  },
+  "word": "tease",
+  "ipa": "/tiːz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Mock or provoke someone playfully; do something to arouse curiosity or interest.",
+  "examples": [
+    "He would often tease his little sister by hiding her toys.",
+    "The movie trailer is designed to tease the audience and make them want to watch the film.",
+    "She couldn't resist teasing him about his new haircut."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc0"
+  },
+  "es": {
+    "word": "telephone",
+    "definition": "Un dispositivo para hablar con alguien a distancia; realizar una llamada telefónica."
+  },
+  "pt": {
+    "word": "telefone",
+    "definition": "Um dispositivo para falar com alguém à distância; realizar uma chamada telefônica."
+  },
+  "word": "telephone",
+  "ipa": "/ˈtɛlɪfoʊn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "A device for speaking with someone at a distance; make a telephone call.",
+  "examples": [
+    "I'll give you a call on the telephone later.",
+    "Please pick up the telephone; it's an important call.",
+    "She used the telephone to contact her friend overseas."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc1"
+  },
+  "es": {
+    "word": "tempt",
+    "definition": "Atraer o inducir a alguien a hacer algo, especialmente algo malo o indeseado."
+  },
+  "pt": {
+    "word": "tentar",
+    "definition": "Atrair ou induzir alguém a fazer algo, especialmente algo ruim ou indesejado."
+  },
+  "word": "tempt",
+  "ipa": "/tɛmpt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Attract or induce someone to do something, especially something bad or undesirable.",
+  "examples": [
+    "The aroma of freshly baked bread tempted her to have a slice.",
+    "He tried to tempt his friend into skipping work and going on an adventure.",
+    "It's important to resist the temptation to cheat in an exam."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc2"
+  },
+  "es": {
+    "word": "terrify",
+    "definition": "Causar un miedo extremo o terror a alguien."
+  },
+  "pt": {
+    "word": "aterrorizar",
+    "definition": "Causar um medo extremo ou terror em alguém."
+  },
+  "word": "terrify",
+  "ipa": "/ˈtɛrəfaɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Cause extreme fear or terror in someone.",
+  "examples": [
+    "The horror movie was so intense that it terrified the audience.",
+    "The loud thunder and lightning can terrify young children.",
+    "The sudden appearance of the ghostly figure in the dark forest terrified hikers."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc3"
+  },
+  "es": {
+    "word": "thank",
+    "definition": "Expresar gratitud o agradecimiento a alguien por algo que han hecho."
+  },
+  "pt": {
+    "word": "agradecer",
+    "definition": "Expressar gratidão ou agradecimento a alguém por algo que fizeram."
+  },
+  "word": "thank",
+  "ipa": "/θæŋk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "Express gratitude or thanks to someone for something they have done.",
+  "examples": [
+    "She wanted to thank her friend for helping her move.",
+    "I just wanted to stop by and thank you for your support.",
+    "He thanked the chef for the delicious meal."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc4"
+  },
+  "es": {
+    "word": "thaw",
+    "definition": "El proceso de derretirse o descongelarse, especialmente después de estar congelado."
+  },
+  "pt": {
+    "word": "descongelar",
+    "definition": "O processo de derreter ou descongelar, especialmente após estar congelado."
+  },
+  "word": "thaw",
+  "ipa": "/θɔ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The process of melting or defrosting, especially after being frozen.",
+  "examples": [
+    "The thawing of the ice on the lake signaled the arrival of spring.",
+    "You should let the meat thaw in the refrigerator before cooking it.",
+    "The warm sun helped to speed up the thaw of the snow."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc5"
+  },
+  "es": {
+    "word": "thrive",
+    "definition": "Crecer, desarrollarse o prosperar en forma saludable o exitosa."
+  },
+  "pt": {
+    "word": "prosperar",
+    "definition": "Crescer, desenvolver-se ou prosperar de forma saudável ou bem-sucedida."
+  },
+  "word": "thrive",
+  "ipa": "/θraɪv/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Grow, develop, or prosper in a healthy or successful way.",
+  "examples": [
+    "Plants thrive when they receive plenty of sunlight and water.",
+    "The company continued to thrive despite economic challenges.",
+    "Children tend to thrive in a supportive and nurturing environment."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc6"
+  },
+  "es": {
+    "word": "thrust",
+    "definition": "Empujar o impulsar con fuerza en una dirección; un impulso o empuje."
+  },
+  "pt": {
+    "word": "empurrar",
+    "definition": "Empurrar ou impulsionar com força em uma direção; um impulso ou empurrão."
+  },
+  "word": "thrust",
+  "ipa": "/θrʌst/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Push or propel forcefully in a direction; a push or thrust.",
+  "examples": [
+    "He thrust the door open with all his strength.",
+    "The rocket's thrust lifted it into the sky.",
+    "The sudden thrust of the engine caught everyone by surprise."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc7"
+  },
+  "es": {
+    "word": "tickle",
+    "definition": "Hacer cosquillas a alguien o algo con toques suaves que provocan risa o incomodidad."
+  },
+  "pt": {
+    "word": "coscar",
+    "definition": "Fazer cócegas em alguém ou algo com toques suaves que provocam riso ou desconforto."
+  },
+  "word": "tickle",
+  "ipa": "/ˈtɪkəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Gently touch someone or something with soft touches that provoke laughter or discomfort.",
+  "examples": [
+    "She couldn't help but giggle when he tickled her feet.",
+    "Tickling a baby's belly often brings out their laughter.",
+    "The feather was used to tickle the back of the neck."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc8"
+  },
+  "es": {
+    "word": "tie",
+    "definition": "Atar o unir algo con una cuerda, cordón o lazo; una corbata o vínculo entre personas o cosas."
+  },
+  "pt": {
+    "word": "amarrar",
+    "definition": "Amarrar ou unir algo com uma corda, cordão ou laço; uma gravata ou ligação entre pessoas ou coisas."
+  },
+  "word": "tie",
+  "ipa": "/taɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Bind or fasten something with a rope, cord, or knot; a necktie or connection between people or things.",
+  "examples": [
+    "He used a strong knot to tie the packages together.",
+    "The tie he wore to the meeting was very elegant.",
+    "There's a strong tie between the two families."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efc9"
+  },
+  "es": {
+    "word": "tip",
+    "definition": "Inclinar o volcar algo en una dirección; una pequeña cantidad de dinero dado como gratificación."
+  },
+  "pt": {
+    "word": "incluir",
+    "definition": "Inclinar ou virar algo em uma direção; uma pequena quantia de dinheiro dada como gratificação."
+  },
+  "word": "tip",
+  "ipa": "/tɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Tilt or pour something in a direction; a small amount of money given as a gratuity.",
+  "examples": [
+    "She carefully tipped the glass to avoid spilling the water.",
+    "Leaving a tip for the waiter is customary in this restaurant.",
+    "He gave the taxi driver a generous tip for his excellent service."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efca"
+  },
+  "es": {
+    "word": "tire",
+    "definition": "Sentir fatiga o cansancio; una banda de caucho inflada que rodea la rueda de un vehículo."
+  },
+  "pt": {
+    "word": "cansar",
+    "definition": "Sentir fadiga ou cansaço; uma banda de borracha inflada que envolve a roda de um veículo."
+  },
+  "word": "tire",
+  "ipa": "/taɪr/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Feel fatigue or exhaustion; an inflated rubber band that surrounds a vehicle's wheel.",
+  "examples": [
+    "After a long day at work, she would often tire quickly.",
+    "You should check the tire pressure before a long trip.",
+    "The spare tire in the trunk came in handy when one of the tires went flat."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efcb"
+  },
+  "es": {
+    "word": "tour",
+    "definition": "Un viaje o recorrido por varios lugares, especialmente para placer o para conocer diferentes sitios."
+  },
+  "pt": {
+    "word": "tour",
+    "definition": "Uma viagem ou passeio por vários lugares, especialmente para diversão ou para conhecer diferentes locais."
+  },
+  "word": "tour",
+  "ipa": "/tʊr/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "A journey or excursion to various places, especially for pleasure or to see different sites.",
+  "examples": [
+    "They went on a sightseeing tour of the city's landmarks.",
+    "The band is going on a world tour to perform in different countries.",
+    "She decided to take a tour of Europe during her summer vacation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efcc"
+  },
+  "es": {
+    "word": "tow",
+    "definition": "Remolcar o arrastrar algo, como un vehículo que no puede moverse por sí mismo."
+  },
+  "pt": {
+    "word": "rebocar",
+    "definition": "Rebocar ou arrastar algo, como um veículo que não pode se mover por si mesmo."
+  },
+  "word": "tow",
+  "ipa": "/toʊ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "To pull or drag something, such as a vehicle that cannot move on its own.",
+  "examples": [
+    "The tow truck was called to tow away the broken-down car.",
+    "They had to tow the boat back to shore after the engine failed.",
+    "Tow ropes are essential for off-road enthusiasts."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efcd"
+  },
+  "es": {
+    "word": "trace",
+    "definition": "Seguir o encontrar el camino o la ubicación de algo; un vestigio o indicio de algo pasado."
+  },
+  "pt": {
+    "word": "rastrear",
+    "definition": "Seguir ou encontrar o caminho ou localização de algo; um vestígio ou indício de algo passado."
+  },
+  "word": "trace",
+  "ipa": "/treɪs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "Follow or find the path or location of something; a vestige or indication of something past.",
+  "examples": [
+    "Detectives tried to trace the movements of the suspect on the night of the crime.",
+    "The archaeologist found a trace of ancient civilization in the ruins.",
+    "There was no trace of the missing hiker in the wilderness."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efce"
+  },
+  "es": {
+    "word": "trade",
+    "definition": "Comerciar o intercambiar bienes o servicios; la actividad de comprar y vender productos."
+  },
+  "pt": {
+    "word": "comércio",
+    "definition": "Comercializar ou trocar bens ou serviços; a atividade de comprar e vender produtos."
+  },
+  "word": "trade",
+  "ipa": "/treɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "To engage in buying and selling goods or services; the activity of buying and selling products.",
+  "examples": [
+    "They decided to trade their old car for a newer model.",
+    "Global trade has a significant impact on the world economy.",
+    "The trade of spices was a lucrative business in ancient times."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efcf"
+  },
+  "es": {
+    "word": "train",
+    "definition": "Enseñar o educar a alguien en una habilidad o disciplina; un conjunto de vagones o coches conectados que viajan en una vía férrea."
+  },
+  "pt": {
+    "word": "treinar",
+    "definition": "Ensinar ou educar alguém em uma habilidade ou disciplina; um conjunto de vagões ou carros conectados que viajam em uma ferrovia."
+  },
+  "word": "train",
+  "ipa": "/treɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To teach or educate someone in a skill or discipline; a set of connected carriages or cars that travel on a railway track.",
+  "examples": [
+    "She decided to train as a chef and attended culinary school.",
+    "The train arrived at the station right on schedule.",
+    "Training employees is essential for the success of any business."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd0"
+  },
+  "es": {
+    "word": "transport",
+    "definition": "Mover o llevar algo o alguien de un lugar a otro; el sistema de vehículos y medios utilizados para mover personas o mercancías."
+  },
+  "pt": {
+    "word": "transportar",
+    "definition": "Mover ou levar algo ou alguém de um lugar para outro; o sistema de veículos e meios usados para mover pessoas ou mercadorias."
+  },
+  "word": "transport",
+  "ipa": "/ˈtrænspɔrt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To move or carry something or someone from one place to another; the system of vehicles and means used to move people or goods.",
+  "examples": [
+    "They needed to transport the goods to the warehouse.",
+    "Public transport is a convenient way to commute to work.",
+    "The transport of large cargo ships is crucial for international trade."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd1"
+  },
+  "es": {
+    "word": "trap",
+    "definition": "Atrapar o capturar algo o alguien; un dispositivo diseñado para atrapar o retener a algo."
+  },
+  "pt": {
+    "word": "armadilha",
+    "definition": "Apanhar ou capturar algo ou alguém; um dispositivo projetado para pegar ou reter algo."
+  },
+  "word": "trap",
+  "ipa": "/træp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To catch or capture something or someone; a device designed to catch or hold something.",
+  "examples": [
+    "They managed to trap the mouse in a cage.",
+    "The hunter set up a trap to catch wild animals.",
+    "A spider's web is a natural trap for insects."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd2"
+  },
+  "es": {
+    "word": "travel",
+    "definition": "Moverse o desplazarse de un lugar a otro, especialmente a través de distancias largas; la acción de viajar o la actividad de hacerlo."
+  },
+  "pt": {
+    "word": "viajar",
+    "definition": "Mover-se ou deslocar-se de um lugar para outro, especialmente por longas distâncias; a ação de viajar ou a atividade de fazê-lo."
+  },
+  "word": "travel",
+  "ipa": "/ˈtrævəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To move or journey from one place to another, especially over long distances; the action of traveling or the activity of doing so.",
+  "examples": [
+    "They plan to travel to Europe next summer.",
+    "Traveling by train is a comfortable way to see the countryside.",
+    "The travel industry has been greatly affected by the pandemic."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd3"
+  },
+  "es": {
+    "word": "treat",
+    "definition": "Comportarse o actuar hacia alguien de una manera agradable o considerada; una acción o regalo agradable."
+  },
+  "pt": {
+    "word": "tratar",
+    "definition": "Comportar-se ou agir com alguém de maneira agradável ou considerada; uma ação ou presente agradável."
+  },
+  "word": "treat",
+  "ipa": "/triːt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To behave or act toward someone in a pleasant or considerate way; a pleasant action or gift.",
+  "examples": [
+    "He decided to treat his employees to a special lunch.",
+    "She always treats her friends with kindness and respect.",
+    "A spa day is a wonderful treat for relaxation and pampering."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd4"
+  },
+  "es": {
+    "word": "tremble",
+    "definition": "Temblar o sacudirse involuntariamente, generalmente debido a miedo, frío o emoción; una sacudida o vibración ligera."
+  },
+  "pt": {
+    "word": "tremer",
+    "definition": "Tremer ou agitar-se involuntariamente, geralmente devido ao medo, ao frio ou à emoção; uma sacudida ou vibração leve."
+  },
+  "word": "tremble",
+  "ipa": "/ˈtrɛmbəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To shake or quiver involuntarily, usually due to fear, cold, or excitement; a slight shake or vibration.",
+  "examples": [
+    "Her voice trembled as she spoke about her near-death experience.",
+    "The ground trembled from the force of the earthquake.",
+    "The tremble in his hands was a sign of nervousness."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd5"
+  },
+  "es": {
+    "word": "trick",
+    "definition": "Engañar o manipular a alguien de manera astuta o engañosa; una acción o ilusión engañosa."
+  },
+  "pt": {
+    "word": "truque",
+    "definition": "Enganar ou manipular alguém de forma astuta ou enganosa; uma ação ou ilusão enganosa."
+  },
+  "word": "trick",
+  "ipa": "/trɪk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To deceive or manipulate someone cleverly or deceptively; a deceptive action or illusion.",
+  "examples": [
+    "He tried to trick her into revealing her secret.",
+    "Magicians often use sleight of hand to perform tricks.",
+    "The optical illusion created the trick of an impossible staircase."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd6"
+  },
+  "es": {
+    "word": "trip",
+    "definition": "Caer o tropezar con los pies y perder el equilibrio; un viaje corto o excursión."
+  },
+  "pt": {
+    "word": "tropeçar",
+    "definition": "Tropeçar ou perder o equilíbrio com os pés; uma viagem curta ou excursão."
+  },
+  "word": "trip",
+  "ipa": "/trɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To fall or stumble with one's feet and lose balance; a short journey or excursion.",
+  "examples": [
+    "She tripped over a stone and fell to the ground.",
+    "We went on a weekend trip to the mountains.",
+    "A business trip can be both productive and exhausting."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd7"
+  },
+  "es": {
+    "word": "trot",
+    "definition": "Correr a un paso más rápido que caminar, pero más lento que galopar; el paso o ritmo de este tipo de carrera."
+  },
+  "pt": {
+    "word": "trote",
+    "definition": "Correr a um passo mais rápido do que caminhar, mas mais lento do que galopar; o passo ou ritmo desse tipo de corrida."
+  },
+  "word": "trot",
+  "ipa": "/trɒt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To run at a pace faster than walking but slower than galloping; the pace or rhythm of such a race.",
+  "examples": [
+    "The horse trotted along the trail with ease.",
+    "The jogger maintained a steady trot throughout the race.",
+    "A dog's trot is a natural and comfortable gait."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd8"
+  },
+  "es": {
+    "word": "trouble",
+    "definition": "Experimentar dificultades, problemas o preocupaciones; una situación o condición que causa dificultades o preocupaciones."
+  },
+  "pt": {
+    "word": "problema",
+    "definition": "Experimentar dificuldades, problemas ou preocupações; uma situação ou condição que causa dificuldades ou preocupações."
+  },
+  "word": "trouble",
+  "ipa": "/ˈtrʌbl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To experience difficulties, problems, or concerns; a situation or condition that causes difficulties or concerns.",
+  "examples": [
+    "She's been troubled by her recent health issues.",
+    "Financial trouble can be a source of stress for many people.",
+    "The trouble with the car started after the long road trip."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efd9"
+  },
+  "es": {
+    "word": "trust",
+    "definition": "Tener confianza o fe en alguien o algo; la creencia en la honestidad y la confiabilidad de alguien."
+  },
+  "pt": {
+    "word": "confiar",
+    "definition": "Ter confiança ou fé em alguém ou algo; a crença na honestidade e confiabilidade de alguém."
+  },
+  "word": "trust",
+  "ipa": "/trʌst/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To have confidence or faith in someone or something; the belief in someone's honesty and reliability.",
+  "examples": [
+    "I trust my best friend with my deepest secrets.",
+    "Trust is the foundation of a strong and lasting relationship.",
+    "Building trust in a professional setting takes time and consistency."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efda"
+  },
+  "es": {
+    "word": "tug",
+    "definition": "Tirar o jalar con fuerza y ​​brusquedad; un acto de tirar con fuerza."
+  },
+  "pt": {
+    "word": "puxão",
+    "definition": "Puxar ou arrastar com força e brusquidão; um ato de puxar com força."
+  },
+  "word": "tug",
+  "ipa": "/tʌɡ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To pull or drag forcefully and abruptly; an act of pulling forcefully.",
+  "examples": [
+    "They had to tug the heavy crate up the stairs.",
+    "The tug of war between the two teams was intense.",
+    "A tug on the rope signaled the start of the race."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efdb"
+  },
+  "es": {
+    "word": "twist",
+    "definition": "Girar o torcer algo en una dirección específica; una acción de girar o torcer."
+  },
+  "pt": {
+    "word": "torcer",
+    "definition": "Girar ou torcer algo em uma direção específica; uma ação de girar ou torcer."
+  },
+  "word": "twist",
+  "ipa": "/twɪst/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To rotate or turn something in a specific direction; an action of rotating or turning.",
+  "examples": [
+    "She had to twist the lid to open the jar.",
+    "A plot twist in the story took everyone by surprise.",
+    "The dance move required a graceful twist of the body."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efdc"
+  },
+  "es": {
+    "word": "type",
+    "definition": "Escribir o imprimir algo en una máquina de escribir o computadora; una categoría o clasificación de algo."
+  },
+  "pt": {
+    "word": "digitar",
+    "definition": "Escrever ou imprimir algo em uma máquina de escrever ou computador; uma categoria ou classificação de algo."
+  },
+  "word": "type",
+  "ipa": "/taɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To write or print something on a typewriter or computer; a category or classification of something.",
+  "examples": [
+    "She can type over 100 words per minute on the keyboard.",
+    "The book falls into the mystery genre, a type of fiction.",
+    "There are different fonts and typefaces for graphic design."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efdd"
+  },
+  "es": {
+    "word": "tumble",
+    "definition": "Caer o caerse de manera brusca y descontrolada; una caída brusca y descontrolada."
+  },
+  "pt": {
+    "word": "tombar",
+    "definition": "Cair ou cair de forma abrupta e descontrolada; uma queda abrupta e descontrolada."
+  },
+  "word": "tumble",
+  "ipa": "/ˈtʌmbəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To fall or drop abruptly and uncontrollably; an abrupt and uncontrollable fall.",
+  "examples": [
+    "She accidentally tumbled down the stairs.",
+    "The child's tumble in the playground resulted in a scraped knee.",
+    "The sudden tumble of the stock market caused panic among investors."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efde"
+  },
+  "es": {
+    "word": "undress",
+    "definition": "Quitar o despojar la ropa o vestimenta; el acto de quitarse la ropa."
+  },
+  "pt": {
+    "word": "despir",
+    "definition": "Remover ou despojar a roupa ou vestuário; o ato de tirar a roupa."
+  },
+  "word": "undress",
+  "ipa": "/ʌnˈdrɛs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To remove or strip off clothing or attire; the act of taking off clothing.",
+  "examples": [
+    "She undressed and stepped into the shower.",
+    "The undress of a bride before the wedding ceremony is a tradition.",
+    "In the privacy of their bedroom, they undressed and relaxed."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efdf"
+  },
+  "es": {
+    "word": "unfasten",
+    "definition": "Desabrochar o abrir algo que estaba cerrado o sujeto; el acto de desabrochar o abrir."
+  },
+  "pt": {
+    "word": "desprender",
+    "definition": "Desabrochar ou abrir algo que estava fechado ou preso; o ato de desabrochar ou abrir."
+  },
+  "word": "unfasten",
+  "ipa": "/ʌnˈfæsən/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To unbutton or open something that was closed or fastened; the act of unbuttoning or opening.",
+  "examples": [
+    "She unfastened her seatbelt as soon as the plane landed.",
+    "The child struggled to unfasten the stubborn zipper.",
+    "He reached to unfasten the latch on the gate."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe0"
+  },
+  "es": {
+    "word": "unite",
+    "definition": "Juntar o combinar para formar una sola entidad o grupo; el acto de unir."
+  },
+  "pt": {
+    "word": "unir",
+    "definition": "Juntar ou combinar para formar uma única entidade ou grupo; o ato de unir."
+  },
+  "word": "unite",
+  "ipa": "/juːˈnaɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To join or combine to form a single entity or group; the act of uniting.",
+  "examples": [
+    "The two companies decided to unite their efforts for the project.",
+    "The union of different cultures can lead to a rich and diverse society.",
+    "The leaders called for the people to unite in times of crisis."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe1"
+  },
+  "es": {
+    "word": "unlock",
+    "definition": "Abrir o liberar algo que estaba cerrado o bloqueado; el acto de abrir o liberar."
+  },
+  "pt": {
+    "word": "destrancar",
+    "definition": "Abrir ou liberar algo que estava fechado ou bloqueado; o ato de abrir ou liberar."
+  },
+  "word": "unlock",
+  "ipa": "/ʌnˈlɒk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To open or release something that was closed or blocked; the act of opening or releasing.",
+  "examples": [
+    "He used a key to unlock the door to his house.",
+    "Unlock your potential by learning new skills.",
+    "The unlock of the treasure chest revealed its contents."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe2"
+  },
+  "es": {
+    "word": "unpack",
+    "definition": "Desempacar o sacar el contenido de una caja o paquete; el acto de desempacar."
+  },
+  "pt": {
+    "word": "desembalar",
+    "definition": "Desembalar ou retirar o conteúdo de uma caixa ou pacote; o ato de desembalar."
+  },
+  "word": "unpack",
+  "ipa": "/ʌnˈpæk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To take items out of a box or package; the act of unpacking.",
+  "examples": [
+    "She began to unpack her belongings after moving to the new apartment.",
+    "The children eagerly helped to unpack the gifts on Christmas morning.",
+    "The unpack of the suitcase revealed a collection of souvenirs."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe3"
+  },
+  "es": {
+    "word": "untidy",
+    "definition": "Desordenado o desorganizado; no limpio o prolijo."
+  },
+  "pt": {
+    "word": "bagunçado",
+    "definition": "Desordenado ou desorganizado; não limpo ou arrumado."
+  },
+  "word": "untidy",
+  "ipa": "/ʌnˈtaɪdi/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Messy or disorganized; not clean or tidy.",
+  "examples": [
+    "Her room was always untidy, with clothes scattered everywhere.",
+    "The kitchen was untidy after a busy day of cooking and baking.",
+    "He couldn't stand the untidy state of the garage and decided to clean it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe4"
+  },
+  "es": {
+    "word": "update",
+    "definition": "Hacer cambios o mejoras en algo para que esté actualizado; la acción de hacer cambios o mejoras."
+  },
+  "pt": {
+    "word": "atualizar",
+    "definition": "Fazer alterações ou melhorias em algo para que esteja atualizado; a ação de fazer alterações ou melhorias."
+  },
+  "word": "update",
+  "ipa": "/ʌpˈdeɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To make changes or improvements to something so that it is up-to-date; the action of making changes or improvements.",
+  "examples": [
+    "She needed to update her computer software to the latest version.",
+    "The company regularly updates its products to meet customer needs.",
+    "An update of the operating system brought new features and bug fixes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe5"
+  },
+  "es": {
+    "word": "upgrade",
+    "definition": "Mejorar o actualizar algo a una versión superior o más avanzada; la acción de mejorar o actualizar."
+  },
+  "pt": {
+    "word": "atualizar",
+    "definition": "Melhorar ou atualizar algo para uma versão superior ou mais avançada; a ação de melhorar ou atualizar."
+  },
+  "word": "upgrade",
+  "ipa": "/ʌpˈɡreɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To improve or update something to a higher or more advanced version; the action of improving or updating.",
+  "examples": [
+    "They decided to upgrade their smartphone to the latest model.",
+    "An upgrade of the software brought new features and enhanced performance.",
+    "The upgrade of the facilities made the gym more appealing to members."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe6"
+  },
+  "es": {
+    "word": "urge",
+    "definition": "Instar o incitar fuertemente a alguien a hacer algo; el impulso o deseo de hacer algo."
+  },
+  "pt": {
+    "word": "instar",
+    "definition": "Instar ou incitar alguém fortemente a fazer algo; o impulso ou desejo de fazer algo."
+  },
+  "word": "urge",
+  "ipa": "/ɜːrdʒ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To strongly encourage or incite someone to do something; the strong impulse or desire to do something.",
+  "examples": [
+    "She urged her colleagues to participate in the charity event.",
+    "The sudden urge to travel led her to book a spontaneous trip.",
+    "He felt an urge to help those in need during the crisis."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe7"
+  },
+  "es": {
+    "word": "vanish",
+    "definition": "Desaparecer o desvanecerse completamente; la acción de desaparecer."
+  },
+  "pt": {
+    "word": "desaparecer",
+    "definition": "Desaparecer ou dissolver completamente; a ação de desaparecer."
+  },
+  "word": "vanish",
+  "ipa": "/ˈvænɪʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To disappear or fade away completely; the action of disappearing.",
+  "examples": [
+    "The magician made the rabbit vanish from the hat.",
+    "The morning mist began to vanish as the sun rose.",
+    "His doubts and worries seemed to vanish after the good news."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efe9"
+  },
+  "es": {
+    "word": "wail",
+    "definition": "Llorar, gemir o lamentarse de manera fuerte y prolongada; el sonido de llanto o lamento."
+  },
+  "pt": {
+    "word": "gemer",
+    "definition": "Chorar, lamentar ou se queixar de forma alta e prolongada; o som de choro ou lamento."
+  },
+  "word": "wail",
+  "ipa": "/weɪl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To cry, moan, or lament loudly and for an extended period; the sound of crying or lamentation.",
+  "examples": [
+    "She wailed in grief when she received the sad news.",
+    "The strong winds made the trees wail in the night.",
+    "The wail of the sirens signaled the approach of the emergency vehicles."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efea"
+  },
+  "es": {
+    "word": "wake",
+    "definition": "Despertar o hacer que alguien despierte de un sueño; la acción de despertar o el estado de estar despierto."
+  },
+  "pt": {
+    "word": "acordar",
+    "definition": "Acordar ou fazer alguém acordar de um sonho; a ação de acordar ou o estado de estar acordado."
+  },
+  "word": "wake",
+  "ipa": "/weɪk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To awaken or make someone awaken from sleep; the action of waking up or the state of being awake.",
+  "examples": [
+    "She gently shook him to wake him up for breakfast.",
+    "The sound of the alarm clock is the most effective way to wake me up.",
+    "After a good night's sleep, she woke with a sense of refreshment."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efeb"
+  },
+  "es": {
+    "word": "wander",
+    "definition": "Andar sin rumbo fijo o de un lugar a otro sin un objetivo específico; la acción de andar sin rumbo fijo."
+  },
+  "pt": {
+    "word": "vagar",
+    "definition": "Andar sem um destino específico ou de um lugar para outro sem um objetivo específico; a ação de andar sem rumo."
+  },
+  "word": "wander",
+  "ipa": "/ˈwɒndər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To walk aimlessly or from one place to another without a specific goal; the action of wandering aimlessly.",
+  "examples": [
+    "They decided to wander through the forest, enjoying the beauty of nature.",
+    "After getting lost, he spent hours wandering the streets of the unfamiliar city.",
+    "Her mind would often wander during long lectures."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efec"
+  },
+  "es": {
+    "word": "warm",
+    "definition": "Tener o producir calor; la acción de calentarse."
+  },
+  "pt": {
+    "word": "aquecer",
+    "definition": "Ter ou produzir calor; a ação de se aquecer."
+  },
+  "word": "warm",
+  "ipa": "/wɔːm/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Having or producing heat; the action of becoming warm.",
+  "examples": [
+    "The cozy blanket kept her warm on the cold winter night.",
+    "She warmed her hands by the fireplace after coming in from the snow.",
+    "The sun began to warm the earth in the early morning."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efed"
+  },
+  "es": {
+    "word": "warn",
+    "definition": "Informar o notificar a alguien sobre un peligro o problema inminente; la acción de advertir."
+  },
+  "pt": {
+    "word": "advertir",
+    "definition": "Informar ou notificar alguém sobre um perigo ou problema iminente; a ação de advertir."
+  },
+  "word": "warn",
+  "ipa": "/wɔːn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To inform or notify someone about an impending danger or problem; the action of giving a warning.",
+  "examples": [
+    "He warned his friends about the approaching storm and advised them to seek shelter.",
+    "The sign warned drivers of the sharp curve ahead.",
+    "She received a warning about her low phone battery and plugged it in to charge."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efee"
+  },
+  "es": {
+    "word": "wash",
+    "definition": "Limpiar algo con agua u otro líquido; la acción de limpiar con agua."
+  },
+  "pt": {
+    "word": "lavar",
+    "definition": "Limpar algo com água ou outro líquido; a ação de limpar com água."
+  },
+  "word": "wash",
+  "ipa": "/wɒʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To clean something with water or another liquid; the action of cleaning with water.",
+  "examples": [
+    "She washes her dishes by hand after every meal.",
+    "He needs to wash his car to remove the dirt and grime.",
+    "The river water is clear and clean, perfect for washing clothes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efef"
+  },
+  "es": {
+    "word": "waste",
+    "definition": "Usar algo de manera ineficiente o desperdiciar recursos; la acción de malgastar o los materiales malgastados."
+  },
+  "pt": {
+    "word": "desperdiçar",
+    "definition": "Usar algo de forma ineficiente ou desperdiçar recursos; a ação de desperdiçar ou os materiais desperdiçados."
+  },
+  "word": "waste",
+  "ipa": "/weɪst/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To use something inefficiently or to squander resources; the action of wasting or the materials wasted.",
+  "examples": [
+    "It's important not to waste water during a drought.",
+    "He felt guilty for wasting so much time on social media.",
+    "The abandoned factory was a wasteland of decaying buildings and wasted potential."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff0"
+  },
+  "es": {
+    "word": "weigh",
+    "definition": "Medir el peso de algo o alguien; la acción de medir el peso."
+  },
+  "pt": {
+    "word": "pesar",
+    "definition": "Medir o peso de algo ou alguém; a ação de medir o peso."
+  },
+  "word": "weigh",
+  "ipa": "/weɪ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To measure the weight of something or someone; the action of measuring weight.",
+  "examples": [
+    "She asked him to weigh the bags to ensure they weren't over the weight limit.",
+    "The doctor will weigh you during your annual check-up.",
+    "The weigh-in for the boxing match took place the day before the fight."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff1"
+  },
+  "es": {
+    "word": "welcome",
+    "definition": "Recibir a alguien con agrado y hospitalidad; la acción de dar la bienvenida."
+  },
+  "pt": {
+    "word": "dar as boas-vindas",
+    "definition": "Receber alguém com prazer e hospitalidade; a ação de dar as boas-vindas."
+  },
+  "word": "welcome",
+  "ipa": "/ˈwɛlkəm/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To receive someone with pleasure and hospitality; the action of welcoming.",
+  "examples": [
+    "They welcomed the new neighbors with a homemade pie.",
+    "The school principal gave a warm welcome to the incoming students.",
+    "A red carpet and a banner that read 'Welcome' greeted the VIPs at the event."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff2"
+  },
+  "es": {
+    "word": "whine",
+    "definition": "Quejarse o lloriquear en voz alta y aguda; el sonido de quejido o llanto."
+  },
+  "pt": {
+    "word": "choramingar",
+    "definition": "Reclamar ou choramingar em voz alta e aguda; o som de reclamação ou choro."
+  },
+  "word": "whine",
+  "ipa": "/waɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To complain or whimper in a high-pitched voice; the sound of complaining or crying.",
+  "examples": [
+    "The child would often whine when he didn't get his way.",
+    "Her dog would whine at the door when it wanted to go outside.",
+    "The constant whine of the machinery made it hard to concentrate."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff3"
+  },
+  "es": {
+    "word": "whip",
+    "definition": "Golpear o azotar con un objeto largo y delgado; el objeto utilizado para golpear."
+  },
+  "pt": {
+    "word": "chicotear",
+    "definition": "Bater ou açoitar com um objeto longo e fino; o objeto usado para bater."
+  },
+  "word": "whip",
+  "ipa": "/wɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To strike or lash with a long, thin object; the object used for striking.",
+  "examples": [
+    "The cowboy would whip his lasso to catch cattle on the ranch.",
+    "She needed to whip the cream until it formed stiff peaks.",
+    "The whip cracked loudly as the circus performer put on a show."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff4"
+  },
+  "es": {
+    "word": "whirl",
+    "definition": "Girar o dar vueltas rápidas en una dirección; la acción de girar o dar vueltas."
+  },
+  "pt": {
+    "word": "girar",
+    "definition": "Girar ou dar voltas rapidamente em uma direção; a ação de girar ou dar voltas."
+  },
+  "word": "whirl",
+  "ipa": "/wɜːrl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To spin or rotate rapidly in one direction; the action of spinning or rotating.",
+  "examples": [
+    "The dancer would whirl gracefully across the stage in a twirling motion.",
+    "The wind caused the leaves to whirl in a miniature tornado.",
+    "He watched the water whirl down the drain as he finished washing his hands."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff5"
+  },
+  "es": {
+    "word": "whisper",
+    "definition": "Hablar en voz baja o susurrar; el acto de hablar en voz baja."
+  },
+  "pt": {
+    "word": "sussurrar",
+    "definition": "Falar em voz baixa ou sussurrar; o ato de falar em voz baixa."
+  },
+  "word": "whisper",
+  "ipa": "/ˈwɪspər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To speak in a low voice or murmur; the act of speaking in a low voice.",
+  "examples": [
+    "She would whisper secrets to her best friend during class.",
+    "The couple shared an intimate moment, whispering sweet words to each other.",
+    "The rustling leaves and whisper of the wind created a peaceful atmosphere in the forest."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff6"
+  },
+  "es": {
+    "word": "whistle",
+    "definition": "Producir un sonido agudo y fuerte soplando a través de los labios o un dispositivo; el sonido producido."
+  },
+  "pt": {
+    "word": "assobiar",
+    "definition": "Produzir um som agudo e alto assoprando através dos lábios ou um dispositivo; o som produzido."
+  },
+  "word": "whistle",
+  "ipa": "/ˈwɪsəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To produce a sharp, loud sound by blowing through the lips or a device; the sound produced.",
+  "examples": [
+    "He would whistle a catchy tune while working in the garden.",
+    "The referee blew the whistle to start the soccer match.",
+    "The train's whistle echoed through the quiet night as it approached the station."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff7"
+  },
+  "es": {
+    "word": "wink",
+    "definition": "Cerrar un ojo momentáneamente como un gesto o señal; el acto de cerrar un ojo momentáneamente."
+  },
+  "pt": {
+    "word": "piscar",
+    "definition": "Fechar um olho momentaneamente como um gesto ou sinal; o ato de fechar um olho momentaneamente."
+  },
+  "word": "wink",
+  "ipa": "/wɪŋk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To close one eye momentarily as a gesture or signal; the act of closing one eye momentarily.",
+  "examples": [
+    "She would wink at her friend to let him know it was all a joke.",
+    "The secret agent gave a subtle wink to his contact in the crowded room.",
+    "A playful wink from the child brought a smile to her parent's face."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff8"
+  },
+  "es": {
+    "word": "wipe",
+    "definition": "Limpiar o secar algo utilizando un paño, papel u otro material; la acción de limpiar o secar."
+  },
+  "pt": {
+    "word": "limpar",
+    "definition": "Limpar ou secar algo usando um pano, papel ou outro material; a ação de limpar ou secar."
+  },
+  "word": "wipe",
+  "ipa": "/waɪp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To clean or dry something using a cloth, paper, or other material; the action of cleaning or drying.",
+  "examples": [
+    "She would wipe the kitchen counter after preparing a meal.",
+    "He used a tissue to wipe away tears from his eyes.",
+    "The janitor would wipe down the classroom desks every evening."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8eff9"
+  },
+  "es": {
+    "word": "wobble",
+    "definition": "Moverse de manera inestable o tambalearse; la acción de moverse de manera inestable."
+  },
+  "pt": {
+    "word": "vacilar",
+    "definition": "Mover-se de forma instável ou cambalear; a ação de mover-se de forma instável."
+  },
+  "word": "wobble",
+  "ipa": "/ˈwɒbəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To move in an unsteady manner or sway; the action of moving unsteadily.",
+  "examples": [
+    "The table wobbled on the uneven floor, causing the glass to tip over.",
+    "After a few drinks, he started to wobble as he walked down the street.",
+    "The toddler's first steps were a bit wobbly as he learned to balance."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8effa"
+  },
+  "es": {
+    "word": "wonder",
+    "definition": "Sentir curiosidad o asombro; la emoción de la curiosidad o asombro."
+  },
+  "pt": {
+    "word": "maravilhar-se",
+    "definition": "Sentir curiosidade ou admiração; a emoção da curiosidade ou admiração."
+  },
+  "word": "wonder",
+  "ipa": "/ˈwʌndər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To feel curiosity or amazement; the emotion of curiosity or amazement.",
+  "examples": [
+    "She would wonder about the mysteries of the universe late at night.",
+    "The child's eyes were filled with wonder as they gazed at the stars.",
+    "It's a wonder how he managed to complete the project ahead of schedule."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8effb"
+  },
+  "es": {
+    "word": "wrap",
+    "definition": "Envolver algo con un material como papel o tela; el acto de envolver."
+  },
+  "pt": {
+    "word": "embrulhar",
+    "definition": "Embrulhar algo com um material como papel ou tecido; o ato de embrulhar."
+  },
+  "word": "wrap",
+  "ipa": "/ræp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To enclose something with a material like paper or cloth; the action of wrapping.",
+  "examples": [
+    "She would wrap birthday gifts in colorful paper and ribbons.",
+    "The sandwich was wrapped in foil to keep it fresh.",
+    "The artist carefully wrapped the fragile artwork before shipping it."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8effc"
+  },
+  "es": {
+    "word": "wreck",
+    "definition": "Destruir o causar daño grave a algo; el resultado de la destrucción o daño grave."
+  },
+  "pt": {
+    "word": "destroçar",
+    "definition": "Destruir ou causar danos graves a algo; o resultado da destruição ou danos graves."
+  },
+  "word": "wreck",
+  "ipa": "/rɛk/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To destroy or cause serious damage to something; the result of destruction or serious damage.",
+  "examples": [
+    "The storm would wreck houses and uproot trees in its path.",
+    "The car accident left the vehicle in a total wreck.",
+    "The old shipwreck on the beach had become a tourist attraction."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8effd"
+  },
+  "es": {
+    "word": "wrestle",
+    "definition": "Luchar cuerpo a cuerpo o forcejear con alguien; la acción de luchar cuerpo a cuerpo."
+  },
+  "pt": {
+    "word": "lutrar",
+    "definition": "Lutar corpo a corpo ou lutar com alguém; a ação de lutar corpo a corpo."
+  },
+  "word": "wrestle",
+  "ipa": "/ˈrɛsəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To engage in hand-to-hand combat or grapple with someone; the action of wrestling.",
+  "examples": [
+    "The two wrestlers would wrestle for the championship title.",
+    "Children often playfully wrestle with their siblings.",
+    "In professional wrestling, performers use scripted moves to entertain the audience."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8effe"
+  },
+  "es": {
+    "word": "wriggle",
+    "definition": "Moverse de un lado a otro o retorcerse en pequeñas oscilaciones; la acción de moverse o retorcerse."
+  },
+  "pt": {
+    "word": "contorcer-se",
+    "definition": "Mover-se de um lado para o outro ou contorcer-se em pequenas oscilações; a ação de mover-se ou contorcer-se."
+  },
+  "word": "wriggle",
+  "ipa": "/ˈrɪɡəl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To move from side to side or twist in small oscillations; the action of moving or twisting.",
+  "examples": [
+    "The snake would wriggle through the tall grass to catch its prey.",
+    "The toddler would wriggle in excitement when it saw a colorful toy.",
+    "She tried to wriggle out of the tight spot but couldn't move."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8efff"
+  },
+  "es": {
+    "word": "x-ray",
+    "definition": "Una radiografía o imagen médica obtenida mediante radiación de rayos X; el acto de realizar una radiografía."
+  },
+  "pt": {
+    "word": "raio X",
+    "definition": "Uma imagem médica obtida por meio de radiação de raios X; o ato de fazer uma radiografia."
+  },
+  "word": "x-ray",
+  "ipa": "/ˈɛksˌreɪ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A medical image obtained using X-ray radiation; the act of taking a radiograph.",
+  "examples": [
+    "The doctor ordered an X-ray to examine the patient's broken bone.",
+    "The airport security checkpoint uses X-ray machines to scan luggage.",
+    "She had to stay still while the technician took the X-ray of her chest."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f000"
+  },
+  "es": {
+    "word": "yawn",
+    "definition": "Abrir la boca involuntariamente debido al cansancio o aburrimiento; el acto de bostezar."
+  },
+  "pt": {
+    "word": "bocejar",
+    "definition": "Abrir a boca involuntariamente devido ao cansaço ou tédio; o ato de bocejar."
+  },
+  "word": "yawn",
+  "ipa": "/jɔn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To involuntarily open one's mouth due to tiredness or boredom; the act of yawning.",
+  "examples": [
+    "He couldn't help but yawn during the long and boring lecture.",
+    "Yawning is often a sign that the body needs more oxygen.",
+    "The contagious yawn spread through the room as people saw others yawning."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f001"
+  },
+  "es": {
+    "word": "yearn",
+    "definition": "Sentir un fuerte deseo o anhelo por algo; el acto de anhelar o desear intensamente."
+  },
+  "pt": {
+    "word": "anseiar",
+    "definition": "Sentir um forte desejo ou anseio por algo; o ato de desejar intensamente."
+  },
+  "word": "yearn",
+  "ipa": "/jɜrn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To feel a strong desire or longing for something; the act of intensely desiring or longing for something.",
+  "examples": [
+    "She would yearn for the days when she could travel freely.",
+    "He yearned for success and worked hard to achieve his goals.",
+    "Their yearning for a better life led them to immigrate to a new country."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f002"
+  },
+  "es": {
+    "word": "yell",
+    "definition": "Gritar o hablar en voz alta con enojo, emoción o para ser escuchado; el acto de gritar o hablar en voz alta."
+  },
+  "pt": {
+    "word": "gritar",
+    "definition": "Gritar ou falar em voz alta com raiva, emoção ou para ser ouvido; o ato de gritar ou falar em voz alta."
+  },
+  "word": "yell",
+  "ipa": "/jɛl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To shout or speak loudly with anger, excitement, or to be heard; the act of yelling or speaking loudly.",
+  "examples": [
+    "She would yell in frustration when things didn't go her way.",
+    "The coach yelled instructions to the players from the sidelines.",
+    "His yell echoed through the canyon as he celebrated his victory."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f003"
+  },
+  "es": {
+    "word": "yield",
+    "definition": "Producir o ceder algo, generalmente bajo presión o demanda; el acto de producir o ceder."
+  },
+  "pt": {
+    "word": "ceder",
+    "definition": "Produzir ou ceder algo, geralmente sob pressão ou demanda; o ato de produzir ou ceder."
+  },
+  "word": "yield",
+  "ipa": "/jiːld/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To produce or give way to something, typically under pressure or demand; the act of producing or yielding.",
+  "examples": [
+    "The farm would yield a bountiful harvest of fruits and vegetables.",
+    "He refused to yield to the demands of the opposition.",
+    "The yield of the manufacturing process met the company's production targets."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f004"
+  },
+  "es": {
+    "word": "zoom",
+    "definition": "Enfocar o alejar la imagen de algo, generalmente usando una lente o la función de zoom en una cámara; el acto de enfocar o alejar la imagen."
+  },
+  "pt": {
+    "word": "zoom",
+    "definition": "Aproximar ou afastar a imagem de algo, geralmente usando uma lente ou a função de zoom em uma câmera; o ato de aproximar ou afastar a imagem."
+  },
+  "word": "zoom",
+  "ipa": "/zuːm/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To focus or magnify the image of something, typically using a lens or the zoom function on a camera; the act of focusing or magnifying the image.",
+  "examples": [
+    "He would zoom in on the details of the artwork to appreciate its beauty.",
+    "The camera's zoom feature allowed her to capture distant objects clearly.",
+    "The sudden zoom of the car startled the pedestrians on the street."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f005"
+  },
+  "es": {
+    "word": "abandon",
+    "definition": "Dejar algo o alguien atrás o renunciar a ello; el acto de abandonar o renunciar."
+  },
+  "pt": {
+    "word": "abandonar",
+    "definition": "Deixar algo ou alguém para trás ou desistir disso; o ato de abandonar ou desistir."
+  },
+  "word": "abandon",
+  "ipa": "/əˈbændən/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To leave something or someone behind or give it up; the act of abandoning or giving up.",
+  "examples": [
+    "He had to abandon his car on the side of the road when it broke down.",
+    "The abandonment of the project was a difficult decision to make.",
+    "Abandon is not always a sign of weakness; sometimes, it's the best choice."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f006"
+  },
+  "es": {
+    "word": "abroad",
+    "definition": "En un país extranjero o en el extranjero; fuera del país de origen."
+  },
+  "pt": {
+    "word": "no exterior",
+    "definition": "Em um país estrangeiro ou no estrangeiro; fora do país de origem."
+  },
+  "word": "abroad",
+  "ipa": "/əˈbrɔːd/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "In a foreign country or overseas; outside of one's home country.",
+  "examples": [
+    "She decided to study abroad to experience a different culture.",
+    "Businesses often expand their operations abroad to reach new markets.",
+    "While traveling abroad, it's important to be respectful of local customs."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f007"
+  },
+  "es": {
+    "word": "absence",
+    "definition": "La falta de presencia o la condición de no estar presente; la ausencia de algo."
+  },
+  "pt": {
+    "word": "ausência",
+    "definition": "A falta de presença ou a condição de não estar presente; a ausência de algo."
+  },
+  "word": "absence",
+  "ipa": "/ˈæbsəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The lack of presence or the condition of not being present; the absence of something.",
+  "examples": [
+    "Her absence from the meeting was noted by the team.",
+    "The absence of rain has caused a drought in the region.",
+    "During his absence, his colleagues took on his responsibilities."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f008"
+  },
+  "es": {
+    "word": "absorb",
+    "definition": "Tomar o incorporar algo en sí mismo, generalmente líquidos o información; el acto de absorber o incorporar."
+  },
+  "pt": {
+    "word": "absorver",
+    "definition": "Tomar ou incorporar algo em si mesmo, geralmente líquidos ou informações; o ato de absorver ou incorporar."
+  },
+  "word": "absorb",
+  "ipa": "/əbˈsɔrb/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To take in or incorporate something into oneself, typically liquids or information; the act of absorbing or incorporating.",
+  "examples": [
+    "Plants absorb water and nutrients from the soil.",
+    "She could absorb large amounts of information in a short time.",
+    "The sponge is designed to absorb spills and liquids quickly."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f009"
+  },
+  "es": {
+    "word": "abuse",
+    "definition": "El uso excesivo o maltrato de algo o alguien; el acto de abusar o maltratar."
+  },
+  "pt": {
+    "word": "abuso",
+    "definition": "O uso excessivo ou maus-tratos de algo ou alguém; o ato de abusar ou maltratar."
+  },
+  "word": "abuse",
+  "ipa": "/əˈbyuːs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The excessive use or mistreatment of something or someone; the act of abusing or mistreating.",
+  "examples": [
+    "Child abuse is a serious issue that must be addressed by society.",
+    "The abuse of power can lead to corruption and injustice.",
+    "She decided to report the abuse she experienced in her relationship."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f00a"
+  },
+  "es": {
+    "word": "academic",
+    "definition": "Relativo a la educación y el aprendizaje, especialmente en un entorno escolar o universitario; el ámbito de la educación y la enseñanza."
+  },
+  "pt": {
+    "word": "acadêmico",
+    "definition": "Relativo à educação e ao aprendizado, especialmente em um ambiente escolar ou universitário; o campo da educação e do ensino."
+  },
+  "word": "academic",
+  "ipa": "/ˌækəˈdɛmɪk/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Relating to education and learning, especially in a school or university setting; the field of education and teaching.",
+  "examples": [
+    "Her academic achievements earned her a scholarship to the university.",
+    "The academic community is dedicated to research and knowledge dissemination.",
+    "The academic year is divided into semesters for ease of learning."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f00b"
+  },
+  "es": {
+    "word": "accent",
+    "definition": "La forma en que una persona pronuncia las palabras, especialmente en términos de acento regional o extranjero; una característica distintiva en la pronunciación."
+  },
+  "pt": {
+    "word": "sotaque",
+    "definition": "A maneira como uma pessoa pronuncia as palavras, especialmente em termos de sotaque regional ou estrangeiro; uma característica distintiva na pronúncia."
+  },
+  "word": "accent",
+  "ipa": "/ˈæksənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The way a person pronounces words, especially in terms of regional or foreign accent; a distinctive feature in pronunciation.",
+  "examples": [
+    "Her French accent was charming and added to her appeal.",
+    "Accents can make it challenging to understand spoken language in some cases.",
+    "He tried to mimic the British accent he heard in the movie."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f00c"
+  },
+  "es": {
+    "word": "acceptance",
+    "definition": "La acción de aceptar algo o a alguien; el estado de ser aceptado o admitido."
+  },
+  "pt": {
+    "word": "aceitação",
+    "definition": "A ação de aceitar algo ou alguém; o estado de ser aceito ou admitido."
+  },
+  "word": "acceptance",
+  "ipa": "/əkˈsɛptəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The action of accepting something or someone; the state of being accepted or admitted.",
+  "examples": [
+    "His acceptance of the job offer marked a new beginning in his career.",
+    "The school's acceptance rate is quite competitive, only admitting a small percentage of applicants.",
+    "Social acceptance is important for one's sense of belonging."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f00d"
+  },
+  "es": {
+    "word": "accident",
+    "definition": "Un evento inesperado y no planeado que causa daño o lesiones; una colisión involuntaria."
+  },
+  "pt": {
+    "word": "acidente",
+    "definition": "Um evento inesperado e não planejado que causa danos ou lesões; uma colisão involuntária."
+  },
+  "word": "accident",
+  "ipa": "/ˈæksɪdənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An unexpected and unplanned event that causes damage or injury; an involuntary collision.",
+  "examples": [
+    "The car accident resulted in minor injuries and significant damage to the vehicles.",
+    "Accidents can happen at any time, so it's important to stay alert while driving.",
+    "In case of a workplace accident, employees should report it to their supervisor."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f00e"
+  },
+  "es": {
+    "word": "accompany",
+    "definition": "Ir o estar con alguien o algo como compañía; acompañar en un viaje o actividad."
+  },
+  "pt": {
+    "word": "acompanhar",
+    "definition": "Ir ou estar com alguém ou algo como companhia; acompanhar em uma viagem ou atividade."
+  },
+  "word": "accompany",
+  "ipa": "/əˈkʌmpəni/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To go or be with someone or something as company; to accompany on a journey or activity.",
+  "examples": [
+    "She asked her friend to accompany her to the doctor's appointment.",
+    "The musician was accompanied by a talented pianist during the performance.",
+    "Parents often accompany their children on their first day of school."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f00f"
+  },
+  "es": {
+    "word": "accomplish",
+    "definition": "Lograr o completar con éxito una tarea, objetivo o logro; llevar a cabo."
+  },
+  "pt": {
+    "word": "realizar",
+    "definition": "Alcançar ou concluir com sucesso uma tarefa, objetivo ou realização; levar a cabo."
+  },
+  "word": "accomplish",
+  "ipa": "/əˈkʌmplɪʃ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To achieve or successfully complete a task, goal, or achievement; to carry out.",
+  "examples": [
+    "She worked hard to accomplish her dream of becoming a doctor.",
+    "Teamwork is often necessary to accomplish complex projects.",
+    "It's important to set clear goals in order to accomplish them."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f010"
+  },
+  "es": {
+    "word": "accord",
+    "definition": "Un acuerdo o armonía en las opiniones o acciones; conceder o otorgar algo a alguien."
+  },
+  "pt": {
+    "word": "acordo",
+    "definition": "Um acordo ou harmonia nas opiniões ou ações; conceder ou dar algo a alguém."
+  },
+  "word": "accord",
+  "ipa": "/əˈkɔrd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "An agreement or harmony in opinions or actions; to grant or give something to someone.",
+  "examples": [
+    "The two nations reached an accord on trade negotiations.",
+    "There was a lack of accord among the team members regarding the project's direction.",
+    "He was willing to accord her the respect she deserved."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f011"
+  },
+  "es": {
+    "word": "account",
+    "definition": "Un registro o declaración de información financiera; una explicación o relato de eventos; considerar algo como importante o significativo."
+  },
+  "pt": {
+    "word": "conta",
+    "definition": "Um registro ou declaração de informações financeiras; uma explicação ou relato de eventos; considerar algo como importante ou significativo."
+  },
+  "word": "account",
+  "ipa": "/əˈkaʊnt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A record or statement of financial information; an explanation or narrative of events; to consider something as important or significant.",
+  "examples": [
+    "She checked her bank account to see the balance.",
+    "His eyewitness account of the accident helped the investigation.",
+    "It's important to take into account all the factors before making a decision."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f012"
+  },
+  "es": {
+    "word": "accumulate",
+    "definition": "Reunir o recolectar gradualmente una cantidad de algo; aumentar en cantidad o intensidad con el tiempo."
+  },
+  "pt": {
+    "word": "acumular",
+    "definition": "Reunir ou coletar gradualmente uma quantidade de algo; aumentar em quantidade ou intensidade com o tempo."
+  },
+  "word": "accumulate",
+  "ipa": "/əˈkjuːmjəleɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To gather or collect gradually a quantity of something; to increase in quantity or intensity over time.",
+  "examples": [
+    "She tends to accumulate books over the years.",
+    "Snow can accumulate on the ground during a heavy snowstorm.",
+    "The evidence began to accumulate, pointing to a suspect."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f013"
+  },
+  "es": {
+    "word": "accusation",
+    "definition": "Una declaración de que alguien ha hecho algo incorrecto o ilegal; la acción de acusar a alguien."
+  },
+  "pt": {
+    "word": "acusação",
+    "definition": "Uma declaração de que alguém fez algo errado ou ilegal; a ação de acusar alguém."
+  },
+  "word": "accusation",
+  "ipa": "/ˌækjuːˈzeɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A statement that someone has done something wrong or illegal; the action of accusing someone.",
+  "examples": [
+    "The accusation of theft led to an investigation.",
+    "Making false accusations can harm a person's reputation.",
+    "He vehemently denied the accusation against him."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f014"
+  },
+  "es": {
+    "word": "acknowledge",
+    "definition": "Reconocer o admitir la existencia o verdad de algo; mostrar reconocimiento o gratitud."
+  },
+  "pt": {
+    "word": "reconhecer",
+    "definition": "Reconhecer ou admitir a existência ou verdade de algo; mostrar reconhecimento ou gratidão."
+  },
+  "word": "acknowledge",
+  "ipa": "/əkˈnɒlɪdʒ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To recognize or admit the existence or truth of something; to show recognition or gratitude.",
+  "examples": [
+    "She didn't acknowledge his presence in the room.",
+    "It's important to acknowledge the contributions of others.",
+    "He finally acknowledged that he had made a mistake."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f015"
+  },
+  "es": {
+    "word": "acquire",
+    "definition": "Obtener o adquirir algo, generalmente a través de esfuerzo o acción; obtener una habilidad o conocimiento."
+  },
+  "pt": {
+    "word": "adquirir",
+    "definition": "Obter ou adquirir algo, geralmente através de esforço ou ação; adquirir uma habilidade ou conhecimento."
+  },
+  "word": "acquire",
+  "ipa": "/əˈkwaɪər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To obtain or acquire something, usually through effort or action; to gain a skill or knowledge.",
+  "examples": [
+    "He wanted to acquire new skills to advance in his career.",
+    "The company aims to acquire smaller businesses in the industry.",
+    "Learning a new language can be challenging, but it's rewarding to acquire fluency."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f016"
+  },
+  "es": {
+    "word": "acquisition",
+    "definition": "La acción de adquirir algo, generalmente a través de compra o adquisición; algo que se ha adquirido o comprado."
+  },
+  "pt": {
+    "word": "aquisição",
+    "definition": "A ação de adquirir algo, geralmente através de compra ou aquisição; algo que foi adquirido ou comprado."
+  },
+  "word": "acquisition",
+  "ipa": "/ˌækwɪˈzɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The action of acquiring something, usually through purchase or acquisition; something that has been acquired or purchased.",
+  "examples": [
+    "The company announced the acquisition of a smaller startup.",
+    "The museum's latest acquisition is a valuable piece of art.",
+    "The acquisition of new technology improved our productivity."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f017"
+  },
+  "es": {
+    "word": "acre",
+    "definition": "Una unidad de medida de superficie que equivale a 4,840 yardas cuadradas o aproximadamente 4,047 metros cuadrados; una extensión de tierra."
+  },
+  "pt": {
+    "word": "acre",
+    "definition": "Uma unidade de medida de superfície que equivale a 4,840 jardas quadradas ou aproximadamente 4,047 metros quadrados; uma extensão de terra."
+  },
+  "word": "acre",
+  "ipa": "/ˈeɪkər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A unit of area measurement equal to 4,840 square yards or approximately 4,047 square meters; a stretch of land.",
+  "examples": [
+    "The farm covers several acres of land.",
+    "The land was sold by the acre.",
+    "An acre is commonly used to measure large plots of land."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f018"
+  },
+  "es": {
+    "word": "activate",
+    "definition": "Poner en funcionamiento o hacer que algo comience a funcionar; activar una función o característica."
+  },
+  "pt": {
+    "word": "ativar",
+    "definition": "Colocar em funcionamento ou fazer com que algo comece a funcionar; ativar uma função ou característica."
+  },
+  "word": "activate",
+  "ipa": "/ˈæktɪveɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To set in motion or make something start working; to activate a function or feature.",
+  "examples": [
+    "She had to activate the alarm system before leaving the house.",
+    "Press the button to activate the device.",
+    "Activating the software requires a valid license key."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f019"
+  },
+  "es": {
+    "word": "adapt",
+    "definition": "Ajustarse o modificar algo para que sea adecuado o útil en una situación específica; cambiar o evolucionar para sobrevivir en un entorno cambiante."
+  },
+  "pt": {
+    "word": "adaptar",
+    "definition": "Ajustar ou modificar algo para que seja adequado ou útil em uma situação específica; mudar ou evoluir para sobreviver em um ambiente em mudança."
+  },
+  "word": "adapt",
+  "ipa": "/əˈdæpt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To adjust or modify something to make it suitable or useful in a specific situation; to change or evolve to survive in a changing environment.",
+  "examples": [
+    "They had to adapt to the new working conditions.",
+    "Plants and animals often adapt to their surroundings over time.",
+    "Adapting to a different culture can be a rewarding experience."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f01a"
+  },
+  "es": {
+    "word": "addition",
+    "definition": "La acción de sumar dos o más números; una cosa que se añade a algo más."
+  },
+  "pt": {
+    "word": "adição",
+    "definition": "A ação de somar dois ou mais números; algo que é adicionado a algo mais."
+  },
+  "word": "addition",
+  "ipa": "/əˈdɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The action of adding two or more numbers together; something that is added to something else.",
+  "examples": [
+    "Mathematics involves various operations, including addition.",
+    "The new addition to the building provided extra office space.",
+    "In addition to her regular duties, she took on new responsibilities."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f01b"
+  },
+  "es": {
+    "word": "adequate",
+    "definition": "Suficiente en cantidad o calidad; lo suficientemente bueno para satisfacer una necesidad o requisito."
+  },
+  "pt": {
+    "word": "adequado",
+    "definition": "Suficiente em quantidade ou qualidade; suficientemente bom para atender a uma necessidade ou requisito."
+  },
+  "word": "adequate",
+  "ipa": "/ˈædɪkwət/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Sufficient in quantity or quality; good enough to meet a need or requirement.",
+  "examples": [
+    "She ensured there was an adequate supply of food for the event.",
+    "The training program should provide adequate preparation for the job.",
+    "Adequate rest is essential for maintaining good health."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f01c"
+  },
+  "es": {
+    "word": "adjustment",
+    "definition": "El acto de hacer pequeños cambios o modificaciones para lograr un mejor resultado o adaptarse a una situación; una modificación o cambio menor."
+  },
+  "pt": {
+    "word": "ajuste",
+    "definition": "O ato de fazer pequenas alterações ou modificações para obter um melhor resultado ou se adaptar a uma situação; uma modificação ou mudança menor."
+  },
+  "word": "adjustment",
+  "ipa": "/əˈdʒʌstmənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The act of making small changes or modifications to achieve a better result or adapt to a situation; a minor modification or change.",
+  "examples": [
+    "The adjustment of the settings improved the performance of the machine.",
+    "He made some adjustments to his schedule to accommodate the meeting.",
+    "The therapist recommended adjustments to his posture for pain relief."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f01d"
+  },
+  "es": {
+    "word": "administration",
+    "definition": "La gestión y organización de una organización o gobierno; la ejecución de tareas administrativas o el cargo de un administrador."
+  },
+  "pt": {
+    "word": "administração",
+    "definition": "A gestão e organização de uma organização ou governo; a execução de tarefas administrativas ou o cargo de um administrador."
+  },
+  "word": "administration",
+  "ipa": "/ədˌmɪnɪˈstreɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The management and organization of an organization or government; the execution of administrative tasks or the position of an administrator.",
+  "examples": [
+    "The administration of the company is responsible for decision-making.",
+    "He works in the administration department of a hospital.",
+    "Effective administration is crucial for a successful government."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f01e"
+  },
+  "es": {
+    "word": "admission",
+    "definition": "El acto de ser aceptado o permitido en un lugar, organización o institución; una declaración de algo que se reconoce o admite."
+  },
+  "pt": {
+    "word": "admissão",
+    "definition": "O ato de ser aceito ou permitido em um local, organização ou instituição; uma declaração de algo que é reconhecido ou admitido."
+  },
+  "word": "admission",
+  "ipa": "/ədˈmɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The act of being accepted or allowed into a place, organization, or institution; a statement of something that is acknowledged or admitted.",
+  "examples": [
+    "His admission to the university was a dream come true.",
+    "The admission fee for the museum is quite affordable.",
+    "The admission of guilt in his statement surprised everyone."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f01f"
+  },
+  "es": {
+    "word": "adolescent",
+    "definition": "Una persona en la etapa de la vida que se encuentra entre la infancia y la edad adulta; relacionado con esta etapa de la vida."
+  },
+  "pt": {
+    "word": "adolescente",
+    "definition": "Uma pessoa na fase da vida que fica entre a infância e a idade adulta; relacionado a essa fase da vida."
+  },
+  "word": "adolescent",
+  "ipa": "/ˌædəˈlɛsənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "A person in the stage of life that falls between childhood and adulthood; related to this stage of life.",
+  "examples": [
+    "Adolescents often face unique challenges and experiences.",
+    "She works as a counselor for troubled adolescents.",
+    "The book explores the struggles of adolescent characters."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f020"
+  },
+  "es": {
+    "word": "adopt",
+    "definition": "Tomar oficialmente a alguien como hijo propio; aceptar o implementar una idea, método o enfoque."
+  },
+  "pt": {
+    "word": "adotar",
+    "definition": "Tomar oficialmente alguém como filho próprio; aceitar ou implementar uma ideia, método ou abordagem."
+  },
+  "word": "adopt",
+  "ipa": "/əˈdɒpt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To officially take someone as one's own child; to accept or implement an idea, method, or approach.",
+  "examples": [
+    "They decided to adopt a child from a foreign country.",
+    "The company chose to adopt environmentally friendly practices.",
+    "She adopted a positive attitude toward her new challenges."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f021"
+  },
+  "es": {
+    "word": "adult",
+    "definition": "Una persona que ha alcanzado la edad adulta; relacionado con la etapa de la vida en la que se es adulto."
+  },
+  "pt": {
+    "word": "adulto",
+    "definition": "Uma pessoa que atingiu a idade adulta; relacionado à fase da vida em que se é adulto."
+  },
+  "word": "adult",
+  "ipa": "/ˈædʌlt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "A person who has reached adulthood; related to the stage of life in which one is an adult.",
+  "examples": [
+    "Adulthood comes with its own responsibilities and challenges.",
+    "In many cultures, 18 is the legal age for becoming an adult.",
+    "She is an adult now and can make her own decisions."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f022"
+  },
+  "es": {
+    "word": "advance",
+    "definition": "Moverse hacia adelante o progresar en una dirección; promover o impulsar el progreso o desarrollo."
+  },
+  "pt": {
+    "word": "avançar",
+    "definition": "Mover-se para frente ou progredir em uma direção; promover ou impulsionar o progresso ou desenvolvimento."
+  },
+  "word": "advance",
+  "ipa": "/ədˈvæns/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "To move forward or make progress in a direction; to promote or push forward progress or development.",
+  "examples": [
+    "She wanted to advance her career by taking on new challenges.",
+    "The advance of technology has transformed many industries.",
+    "The army made an advance toward the enemy's position."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "656bb501112adff214e8f023"
+  },
+  "es": {
+    "word": "adventure",
+    "definition": "Una experiencia emocionante o peligrosa; una actividad inusual que implica riesgos o emoción."
+  },
+  "pt": {
+    "word": "aventura",
+    "definition": "Uma experiência emocionante ou perigosa; uma atividade incomum que envolve riscos ou emoção."
+  },
+  "word": "adventure",
+  "ipa": "/ədˈvɛnʧər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "An exciting or risky experience; an unusual activity that involves risks or excitement.",
+  "examples": [
+    "Traveling to remote places is always an adventure.",
+    "They decided to adventure into the wilderness for a camping trip.",
+    "He loves adventure sports like rock climbing and skydiving."
+  ],
+  "times_seen": 1,
+  "status": "FAIL"
 }]
