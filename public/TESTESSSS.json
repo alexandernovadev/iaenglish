@@ -5543,5 +5543,4886 @@
         ],
         "times_seen": 1,
         "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "baya",
+            "definition": "Un pequeño fruto generalmente comestible producido por una planta, a menudo utilizado en alimentos o postres."
+        },
+        "pt": {
+            "word": "bagas",
+            "definition": "Um pequeno fruto geralmente comestível produzido por uma planta, frequentemente usado em alimentos ou sobremesas."
+        },
+        "word": "berry",
+        "ipa": "/ˈbɛri/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A small, usually edible fruit produced by a plant, often used in food or desserts.",
+        "examples": [
+            "Strawberries and blueberries are common types of berries.",
+            "She picked wild berries during her hike in the forest.",
+            "Berry pies are a popular summer treat."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "al lado de",
+            "definition": "En posición contigua o próxima a algo o alguien."
+        },
+        "pt": {
+            "word": "ao lado de",
+            "definition": "Em posição contígua ou próxima a algo ou alguém."
+        },
+        "word": "beside",
+        "ipa": "/bɪˈsaɪd/",
+        "type_word": [
+            {
+                "name": "Preposition",
+                "sigle": "prep.",
+                "description": "Words that show the relationship between nouns and other words in a sentence."
+            }
+        ],
+        "definition": "In a position adjacent or next to something or someone.",
+        "examples": [
+            "She sat beside her best friend during the movie.",
+            "The book is on the table beside the lamp.",
+            "The park is beside the river, offering a beautiful view."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "mejor",
+            "definition": "De mayor calidad, excelencia o superioridad en comparación con otros."
+        },
+        "pt": {
+            "word": "melhor",
+            "definition": "De maior qualidade, excelência ou superioridade em comparação com outros."
+        },
+        "word": "best",
+        "ipa": "/bɛst/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Of higher quality, excellence, or superiority compared to others.",
+        "examples": [
+            "This is the best pizza I've ever tasted.",
+            "She received the award for the best performance in the play.",
+            "He is considered the best athlete in the world."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "más allá de",
+            "definition": "En el lado opuesto o en un lugar distante en relación con algo."
+        },
+        "pt": {
+            "word": "além de",
+            "definition": "No lado oposto ou em um lugar distante em relação a algo."
+        },
+        "word": "beyond",
+        "ipa": "/bɪˈjɒnd/",
+        "type_word": [
+            {
+                "name": "Preposition",
+                "sigle": "prep.",
+                "description": "Words that show the relationship between nouns and other words in a sentence."
+            }
+        ],
+        "definition": "On the opposite side or in a distant place in relation to something.",
+        "examples": [
+            "The mountains are beyond the valley.",
+            "His generosity goes beyond what is expected.",
+            "She ventured beyond the city limits to explore new areas."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bicicleta",
+            "definition": "Un vehículo de dos ruedas impulsado por pedales que se utiliza para el transporte o el ejercicio físico."
+        },
+        "pt": {
+            "word": "bicicleta",
+            "definition": "Um veículo de duas rodas movido por pedais, usado para transporte ou exercício físico."
+        },
+        "word": "bicycle",
+        "ipa": "/ˈbaɪsɪkəl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A two-wheeled vehicle powered by pedals, used for transportation or physical exercise.",
+        "examples": [
+            "She rode her bicycle to work every day.",
+            "Bicycles are an eco-friendly mode of transportation.",
+            "He enjoys cycling as a form of exercise."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "grande",
+            "definition": "De tamaño considerable en comparación con otros objetos."
+        },
+        "pt": {
+            "word": "grande",
+            "definition": "De tamanho considerável em comparação com outros objetos."
+        },
+        "word": "big",
+        "ipa": "/bɪɡ/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Of considerable size compared to other objects.",
+        "examples": [
+            "That is a big house.",
+            "She has a big family with five children.",
+            "The elephant is a big animal."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bicicleta",
+            "definition": "Un vehículo de dos ruedas impulsado por pedales que se utiliza para el transporte o el ejercicio físico."
+        },
+        "pt": {
+            "word": "bicicleta",
+            "definition": "Um veículo de duas rodas movido por pedais, usado para transporte ou exercício físico."
+        },
+        "word": "bike",
+        "ipa": "/baɪk/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A two-wheeled vehicle powered by pedals, used for transportation or physical exercise.",
+        "examples": [
+            "She rides her bike to work every day.",
+            "Biking is a fun way to stay active.",
+            "The kids are learning to ride their bikes."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "factura",
+            "definition": "Un documento que especifica el costo de bienes o servicios y la cantidad a pagar."
+        },
+        "pt": {
+            "word": "conta",
+            "definition": "Um documento que especifica o custo de bens ou serviços e a quantia a ser paga."
+        },
+        "word": "bill",
+        "ipa": "/bɪl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A document specifying the cost of goods or services and the amount to be paid.",
+        "examples": [
+            "Please bring me the bill for dinner.",
+            "I need to pay my utility bills this week.",
+            "The restaurant gave us a separate bill for drinks."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "mil millones",
+            "definition": "El número mil millones, equivalente a 1,000,000,000."
+        },
+        "pt": {
+            "word": "bilhão",
+            "definition": "O número um bilhão, equivalente a 1.000.000.000."
+        },
+        "word": "billion",
+        "ipa": "/ˈbɪljən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The number one billion, equivalent to 1,000,000,000.",
+        "examples": [
+            "The company's revenue reached one billion dollars.",
+            "A billion seconds is about 31.7 years.",
+            "There are over seven billion people on Earth."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "atar",
+            "definition": "Unir o sujetar algo con cuerdas, cuerdas o ataduras."
+        },
+        "pt": {
+            "word": "amarrar",
+            "definition": "Unir ou prender algo com cordas, cordões ou amarras."
+        },
+        "word": "bind",
+        "ipa": "/baɪnd/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "To fasten or secure something with ropes, cords, or bindings.",
+        "examples": [
+            "He used a rope to bind the packages together.",
+            "The book is bound in leather.",
+            "She had to bind her wound with a bandage."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "biografía",
+            "definition": "La historia de la vida de una persona escrita por otra persona."
+        },
+        "pt": {
+            "word": "biografia",
+            "definition": "A história da vida de uma pessoa escrita por outra pessoa."
+        },
+        "word": "biography",
+        "ipa": "/baɪˈɒɡrəfi/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The story of a person's life written by another person.",
+        "examples": [
+            "I read a biography of a famous scientist.",
+            "Her biography details her journey from poverty to success.",
+            "The library has a collection of biographies of notable individuals."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "biología",
+            "definition": "La ciencia que estudia los seres vivos y sus procesos vitales, incluyendo la estructura, función, crecimiento, origen, evolución y distribución."
+        },
+        "pt": {
+            "word": "biologia",
+            "definition": "A ciência que estuda os seres vivos e seus processos vitais, incluindo estrutura, função, crescimento, origem, evolução e distribuição."
+        },
+        "word": "biology",
+        "ipa": "/baɪˈɒlədʒi/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The science that studies living organisms and their vital processes, including structure, function, growth, origin, evolution, and distribution.",
+        "examples": [
+            "I'm majoring in biology in college.",
+            "The biology of the human body is complex.",
+            "She has a deep understanding of marine biology."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "pájaro",
+            "definition": "Un animal de la clase Aves que generalmente tiene plumas, alas y pico."
+        },
+        "pt": {
+            "word": "pássaro",
+            "definition": "Um animal da classe Aves que geralmente tem penas, asas e bico."
+        },
+        "word": "bird",
+        "ipa": "/bɜrd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "An animal of the class Aves that typically has feathers, wings, and a beak.",
+        "examples": [
+            "Birds can fly in the sky.",
+            "There are many different species of birds.",
+            "I saw a colorful bird in the garden."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "nacimiento",
+            "definition": "El acto o proceso de venir al mundo, generalmente a través del parto."
+        },
+        "pt": {
+            "word": "nascimento",
+            "definition": "O ato ou processo de vir ao mundo, geralmente através do parto."
+        },
+        "word": "birth",
+        "ipa": "/bɜːrθ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The act or process of coming into the world, typically through childbirth.",
+        "examples": [
+            "His birth took place in a small hospital.",
+            "The birth of a baby is a joyous occasion.",
+            "The date of her birth is on her birth certificate."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cumpleaños",
+            "definition": "El día en que una persona celebra el aniversario de su nacimiento."
+        },
+        "pt": {
+            "word": "aniversário",
+            "definition": "O dia em que uma pessoa celebra o aniversário de seu nascimento."
+        },
+        "word": "birthday",
+        "ipa": "/ˈbɜːrθ.deɪ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The day on which a person celebrates the anniversary of their birth.",
+        "examples": [
+            "We had a party to celebrate her birthday.",
+            "His birthday is on the 15th of June.",
+            "I got her a gift for her birthday."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "galleta",
+            "definition": "Un pequeño pastel o masa horneada, a menudo dulce y crujiente."
+        },
+        "pt": {
+            "word": "biscoito",
+            "definition": "Um pequeno bolo ou massa assada, frequentemente doce e crocante."
+        },
+        "word": "biscuit",
+        "ipa": "/ˈbɪskɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A small cake or baked dough, often sweet and crisp.",
+        "examples": [
+            "I like to have biscuits with my tea.",
+            "She baked a batch of delicious biscuits.",
+            "These biscuits are perfect for dipping in coffee."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "pedacito",
+            "definition": "Una pequeña parte, fragmento o cantidad de algo."
+        },
+        "pt": {
+            "word": "pedaço",
+            "definition": "Uma pequena parte, fragmento ou quantidade de algo."
+        },
+        "word": "bit",
+        "ipa": "/bɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A small part, fragment, or quantity of something.",
+        "examples": [
+            "She only ate a tiny bit of cake.",
+            "Can you give me a bit of advice?",
+            "I need a bit more information to make a decision."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "amargo",
+            "definition": "Tiene un sabor desagradable y a menudo ácido o astringente."
+        },
+        "pt": {
+            "word": "amargo",
+            "definition": "Tem um sabor desagradável e frequentemente ácido ou adstringente."
+        },
+        "word": "bitter",
+        "ipa": "/ˈbɪtər/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Has an unpleasant taste and is often sour or astringent.",
+        "examples": [
+            "The medicine has a bitter taste.",
+            "She doesn't like bitter vegetables.",
+            "The coffee was too bitter for my liking."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "negro",
+            "definition": "El color más oscuro, la ausencia de luz o el opuesto del blanco."
+        },
+        "pt": {
+            "word": "preto",
+            "definition": "A cor mais escura, a ausência de luz ou o oposto do branco."
+        },
+        "word": "black",
+        "ipa": "/blæk/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "The darkest color, the absence of light, or the opposite of white.",
+        "examples": [
+            "She wore a black dress to the funeral.",
+            "The night sky was filled with black clouds.",
+            "Black is often associated with mystery."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "hoja",
+            "definition": "La parte plana y delgada de una herramienta cortante, como un cuchillo o una sierra."
+        },
+        "pt": {
+            "word": "lâmina",
+            "definition": "A parte plana e fina de uma ferramenta cortante, como uma faca ou serra."
+        },
+        "word": "blade",
+        "ipa": "/bleɪd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The flat, thin part of a cutting tool, such as a knife or saw.",
+        "examples": [
+            "He sharpened the blade of the lawnmower.",
+            "The blade of the sword gleamed in the sunlight.",
+            "Be careful with that sharp blade."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "culpa",
+            "definition": "La responsabilidad o condena por un error o falta."
+        },
+        "pt": {
+            "word": "culpa",
+            "definition": "A responsabilidade ou condenação por um erro ou falha."
+        },
+        "word": "blame",
+        "ipa": "/bleɪm/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The responsibility or condemnation for a mistake or fault.",
+        "examples": [
+            "He placed the blame on his assistant for the error.",
+            "Don't assign blame without proper evidence.",
+            "Taking the blame for the team's failure, she apologized."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "en blanco",
+            "definition": "Sin ningún contenido o información, vacío."
+        },
+        "pt": {
+            "word": "em branco",
+            "definition": "Sem conteúdo ou informações, vazio."
+        },
+        "word": "blank",
+        "ipa": "/blæŋk/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Without any content or information, empty.",
+        "examples": [
+            "The page was left blank for notes.",
+            "She drew a blank on the test question.",
+            "The screen showed a blank message."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "manta",
+            "definition": "Una pieza grande de tela suave y cálida que se usa para abrigarse o cubrirse mientras se duerme."
+        },
+        "pt": {
+            "word": "cobertor",
+            "definition": "Uma peça grande de tecido macio e quente usada para se aquecer ou cobrir durante o sono."
+        },
+        "word": "blanket",
+        "ipa": "/ˈblæŋkɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A large piece of soft, warm fabric used for keeping warm or covering oneself while sleeping.",
+        "examples": [
+            "She wrapped herself in a cozy blanket.",
+            "The baby was sleeping under a soft blanket.",
+            "They spread a blanket on the grass for a picnic."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "explosión",
+            "definition": "La liberación repentina y violenta de energía, generalmente acompañada de un fuerte ruido y movimiento."
+        },
+        "pt": {
+            "word": "explosão",
+            "definition": "A liberação súbita e violenta de energia, geralmente acompanhada de um forte ruído e movimento."
+        },
+        "word": "blast",
+        "ipa": "/blæst/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The sudden and violent release of energy, usually accompanied by a loud noise and movement.",
+        "examples": [
+            "The blast destroyed the old building.",
+            "The explosion caused a powerful blast.",
+            "They heard a loud blast in the distance."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "mezclar",
+            "definition": "Combinar o unir diferentes sustancias o elementos para que se integren completamente."
+        },
+        "pt": {
+            "word": "misturar",
+            "definition": "Combinar ou unir diferentes substâncias ou elementos para que se integrem completamente."
+        },
+        "word": "blend",
+        "ipa": "/blend/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To combine or mix different substances or elements so that they fully integrate.",
+        "examples": [
+            "She used a blender to blend the ingredients.",
+            "The colors in the painting blend beautifully.",
+            "The musician's voice and the guitar's sound blend well together."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bloquear",
+            "definition": "Impedir el paso o movimiento al obstruir o cerrar un camino o acceso."
+        },
+        "pt": {
+            "word": "bloquear",
+            "definition": "Impedir a passagem ou movimento ao obstruir ou fechar um caminho ou acesso."
+        },
+        "word": "block",
+        "ipa": "/blɒk/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To prevent passage or movement by obstructing or closing a path or access.",
+        "examples": [
+            "They had to block the road for construction.",
+            "She used a barrier to block the entrance.",
+            "The fallen tree blocked their way in the forest."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "sangre",
+            "definition": "El líquido rojo que circula en el cuerpo de los seres vivos y transporta oxígeno y nutrientes a las células."
+        },
+        "pt": {
+            "word": "sangue",
+            "definition": "O líquido vermelho que circula no corpo dos seres vivos e transporta oxigênio e nutrientes para as células."
+        },
+        "word": "blood",
+        "ipa": "/blʌd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The red liquid that circulates in the bodies of living beings and carries oxygen and nutrients to cells.",
+        "examples": [
+            "Blood donation can save lives.",
+            "The accident caused him to bleed profusely.",
+            "Blood tests are used to diagnose medical conditions."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "manta",
+            "definition": "Una pieza grande de tela suave y cálida que se usa para abrigarse o cubrirse mientras se duerme."
+        },
+        "pt": {
+            "word": "cobertor",
+            "definition": "Uma peça grande de tecido macio e quente usada para se aquecer ou cobrir durante o sono."
+        },
+        "word": "blanket",
+        "ipa": "/ˈblæŋkɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A large piece of soft, warm fabric used for keeping warm or covering oneself while sleeping.",
+        "examples": [
+            "She wrapped herself in a cozy blanket.",
+            "The baby was sleeping under a soft blanket.",
+            "They spread a blanket on the grass for a picnic."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "explosión",
+            "definition": "La liberación repentina y violenta de energía, generalmente acompañada de un fuerte ruido y movimiento."
+        },
+        "pt": {
+            "word": "explosão",
+            "definition": "A liberação súbita e violenta de energia, geralmente acompanhada de um forte ruído e movimento."
+        },
+        "word": "blast",
+        "ipa": "/blæst/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The sudden and violent release of energy, usually accompanied by a loud noise and movement.",
+        "examples": [
+            "The blast destroyed the old building.",
+            "The explosion caused a powerful blast.",
+            "They heard a loud blast in the distance."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "mezclar",
+            "definition": "Combinar o unir diferentes sustancias o elementos para que se integren completamente."
+        },
+        "pt": {
+            "word": "misturar",
+            "definition": "Combinar ou unir diferentes substâncias ou elementos para que se integrem completamente."
+        },
+        "word": "blend",
+        "ipa": "/blend/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To combine or mix different substances or elements so that they fully integrate.",
+        "examples": [
+            "She used a blender to blend the ingredients.",
+            "The colors in the painting blend beautifully.",
+            "The musician's voice and the guitar's sound blend well together."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bloquear",
+            "definition": "Impedir el paso o movimiento al obstruir o cerrar un camino o acceso."
+        },
+        "pt": {
+            "word": "bloquear",
+            "definition": "Impedir a passagem ou movimento ao obstruir ou fechar um caminho ou acesso."
+        },
+        "word": "block",
+        "ipa": "/blɒk/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To prevent passage or movement by obstructing or closing a path or access.",
+        "examples": [
+            "They had to block the road for construction.",
+            "She used a barrier to block the entrance.",
+            "The fallen tree blocked their way in the forest."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "sangre",
+            "definition": "El líquido rojo que circula en el cuerpo de los seres vivos y transporta oxígeno y nutrientes a las células."
+        },
+        "pt": {
+            "word": "sangue",
+            "definition": "O líquido vermelho que circula no corpo dos seres vivos e transporta oxigênio e nutrientes para as células."
+        },
+        "word": "blood",
+        "ipa": "/blʌd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The red liquid that circulates in the bodies of living beings and carries oxygen and nutrients to cells.",
+        "examples": [
+            "Blood donation can save lives.",
+            "The accident caused him to bleed profusely.",
+            "Blood tests are used to diagnose medical conditions."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "hueso",
+            "definition": "La parte dura y resistente que forma el esqueleto de los vertebrados."
+        },
+        "pt": {
+            "word": "osso",
+            "definition": "A parte dura e resistente que forma o esqueleto dos vertebrados."
+        },
+        "word": "bone",
+        "ipa": "/boʊn/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The hard and resilient part that forms the skeleton of vertebrates.",
+        "examples": [
+            "Dogs love to chew on bones.",
+            "A broken bone requires medical attention.",
+            "The human skeleton consists of many bones."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bonificación",
+            "definition": "Una suma de dinero adicional otorgada como recompensa por un buen desempeño o un logro."
+        },
+        "pt": {
+            "word": "bônus",
+            "definition": "Uma quantia adicional de dinheiro concedida como recompensa por um bom desempenho ou realização."
+        },
+        "word": "bonus",
+        "ipa": "/ˈboʊnəs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "An additional sum of money granted as a reward for good performance or achievement.",
+        "examples": [
+            "Employees received a bonus for exceeding their sales targets.",
+            "The bonus was a nice incentive for completing the project ahead of schedule.",
+            "Winning the championship came with a substantial bonus."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "auge",
+            "definition": "Un período de rápido crecimiento o éxito, a menudo en los negocios o la economía."
+        },
+        "pt": {
+            "word": "auge",
+            "definition": "Um período de rápido crescimento ou sucesso, frequentemente nos negócios ou na economia."
+        },
+        "word": "boom",
+        "ipa": "/buːm/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A period of rapid growth or success, often in business or the economy.",
+        "examples": [
+            "The 1920s were a boom time for the stock market.",
+            "The technology sector experienced a boom in the 1990s.",
+            "The real estate market is currently in a boom phase."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "impulso",
+            "definition": "Un aumento o aumento en la cantidad, calidad o fuerza de algo."
+        },
+        "pt": {
+            "word": "impulso",
+            "definition": "Um aumento ou incremento na quantidade, qualidade ou força de algo."
+        },
+        "word": "boost",
+        "ipa": "/buːst/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "An increase or improvement in the quantity, quality, or strength of something.",
+        "examples": [
+            "A cup of coffee can provide a quick energy boost.",
+            "The new software update gave a significant boost to performance.",
+            "Exercise is known to boost both physical and mental well-being."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bota",
+            "definition": "Un tipo de calzado que cubre el pie y parte de la pierna, generalmente hecho de cuero o tela."
+        },
+        "pt": {
+            "word": "bota",
+            "definition": "Um tipo de calçado que cobre o pé e parte da perna, geralmente feito de couro ou tecido."
+        },
+        "word": "boot",
+        "ipa": "/buːt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A type of footwear that covers the foot and part of the leg, typically made of leather or fabric.",
+        "examples": [
+            "She wore knee-high boots during the winter.",
+            "Hiking boots are essential for outdoor adventures.",
+            "Cowboy boots are a symbol of Western culture."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "frontera",
+            "definition": "El límite entre dos países o áreas geográficas."
+        },
+        "pt": {
+            "word": "fronteira",
+            "definition": "O limite entre dois países ou áreas geográficas."
+        },
+        "word": "border",
+        "ipa": "/ˈbɔːrdər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The boundary between two countries or geographical areas.",
+        "examples": [
+            "The river serves as a natural border between the two nations.",
+            "Border security is a significant concern for many countries.",
+            "They crossed the border to visit the neighboring country."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "aburrido",
+            "definition": "Que no resulta interesante o emocionante; monótono."
+        },
+        "pt": {
+            "word": "entediante",
+            "definition": "Que não é interessante ou emocionante; monótono."
+        },
+        "word": "boring",
+        "ipa": "/ˈbɔrɪŋ/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Not interesting or exciting; monotonous.",
+        "examples": [
+            "The lecture was so boring that I fell asleep.",
+            "He finds his job incredibly boring and unfulfilling.",
+            "Watching paint dry is often used as an example of something boring."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "nacido",
+            "definition": "Que ha llegado al mundo o ha sido traído a la existencia."
+        },
+        "pt": {
+            "word": "nascido",
+            "definition": "Que chegou ao mundo ou foi trazido à existência."
+        },
+        "word": "born",
+        "ipa": "/bɔːrn/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Having come into the world or having been brought into existence.",
+        "examples": [
+            "She was born in a small town in Texas.",
+            "The baby was born healthy and strong.",
+            "The idea for the company was born out of a passion for technology."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "jefe",
+            "definition": "La persona en una posición de autoridad o liderazgo en una organización o empresa."
+        },
+        "pt": {
+            "word": "chefe",
+            "definition": "A pessoa em uma posição de autoridade ou liderança em uma organização ou empresa."
+        },
+        "word": "boss",
+        "ipa": "/bɔs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The person in a position of authority or leadership in an organization or company.",
+        "examples": [
+            "The boss is not happy with the project's progress.",
+            "She's the boss of a successful startup company.",
+            "The boss called a meeting to discuss the new strategy."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "molestar",
+            "definition": "Causar incomodidad, molestia o irritación a alguien."
+        },
+        "pt": {
+            "word": "incomodar",
+            "definition": "Causar desconforto, incômodo ou irritação a alguém."
+        },
+        "word": "bother",
+        "ipa": "/ˈbɒðər/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Cause discomfort, annoyance, or irritation to someone.",
+        "examples": [
+            "I don't want to bother you, but can you help me with this?",
+            "His constant complaints really bother me.",
+            "It's important not to bother others during their work."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "botella",
+            "definition": "Un recipiente generalmente de vidrio o plástico con un cuello estrecho y una tapa, utilizado para contener líquidos."
+        },
+        "pt": {
+            "word": "garrafa",
+            "definition": "Um recipiente geralmente de vidro ou plástico com um pescoço estreito e uma tampa, usado para conter líquidos."
+        },
+        "word": "bottle",
+        "ipa": "/ˈbɒtl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A container usually made of glass or plastic with a narrow neck and a cap, used for holding liquids.",
+        "examples": [
+            "He filled the bottle with water before going for a hike.",
+            "The wine bottle was sealed with a cork.",
+            "Plastic bottles are commonly used for soft drinks."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "fondo",
+            "definition": "La parte más baja o inferior de algo."
+        },
+        "pt": {
+            "word": "fundo",
+            "definition": "A parte mais baixa ou inferior de algo."
+        },
+        "word": "bottom",
+        "ipa": "/ˈbɒtəm/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "The lowest or lowest part of something.",
+        "examples": [
+            "The treasure was hidden at the bottom of the sea.",
+            "She found her keys at the bottom of her purse.",
+            "The bottom of the page contains important information."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "atado",
+            "definition": "Unido o vinculado a algo por medio de cuerdas, cadenas, etc."
+        },
+        "pt": {
+            "word": "amarrado",
+            "definition": "Unido ou vinculado a algo por meio de cordas, correntes, etc."
+        },
+        "word": "bound",
+        "ipa": "/baʊnd/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Tied or linked to something by ropes, chains, etc.",
+        "examples": [
+            "The prisoner was bound in chains and unable to escape.",
+            "The books were bound together with a leather cover.",
+            "They bound the branches of the tree to shape it."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "tazón",
+            "definition": "Un recipiente redondeado y profundo utilizado para contener líquidos, alimentos u otros objetos."
+        },
+        "pt": {
+            "word": "tigela",
+            "definition": "Um recipiente arredondado e profundo usado para conter líquidos, alimentos ou outros objetos."
+        },
+        "word": "bowl",
+        "ipa": "/boʊl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A rounded, deep container used for holding liquids, food, or other objects.",
+        "examples": [
+            "She ate her cereal from a bowl.",
+            "The chef prepared a delicious soup in a large bowl.",
+            "The bowling ball rolled down the lane and knocked over the pins."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "niño",
+            "definition": "Un ser humano joven de sexo masculino."
+        },
+        "pt": {
+            "word": "menino",
+            "definition": "Um ser humano jovem do sexo masculino."
+        },
+        "word": "boy",
+        "ipa": "/bɔɪ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A young human of male sex.",
+        "examples": [
+            "The boy played in the park with his friends.",
+            "He was just a boy when he first learned to ride a bike.",
+            "The school organized a boys' soccer tournament."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "novio",
+            "definition": "Un hombre en una relación romántica con otra persona, generalmente una mujer."
+        },
+        "pt": {
+            "word": "namorado",
+            "definition": "Um homem em um relacionamento romântico com outra pessoa, geralmente uma mulher."
+        },
+        "word": "boyfriend",
+        "ipa": "/ˈbɔɪfrɛnd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A man in a romantic relationship with another person, usually a woman.",
+        "examples": [
+            "Her boyfriend gave her flowers for their anniversary.",
+            "They've been dating for a year, and he's her boyfriend.",
+            "He introduced his girlfriend to his family and friends."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cerebro",
+            "definition": "El órgano principal del sistema nervioso central en los seres humanos y otros vertebrados, responsable de procesar información, pensamiento, emociones y controlar diversas funciones corporales."
+        },
+        "pt": {
+            "word": "cérebro",
+            "definition": "O órgão principal do sistema nervoso central em seres humanos e outros vertebrados, responsável pelo processamento de informações, pensamentos, emoções e controle de várias funções corporais."
+        },
+        "word": "brain",
+        "ipa": "/breɪn/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The main organ of the central nervous system in humans and other vertebrates, responsible for processing information, thinking, emotions, and controlling various bodily functions.",
+        "examples": [
+            "The brain is a complex and powerful organ.",
+            "Injury to the brain can have serious consequences.",
+            "Scientists are still studying the mysteries of the human brain."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "marca",
+            "definition": "Un nombre, término, símbolo, diseño u otro distintivo que identifica y diferencia un producto, servicio o empresa de otros en el mercado."
+        },
+        "pt": {
+            "word": "marca",
+            "definition": "Um nome, termo, símbolo, design ou outro distintivo que identifica e diferencia um produto, serviço ou empresa de outros no mercado."
+        },
+        "word": "brand",
+        "ipa": "/brænd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A name, term, symbol, design, or other distinctive feature that identifies and distinguishes a product, service, or company from others in the market.",
+        "examples": [
+            "The brand logo is recognized worldwide.",
+            "Consumers trust this brand for its quality.",
+            "Building a strong brand requires effective marketing."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "valiente",
+            "definition": "Tener o mostrar valentía, coraje o determinación en situaciones difíciles o peligrosas."
+        },
+        "pt": {
+            "word": "corajoso",
+            "definition": "Ter ou demonstrar coragem, valentia ou determinação em situações difíceis ou perigosas."
+        },
+        "word": "brave",
+        "ipa": "/breɪv/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Having or showing courage, bravery, or determination in difficult or dangerous situations.",
+        "examples": [
+            "The firefighter's brave actions saved lives.",
+            "She was brave enough to speak up against injustice.",
+            "Facing your fears is a sign of true bravery."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "pan",
+            "definition": "Un alimento básico hecho de masa de harina, agua y levadura, que se cocina al horno y se consume en muchas culturas de todo el mundo."
+        },
+        "pt": {
+            "word": "pão",
+            "definition": "Um alimento básico feito de massa de farinha, água e fermento, cozido no forno e consumido em muitas culturas ao redor do mundo."
+        },
+        "word": "bread",
+        "ipa": "/brɛd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A staple food made from a dough of flour, water, and yeast, baked in an oven and consumed in many cultures around the world.",
+        "examples": [
+            "Freshly baked bread has a wonderful aroma.",
+            "I like to toast my bread and spread butter on it.",
+            "Bread is a fundamental part of many diets."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "desayuno",
+            "definition": "La primera comida del día, generalmente consumida por la mañana, que proporciona energía y nutrientes para comenzar el día."
+        },
+        "pt": {
+            "word": "café da manhã",
+            "definition": "A primeira refeição do dia, geralmente consumida pela manhã, que fornece energia e nutrientes para começar o dia."
+        },
+        "word": "breakfast",
+        "ipa": "/ˈbrɛkfəst/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The first meal of the day, usually consumed in the morning, providing energy and nutrients to start the day.",
+        "examples": [
+            "I usually have cereal for breakfast.",
+            "A hearty breakfast is important for a productive day.",
+            "They serve a continental breakfast at the hotel."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "pecho",
+            "definition": "La parte frontal del cuerpo humano entre el cuello y el abdomen, que contiene la cavidad torácica y los órganos internos como el corazón y los pulmones. También se refiere a la glándula mamaria en las hembras."
+        },
+        "pt": {
+            "word": "peito",
+            "definition": "A parte frontal do corpo humano entre o pescoço e o abdômen, que contém a cavidade torácica e os órgãos internos como o coração e os pulmões. Também se refere à glândula mamária nas fêmeas."
+        },
+        "word": "breast",
+        "ipa": "/brɛst/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The front part of the human body between the neck and the abdomen, containing the thoracic cavity and internal organs such as the heart and lungs. It also refers to the mammary gland in females.",
+        "examples": [
+            "She held her baby to her breast.",
+            "Chest pain can be a symptom of heart problems.",
+            "Breast cancer is a serious health concern."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "respiración",
+            "definition": "El proceso de inhalar y exhalar aire, necesario para tomar oxígeno y eliminar dióxido de carbono del cuerpo."
+        },
+        "pt": {
+            "word": "respiração",
+            "definition": "O processo de inspirar e expirar ar, necessário para obter oxigênio e eliminar dióxido de carbono do corpo."
+        },
+        "word": "breath",
+        "ipa": "/brɛθ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The process of inhaling and exhaling air, necessary for taking in oxygen and removing carbon dioxide from the body.",
+        "examples": [
+            "Take a deep breath before you begin.",
+            "Shortness of breath can be a sign of illness.",
+            "Breathing exercises can help reduce stress."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "criar",
+            "definition": "Mantener y cuidar a los animales o a las plantas con el propósito de reproducción o producción."
+        },
+        "pt": {
+            "word": "criar",
+            "definition": "Manter e cuidar de animais ou plantas com o propósito de reprodução ou produção."
+        },
+        "word": "breed",
+        "ipa": "/briːd/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To raise and care for animals or plants for the purpose of reproduction or production.",
+        "examples": [
+            "They breed horses on their farm.",
+            "This dog breed is known for its loyalty.",
+            "Breeding plants for better yields is a common practice."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "ladrillo",
+            "definition": "Un bloque de construcción rectangular hecho de arcilla cocida u otro material similar, utilizado en la construcción de paredes y edificios."
+        },
+        "pt": {
+            "word": "tijolo",
+            "definition": "Um bloco de construção retangular feito de argila cozida ou outro material semelhante, usado na construção de paredes e edifícios."
+        },
+        "word": "brick",
+        "ipa": "/brɪk/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A rectangular building block made of baked clay or a similar material, used in the construction of walls and buildings.",
+        "examples": [
+            "The house was built with red bricks.",
+            "He accidentally dropped a brick on his foot.",
+            "Brick walls provide good insulation."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "novia",
+            "definition": "Una mujer que está comprometida para casarse o que ya está casada."
+        },
+        "pt": {
+            "word": "noiva",
+            "definition": "Uma mulher que está comprometida para casar ou que já está casada."
+        },
+        "word": "bride",
+        "ipa": "/braɪd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A woman who is engaged to be married or who is already married.",
+        "examples": [
+            "The bride looked stunning in her wedding gown.",
+            "The groom and the bride exchanged vows.",
+            "It was a beautiful ceremony with the bride and groom."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "breve",
+            "definition": "De corta duración o extensión en el tiempo o en el espacio."
+        },
+        "pt": {
+            "word": "breve",
+            "definition": "De curta duração ou extensão no tempo ou no espaço."
+        },
+        "word": "brief",
+        "ipa": "/briːf/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Of short duration or extent in time or space.",
+        "examples": [
+            "The meeting was brief, lasting only 15 minutes.",
+            "Please give me a brief summary of the report.",
+            "He briefed the team on the project's goals."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "brillante",
+            "definition": "Que emite o refleja una gran cantidad de luz; lleno de luz o resplandor."
+        },
+        "pt": {
+            "word": "brilhante",
+            "definition": "Que emite ou reflete uma grande quantidade de luz; cheio de luz ou brilho."
+        },
+        "word": "bright",
+        "ipa": "/braɪt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Adverb",
+                "sigle": "adv.",
+                "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+            }
+        ],
+        "definition": "Emits or reflects a great amount of light; full of light or radiance.",
+        "examples": [
+            "The sun is very bright in the morning.",
+            "She has a bright smile that lights up the room.",
+            "He brightened the dark room with a lamp."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "brillante",
+            "definition": "Que muestra una inteligencia excepcional o talento en una determinada área; muy talentoso o inteligente."
+        },
+        "pt": {
+            "word": "brilhante",
+            "definition": "Que mostra uma inteligência excepcional ou talento em uma determinada área; muito talentoso ou inteligente."
+        },
+        "word": "brilliant",
+        "ipa": "/ˈbrɪliənt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Showing exceptional intelligence or talent in a particular area; very talented or intelligent.",
+        "examples": [
+            "She is a brilliant scientist who has made significant discoveries.",
+            "The musician gave a brilliant performance on stage.",
+            "His brilliant ideas revolutionized the industry."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "amplio",
+            "definition": "Que tiene una gran extensión o amplitud; ancho o extenso."
+        },
+        "pt": {
+            "word": "amplo",
+            "definition": "Que tem uma grande extensão ou amplitude; largo ou extenso."
+        },
+        "word": "broad",
+        "ipa": "/brɔd/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Adverb",
+                "sigle": "adv.",
+                "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+            }
+        ],
+        "definition": "Having a great extent or breadth; wide or extensive.",
+        "examples": [
+            "The river is quite broad at this point.",
+            "She has a broad knowledge of literature.",
+            "The company has a broad customer base."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "transmitir",
+            "definition": "Difundir o enviar información, sonido o señales a través de medios como la radio o la televisión."
+        },
+        "pt": {
+            "word": "transmitir",
+            "definition": "Disseminar ou enviar informações, sons ou sinais por meio de mídia como rádio ou televisão."
+        },
+        "word": "broadcast",
+        "ipa": "/ˈbrɔːdkæst/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Disseminate or send out information, sound, or signals through media such as radio or television.",
+        "examples": [
+            "The radio station will broadcast the live concert tonight.",
+            "The broadcast of the news was interrupted by a technical issue.",
+            "They broadcasted the sports event to millions of viewers."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "brócoli",
+            "definition": "Una verdura comestible de la familia de las crucíferas, con un tallo verde comestible y floretes verdes o morados."
+        },
+        "pt": {
+            "word": "brócolis",
+            "definition": "Um vegetal comestível da família das crucíferas, com um caule verde comestível e floretes verdes ou roxos."
+        },
+        "word": "broccoli",
+        "ipa": "/ˈbrɒkəli/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "An edible vegetable of the cruciferous family, with an edible green stalk and green or purple florets.",
+        "examples": [
+            "Broccoli is a healthy and nutritious vegetable.",
+            "I like to steam broccoli and serve it with a sprinkle of cheese.",
+            "She made a delicious broccoli salad for the picnic."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "roto",
+            "definition": "Dañado o no funciona debido a una fractura, grieta o rotura."
+        },
+        "pt": {
+            "word": "quebrado",
+            "definition": "Danificado ou não funciona devido a uma fratura, rachadura ou quebra."
+        },
+        "word": "broken",
+        "ipa": "/ˈbrəʊkən/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Damaged or not functioning due to a fracture, crack, or break.",
+        "examples": [
+            "The vase is broken, and we need to glue it back together.",
+            "His leg was broken in the accident and required surgery.",
+            "I accidentally dropped my phone, and now the screen is broken."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bronce",
+            "definition": "Un metal de color marrón rojizo que se utiliza en la fabricación de objetos decorativos y estatuas."
+        },
+        "pt": {
+            "word": "bronze",
+            "definition": "Um metal de cor marrom avermelhada usado na fabricação de objetos decorativos e estátuas."
+        },
+        "word": "bronze",
+        "ipa": "/brɒnz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A reddish-brown metal used in the manufacture of decorative objects and statues.",
+        "examples": [
+            "The statue in the park is made of bronze.",
+            "She received a bronze medal for her performance in the competition.",
+            "Bronze is often used to create sculptures and artwork."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "escoba",
+            "definition": "Un utensilio con cerdas utilizado para barrer y limpiar superficies."
+        },
+        "pt": {
+            "word": "vassoura",
+            "definition": "Um utensílio com cerdas usado para varrer e limpar superfícies."
+        },
+        "word": "broom",
+        "ipa": "/bruːm/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A tool with bristles used for sweeping and cleaning surfaces.",
+        "examples": [
+            "She used a broom to sweep the leaves from the porch.",
+            "The janitor carries a broom to keep the school hallway clean.",
+            "I need to grab the broom and tidy up the garage."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "hermano",
+            "definition": "Un hombre o niño en relación con otros hijos de sus padres."
+        },
+        "pt": {
+            "word": "irmão",
+            "definition": "Um homem ou menino em relação a outros filhos de seus pais."
+        },
+        "word": "brother",
+        "ipa": "/ˈbrʌðər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A male sibling in relation to other children of their parents.",
+        "examples": [
+            "My brother and I are very close and share a lot of memories.",
+            "He has a younger brother who looks up to him.",
+            "She has two brothers and one sister in her family."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "marrón",
+            "definition": "El color que se encuentra entre el rojo y el amarillo en el espectro visible, similar al color de la tierra."
+        },
+        "pt": {
+            "word": "marrom",
+            "definition": "A cor que se encontra entre o vermelho e o amarelo no espectro visível, semelhante à cor da terra."
+        },
+        "word": "brown",
+        "ipa": "/braʊn/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The color that is found between red and yellow on the visible spectrum, similar to the color of earth.",
+        "examples": [
+            "The brown dog played in the park.",
+            "She painted her bedroom walls in a lovely shade of brown.",
+            "Brown is a common color for leather jackets."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cubo",
+            "definition": "Un recipiente con una parte superior abierta y asa, típicamente utilizado para transportar líquidos o materiales a granel."
+        },
+        "pt": {
+            "word": "balde",
+            "definition": "Um recipiente com uma parte superior aberta e alça, normalmente usado para transportar líquidos ou materiais a granel."
+        },
+        "word": "bucket",
+        "ipa": "/ˈbʌkɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A container with an open top and handle, typically used for carrying liquids or bulk materials.",
+        "examples": [
+            "He used a bucket to collect rainwater for the garden.",
+            "The workers filled the bucket with sand to repair the road.",
+            "She carried a bucket of ice to cool down the drinks."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "presupuesto",
+            "definition": "Una estimación de ingresos y gastos para un período determinado, generalmente elaborada por una persona, familia, empresa o gobierno."
+        },
+        "pt": {
+            "word": "orçamento",
+            "definition": "Uma estimativa de receitas e despesas para um período específico, geralmente elaborada por uma pessoa, família, empresa ou governo."
+        },
+        "word": "budget",
+        "ipa": "/ˈbʌdʒɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "An estimate of income and expenses for a specific period, typically prepared by an individual, family, business, or government.",
+        "examples": [
+            "They created a budget to plan their monthly expenses.",
+            "The government announced the national budget for the upcoming fiscal year.",
+            "He had to adjust his budget after unexpected medical expenses."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "insecto",
+            "definition": "Un pequeño animal de la clase Insecta, que tiene seis patas y, a menudo, alas y antenas."
+        },
+        "pt": {
+            "word": "inseto",
+            "definition": "Um pequeno animal da classe Insecta, que tem seis patas e frequentemente asas e antenas."
+        },
+        "word": "bug",
+        "ipa": "/bʌɡ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A small animal of the class Insecta, typically having six legs and often wings and antennas.",
+        "examples": [
+            "There was a bug crawling on the kitchen floor.",
+            "I don't like bugs, especially spiders.",
+            "She caught the bug and released it outside."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "construir",
+            "definition": "Crear algo, como un edificio o una estructura, ensamblando y uniendo materiales."
+        },
+        "pt": {
+            "word": "construir",
+            "definition": "Criar algo, como um edifício ou uma estrutura, montando e unindo materiais."
+        },
+        "word": "build",
+        "ipa": "/bɪld/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To create something, such as a building or structure, by assembling and joining materials.",
+        "examples": [
+            "They plan to build a new house next year.",
+            "The construction workers will build a bridge over the river.",
+            "He learned how to build a treehouse for his children."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "edificio",
+            "definition": "Una estructura construida, como un rascacielos, una casa o un apartamento, destinada a ser utilizada como lugar de residencia, trabajo o recreación."
+        },
+        "pt": {
+            "word": "prédio",
+            "definition": "Uma estrutura construída, como um arranha-céu, uma casa ou um apartamento, destinada a ser usada como local de residência, trabalho ou recreação."
+        },
+        "word": "building",
+        "ipa": "/ˈbɪldɪŋ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "A constructed structure, such as a skyscraper, house, or apartment, intended for use as a place of residence, work, or recreation.",
+        "examples": [
+            "The Empire State Building is an iconic skyscraper in New York City.",
+            "They live in a beautiful old building in the historic district.",
+            "The construction of the new office building is almost complete."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "bombilla",
+            "definition": "Un objeto que produce luz cuando se conecta a una fuente de electricidad, generalmente utilizado en lámparas y otros dispositivos de iluminación."
+        },
+        "pt": {
+            "word": "lâmpada",
+            "definition": "Um objeto que produz luz quando conectado a uma fonte de eletricidade, geralmente usado em lâmpadas e outros dispositivos de iluminação."
+        },
+        "word": "bulb",
+        "ipa": "/bʌlb/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "An object that produces light when connected to a source of electricity, typically used in lamps and other lighting devices.",
+        "examples": [
+            "She replaced the old light bulb in the ceiling fixture.",
+            "Energy-efficient bulbs are a cost-effective choice for lighting.",
+            "The room was filled with a warm glow from the bulb."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "a granel",
+            "definition": "En grandes cantidades o sin envasar, generalmente en referencia a alimentos o materiales."
+        },
+        "pt": {
+            "word": "a granel",
+            "definition": "Em grandes quantidades ou não embalado, geralmente referindo-se a alimentos ou materiais."
+        },
+        "word": "bulk",
+        "ipa": "/bʌlk/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "In large quantities or without packaging, typically in reference to food or materials.",
+        "examples": [
+            "They buy rice in bulk to save money.",
+            "The store offers discounts for bulk purchases.",
+            "The cargo ship carries bulk goods from one port to another."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "toro",
+            "definition": "Un macho adulto de la especie bovina, generalmente criado para la producción de carne y otros productos relacionados con la ganadería."
+        },
+        "pt": {
+            "word": "touro",
+            "definition": "Um macho adulto da espécie bovina, geralmente criado para a produção de carne e outros produtos relacionados à pecuária."
+        },
+        "word": "bull",
+        "ipa": "/bʊl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "An adult male of the bovine species, typically raised for the production of meat and other livestock-related products.",
+        "examples": [
+            "The bull was used for breeding in the cattle ranch.",
+            "Bullfighting is a controversial tradition in some countries.",
+            "The market price of bull meat has risen in recent months."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "grupo",
+            "definition": "Una colección de cosas o personas reunidas o agrupadas en un conjunto."
+        },
+        "pt": {
+            "word": "grupo",
+            "definition": "Uma coleção de coisas ou pessoas reunidas ou agrupadas como um todo."
+        },
+        "word": "bunch",
+        "ipa": "/bʌntʃ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A collection of things or people gathered or grouped together as a whole.",
+        "examples": [
+            "She picked a bunch of flowers from the garden.",
+            "The kids formed a bunch to go trick-or-treating together.",
+            "We have a bunch of work to do before the deadline."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "paquete",
+            "definition": "Un conjunto de cosas empaquetadas o atadas juntas."
+        },
+        "pt": {
+            "word": "pacote",
+            "definition": "Um conjunto de coisas embaladas ou amarradas juntas."
+        },
+        "word": "bundle",
+        "ipa": "/ˈbʌndəl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A collection of things packaged or tied together.",
+        "examples": [
+            "He carried a bundle of firewood into the cabin.",
+            "The package contains a bundle of magazines and newspapers.",
+            "She bundled up in warm clothes for the cold weather."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "carga",
+            "definition": "Una carga pesada o una responsabilidad difícil de manejar o llevar."
+        },
+        "pt": {
+            "word": "fardo",
+            "definition": "Uma carga pesada ou uma responsabilidade difícil de lidar ou carregar."
+        },
+        "word": "burden",
+        "ipa": "/ˈbɜːrdən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A heavy load or a difficult responsibility to handle or carry.",
+        "examples": [
+            "The burden of caring for her sick mother weighed heavily on her.",
+            "Financial debt can be a significant burden on individuals.",
+            "He felt the burden of leadership as the company's CEO."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "estallar",
+            "definition": "Romperse o explotar violentamente, a menudo con un sonido fuerte."
+        },
+        "pt": {
+            "word": "explodir",
+            "definition": "Rachar ou explodir violentamente, frequentemente com um som alto."
+        },
+        "word": "burst",
+        "ipa": "/bɜːrst/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To break or explode violently, often with a loud sound.",
+        "examples": [
+            "The balloon burst when it touched a sharp object.",
+            "The dam burst, causing a massive flood.",
+            "Her burst of laughter filled the room with joy."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "autobús",
+            "definition": "Un vehículo grande utilizado para el transporte público de pasajeros, generalmente en rutas fijas con paradas designadas."
+        },
+        "pt": {
+            "word": "ônibus",
+            "definition": "Um veículo grande usado para o transporte público de passageiros, geralmente em rotas fixas com paradas designadas."
+        },
+        "word": "bus",
+        "ipa": "/bʌs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A large vehicle used for public transportation of passengers, typically on fixed routes with designated stops.",
+        "examples": [
+            "I take the bus to work every morning.",
+            "The school bus picks up students at the corner.",
+            "The city bus system provides an affordable way to travel."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "arbusto",
+            "definition": "Una planta pequeña con tallos leñosos que generalmente no es muy alta y tiene hojas, flores o frutos."
+        },
+        "pt": {
+            "word": "arbusto",
+            "definition": "Uma planta pequena com caules lenhosos que geralmente não é muito alta e possui folhas, flores ou frutos."
+        },
+        "word": "bush",
+        "ipa": "/bʊʃ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A small plant with woody stems that is generally not very tall and has leaves, flowers, or fruits.",
+        "examples": [
+            "The garden was filled with colorful bushes and flowers.",
+            "Wild berries grow on the bushes in the forest.",
+            "She trimmed the bushes to keep the yard neat and tidy."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "negocio",
+            "definition": "Una actividad comercial o empresa que se dedica a la compra y venta de bienes o servicios con el objetivo de obtener ganancias."
+        },
+        "pt": {
+            "word": "negócio",
+            "definition": "Uma atividade comercial ou empresa que se dedica à compra e venda de bens ou serviços com o objetivo de obter lucro."
+        },
+        "word": "business",
+        "ipa": "/ˈbɪznɪs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A commercial activity or enterprise that engages in buying and selling goods or services with the aim of making a profit.",
+        "examples": [
+            "She owns a small business in the city.",
+            "The business is thriving despite the challenges.",
+            "Businesses must adapt to changing market conditions."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "ocupado",
+            "definition": "Teniendo mucho que hacer o estar comprometido con tareas o responsabilidades."
+        },
+        "pt": {
+            "word": "ocupado",
+            "definition": "Tendo muito a fazer ou estar comprometido com tarefas ou responsabilidades."
+        },
+        "word": "busy",
+        "ipa": "/ˈbɪzi/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Having a lot to do or being engaged in tasks or responsibilities.",
+        "examples": [
+            "He's too busy to join us for lunch today.",
+            "The office is always busy in the morning.",
+            "I've been busy with work all week."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "mantequilla",
+            "definition": "Un producto lácteo graso hecho de la crema de leche y generalmente se utiliza como condimento o ingrediente en la cocina."
+        },
+        "pt": {
+            "word": "manteiga",
+            "definition": "Um produto lácteo gorduroso feito a partir da nata do leite e geralmente usado como tempero ou ingrediente na culinária."
+        },
+        "word": "butter",
+        "ipa": "/ˈbʌtər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A fatty dairy product made from milk cream and typically used as a condiment or ingredient in cooking.",
+        "examples": [
+            "I spread butter on my toast in the morning.",
+            "The recipe calls for a stick of butter.",
+            "Butter is often used in baking for its rich flavor."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "mariposa",
+            "definition": "Un insecto volador con alas delicadas y generalmente colores vibrantes."
+        },
+        "pt": {
+            "word": "borboleta",
+            "definition": "Um inseto voador com asas delicadas e geralmente cores vibrantes."
+        },
+        "word": "butterfly",
+        "ipa": "/ˈbʌtərflaɪ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A flying insect with delicate wings and typically vibrant colors.",
+        "examples": [
+            "The butterfly landed on a flower in the garden.",
+            "Children love to chase butterflies in the park.",
+            "Butterflies are often seen as symbols of beauty and transformation."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "botón",
+            "definition": "Un pequeño dispositivo o interruptor que se presiona o manipula para activar o desactivar una función o acción."
+        },
+        "pt": {
+            "word": "botão",
+            "definition": "Um pequeno dispositivo ou interruptor que é pressionado ou manipulado para ativar ou desativar uma função ou ação."
+        },
+        "word": "button",
+        "ipa": "/ˈbʌtn/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A small device or switch that is pressed or manipulated to activate or deactivate a function or action.",
+        "examples": [
+            "Press the button to turn on the light.",
+            "The elevator button is not working.",
+            "She sewed a button onto her shirt."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "comprador",
+            "definition": "Una persona que adquiere bienes o servicios a cambio de dinero u otra forma de pago."
+        },
+        "pt": {
+            "word": "comprador",
+            "definition": "Uma pessoa que adquire bens ou serviços em troca de dinheiro ou outra forma de pagamento."
+        },
+        "word": "buyer",
+        "ipa": "/ˈbaɪər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A person who acquires goods or services in exchange for money or another form of payment.",
+        "examples": [
+            "The buyer is interested in purchasing a new car.",
+            "Online buyers can browse and shop from home.",
+            "The buyer and seller negotiated the price of the house."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cabaña",
+            "definition": "Una pequeña casa o refugio, a menudo ubicado en un entorno rural o natural."
+        },
+        "pt": {
+            "word": "cabana",
+            "definition": "Uma pequena casa ou abrigo, frequentemente localizado em um ambiente rural ou natural."
+        },
+        "word": "cabin",
+        "ipa": "/ˈkæbɪn/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "A small house or shelter, often located in a rural or natural setting.",
+        "examples": [
+            "We rented a cabin in the mountains for our vacation.",
+            "The cabin by the lake is a peaceful retreat.",
+            "The forest ranger lives in a cabin in the woods."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "gabinete",
+            "definition": "Un mueble o compartimento cerrado con estantes, cajones o puertas, utilizado para almacenar o exhibir objetos."
+        },
+        "pt": {
+            "word": "gabinete",
+            "definition": "Um móvel ou compartimento fechado com prateleiras, gavetas ou portas, usado para armazenar ou exibir objetos."
+        },
+        "word": "cabinet",
+        "ipa": "/ˈkæbɪnɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A piece of furniture or enclosed compartment with shelves, drawers, or doors, used for storing or displaying objects.",
+        "examples": [
+            "The antique cabinet displayed fine china and glassware.",
+            "The office has a cabinet for storing important documents.",
+            "She keeps her art supplies in the cabinet."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cable",
+            "definition": "Un conductor formado por alambres o fibras que se utiliza para transmitir electricidad, datos o señales de comunicación."
+        },
+        "pt": {
+            "word": "cabo",
+            "definition": "Um condutor formado por fios ou fibras usado para transmitir eletricidade, dados ou sinais de comunicação."
+        },
+        "word": "cable",
+        "ipa": "/ˈkeɪbəl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A conductor made up of wires or fibers used to transmit electricity, data, or communication signals.",
+        "examples": [
+            "The cable connects the computer to the monitor.",
+            "We need to replace the damaged cable for the internet.",
+            "The power cable supplies electricity to the appliance."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cactus",
+            "definition": "Una planta suculenta con espinas o púas en lugar de hojas, que generalmente se encuentra en regiones áridas o desérticas."
+        },
+        "pt": {
+            "word": "cacto",
+            "definition": "Uma planta suculenta com espinhos ou agulhas em vez de folhas, geralmente encontrada em regiões áridas ou desérticas."
+        },
+        "word": "cactus",
+        "ipa": "/ˈkæktəs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A succulent plant with spines or needles instead of leaves, typically found in arid or desert regions.",
+        "examples": [
+            "The desert is full of cacti with sharp needles.",
+            "Cacti are well-adapted to survive in dry climates.",
+            "Be careful not to touch the cactus—it has thorns."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "café",
+            "definition": "Una bebida caliente hecha con granos de café tostados molidos y agua caliente."
+        },
+        "pt": {
+            "word": "café",
+            "definition": "Uma bebida quente feita com grãos de café torrados moídos e água quente."
+        },
+        "word": "cafe",
+        "ipa": "/ˈkæfeɪ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A hot beverage made with ground roasted coffee beans and hot water.",
+        "examples": [
+            "I like to start my day with a cup of coffee.",
+            "The café serves a variety of coffee drinks.",
+            "She ordered a cappuccino at the coffee shop."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "jaula",
+            "definition": "Una estructura de alambre o barras utilizada para contener o encerrar a animales u objetos."
+        },
+        "pt": {
+            "word": "gaiola",
+            "definition": "Uma estrutura de arame ou barras usada para conter ou confinar animais ou objetos."
+        },
+        "word": "cage",
+        "ipa": "/keɪdʒ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A wire or barred structure used to contain or confine animals or objects.",
+        "examples": [
+            "The zoo has many different animal cages.",
+            "He built a cage to keep his pet bird safe.",
+            "The prisoner was locked in a cell with iron bars."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cálculo",
+            "definition": "El proceso de realizar operaciones matemáticas o determinar un resultado numérico."
+        },
+        "pt": {
+            "word": "cálculo",
+            "definition": "O processo de realizar operações matemáticas ou determinar um resultado numérico."
+        },
+        "word": "calculation",
+        "ipa": "/ˌkælkjuˈleɪʃən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The process of performing mathematical operations or determining a numerical result.",
+        "examples": [
+            "She used a calculator to make the calculation easier.",
+            "The calculation of the total cost took some time.",
+            "Mathematical calculations are an important part of science."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "calendario",
+            "definition": "Un sistema de organización del tiempo que muestra los días, semanas y meses de un año."
+        },
+        "pt": {
+            "word": "calendário",
+            "definition": "Um sistema de organização do tempo que mostra os dias, semanas e meses de um ano."
+        },
+        "word": "calendar",
+        "ipa": "/ˈkæləndər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A system of time organization that displays the days, weeks, and months of a year.",
+        "examples": [
+            "I marked the important dates on my calendar.",
+            "The calendar shows the holidays and events for the year.",
+            "We need to check the calendar for availability."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "becerro",
+            "definition": "Un joven bovino, especialmente uno que aún no ha sido destetado."
+        },
+        "pt": {
+            "word": "bezerro",
+            "definition": "Um bovino jovem, especialmente um que ainda não foi desmamado."
+        },
+        "word": "calf",
+        "ipa": "/kæf/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A young bovine, especially one that has not yet been weaned.",
+        "examples": [
+            "The calf was nursing from its mother.",
+            "Farmers take care of the calves until they are older.",
+            "The calf grew into a healthy cow."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "calma",
+            "definition": "La ausencia de agitación o excitación; estado de tranquilidad."
+        },
+        "pt": {
+            "word": "calma",
+            "definition": "A ausência de agitação ou excitação; estado de tranquilidade."
+        },
+        "word": "calm",
+        "ipa": "/kɑːm/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The absence of agitation or excitement; a state of tranquility.",
+        "examples": [
+            "She found calm in the peaceful garden.",
+            "His calm demeanor helped diffuse the situation.",
+            "Let's try to stay calm during the storm."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cámara",
+            "definition": "Un dispositivo para capturar imágenes o grabar videos, generalmente con lentes intercambiables."
+        },
+        "pt": {
+            "word": "câmera",
+            "definition": "Um dispositivo para capturar imagens ou gravar vídeos, geralmente com lentes intercambiáveis."
+        },
+        "word": "camera",
+        "ipa": "/ˈkæmərə/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A device for capturing images or recording videos, typically with interchangeable lenses.",
+        "examples": [
+            "He used a camera to take pictures of the landscape.",
+            "The film crew set up multiple cameras for the shoot.",
+            "The camera has advanced features for professional photographers."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "campaña",
+            "definition": "Una serie de acciones planificadas realizadas para lograr un objetivo específico, como una campaña publicitaria o política."
+        },
+        "pt": {
+            "word": "campanha",
+            "definition": "Uma série de ações planejadas realizadas para atingir um objetivo específico, como uma campanha publicitária ou política."
+        },
+        "word": "campaign",
+        "ipa": "/kæmˈpeɪn/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A series of planned actions carried out to achieve a specific goal, such as an advertising or political campaign.",
+        "examples": [
+            "The presidential campaign included rallies and debates.",
+            "The company launched a marketing campaign to promote its new product.",
+            "They campaigned tirelessly to raise awareness about the issue."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "campus",
+            "definition": "El terreno y los edificios de una institución educativa, como una universidad o una escuela."
+        },
+        "pt": {
+            "word": "campus",
+            "definition": "O terreno e os edifícios de uma instituição educacional, como uma universidade ou escola."
+        },
+        "word": "campus",
+        "ipa": "/ˈkæmpəs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The grounds and buildings of an educational institution, such as a university or school.",
+        "examples": [
+            "The campus is large and has modern facilities.",
+            "Students gather on the campus quad between classes.",
+            "The university's campus is located in a scenic area."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "canal",
+            "definition": "Una vía acuática artificial creada para el transporte de agua, barcos u otros fines."
+        },
+        "pt": {
+            "word": "canal",
+            "definition": "Uma via aquática artificial criada para transporte de água, barcos ou outros fins."
+        },
+        "word": "canal",
+        "ipa": "/ˈkænəl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "An artificial waterway created for the transportation of water, boats, or other purposes.",
+        "examples": [
+            "The canal connects two major lakes in the region.",
+            "They used the canal for shipping goods to different cities.",
+            "A system of locks controls the water flow in the canal."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cáncer",
+            "definition": "Una enfermedad caracterizada por el crecimiento descontrolado de células anormales en el cuerpo."
+        },
+        "pt": {
+            "word": "câncer",
+            "definition": "Uma doença caracterizada pelo crescimento descontrolado de células anormais no corpo."
+        },
+        "word": "cancer",
+        "ipa": "/ˈkænsər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A disease characterized by the uncontrolled growth of abnormal cells in the body.",
+        "examples": [
+            "He was diagnosed with lung cancer.",
+            "Research is ongoing to find a cure for cancer.",
+            "Regular check-ups can help detect cancer early."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "candidato",
+            "definition": "Una persona que se presenta como opción para un puesto, premio o posición, como en una elección o competencia."
+        },
+        "pt": {
+            "word": "candidato",
+            "definition": "Uma pessoa que se apresenta como opção para um cargo, prêmio ou posição, como em uma eleição ou competição."
+        },
+        "word": "candidate",
+        "ipa": "/ˈkændɪdeɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A person who presents themselves as an option for a position, award, or position, as in an election or competition.",
+        "examples": [
+            "There are several candidates running for mayor in the upcoming election.",
+            "The candidate's qualifications and policies are being discussed in the debate.",
+            "She was selected as the candidate for the prestigious scholarship."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "vela",
+            "definition": "Un objeto generalmente cilíndrico que se enciende para producir luz mediante la combustión de una mecha impregnada de cera."
+        },
+        "pt": {
+            "word": "vela",
+            "definition": "Um objeto geralmente cilíndrico que é aceso para produzir luz através da queima de um pavio impregnado de cera."
+        },
+        "word": "candle",
+        "ipa": "/ˈkændəl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "An usually cylindrical object that is lit to produce light through the combustion of a wick soaked in wax.",
+        "examples": [
+            "She lit a candle to create a cozy atmosphere.",
+            "Candles were placed on the birthday cake for the celebration.",
+            "During the power outage, they relied on candles for illumination."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "caramelo",
+            "definition": "Un dulce generalmente hecho de azúcar, jarabe y sabores, a menudo con un centro masticable."
+        },
+        "pt": {
+            "word": "caramelo",
+            "definition": "Um doce geralmente feito de açúcar, xarope e sabores, muitas vezes com um centro mastigável."
+        },
+        "word": "candy",
+        "ipa": "/ˈkændi/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A sweet usually made of sugar, syrup, and flavors, often with a chewy center.",
+        "examples": [
+            "Children enjoy eating candies on Halloween.",
+            "She offered him a piece of candy from her bag.",
+            "Candy canes are a popular treat during the holiday season."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "lienzo",
+            "definition": "Una superficie en la que se pinta o dibuja, generalmente una tela estirada y preparada para recibir pintura o tinta."
+        },
+        "pt": {
+            "word": "tela",
+            "definition": "Uma superfície em que se pinta ou desenha, geralmente um tecido esticado e preparado para receber tinta ou tinta."
+        },
+        "word": "canvas",
+        "ipa": "/ˈkænvəs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A surface on which painting or drawing is done, typically a stretched fabric prepared to receive paint or ink.",
+        "examples": [
+            "The artist used a large canvas for their masterpiece.",
+            "Canvas is a popular material for creating artworks.",
+            "He stretched the canvas tightly before starting to paint."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "gorra",
+            "definition": "Una prenda de vestir que se usa en la cabeza para protegerse del sol o como accesorio de moda."
+        },
+        "pt": {
+            "word": "boné",
+            "definition": "Uma peça de vestuário usada na cabeça para se proteger do sol ou como acessório de moda."
+        },
+        "word": "cap",
+        "ipa": "/kæp/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A headwear item worn to protect from the sun or as a fashion accessory.",
+        "examples": [
+            "He always wears a baseball cap when he goes outside.",
+            "She bought a new cap with a colorful design.",
+            "The cap shielded her face from the scorching sun."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "capacidad",
+            "definition": "La capacidad o habilidad de realizar algo o contener algo."
+        },
+        "pt": {
+            "word": "capacidade",
+            "definition": "A capacidade ou habilidade de realizar algo ou conter algo."
+        },
+        "word": "capability",
+        "ipa": "/ˌkeɪpəˈbɪləti/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The ability or skill to do something or to contain something.",
+        "examples": [
+            "Her capability in problem-solving impressed her colleagues.",
+            "The machine's capability to process data quickly is remarkable.",
+            "Capacity and capability are important factors in project planning."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "capaz",
+            "definition": "Tener la capacidad o habilidad para hacer algo."
+        },
+        "pt": {
+            "word": "capaz",
+            "definition": "Ter a capacidade ou habilidade para fazer algo."
+        },
+        "word": "capable",
+        "ipa": "/ˈkeɪpəbl/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Having the capacity or ability to do something.",
+        "examples": [
+            "She is a capable leader who can handle difficult situations.",
+            "Being capable of multitasking is a valuable skill in the workplace.",
+            "The team members are all capable of achieving their goals."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "capacidad",
+            "definition": "La cantidad máxima que algo puede contener o la cantidad máxima que alguien puede realizar."
+        },
+        "pt": {
+            "word": "capacidade",
+            "definition": "A quantidade máxima que algo pode conter ou a quantidade máxima que alguém pode realizar."
+        },
+        "word": "capacity",
+        "ipa": "/kəˈpæsəti/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "The maximum amount that something can hold or the maximum amount that someone can perform.",
+        "examples": [
+            "The capacity of the stadium is 50,000 spectators.",
+            "The human brain has an amazing capacity for learning and adaptation.",
+            "The company is working to increase its production capacity."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "capa",
+            "definition": "Una prenda de vestir larga y suelta que generalmente se usa para abrigarse o como parte de un disfraz."
+        },
+        "pt": {
+            "word": "capa",
+            "definition": "Uma peça de vestuário longa e solta geralmente usada para se aquecer ou como parte de uma fantasia."
+        },
+        "word": "cape",
+        "ipa": "/keɪp/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A long, loose-fitting garment typically worn for warmth or as part of a costume.",
+        "examples": [
+            "She wore a red cape with her Halloween costume.",
+            "Superheroes often have capes as part of their outfits.",
+            "The cape protected him from the cold wind."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "capital",
+            "definition": "La ciudad más importante de un país o región, generalmente sede del gobierno y el centro político y económico."
+        },
+        "pt": {
+            "word": "capital",
+            "definition": "A cidade mais importante de um país ou região, geralmente sede do governo e centro político e econômico."
+        },
+        "word": "capital",
+        "ipa": "/ˈkæpɪtl̩/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "The most important city of a country or region, usually the seat of government and the political and economic center.",
+        "examples": [
+            "Paris is the capital of France.",
+            "The capital of Brazil is Brasília.",
+            "Tokyo is a major global capital."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "capitán",
+            "definition": "El oficial al mando de una embarcación, avión o equipo deportivo."
+        },
+        "pt": {
+            "word": "capitão",
+            "definition": "O oficial no comando de uma embarcação, avião ou equipe esportiva."
+        },
+        "word": "captain",
+        "ipa": "/ˈkæptən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The officer in command of a ship, aircraft, or sports team.",
+        "examples": [
+            "The captain of the ship navigated through the storm.",
+            "He was named the captain of the soccer team.",
+            "The airline captain ensured a smooth flight."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "captura",
+            "definition": "El acto de atrapar o apresar a alguien o algo."
+        },
+        "pt": {
+            "word": "captura",
+            "definition": "O ato de capturar ou prender alguém ou algo."
+        },
+        "word": "capture",
+        "ipa": "/ˈkæptʃər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The act of catching or seizing someone or something.",
+        "examples": [
+            "The capture of the criminal was a joint effort by the police.",
+            "The photographer's capture of the moment was stunning.",
+            "They attempted to capture the enemy's stronghold."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "coche",
+            "definition": "Un vehículo de motor con cuatro ruedas, generalmente diseñado para transportar pasajeros."
+        },
+        "pt": {
+            "word": "carro",
+            "definition": "Um veículo motorizado com quatro rodas, geralmente projetado para transportar passageiros."
+        },
+        "word": "car",
+        "ipa": "/kɑːr/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A motor vehicle with four wheels, typically designed for passenger transportation.",
+        "examples": [
+            "I need to buy a new car for my daily commute.",
+            "The car broke down on the highway.",
+            "She parked her car in the garage."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "carbono",
+            "definition": "El elemento químico con el símbolo 'C' y el número atómico 6; un componente fundamental de las moléculas orgánicas."
+        },
+        "pt": {
+            "word": "carbono",
+            "definition": "O elemento químico com o símbolo 'C' e número atômico 6; um componente fundamental das moléculas orgânicas."
+        },
+        "word": "carbon",
+        "ipa": "/ˈkɑːrbən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The chemical element with the symbol 'C' and atomic number 6; a fundamental component of organic molecules.",
+        "examples": [
+            "Carbon is a key element in the structure of organic compounds.",
+            "Diamonds are made up of carbon atoms arranged in a crystal lattice.",
+            "Carbon emissions contribute to climate change."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "tarjeta",
+            "definition": "Una pieza de cartón, plástico u otro material con información impresa o grabada que se utiliza para identificación, pago o como medio de acceso."
+        },
+        "pt": {
+            "word": "cartão",
+            "definition": "Uma peça de papelão, plástico ou outro material com informações impressas ou gravadas, usada para identificação, pagamento ou como meio de acesso."
+        },
+        "word": "card",
+        "ipa": "/kɑːrd/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A piece of cardboard, plastic, or other material with printed or engraved information used for identification, payment, or as a means of access.",
+        "examples": [
+            "I need to get a new credit card.",
+            "He showed his ID card to the security guard.",
+            "The library card allows you to borrow books."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "carrera",
+            "definition": "Una trayectoria profesional o educativa; el curso de acción o progreso en una actividad o campo particular."
+        },
+        "pt": {
+            "word": "carreira",
+            "definition": "Uma trajetória profissional ou educacional; o curso de ação ou progresso em uma atividade ou campo específico."
+        },
+        "word": "career",
+        "ipa": "/kəˈrɪr/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A person's professional or educational journey; the course of action or progress in a particular activity or field.",
+        "examples": [
+            "She has had a successful career in medicine.",
+            "He is considering a career change.",
+            "Education is important for career advancement."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cuidadoso",
+            "definition": "Hacer algo con atención y precaución para evitar errores o accidentes; atento a los detalles."
+        },
+        "pt": {
+            "word": "cuidadoso",
+            "definition": "Fazer algo com atenção e precaução para evitar erros ou acidentes; atento aos detalhes."
+        },
+        "word": "careful",
+        "ipa": "/ˈkɛrfl̩/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Doing something with attention and caution to avoid errors or accidents; attentive to details.",
+        "examples": [
+            "Be careful when handling fragile items.",
+            "He is a careful driver, always following traffic rules.",
+            "She is a careful planner and considers all possibilities."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "carga",
+            "definition": "Los bienes o mercancías transportados por un vehículo, barco, avión u otro medio de transporte."
+        },
+        "pt": {
+            "word": "carga",
+            "definition": "Os bens ou mercadorias transportados por um veículo, barco, avião ou outro meio de transporte."
+        },
+        "word": "cargo",
+        "ipa": "/ˈkɑːrɡoʊ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Goods or merchandise transported by a vehicle, ship, aircraft, or other means of transportation.",
+        "examples": [
+            "The cargo ship was loaded with containers from different countries.",
+            "The airline lost my luggage with all my cargo.",
+            "The truck carried a heavy cargo of construction materials."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "alfombra",
+            "definition": "Un revestimiento de suelo suave y generalmente de tela que se usa para cubrir pisos en hogares y otros lugares."
+        },
+        "pt": {
+            "word": "tapete",
+            "definition": "Um revestimento de piso macio e geralmente de tecido usado para cobrir pisos em residências e outros locais."
+        },
+        "word": "carpet",
+        "ipa": "/ˈkɑːrpɪt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A soft and usually fabric floor covering used to cover floors in homes and other places.",
+        "examples": [
+            "The carpet in the living room is plush and comfortable.",
+            "They decided to replace the old carpet with hardwood floors.",
+            "She vacuumed the carpet to remove the dust."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "zanahoria",
+            "definition": "Una raíz comestible de color naranja que se utiliza en la cocina para diversos platos y ensaladas."
+        },
+        "pt": {
+            "word": "cenoura",
+            "definition": "Uma raiz comestível de cor laranja usada na culinária em diversos pratos e saladas."
+        },
+        "word": "carrot",
+        "ipa": "/ˈkærət/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "An edible orange-colored root used in cooking for various dishes and salads.",
+        "examples": [
+            "Carrots are a good source of vitamins and nutrients.",
+            "She used carrots to make a delicious soup.",
+            "He enjoys eating raw carrot sticks as a snack."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "carro",
+            "definition": "Un vehículo con ruedas diseñado para el transporte de personas o mercancías a lo largo de carreteras u otras vías."
+        },
+        "pt": {
+            "word": "carro",
+            "definition": "Um veículo com rodas projetado para o transporte de pessoas ou mercadorias ao longo de estradas ou outras vias."
+        },
+        "word": "cart",
+        "ipa": "/kɑːrt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A wheeled vehicle designed for the transportation of people or goods along roads or other routes.",
+        "examples": [
+            "They loaded the cart with supplies for the camping trip.",
+            "The horse pulled the cart full of hay.",
+            "Supermarkets often have shopping carts for customers."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "dibujo animado",
+            "definition": "Una serie de imágenes en movimiento, a menudo humorísticas, creadas mediante animación y destinadas a la diversión y el entretenimiento."
+        },
+        "pt": {
+            "word": "desenho animado",
+            "definition": "Uma série de imagens em movimento, frequentemente humorísticas, criadas por meio de animação e destinadas à diversão e ao entretenimento."
+        },
+        "word": "cartoon",
+        "ipa": "/kɑːrˈtuːn/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A series of moving images, often humorous, created through animation and intended for fun and entertainment.",
+        "examples": [
+            "Children enjoy watching cartoons on Saturday mornings.",
+            "The cartoon characters in the show are adorable.",
+            "He is a talented artist who creates funny cartoons."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "caso",
+            "definition": "Una situación o circunstancia particular; un asunto que requiere atención o consideración."
+        },
+        "pt": {
+            "word": "caso",
+            "definition": "Uma situação ou circunstância específica; uma questão que requer atenção ou consideração."
+        },
+        "word": "case",
+        "ipa": "/keɪs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A particular situation or circumstance; a matter that requires attention or consideration.",
+        "examples": [
+            "This is a complex case that requires further investigation.",
+            "In most cases, the solution is straightforward.",
+            "He presented a compelling case for his argument."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "dinero en efectivo",
+            "definition": "Dinero en forma de billetes y monedas en lugar de cheques, tarjetas de crédito u otros medios electrónicos de pago."
+        },
+        "pt": {
+            "word": "dinheiro em espécie",
+            "definition": "Dinheiro na forma de notas e moedas em vez de cheques, cartões de crédito ou outros meios eletrônicos de pagamento."
+        },
+        "word": "cash",
+        "ipa": "/kæʃ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Money in the form of bills and coins rather than checks, credit cards, or other electronic payment methods.",
+        "examples": [
+            "I prefer to pay with cash rather than using my credit card.",
+            "He withdrew cash from the ATM for the trip.",
+            "The cashier will give you your change in cash."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "casino",
+            "definition": "Un lugar o establecimiento donde se llevan a cabo juegos de azar, como el póquer, la ruleta y las tragamonedas, y donde las personas apuestan dinero con la esperanza de ganar más."
+        },
+        "pt": {
+            "word": "cassino",
+            "definition": "Um local ou estabelecimento onde são realizados jogos de azar, como pôquer, roleta e caça-níqueis, e onde as pessoas apostam dinheiro na esperança de ganhar mais."
+        },
+        "word": "casino",
+        "ipa": "/kəˈsiːnoʊ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A place or establishment where gambling games such as poker, roulette, and slot machines are played, and where people bet money in hopes of winning more.",
+        "examples": [
+            "Las luces brillantes del casino atraen a los jugadores.",
+            "Ella ganó una gran cantidad de dinero en el casino anoche.",
+            "El casino está abierto las 24 horas del día."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "lanzar",
+            "definition": "Arrojar o tirar algo con fuerza o de manera deliberada en una dirección específica."
+        },
+        "pt": {
+            "word": "lançar",
+            "definition": "Atirar ou jogar algo com força ou de forma deliberada em uma direção específica."
+        },
+        "word": "cast",
+        "ipa": "/kæst/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To throw or hurl something with force or deliberately in a specific direction.",
+        "examples": [
+            "He cast the fishing line into the water.",
+            "The actor was cast in the lead role of the movie.",
+            "She cast a spell on the enchanted object."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "castillo",
+            "definition": "Una estructura fortificada, a menudo grande y antigua, construida con fines defensivos o como residencia de la realeza o la nobleza."
+        },
+        "pt": {
+            "word": "castelo",
+            "definition": "Uma estrutura fortificada, frequentemente grande e antiga, construída com fins defensivos ou como residência de realeza ou nobreza."
+        },
+        "word": "castle",
+        "ipa": "/ˈkæsəl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A fortified structure, often large and old, built for defensive purposes or as a residence for royalty or nobility.",
+        "examples": [
+            "The medieval castle has a rich history and is open to tourists.",
+            "The princess lived in a beautiful castle.",
+            "The castle's walls are made of thick stone."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "casual",
+            "definition": "Relajado, informal o sin compromiso; adecuado para situaciones informales."
+        },
+        "pt": {
+            "word": "casual",
+            "definition": "Relaxado, informal ou sem compromisso; apropriado para situações informais."
+        },
+        "word": "casual",
+        "ipa": "/ˈkæʒuəl/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Relaxed, informal, or without commitment; suitable for informal situations.",
+        "examples": [
+            "She wore a casual dress to the picnic.",
+            "Let's have a casual chat over coffee.",
+            "The party has a casual atmosphere."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "gato",
+            "definition": "Un mamífero carnívoro domesticado de la familia Felidae, con pelaje suave y generalmente rayado o moteado, y que a menudo se mantiene como mascota."
+        },
+        "pt": {
+            "word": "gato",
+            "definition": "Um mamífero carnívoro doméstico da família Felidae, com pelagem macia e geralmente listrada ou manchada, frequentemente mantido como animal de estimação."
+        },
+        "word": "cat",
+        "ipa": "/kæt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A domesticated carnivorous mammal of the family Felidae, with soft fur and typically striped or spotted, often kept as a pet.",
+        "examples": [
+            "I have a cat named Whiskers.",
+            "Cats are known for their agility and independence.",
+            "She loves playing with her pet cat."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "atrapar",
+            "definition": "Agarrar o detener algo en movimiento con las manos o un objeto; capturar a alguien o algo que está tratando de escapar."
+        },
+        "pt": {
+            "word": "pegar",
+            "definition": "Agarrar ou deter algo em movimento com as mãos ou um objeto; capturar alguém ou algo que está tentando escapar."
+        },
+        "word": "catch",
+        "ipa": "/kætʃ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "To grasp or stop something in motion with one's hands or an object; capture someone or something that is attempting to escape.",
+        "examples": [
+            "He tried to catch the ball but missed.",
+            "The police managed to catch the thief.",
+            "Can you catch the bus in time?"
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "categoría",
+            "definition": "Una clasificación o grupo en función de características similares; una división o clase de cosas."
+        },
+        "pt": {
+            "word": "categoria",
+            "definition": "Uma classificação ou grupo com base em características semelhantes; uma divisão ou classe de coisas."
+        },
+        "word": "category",
+        "ipa": "/ˈkætəˌɡɔːri/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A classification or group based on similar characteristics; a division or class of things.",
+        "examples": [
+            "This book falls into the category of science fiction.",
+            "There are several subcategories within the music category.",
+            "She won an award in the best actress category."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "atender",
+            "definition": "Proveer alimentos o servicios para satisfacer las necesidades de alguien; ocuparse de las necesidades o deseos de los demás."
+        },
+        "pt": {
+            "word": "atender",
+            "definition": "Fornecer alimentos ou serviços para atender às necessidades de alguém; cuidar das necessidades ou desejos dos outros."
+        },
+        "word": "cater",
+        "ipa": "/ˈkeɪtər/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "To provide food or services to meet someone's needs; to take care of the needs or desires of others.",
+        "examples": [
+            "The restaurant can cater events of all sizes.",
+            "They hired a catering service for the wedding.",
+            "She loves to cater to her guests' preferences."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "ganado",
+            "definition": "Animales criados para la producción de carne o productos lácteos, generalmente vacas y toros."
+        },
+        "pt": {
+            "word": "gado",
+            "definition": "Animais criados para a produção de carne ou produtos lácteos, geralmente vacas e touros."
+        },
+        "word": "cattle",
+        "ipa": "/ˈkætl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Animals raised for meat or dairy production, typically cows and bulls.",
+        "examples": [
+            "The rancher has a large herd of cattle.",
+            "Cattle farming is an important industry in this region.",
+            "They sell fresh milk from their dairy cattle."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cueva",
+            "definition": "Una cavidad natural en la tierra, generalmente en una montaña o colina, que puede ser explorada por personas."
+        },
+        "pt": {
+            "word": "caverna",
+            "definition": "Uma cavidade natural na terra, geralmente em uma montanha ou colina, que pode ser explorada por pessoas."
+        },
+        "word": "cave",
+        "ipa": "/keɪv/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A natural cavity in the earth, typically in a mountain or hill, that can be explored by people.",
+        "examples": [
+            "Explorers ventured deep into the cave system.",
+            "Bats are often found in caves.",
+            "The cave was filled with stunning rock formations."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cesar",
+            "definition": "Detenerse o finalizar una acción o actividad; dejar de hacer algo."
+        },
+        "pt": {
+            "word": "cessar",
+            "definition": "Parar ou encerrar uma ação ou atividade; deixar de fazer algo."
+        },
+        "word": "cease",
+        "ipa": "/siːs/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "To stop or end an action or activity; to quit doing something.",
+        "examples": [
+            "The rain will cease in the afternoon.",
+            "Please cease talking during the movie.",
+            "They decided to cease their partnership."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "techo",
+            "definition": "La superficie superior de una habitación o espacio interior que cubre la parte superior de las paredes; la altura máxima en un edificio."
+        },
+        "pt": {
+            "word": "teto",
+            "definition": "A superfície superior de um cômodo ou espaço interior que cobre a parte superior das paredes; a altura máxima em um edifício."
+        },
+        "word": "ceiling",
+        "ipa": "/ˈsiːlɪŋ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The upper surface of a room or interior space that covers the top of the walls; the maximum height in a building.",
+        "examples": [
+            "The ceiling of the cathedral is adorned with beautiful paintings.",
+            "The office has a high ceiling, which makes it feel spacious.",
+            "They installed a new ceiling fan in the living room."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "celebrar",
+            "definition": "Realizar una ceremonia o evento especial en honor a algo o alguien; conmemorar una ocasión importante con alegría y entusiasmo."
+        },
+        "pt": {
+            "word": "celebrar",
+            "definition": "Realizar uma cerimônia ou evento especial em homenagem a algo ou alguém; comemorar uma ocasião importante com alegria e entusiasmo."
+        },
+        "word": "celebrate",
+        "ipa": "/ˈsɛlɪbreɪt/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "To hold a ceremony or special event in honor of something or someone; to commemorate an important occasion with joy and enthusiasm.",
+        "examples": [
+            "We will celebrate our anniversary with a romantic dinner.",
+            "The entire city came out to celebrate the victory.",
+            "They celebrate Christmas with festive decorations."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "celebración",
+            "definition": "Un evento o acto en el que se conmemora o festeja una ocasión especial; la acción de celebrar algo."
+        },
+        "pt": {
+            "word": "celebração",
+            "definition": "Um evento ou ato em que se comemora ou celebra uma ocasião especial; a ação de celebrar algo."
+        },
+        "word": "celebration",
+        "ipa": "/ˌsɛlɪˈbreɪʃən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "An event or act in which an important occasion is commemorated or celebrated; the action of celebrating something.",
+        "examples": [
+            "The fireworks display was part of the New Year's celebration.",
+            "Their wedding celebration was a joyful and memorable event.",
+            "The city held a celebration in honor of the local sports team's championship win."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "celebridad",
+            "definition": "Una persona famosa y ampliamente reconocida en el ámbito público; una personalidad conocida por el público en general."
+        },
+        "pt": {
+            "word": "celebridade",
+            "definition": "Uma pessoa famosa e amplamente reconhecida no domínio público; uma personalidade conhecida pelo público em geral."
+        },
+        "word": "celebrity",
+        "ipa": "/səˈlɛbrəti/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A famous and widely recognized person in the public domain; a personality known to the general public.",
+        "examples": [
+            "Many celebrities attended the red carpet event.",
+            "She became a celebrity after winning the talent show.",
+            "The magazine features interviews with top celebrities."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "célula",
+            "definition": "La unidad básica de la vida en los organismos vivos; la parte más pequeña de un organismo que puede realizar todas las funciones necesarias para mantener la vida."
+        },
+        "pt": {
+            "word": "célula",
+            "definition": "A unidade básica da vida nos organismos vivos; a menor parte de um organismo que pode realizar todas as funções necessárias para manter a vida."
+        },
+        "word": "cell",
+        "ipa": "/sɛl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The basic unit of life in living organisms; the smallest part of an organism that can perform all the functions necessary to sustain life.",
+        "examples": [
+            "Cells are the building blocks of all living things.",
+            "The human body contains trillions of cells.",
+            "Scientists study the structure and function of cells."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cementerio",
+            "definition": "Un lugar donde se entierran y conmemoran a los muertos; un terreno designado para el entierro de cadáveres."
+        },
+        "pt": {
+            "word": "cemitério",
+            "definition": "Um lugar onde os mortos são enterrados e lembrados; um terreno designado para o enterro de cadáveres."
+        },
+        "word": "cemetery",
+        "ipa": "/ˈsɛməˌtɛri/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A place where the deceased are buried and commemorated; a designated plot of land for burying corpses.",
+        "examples": [
+            "The cemetery is a peaceful and solemn place.",
+            "Families visit the cemetery to pay their respects to loved ones.",
+            "The cemetery contains graves from different time periods."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "centro",
+            "definition": "El punto medio o lugar central de algo; la parte central o núcleo de una cosa."
+        },
+        "pt": {
+            "word": "centro",
+            "definition": "O ponto médio ou local central de algo; a parte central ou núcleo de uma coisa."
+        },
+        "word": "center",
+        "ipa": "/ˈsɛntər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The midpoint or central location of something; the central or core part of a thing.",
+        "examples": [
+            "The city center is bustling with activity.",
+            "She placed the vase in the center of the table.",
+            "The center of the target was hit by the arrow."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "central",
+            "definition": "Relativo o perteneciente al centro; ubicado en el centro o que sirve como punto central."
+        },
+        "pt": {
+            "word": "central",
+            "definition": "Relativo ou pertencente ao centro; localizado no centro ou que serve como ponto central."
+        },
+        "word": "central",
+        "ipa": "/ˈsɛntrəl/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns or pronouns."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Relating to or belonging to the center; located in the center or serving as the central point.",
+        "examples": [
+            "The central square is the heart of the city.",
+            "Our office is in the central part of town.",
+            "The central theme of the book is love."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "siglo",
+            "definition": "Un período de cien años, a menudo numerado desde un año de referencia importante."
+        },
+        "pt": {
+            "word": "século",
+            "definition": "Um período de cem anos, muitas vezes numerado a partir de um ano de referência importante."
+        },
+        "word": "century",
+        "ipa": "/ˈsɛnʧəri/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A period of one hundred years, often numbered from a significant reference year.",
+        "examples": [
+            "The 21st century has seen rapid technological advancements.",
+            "The building has stood for over a century.",
+            "She studied the history of art from the 18th century."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "ceremonia",
+            "definition": "Un evento formal o solemne que sigue un conjunto de rituales o tradiciones; una ocasión especial que generalmente implica celebraciones y observancias."
+        },
+        "pt": {
+            "word": "cerimônia",
+            "definition": "Um evento formal ou solene que segue um conjunto de rituais ou tradições; uma ocasião especial que geralmente envolve celebrações e observâncias."
+        },
+        "word": "ceremony",
+        "ipa": "/ˈsɛrəˌmoʊni/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A formal or solemn event that follows a set of rituals or traditions; a special occasion that usually involves celebrations and observances.",
+        "examples": [
+            "The wedding ceremony was beautiful and traditional.",
+            "They held a ceremony to honor the veterans.",
+            "The opening ceremony of the Olympics is a grand spectacle."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cierto",
+            "definition": "Definitivamente verdadero; seguro o indiscutible; que se sabe con certeza."
+        },
+        "pt": {
+            "word": "certo",
+            "definition": "Definitivamente verdadeiro; seguro ou indiscutível; que se sabe com certeza."
+        },
+        "word": "certain",
+        "ipa": "/ˈsɜrtən/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns or pronouns."
+            }
+        ],
+        "definition": "Definitely true; certain or indisputable; known with confidence.",
+        "examples": [
+            "I'm certain that I left my keys on the table.",
+            "There's a certain charm to old houses.",
+            "He has a certain way of making people feel comfortable."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cadena",
+            "definition": "Una serie de eslabones o anillos conectados entre sí, a menudo utilizados para sujetar, conectar o decorar; una secuencia de eventos o cosas interconectadas."
+        },
+        "pt": {
+            "word": "corrente",
+            "definition": "Uma série de elos ou anéis conectados entre si, frequentemente usados para prender, conectar ou decorar; uma sequência de eventos ou coisas interconectadas."
+        },
+        "word": "chain",
+        "ipa": "/ʧeɪn/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A series of links or rings connected together, often used for fastening, connecting, or decorating; a sequence of interconnected events or things.",
+        "examples": [
+            "She wore a beautiful necklace with a gold chain.",
+            "The restaurant is part of a popular chain of eateries.",
+            "The chain of events that led to his success was remarkable."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "silla",
+            "definition": "Un asiento con respaldo, generalmente con cuatro patas, diseñado para una persona."
+        },
+        "pt": {
+            "word": "cadeira",
+            "definition": "Um assento com encosto, geralmente com quatro pernas, projetado para uma pessoa."
+        },
+        "word": "chair",
+        "ipa": "/ʧɛr/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A seat with a backrest, typically having four legs, designed for one person.",
+        "examples": [
+            "Please take a seat in the chair.",
+            "The conference room has comfortable chairs.",
+            "He pulled out a chair for her at the dining table."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "presidente",
+            "definition": "El líder o cabeza de una organización, comité, junta, empresa, país, etc.; la persona que ocupa el cargo más alto en una entidad."
+        },
+        "pt": {
+            "word": "presidente",
+            "definition": "O líder ou chefe de uma organização, comitê, conselho, empresa, país, etc.; a pessoa que ocupa o cargo mais alto em uma entidade."
+        },
+        "word": "chairman",
+        "ipa": "/ˈʧɛrmən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The leader or head of an organization, committee, board, company, country, etc.; the person holding the highest position in an entity.",
+        "examples": [
+            "The chairman of the company addressed the shareholders.",
+            "She was elected as the chairman of the board.",
+            "The chairman of the committee made an announcement."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "cámara",
+            "definition": "Un espacio o habitación, especialmente en un edificio, que a menudo se utiliza para un propósito específico; una organización o grupo de personas con intereses o funciones comunes."
+        },
+        "pt": {
+            "word": "câmara",
+            "definition": "Um espaço ou sala, especialmente em um edifício, frequentemente usado para um propósito específico; uma organização ou grupo de pessoas com interesses ou funções comuns."
+        },
+        "word": "chamber",
+        "ipa": "/ˈʧeɪmbər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A space or room, especially in a building, often used for a specific purpose; an organization or group of people with common interests or functions.",
+        "examples": [
+            "The conference was held in a large chamber.",
+            "The city council meets in the town hall chamber.",
+            "The chamber of commerce promotes local businesses."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "campeón",
+            "definition": "Una persona o equipo que ha ganado una competición o torneo, o que es el mejor en una actividad o disciplina en particular."
+        },
+        "pt": {
+            "word": "campeão",
+            "definition": "Uma pessoa ou equipe que venceu uma competição ou torneio, ou que é a melhor em uma atividade ou disciplina específica."
+        },
+        "word": "champion",
+        "ipa": "/ˈʧæmpiən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A person or team that has won a competition or tournament, or that is the best in a particular activity or discipline.",
+        "examples": [
+            "He's a four-time champion in the boxing world.",
+            "The soccer team was crowned the champion of the league.",
+            "She's a champion swimmer."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "campeonato",
+            "definition": "Un torneo o competición en la que varios participantes compiten por un título o premio; el título otorgado al ganador de dicho torneo o competición."
+        },
+        "pt": {
+            "word": "campeonato",
+            "definition": "Um torneio ou competição em que vários participantes competem por um título ou prêmio; o título concedido ao vencedor desse torneio ou competição."
+        },
+        "word": "championship",
+        "ipa": "/ˈʧæmpiənˌʃɪp/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A tournament or competition in which multiple participants compete for a title or prize; the title awarded to the winner of such a tournament or competition.",
+        "examples": [
+            "The Wimbledon Championship is one of the most prestigious tennis tournaments.",
+            "The team's goal is to win the national championship.",
+            "She won the championship in chess."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "oportunidad",
+            "definition": "Un momento o situación en la que algo es posible; la probabilidad de que algo suceda."
+        },
+        "pt": {
+            "word": "oportunidade",
+            "definition": "Um momento ou situação em que algo é possível; a probabilidade de que algo aconteça."
+        },
+        "word": "chance",
+        "ipa": "/ʧæns/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A moment or situation in which something is possible; the likelihood of something happening.",
+        "examples": [
+            "I'll take a chance and apply for the job.",
+            "There's a slim chance of rain today.",
+            "He's hoping for a second chance to prove himself."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "canal",
+            "definition": "Un conducto o vía que transporta líquidos, como agua o aire; una vía de comunicación o distribución, como una emisora de televisión o una ruta de navegación."
+        },
+        "pt": {
+            "word": "canal",
+            "definition": "Um canal ou via que transporta líquidos, como água ou ar; uma via de comunicação ou distribuição, como uma emissora de televisão ou uma rota de navegação."
+        },
+        "word": "channel",
+        "ipa": "/ˈʧænəl/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "A conduit or passage that carries liquids, such as water or air; a means of communication or distribution, such as a television station or a navigational route.",
+        "examples": [
+            "The canal was used to transport goods by boat.",
+            "She changed the TV channel to watch the news.",
+            "The English Channel is an important maritime route."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "caos",
+            "definition": "Un estado de completa desorganización o confusión en el que no hay control ni orden."
+        },
+        "pt": {
+            "word": "caos",
+            "definition": "Um estado de completa desorganização ou confusão em que não há controle ou ordem."
+        },
+        "word": "chaos",
+        "ipa": "/ˈkeɪɑs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A state of complete disorganization or confusion in which there is no control or order.",
+        "examples": [
+            "The sudden power outage caused chaos in the city.",
+            "The classroom was in chaos after the students finished their project.",
+            "The traffic jam created chaos on the highway."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "capítulo",
+            "definition": "Una división o sección de un libro, película, serie, etc.; una etapa o fase en un proceso."
+        },
+        "pt": {
+            "word": "capítulo",
+            "definition": "Uma divisão ou seção de um livro, filme, série, etc.; uma etapa ou fase em um processo."
+        },
+        "word": "chapter",
+        "ipa": "/ˈʧæptər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A division or section of a book, movie, series, etc.; a stage or phase in a process.",
+        "examples": [
+            "I just finished reading the last chapter of the novel.",
+            "This is an important chapter in our company's history.",
+            "Let's move on to the next chapter of our project."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "personaje",
+            "definition": "Una persona en una obra de ficción, película, libro, etc.; las características distintivas de una persona."
+        },
+        "pt": {
+            "word": "personagem",
+            "definition": "Uma pessoa em uma obra de ficção, filme, livro, etc.; as características distintivas de uma pessoa."
+        },
+        "word": "character",
+        "ipa": "/ˈkærəktər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A person in a work of fiction, movie, book, etc.; the distinctive qualities of a person.",
+        "examples": [
+            "The main character in the story is a brave hero.",
+            "She has a strong and interesting character.",
+            "Actors often have to develop their characters for a role."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "característica",
+            "definition": "Una cualidad o atributo distintivo de algo o alguien; una propiedad que define o identifica algo."
+        },
+        "pt": {
+            "word": "característica",
+            "definition": "Uma qualidade ou atributo distintivo de algo ou alguém; uma propriedade que define ou identifica algo."
+        },
+        "word": "characteristic",
+        "ipa": "/ˌkærəktəˈrɪstɪk/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "A distinctive quality or attribute of something or someone; a property that defines or identifies something.",
+        "examples": [
+            "One characteristic of this species is its bright red color.",
+            "Attention to detail is a characteristic of a good chef.",
+            "The characteristic smell of roses filled the room."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "caridad",
+            "definition": "La acción de ayudar o brindar apoyo a los necesitados, generalmente a través de donaciones de dinero, comida, ropa, etc.; la compasión y la benevolencia hacia los menos afortunados."
+        },
+        "pt": {
+            "word": "caridade",
+            "definition": "A ação de ajudar ou dar apoio aos necessitados, geralmente através de doações de dinheiro, comida, roupas, etc.; a compaixão e a benevolência para com os menos afortunados."
+        },
+        "word": "charity",
+        "ipa": "/ˈʧærəti/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The action of helping or providing support to those in need, typically through donations of money, food, clothing, etc.; compassion and benevolence toward the less fortunate.",
+        "examples": [
+            "The charity organization provides food to homeless people.",
+            "Many people engage in acts of charity during the holiday season.",
+            "Her charity work has made a positive impact on the community."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
     }
 ]
