@@ -80470,4 +80470,3565 @@
   ],
   "times_seen": 1,
   "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dce"
+  },
+  "es": {
+    "word": "blue",
+    "definition": "Azul."
+  },
+  "pt": {
+    "word": "azul",
+    "definition": "Azul."
+  },
+  "word": "blue",
+  "ipa": "/bluː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The color blue."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dcf"
+  },
+  "es": {
+    "word": "board",
+    "definition": "Tabla o tablero plano y rígido, a menudo de madera, utilizado para diversas aplicaciones."
+  },
+  "pt": {
+    "word": "tábua",
+    "definition": "Uma superfície plana e rígida, muitas vezes de madeira, usada para várias aplicações."
+  },
+  "word": "board",
+  "ipa": "/bɔːrd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A flat and rigid surface, often made of wood, used for various applications."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd0"
+  },
+  "es": {
+    "word": "boat",
+    "definition": "Una embarcación pequeña diseñada para navegar por el agua."
+  },
+  "pt": {
+    "word": "barco",
+    "definition": "Uma embarcação pequena projetada para navegar na água."
+  },
+  "word": "boat",
+  "ipa": "/boʊt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A small vessel designed for traveling on water."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd1"
+  },
+  "es": {
+    "word": "bold",
+    "definition": "Atrevido o audaz en la acción; fuerte en el diseño o estilo."
+  },
+  "pt": {
+    "word": "ousado",
+    "definition": "Audacioso ou corajoso na ação; forte no design ou estilo."
+  },
+  "word": "bold",
+  "ipa": "/boʊld/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Daring or audacious in action; strong in design or style."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd2"
+  },
+  "es": {
+    "word": "bond",
+    "definition": "Unión o conexión fuerte entre dos o más cosas."
+  },
+  "pt": {
+    "word": "ligação",
+    "definition": "Ligação ou conexão forte entre duas ou mais coisas."
+  },
+  "word": "bond",
+  "ipa": "/bɒnd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Strong union or connection between two or more things."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd3"
+  },
+  "es": {
+    "word": "concede",
+    "definition": "Aceptar o admitir que algo es cierto o válido; otorgar."
+  },
+  "pt": {
+    "word": "conceder",
+    "definition": "Aceitar ou admitir que algo é verdadeiro ou válido; conceder."
+  },
+  "word": "concede",
+  "ipa": "/kənˈsiːd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To accept or admit that something is true or valid; to grant."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd4"
+  },
+  "es": {
+    "word": "conceive",
+    "definition": "Formar una idea o concepto en la mente; concebir."
+  },
+  "pt": {
+    "word": "conceber",
+    "definition": "Formar uma ideia ou conceito na mente; conceber."
+  },
+  "word": "conceive",
+  "ipa": "/kənˈsiːv/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To form an idea or concept in the mind; to conceive."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd5"
+  },
+  "es": {
+    "word": "concept",
+    "definition": "Una idea o noción abstracta que representa algo en la mente."
+  },
+  "pt": {
+    "word": "conceito",
+    "definition": "Uma ideia ou noção abstrata que representa algo na mente."
+  },
+  "word": "concept",
+  "ipa": "/ˈkɒnsept/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An abstract idea or notion that represents something in the mind."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd6"
+  },
+  "es": {
+    "word": "concert",
+    "definition": "Un espectáculo musical en vivo en el que varios músicos tocan juntos."
+  },
+  "pt": {
+    "word": "concerto",
+    "definition": "Um espetáculo musical ao vivo em que vários músicos tocam juntos."
+  },
+  "word": "concert",
+  "ipa": "/ˈkɒnsərt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A live musical performance in which multiple musicians play together."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd7"
+  },
+  "es": {
+    "word": "conclude",
+    "definition": "Llegar a una decisión o resolución después de un razonamiento o discusión."
+  },
+  "pt": {
+    "word": "concluir",
+    "definition": "Chegar a uma decisão ou resolução após um raciocínio ou discussão."
+  },
+  "word": "conclude",
+  "ipa": "/kənˈkluːd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To arrive at a decision or resolution after reasoning or discussion."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd8"
+  },
+  "es": {
+    "word": "concrete",
+    "definition": "Material de construcción compuesto por cemento, arena, grava y agua."
+  },
+  "pt": {
+    "word": "concreto",
+    "definition": "Material de construção composto por cimento, areia, cascalho e água."
+  },
+  "word": "concrete",
+  "ipa": "/ˈkɒnkrət/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Building material composed of cement, sand, gravel, and water."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dd9"
+  },
+  "es": {
+    "word": "condemn",
+    "definition": "Expresar una fuerte desaprobación o condena hacia algo o alguien."
+  },
+  "pt": {
+    "word": "condenar",
+    "definition": "Expressar forte desaprovação ou condenação em relação a algo ou alguém."
+  },
+  "word": "condemn",
+  "ipa": "/kənˈdɛm/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To express strong disapproval or condemnation toward something or someone."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dda"
+  },
+  "es": {
+    "word": "condition",
+    "definition": "El estado en que se encuentra algo o alguien; una circunstancia que afecta una situación."
+  },
+  "pt": {
+    "word": "condição",
+    "definition": "O estado em que algo ou alguém se encontra; uma circunstância que afeta uma situação."
+  },
+  "word": "condition",
+  "ipa": "/kənˈdɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The state that something or someone is in; a circumstance that affects a situation."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0ddb"
+  },
+  "es": {
+    "word": "consequence",
+    "definition": "El resultado o efecto de una acción o situación."
+  },
+  "pt": {
+    "word": "consequência",
+    "definition": "O resultado ou efeito de uma ação ou situação."
+  },
+  "word": "consequence",
+  "ipa": "/ˈkɒnsɪkwəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The result or effect of an action or situation."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0ddc"
+  },
+  "es": {
+    "word": "conservative",
+    "definition": "Adherente a valores tradicionales y cauteloso hacia el cambio."
+  },
+  "pt": {
+    "word": "conservador",
+    "definition": "Aderente a valores tradicionais e cauteloso em relação à mudança."
+  },
+  "word": "conservative",
+  "ipa": "/kənˈsɜːrvətɪv/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Adherent to traditional values and cautious about change."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0ddd"
+  },
+  "es": {
+    "word": "consistent",
+    "definition": "Mantener la misma calidad, comportamiento o actitud con el tiempo."
+  },
+  "pt": {
+    "word": "consistente",
+    "definition": "Manter a mesma qualidade, comportamento ou atitude ao longo do tempo."
+  },
+  "word": "consistent",
+  "ipa": "/kənˈsɪstənt/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Maintaining the same quality, behavior, or attitude over time."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dde"
+  },
+  "es": {
+    "word": "console",
+    "definition": "Ofrecer consuelo o apoyo a alguien en momentos de tristeza o dificultad."
+  },
+  "pt": {
+    "word": "consolar",
+    "definition": "Oferecer consolo ou apoio a alguém em momentos de tristeza ou dificuldade."
+  },
+  "word": "console",
+  "ipa": "/kənˈsoʊl/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To offer comfort or support to someone in times of sadness or difficulty."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0ddf"
+  },
+  "es": {
+    "word": "consolidate",
+    "definition": "Hacer más sólido o fuerte; unir o combinar varias cosas en una."
+  },
+  "pt": {
+    "word": "consolidar",
+    "definition": "Tornar mais sólido ou forte; unir ou combinar várias coisas em uma."
+  },
+  "word": "consolidate",
+  "ipa": "/kənˈsɒlɪdeɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To make more solid or strong; to unite or combine several things into one."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de0"
+  },
+  "es": {
+    "word": "constant",
+    "definition": "Permanente o invariable; que no cambia o fluctúa."
+  },
+  "pt": {
+    "word": "constante",
+    "definition": "Permanente ou invariável; que não muda ou flutua."
+  },
+  "word": "constant",
+  "ipa": "/ˈkɒnstənt/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Permanent or unchanging; not varying or fluctuating."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de1"
+  },
+  "es": {
+    "word": "constitute",
+    "definition": "Formar o componer algo; ser parte de un todo."
+  },
+  "pt": {
+    "word": "constituir",
+    "definition": "Formar ou compor algo; ser parte de um todo."
+  },
+  "word": "constitute",
+  "ipa": "/ˈkɒnstɪtjuːt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To form or compose something; to be part of a whole."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de2"
+  },
+  "es": {
+    "word": "constrain",
+    "definition": "Restringir o limitar la libertad o acción de alguien."
+  },
+  "pt": {
+    "word": "constranger",
+    "definition": "Restringir ou limitar a liberdade ou ação de alguém."
+  },
+  "word": "constrain",
+  "ipa": "/kənˈstreɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To restrict or limit someone's freedom or action."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de3"
+  },
+  "es": {
+    "word": "construct",
+    "definition": "Construir o crear algo, especialmente mediante la combinación de componentes."
+  },
+  "pt": {
+    "word": "construir",
+    "definition": "Construir ou criar algo, especialmente através da combinação de componentes."
+  },
+  "word": "construct",
+  "ipa": "/kənˈstrʌkt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To build or create something, especially by combining components."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de4"
+  },
+  "es": {
+    "word": "consult",
+    "definition": "Buscar información, consejo o orientación de alguien o algo."
+  },
+  "pt": {
+    "word": "consultar",
+    "definition": "Buscar informações, conselhos ou orientações de alguém ou algo."
+  },
+  "word": "consult",
+  "ipa": "/kənˈsʌlt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To seek information, advice, or guidance from someone or something."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de5"
+  },
+  "es": {
+    "word": "consume",
+    "definition": "Ingerir o utilizar algo, especialmente alimentos o recursos."
+  },
+  "pt": {
+    "word": "consumir",
+    "definition": "Ingerir ou utilizar algo, especialmente alimentos ou recursos."
+  },
+  "word": "consume",
+  "ipa": "/kənˈsjuːm/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To ingest or use something, especially food or resources."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de6"
+  },
+  "es": {
+    "word": "consumer",
+    "definition": "Una persona que adquiere y utiliza productos o servicios."
+  },
+  "pt": {
+    "word": "consumidor",
+    "definition": "Uma pessoa que adquire e utiliza produtos ou serviços."
+  },
+  "word": "consumer",
+  "ipa": "/kənˈsjuːmər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A person who acquires and uses products or services."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de7"
+  },
+  "es": {
+    "word": "contact",
+    "definition": "La acción de comunicarse o tocar a alguien o algo."
+  },
+  "pt": {
+    "word": "contato",
+    "definition": "A ação de se comunicar ou tocar alguém ou algo."
+  },
+  "word": "contact",
+  "ipa": "/ˈkɒntækt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The action of communicating with or touching someone or something."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de8"
+  },
+  "es": {
+    "word": "container",
+    "definition": "Un recipiente utilizado para almacenar o transportar objetos."
+  },
+  "pt": {
+    "word": "contêiner",
+    "definition": "Um recipiente usado para armazenar ou transportar objetos."
+  },
+  "word": "container",
+  "ipa": "/kənˈteɪnər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A container used for storing or transporting objects."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0de9"
+  },
+  "es": {
+    "word": "contemplate",
+    "definition": "Reflexionar o considerar algo con atención y detenimiento."
+  },
+  "pt": {
+    "word": "contemplar",
+    "definition": "Refletir ou considerar algo com atenção e cuidado."
+  },
+  "word": "contemplate",
+  "ipa": "/ˈkɒntəmpleɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To reflect on or consider something with attention and care."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dea"
+  },
+  "es": {
+    "word": "contemporary",
+    "definition": "Pertinente o relacionado con el tiempo presente o la época actual."
+  },
+  "pt": {
+    "word": "contemporâneo",
+    "definition": "Pertinente ou relacionado com o tempo presente ou a época atual."
+  },
+  "word": "contemporary",
+  "ipa": "/kənˈtɛmpəˌrɛri/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Pertaining to or related to the present time or the current era."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0deb"
+  },
+  "es": {
+    "word": "content",
+    "definition": "El material o información que se encuentra dentro de algo."
+  },
+  "pt": {
+    "word": "conteúdo",
+    "definition": "O material ou informação encontrados dentro de algo."
+  },
+  "word": "content",
+  "ipa": "/ˈkɒntɛnt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The material or information found within something."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dec"
+  },
+  "es": {
+    "word": "contest",
+    "definition": "Una competición o desafío en el que se compite por un premio."
+  },
+  "pt": {
+    "word": "concurso",
+    "definition": "Uma competição ou desafio em que se compete por um prêmio."
+  },
+  "word": "contest",
+  "ipa": "/ˈkɒntɛst/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A competition or challenge in which people compete for a prize."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0ded"
+  },
+  "es": {
+    "word": "context",
+    "definition": "El entorno o circunstancias que rodean a una situación o evento."
+  },
+  "pt": {
+    "word": "contexto",
+    "definition": "O ambiente ou circunstâncias que cercam uma situação ou evento."
+  },
+  "word": "context",
+  "ipa": "/ˈkɒntɛkst/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The environment or circumstances surrounding a situation or event."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dee"
+  },
+  "es": {
+    "word": "continent",
+    "definition": "Una de las principales divisiones de la tierra, como África o Asia."
+  },
+  "pt": {
+    "word": "continente",
+    "definition": "Uma das principais divisões da Terra, como a África ou a Ásia."
+  },
+  "word": "continent",
+  "ipa": "/ˈkɒntɪnənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "One of the major divisions of the Earth, such as Africa or Asia."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0def"
+  },
+  "es": {
+    "word": "contract",
+    "definition": "Un acuerdo legalmente vinculante entre dos o más partes."
+  },
+  "pt": {
+    "word": "contrato",
+    "definition": "Um acordo legalmente vinculativo entre duas ou mais partes."
+  },
+  "word": "contract",
+  "ipa": "/ˈkɒntrækt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A legally binding agreement between two or more parties."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df0"
+  },
+  "es": {
+    "word": "contradict",
+    "definition": "Declarar lo opuesto a lo que alguien ha dicho o afirmado."
+  },
+  "pt": {
+    "word": "contradizer",
+    "definition": "Declarar o oposto do que alguém disse ou afirmou."
+  },
+  "word": "contradict",
+  "ipa": "/ˌkɒntrəˈdɪkt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To state the opposite of what someone has said or asserted."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df1"
+  },
+  "es": {
+    "word": "contrast",
+    "definition": "La diferencia notable entre dos o más cosas que se comparan."
+  },
+  "pt": {
+    "word": "contraste",
+    "definition": "A diferença notável entre duas ou mais coisas que estão sendo comparadas."
+  },
+  "word": "contrast",
+  "ipa": "/ˈkɒntræst/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The notable difference between two or more things being compared."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df2"
+  },
+  "es": {
+    "word": "control",
+    "definition": "Ejercer autoridad o influencia sobre algo para regularlo o dirigirlo."
+  },
+  "pt": {
+    "word": "controle",
+    "definition": "Exercer autoridade ou influência sobre algo para regulá-lo ou direcioná-lo."
+  },
+  "word": "control",
+  "ipa": "/kənˈtroʊl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To exercise authority or influence over something to regulate or direct it."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df3"
+  },
+  "es": {
+    "word": "controversy",
+    "definition": "Una disputa o debate prolongado sobre un tema en el que las opiniones difieren."
+  },
+  "pt": {
+    "word": "controvérsia",
+    "definition": "Uma disputa ou debate prolongado sobre um tema em que as opiniões diferem."
+  },
+  "word": "controversy",
+  "ipa": "/ˈkɒntrəˌvɜrsi/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A prolonged dispute or debate about a topic on which opinions differ."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df4"
+  },
+  "es": {
+    "word": "convene",
+    "definition": "Reunirse o convocar a personas o grupos para una reunión o propósito específico."
+  },
+  "pt": {
+    "word": "convocar",
+    "definition": "Reunir ou convocar pessoas ou grupos para uma reunião ou propósito específico."
+  },
+  "word": "convene",
+  "ipa": "/kənˈviːn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To gather or summon people or groups for a specific meeting or purpose."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df5"
+  },
+  "es": {
+    "word": "convenience",
+    "definition": "La cualidad de ser útil, cómodo o adecuado para una situación específica."
+  },
+  "pt": {
+    "word": "conveniência",
+    "definition": "A qualidade de ser útil, confortável ou adequado para uma situação específica."
+  },
+  "word": "convenience",
+  "ipa": "/kənˈviːniəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The quality of being useful, comfortable, or suitable for a specific situation."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df6"
+  },
+  "es": {
+    "word": "convention",
+    "definition": "Un evento o reunión formal en la que se discuten temas específicos o se toman decisiones."
+  },
+  "pt": {
+    "word": "convenção",
+    "definition": "Um evento ou reunião formal em que se discutem temas específicos ou se tomam decisões."
+  },
+  "word": "convention",
+  "ipa": "/kənˈvɛnʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A formal event or meeting in which specific topics are discussed or decisions are made."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df7"
+  },
+  "es": {
+    "word": "conventional",
+    "definition": "Siguiendo las normas o prácticas comunes; tradicional o típico."
+  },
+  "pt": {
+    "word": "convencional",
+    "definition": "Seguindo as normas ou práticas comuns; tradicional ou típico."
+  },
+  "word": "conventional",
+  "ipa": "/kənˈvɛnʃənl̩/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Following common rules or practices; traditional or typical."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df8"
+  },
+  "es": {
+    "word": "convert",
+    "definition": "Cambiar algo de un estado, uso o creencia a otro."
+  },
+  "pt": {
+    "word": "converter",
+    "definition": "Mudar algo de um estado, uso ou crença para outro."
+  },
+  "word": "convert",
+  "ipa": "/kənˈvɜrt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To change something from one state, use, or belief to another."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0df9"
+  },
+  "es": {
+    "word": "convict",
+    "definition": "Declarar oficialmente a alguien como culpable de un delito después de un juicio."
+  },
+  "pt": {
+    "word": "condenar",
+    "definition": "Declarar oficialmente alguém culpado de um crime após um julgamento."
+  },
+  "word": "convict",
+  "ipa": "/kənˈvɪkt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To officially declare someone guilty of a crime after a trial."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dfa"
+  },
+  "es": {
+    "word": "convince",
+    "definition": "Persuadir o hacer que alguien crea o esté de acuerdo con algo."
+  },
+  "pt": {
+    "word": "convencer",
+    "definition": "Persuadir ou fazer alguém acreditar ou concordar com algo."
+  },
+  "word": "convince",
+  "ipa": "/kənˈvɪns/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To persuade or make someone believe or agree with something."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dfb"
+  },
+  "es": {
+    "word": "cool",
+    "definition": "De temperatura baja o agradable al tacto; calmado o relajado."
+  },
+  "pt": {
+    "word": "fresco",
+    "definition": "De temperatura baixa ou agradável ao toque; calmo ou relaxado."
+  },
+  "word": "cool",
+  "ipa": "/kuːl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Of low temperature or pleasant to the touch; calm or relaxed."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dfc"
+  },
+  "es": {
+    "word": "cooperate",
+    "definition": "Trabajar juntos o colaborar en la realización de una tarea o objetivo."
+  },
+  "pt": {
+    "word": "cooperar",
+    "definition": "Trabalhar juntos ou colaborar na realização de uma tarefa ou objetivo."
+  },
+  "word": "cooperate",
+  "ipa": "/koʊˈɑːpəˌreɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To work together or collaborate in the completion of a task or objective."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dfd"
+  },
+  "es": {
+    "word": "coordinate",
+    "definition": "Organizar o sincronizar actividades o procesos para lograr un objetivo común."
+  },
+  "pt": {
+    "word": "coordenar",
+    "definition": "Organizar ou sincronizar atividades ou processos para alcançar um objetivo comum."
+  },
+  "word": "coordinate",
+  "ipa": "/koʊˈɔːrdəˌneɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To organize or synchronize activities or processes to achieve a common goal."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dfe"
+  },
+  "es": {
+    "word": "cop",
+    "definition": "Un oficial de policía o agente de la ley."
+  },
+  "pt": {
+    "word": "policial",
+    "definition": "Um oficial de polícia ou agente da lei."
+  },
+  "word": "cop",
+  "ipa": "/kɒp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A police officer or law enforcement agent."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0dff"
+  },
+  "es": {
+    "word": "cope",
+    "definition": "Manejar o enfrentar con éxito una situación difícil o desafiante."
+  },
+  "pt": {
+    "word": "lidar",
+    "definition": "Lidar ou enfrentar com sucesso uma situação difícil ou desafiadora."
+  },
+  "word": "cope",
+  "ipa": "/koʊp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To handle or deal successfully with a difficult or challenging situation."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e00"
+  },
+  "es": {
+    "word": "corn",
+    "definition": "Un tipo de cereal que se cultiva ampliamente en muchas partes del mundo."
+  },
+  "pt": {
+    "word": "milho",
+    "definition": "Um tipo de cereal amplamente cultivado em muitas partes do mundo."
+  },
+  "word": "corn",
+  "ipa": "/kɔːrn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A type of cereal widely cultivated in many parts of the world."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e01"
+  },
+  "es": {
+    "word": "corner",
+    "definition": "El lugar donde dos lados o bordes se encuentran, formando un ángulo."
+  },
+  "pt": {
+    "word": "canto",
+    "definition": "O lugar onde dois lados ou bordas se encontram, formando um ângulo."
+  },
+  "word": "corner",
+  "ipa": "/ˈkɔːrnər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The place where two sides or edges meet, forming an angle."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e02"
+  },
+  "es": {
+    "word": "corporate",
+    "definition": "Relativo a una empresa o corporación, especialmente a nivel empresarial."
+  },
+  "pt": {
+    "word": "corporativo",
+    "definition": "Relativo a uma empresa ou corporação, especialmente em nível empresarial."
+  },
+  "word": "corporate",
+  "ipa": "/ˈkɔːrpərət/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Relating to a company or corporation, especially at the business level."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e03"
+  },
+  "es": {
+    "word": "corporation",
+    "definition": "Una entidad legalmente reconocida que opera como una entidad separada de sus propietarios."
+  },
+  "pt": {
+    "word": "corporação",
+    "definition": "Uma entidade legalmente reconhecida que opera como uma entidade separada de seus proprietários."
+  },
+  "word": "corporation",
+  "ipa": "/ˌkɔːrpəˈreɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A legally recognized entity that operates as a separate entity from its owners."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e04"
+  },
+  "es": {
+    "word": "correlate",
+    "definition": "Un elemento que está relacionado o se conecta de alguna manera con otro."
+  },
+  "pt": {
+    "word": "correlato",
+    "definition": "Um elemento que está relacionado ou se conecta de alguma forma com outro."
+  },
+  "word": "correlate",
+  "ipa": "/ˈkɒrəˌleɪt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "An element that is related or connected in some way to another."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e05"
+  },
+  "es": {
+    "word": "correspond",
+    "definition": "Comunicarse con alguien mediante el intercambio de cartas, mensajes escritos o correos electrónicos."
+  },
+  "pt": {
+    "word": "corresponder",
+    "definition": "Comunicar-se com alguém através da troca de cartas, mensagens escritas ou e-mails."
+  },
+  "word": "correspond",
+  "ipa": "/ˌkɒrəˈspɒnd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To communicate with someone by exchanging letters, written messages, or emails."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e06"
+  },
+  "es": {
+    "word": "corridor",
+    "definition": "Un pasillo largo y estrecho en un edificio o espacio que conecta habitaciones o áreas."
+  },
+  "pt": {
+    "word": "corredor",
+    "definition": "Um corredor longo e estreito em um edifício ou espaço que conecta quartos ou áreas."
+  },
+  "word": "corridor",
+  "ipa": "/ˈkɒrɪdər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A long, narrow hallway in a building or space that connects rooms or areas."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e07"
+  },
+  "es": {
+    "word": "corrupt",
+    "definition": "Actuar de manera deshonesta o inmoral, especialmente en una posición de poder."
+  },
+  "pt": {
+    "word": "corrupto",
+    "definition": "Agir de maneira desonesta ou imoral, especialmente em uma posição de poder."
+  },
+  "word": "corrupt",
+  "ipa": "/kəˈrʌpt/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To act dishonestly or immorally, especially in a position of power."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e08"
+  },
+  "es": {
+    "word": "costume",
+    "definition": "Ropa o conjunto de prendas usadas para representar un personaje o en una ocasión especial."
+  },
+  "pt": {
+    "word": "traje",
+    "definition": "Roupa ou conjunto de roupas usadas para representar um personagem ou em uma ocasião especial."
+  },
+  "word": "costume",
+  "ipa": "/ˈkɒstjuːm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Clothing or a set of garments worn to represent a character or on a special occasion."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e09"
+  },
+  "es": {
+    "word": "cottage",
+    "definition": "Una casa pequeña, típicamente en un entorno rural o pintoresco."
+  },
+  "pt": {
+    "word": "casa de campo",
+    "definition": "Uma casa pequena, tipicamente em um ambiente rural ou pitoresco."
+  },
+  "word": "cottage",
+  "ipa": "/ˈkɒtɪdʒ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A small house, typically in a rural or picturesque setting."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e0a"
+  },
+  "es": {
+    "word": "cotton",
+    "definition": "Una fibra vegetal suave y esponjosa que se utiliza para hacer tela y otros productos."
+  },
+  "pt": {
+    "word": "algodão",
+    "definition": "Uma fibra vegetal macia e fofa usada para fazer tecidos e outros produtos."
+  },
+  "word": "cotton",
+  "ipa": "/ˈkɒtn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A soft, fluffy plant fiber used to make fabric and other products."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e0b"
+  },
+  "es": {
+    "word": "couch",
+    "definition": "Un mueble para sentarse o acostarse, generalmente con respaldo y brazos."
+  },
+  "pt": {
+    "word": "sofá",
+    "definition": "Um móvel para sentar ou deitar, geralmente com encosto e braços."
+  },
+  "word": "couch",
+  "ipa": "/kaʊtʃ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A piece of furniture for sitting or lying down, typically with a back and arms."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e0c"
+  },
+  "es": {
+    "word": "council",
+    "definition": "Un grupo de personas elegidas o designadas para tomar decisiones o brindar asesoramiento."
+  },
+  "pt": {
+    "word": "conselho",
+    "definition": "Um grupo de pessoas eleitas ou designadas para tomar decisões ou fornecer orientações."
+  },
+  "word": "council",
+  "ipa": "/ˈkaʊnsl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A group of people elected or appointed to make decisions or provide guidance."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e0d"
+  },
+  "es": {
+    "word": "counsel",
+    "definition": "Asesoramiento o orientación proporcionados por alguien con experiencia o conocimiento."
+  },
+  "pt": {
+    "word": "conselho",
+    "definition": "Aconselhamento ou orientação fornecidos por alguém com experiência ou conhecimento."
+  },
+  "word": "counsel",
+  "ipa": "/ˈkaʊnsl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Advice or guidance provided by someone with experience or knowledge."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e0e"
+  },
+  "es": {
+    "word": "counselor",
+    "definition": "Una persona que proporciona asesoramiento o orientación, generalmente en un contexto profesional."
+  },
+  "pt": {
+    "word": "conselheiro",
+    "definition": "Uma pessoa que fornece aconselhamento ou orientação, geralmente em um contexto profissional."
+  },
+  "word": "counselor",
+  "ipa": "/ˈkaʊnslər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A person who provides advice or guidance, typically in a professional context."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e0f"
+  },
+  "es": {
+    "word": "counter",
+    "definition": "Una superficie plana en un mostrador o mesa utilizada para realizar transacciones comerciales o servir alimentos."
+  },
+  "pt": {
+    "word": "balcão",
+    "definition": "Uma superfície plana em um balcão ou mesa usada para realizar transações comerciais ou servir alimentos."
+  },
+  "word": "counter",
+  "ipa": "/ˈkaʊntər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A flat surface on a counter or table used for conducting business transactions or serving food."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e10"
+  },
+  "es": {
+    "word": "county",
+    "definition": "Una división política y geográfica de un estado o país, gobernada por un conde o comisionado."
+  },
+  "pt": {
+    "word": "condado",
+    "definition": "Uma divisão política e geográfica de um estado ou país, governada por um conde ou comissário."
+  },
+  "word": "county",
+  "ipa": "/ˈkaʊnti/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A political and geographical division of a state or country, governed by a count or commissioner."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e11"
+  },
+  "es": {
+    "word": "coup",
+    "definition": "Un golpe de estado o una acción repentina y exitosa que cambia el curso de los eventos."
+  },
+  "pt": {
+    "word": "golpe",
+    "definition": "Um golpe de estado ou uma ação repentina e bem-sucedida que muda o curso dos eventos."
+  },
+  "word": "coup",
+  "ipa": "/kuː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A coup d'état or a sudden, successful action that changes the course of events."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e12"
+  },
+  "es": {
+    "word": "couple",
+    "definition": "Dos personas o cosas que están unidas o relacionadas de alguna manera."
+  },
+  "pt": {
+    "word": "casal",
+    "definition": "Duas pessoas ou coisas que estão unidas ou relacionadas de alguma forma."
+  },
+  "word": "couple",
+  "ipa": "/ˈkʌpl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Two people or things that are united or related in some way."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e1d"
+  },
+  "es": {
+    "word": "course",
+    "definition": "Un camino o dirección a lo largo del cual algo se mueve o fluye; un plan de estudio."
+  },
+  "pt": {
+    "word": "curso",
+    "definition": "Um caminho ou direção ao longo do qual algo se move ou flui; um plano de estudos."
+  },
+  "word": "course",
+  "ipa": "/kɔːrs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A path or direction along which something moves or flows; a plan of study."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e1e"
+  },
+  "es": {
+    "word": "court",
+    "definition": "Un lugar donde se llevan a cabo procedimientos legales y judiciales; mostrar interés romántico por alguien."
+  },
+  "pt": {
+    "word": "tribunal",
+    "definition": "Um local onde são realizados procedimentos legais e judiciais; demonstrar interesse romântico por alguém."
+  },
+  "word": "court",
+  "ipa": "/kɔːrt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A place where legal and judicial proceedings are conducted; to show romantic interest in someone."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e1f"
+  },
+  "es": {
+    "word": "cousin",
+    "definition": "Un familiar que es el hijo de un tío o tía en relación con el hablante."
+  },
+  "pt": {
+    "word": "primo",
+    "definition": "Um parente que é filho de um tio ou tia em relação ao falante."
+  },
+  "word": "cousin",
+  "ipa": "/ˈkʌzɪn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A relative who is the child of an uncle or aunt in relation to the speaker."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e20"
+  },
+  "es": {
+    "word": "cow",
+    "definition": "Un animal doméstico que se cría por su leche o carne; una mujer desagradable."
+  },
+  "pt": {
+    "word": "vaca",
+    "definition": "Um animal doméstico criado por sua carne ou leite; uma mulher desagradável."
+  },
+  "word": "cow",
+  "ipa": "/kaʊ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A domestic animal raised for its milk or meat; an unpleasant woman."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e21"
+  },
+  "es": {
+    "word": "crazy",
+    "definition": "Mentalmente enfermo; extremadamente entusiasta o apasionado."
+  },
+  "pt": {
+    "word": "louco",
+    "definition": "Mentalmente doente; extremamente entusiasmado ou apaixonado."
+  },
+  "word": "crazy",
+  "ipa": "/ˈkreɪzi/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Mentally ill; extremely enthusiastic or passionate."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e22"
+  },
+  "es": {
+    "word": "cream",
+    "definition": "Una sustancia suave y espesa que se forma en la leche; una preparación para la piel."
+  },
+  "pt": {
+    "word": "creme",
+    "definition": "Uma substância suave e espessa que se forma no leite; uma preparação para a pele."
+  },
+  "word": "cream",
+  "ipa": "/kriːm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A smooth, thick substance that forms in milk; a skin preparation."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e23"
+  },
+  "es": {
+    "word": "create",
+    "definition": "Producir algo nuevo mediante la imaginación o el esfuerzo; dar origen a algo."
+  },
+  "pt": {
+    "word": "criar",
+    "definition": "Produzir algo novo pela imaginação ou esforço; dar origem a algo."
+  },
+  "word": "create",
+  "ipa": "/kriˈeɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To produce something new through imagination or effort; to bring something into existence."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e24"
+  },
+  "es": {
+    "word": "creation",
+    "definition": "El acto o proceso de crear algo; una cosa que ha sido creada."
+  },
+  "pt": {
+    "word": "criação",
+    "definition": "O ato ou processo de criar algo; uma coisa que foi criada."
+  },
+  "word": "creation",
+  "ipa": "/kriˈeɪʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The act or process of creating something; something that has been created."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e25"
+  },
+  "es": {
+    "word": "creative",
+    "definition": "Relacionado con la capacidad de crear, imaginar o producir algo nuevo."
+  },
+  "pt": {
+    "word": "criativo",
+    "definition": "Relacionado com a capacidade de criar, imaginar ou produzir algo novo."
+  },
+  "word": "creative",
+  "ipa": "/kriˈeɪtɪv/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Related to the ability to create, imagine, or produce something new."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e26"
+  },
+  "es": {
+    "word": "credit",
+    "definition": "La capacidad de obtener bienes o servicios antes de pagar por ellos; elogio o reconocimiento por un logro."
+  },
+  "pt": {
+    "word": "crédito",
+    "definition": "A capacidade de obter bens ou serviços antes de pagar por eles; elogio ou reconhecimento por uma realização."
+  },
+  "word": "credit",
+  "ipa": "/ˈkrɛdɪt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The ability to obtain goods or services before paying for them; praise or recognition for an achievement."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e27"
+  },
+  "es": {
+    "word": "crew",
+    "definition": "Un grupo de personas que trabajan juntas en un barco, avión, película, etc.; un equipo de trabajo."
+  },
+  "pt": {
+    "word": "tripulação",
+    "definition": "Um grupo de pessoas que trabalham juntas em um navio, avião, filme, etc.; uma equipe de trabalho."
+  },
+  "word": "crew",
+  "ipa": "/kruː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A group of people who work together on a ship, plane, film, etc.; a work team."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e28"
+  },
+  "es": {
+    "word": "crime",
+    "definition": "Un acto ilegal que está sujeto a castigo por la ley; un acto inmoral o malicioso."
+  },
+  "pt": {
+    "word": "crime",
+    "definition": "Um ato ilegal sujeito a punição pela lei; um ato imoral ou malicioso."
+  },
+  "word": "crime",
+  "ipa": "/kraɪm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An illegal act that is subject to punishment by the law; an immoral or malicious act."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e29"
+  },
+  "es": {
+    "word": "criminal",
+    "definition": "Relativo a un delito o criminal; una persona que comete delitos."
+  },
+  "pt": {
+    "word": "criminal",
+    "definition": "Relativo a um crime ou criminoso; uma pessoa que comete crimes."
+  },
+  "word": "criminal",
+  "ipa": "/ˈkrɪmɪnəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Relating to a crime or criminal; a person who commits crimes."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e2a"
+  },
+  "es": {
+    "word": "crisis",
+    "definition": "Una situación peligrosa o difícil que requiere una decisión rápida; un punto crítico en una serie de eventos."
+  },
+  "pt": {
+    "word": "crise",
+    "definition": "Uma situação perigosa ou difícil que requer uma decisão rápida; um ponto crítico em uma série de eventos."
+  },
+  "word": "crisis",
+  "ipa": "/ˈkraɪsɪs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A dangerous or difficult situation that requires quick decision-making; a critical point in a series of events."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e2b"
+  },
+  "es": {
+    "word": "criteria",
+    "definition": "Los estándares o reglas utilizados para evaluar o tomar decisiones; plural de 'criterio'."
+  },
+  "pt": {
+    "word": "critérios",
+    "definition": "Os padrões ou regras usados para avaliar ou tomar decisões; plural de 'critério'."
+  },
+  "word": "criteria",
+  "ipa": "/kraɪˈtɪəriə/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The standards or rules used to evaluate or make decisions; plural of 'criterion'."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e2c"
+  },
+  "es": {
+    "word": "critic",
+    "definition": "Una persona que expresa opiniones críticas o evaluativas sobre algo, como una obra de arte o una actuación."
+  },
+  "pt": {
+    "word": "crítico",
+    "definition": "Uma pessoa que expressa opiniões críticas ou avaliativas sobre algo, como uma obra de arte ou uma atuação."
+  },
+  "word": "critic",
+  "ipa": "/ˈkrɪtɪk/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A person who expresses critical or evaluative opinions about something, such as a work of art or a performance."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e2d"
+  },
+  "es": {
+    "word": "criticism",
+    "definition": "La acción de expresar opiniones críticas o evaluativas sobre algo; el acto de señalar defectos o problemas."
+  },
+  "pt": {
+    "word": "crítica",
+    "definition": "A ação de expressar opiniões críticas ou avaliativas sobre algo; o ato de apontar defeitos ou problemas."
+  },
+  "word": "criticism",
+  "ipa": "/ˈkrɪtɪsɪzəm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The action of expressing critical or evaluative opinions about something; the act of pointing out flaws or issues."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e2e"
+  },
+  "es": {
+    "word": "criticize",
+    "definition": "Expresar desaprobación o críticas hacia algo o alguien; señalar defectos o problemas."
+  },
+  "pt": {
+    "word": "criticar",
+    "definition": "Expressar desaprovação ou críticas em relação a algo ou alguém; apontar defeitos ou problemas."
+  },
+  "word": "criticize",
+  "ipa": "/ˈkrɪtɪsaɪz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To express disapproval or criticism of something or someone; to point out flaws or issues."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e2f"
+  },
+  "es": {
+    "word": "crop",
+    "definition": "Las plantas o productos agrícolas cultivados en un año o temporada; recortar o cortar algo."
+  },
+  "pt": {
+    "word": "colheita",
+    "definition": "As plantas ou produtos agrícolas cultivados em um ano ou temporada; cortar ou aparar algo."
+  },
+  "word": "crop",
+  "ipa": "/krɒp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The plants or agricultural products grown in a year or season; to trim or cut something."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e30"
+  },
+  "es": {
+    "word": "crowd",
+    "definition": "Un grupo grande de personas reunidas juntas en un lugar; llenar un espacio en gran número."
+  },
+  "pt": {
+    "word": "multidão",
+    "definition": "Um grande grupo de pessoas reunidas em um local; encher um espaço em grande número."
+  },
+  "word": "crowd",
+  "ipa": "/kraʊd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A large group of people gathered together in one place; to fill a space in great numbers."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e31"
+  },
+  "es": {
+    "word": "creature",
+    "definition": "Un ser vivo, animal o ser humano; una entidad imaginaria o ficticia."
+  },
+  "pt": {
+    "word": "criatura",
+    "definition": "Um ser vivo, animal ou ser humano; uma entidade imaginária ou fictícia."
+  },
+  "word": "creature",
+  "ipa": "/ˈkriːtʃər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A living being, animal, or human; an imaginary or fictitious entity."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e32"
+  },
+  "es": {
+    "word": "crown",
+    "definition": "La parte superior de la cabeza; una insignia real usada por un monarca; declarar a alguien como campeón."
+  },
+  "pt": {
+    "word": "coroa",
+    "definition": "A parte superior da cabeça; um símbolo real usado por um monarca; declarar alguém como campeão."
+  },
+  "word": "crown",
+  "ipa": "/kraʊn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The top part of the head; a royal emblem used by a monarch; to declare someone as a champion."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e33"
+  },
+  "es": {
+    "word": "cruel",
+    "definition": "Hacer daño a otros de manera intencionada o sin piedad; causar sufrimiento o dolor."
+  },
+  "pt": {
+    "word": "cruel",
+    "definition": "Causar dano a outros de forma intencional ou impiedosa; causar sofrimento ou dor."
+  },
+  "word": "cruel",
+  "ipa": "/ˈkruːəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "To harm others intentionally or mercilessly; to cause suffering or pain."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e34"
+  },
+  "es": {
+    "word": "cruise",
+    "definition": "Viajar en un barco de recreo o crucero; un viaje en barco de recreo."
+  },
+  "pt": {
+    "word": "cruzeiro",
+    "definition": "Viajar em um barco de recreio ou cruzeiro; uma viagem em barco de recreio."
+  },
+  "word": "cruise",
+  "ipa": "/kruːz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To travel on a pleasure boat or cruise ship; a journey on a pleasure boat."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e35"
+  },
+  "es": {
+    "word": "crystal",
+    "definition": "Un tipo de mineral transparente y con forma regular; algo que es claro y transparente."
+  },
+  "pt": {
+    "word": "cristal",
+    "definition": "Um tipo de mineral transparente e com forma regular; algo que é claro e transparente."
+  },
+  "word": "crystal",
+  "ipa": "/ˈkrɪstəl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos."
+    }
+  ],
+  "definition": "A type of transparent and regularly shaped mineral; something that is clear and transparent."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e36"
+  },
+  "es": {
+    "word": "culture",
+    "definition": "El conjunto de conocimientos, creencias, costumbres y prácticas de una sociedad; el cultivo de plantas o bacterias en un entorno controlado."
+  },
+  "pt": {
+    "word": "cultura",
+    "definition": "O conjunto de conhecimentos, crenças, costumes e práticas de uma sociedade; o cultivo de plantas ou bactérias em um ambiente controlado."
+  },
+  "word": "culture",
+  "ipa": "/ˈkʌltʃər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "The set of knowledge, beliefs, customs, and practices of a society; the cultivation of plants or bacteria in a controlled environment."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e37"
+  },
+  "es": {
+    "word": "cup",
+    "definition": "Un recipiente con asa utilizado para beber líquidos; una medida de volumen."
+  },
+  "pt": {
+    "word": "xícara",
+    "definition": "Um recipiente com alça usado para beber líquidos; uma medida de volume."
+  },
+  "word": "cup",
+  "ipa": "/kʌp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A container with a handle used for drinking liquids; a measure of volume."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e38"
+  },
+  "es": {
+    "word": "curb",
+    "definition": "Un borde elevado en la acera que evita que los vehículos se salgan de la carretera; controlar o limitar algo."
+  },
+  "pt": {
+    "word": "meio-fio",
+    "definition": "Uma borda elevada na calçada que impede que os veículos saiam da estrada; controlar ou limitar algo."
+  },
+  "word": "curb",
+  "ipa": "/kɜːrb/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A raised edge on the sidewalk that prevents vehicles from leaving the road; to control or limit something."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e39"
+  },
+  "es": {
+    "word": "curious",
+    "definition": "Mostrar interés en aprender o descubrir algo; extraño o inusual."
+  },
+  "pt": {
+    "word": "curioso",
+    "definition": "Mostrar interesse em aprender ou descobrir algo; estranho ou incomum."
+  },
+  "word": "curious",
+  "ipa": "/ˈkjʊriəs/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Showing interest in learning or discovering something; strange or unusual."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e3a"
+  },
+  "es": {
+    "word": "current",
+    "definition": "El flujo de agua en un río o cuerpo de agua; el flujo de electricidad a través de un conductor."
+  },
+  "pt": {
+    "word": "corrente",
+    "definition": "O fluxo de água em um rio ou corpo de água; o fluxo de eletricidade através de um condutor."
+  },
+  "word": "current",
+  "ipa": "/ˈkʌrənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "The flow of water in a river or body of water; the flow of electricity through a conductor."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e3b"
+  },
+  "es": {
+    "word": "curriculum",
+    "definition": "El conjunto de cursos y materias que se estudian en una institución educativa; el plan de estudios."
+  },
+  "pt": {
+    "word": "currículo",
+    "definition": "O conjunto de disciplinas e matérias estudadas em uma instituição educacional; o plano de estudos."
+  },
+  "word": "curriculum",
+  "ipa": "/kəˈrɪkjələm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The set of courses and subjects studied in an educational institution; the curriculum."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e3c"
+  },
+  "es": {
+    "word": "curtain",
+    "definition": "Una pieza de tela que se usa para cubrir una ventana, puerta o área similar; ocultar o revelar algo gradualmente."
+  },
+  "pt": {
+    "word": "cortina",
+    "definition": "Um pedaço de tecido usado para cobrir uma janela, porta ou área semelhante; ocultar ou revelar algo gradualmente."
+  },
+  "word": "curtain",
+  "ipa": "/ˈkɜːrtən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A piece of fabric used to cover a window, door, or similar area; to conceal or reveal something gradually."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e49"
+  },
+  "es": {
+    "word": "cushion",
+    "definition": "Un cojín o almohadón utilizado para mayor comodidad o soporte; amortiguar o proteger algo de impactos."
+  },
+  "pt": {
+    "word": "almofada",
+    "definition": "Um travesseiro ou almofadão usado para maior conforto ou suporte; amortecer ou proteger algo de impactos."
+  },
+  "word": "cushion",
+  "ipa": "/ˈkʊʃən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "A pillow or cushion used for added comfort or support; to cushion or protect something from impacts."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e4a"
+  },
+  "es": {
+    "word": "custody",
+    "definition": "La protección y responsabilidad legal de una persona o cosa; estar bajo la custodia de alguien."
+  },
+  "pt": {
+    "word": "custódia",
+    "definition": "A proteção e responsabilidade legal de uma pessoa ou coisa; estar sob a custódia de alguém."
+  },
+  "word": "custody",
+  "ipa": "/ˈkʌstədi/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "The legal protection and responsibility for a person or thing; to be under someone's custody."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e4b"
+  },
+  "es": {
+    "word": "custom",
+    "definition": "Una práctica o tradición habitual en una sociedad; la tarifa o impuesto sobre bienes importados o exportados."
+  },
+  "pt": {
+    "word": "costume",
+    "definition": "Uma prática ou tradição comum em uma sociedade; a taxa ou imposto sobre bens importados ou exportados."
+  },
+  "word": "custom",
+  "ipa": "/ˈkʌstəm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "A habitual practice or tradition in a society; the fee or tax on imported or exported goods."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e4c"
+  },
+  "es": {
+    "word": "customer",
+    "definition": "Una persona que compra bienes o servicios de una empresa o comercio; un cliente."
+  },
+  "pt": {
+    "word": "cliente",
+    "definition": "Uma pessoa que compra bens ou serviços de uma empresa ou comércio; um cliente."
+  },
+  "word": "customer",
+  "ipa": "/ˈkʌstəmər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A person who purchases goods or services from a business or store; a client."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e4d"
+  },
+  "es": {
+    "word": "cylinder",
+    "definition": "Un objeto con forma de cilindro; un componente de máquina con esta forma."
+  },
+  "pt": {
+    "word": "cilindro",
+    "definition": "Um objeto com forma de cilindro; um componente de máquina com essa forma."
+  },
+  "word": "cylinder",
+  "ipa": "/ˈsɪlɪndər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An object with a cylindrical shape; a machine component with this shape."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e4e"
+  },
+  "es": {
+    "word": "danger",
+    "definition": "La posibilidad de sufrir daño o lesiones; algo que representa una amenaza."
+  },
+  "pt": {
+    "word": "perigo",
+    "definition": "A possibilidade de sofrer dano ou lesões; algo que representa uma ameaça."
+  },
+  "word": "danger",
+  "ipa": "/ˈdeɪndʒər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The possibility of harm or injury; something that represents a threat."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e4f"
+  },
+  "es": {
+    "word": "dangerous",
+    "definition": "Que representa un peligro o riesgo; potencialmente dañino o perjudicial."
+  },
+  "pt": {
+    "word": "perigoso",
+    "definition": "Que representa um perigo ou risco; potencialmente prejudicial ou nocivo."
+  },
+  "word": "dangerous",
+  "ipa": "/ˈdeɪndʒərəs/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Representing a danger or risk; potentially harmful or detrimental."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e50"
+  },
+  "es": {
+    "word": "dark",
+    "definition": "Falta de luz o visibilidad; de color negro o de poca claridad."
+  },
+  "pt": {
+    "word": "escuro",
+    "definition": "Falta de luz ou visibilidade; de cor preta ou de pouca clareza."
+  },
+  "word": "dark",
+  "ipa": "/dɑːrk/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "Lack of light or visibility; of the color black or low clarity."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e51"
+  },
+  "es": {
+    "word": "data",
+    "definition": "Información en forma numérica, textual, o visual; hechos y estadísticas recopilados para su análisis."
+  },
+  "pt": {
+    "word": "dados",
+    "definition": "Informações em forma numérica, textual ou visual; fatos e estatísticas coletados para análise."
+  },
+  "word": "data",
+  "ipa": "/ˈdeɪtə/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "Information in numerical, textual, or visual form; facts and statistics collected for analysis."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e52"
+  },
+  "es": {
+    "word": "database",
+    "definition": "Un conjunto organizado de datos almacenados electrónicamente; una colección de información estructurada."
+  },
+  "pt": {
+    "word": "banco de dados",
+    "definition": "Um conjunto organizado de dados armazenados eletronicamente; uma coleção de informações estruturadas."
+  },
+  "word": "database",
+  "ipa": "/ˈdeɪtəˌbeɪs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "An organized set of electronically stored data; a collection of structured information."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e53"
+  },
+  "es": {
+    "word": "date",
+    "definition": "El día del mes o año en que ocurre un evento; una salida romántica."
+  },
+  "pt": {
+    "word": "data",
+    "definition": "O dia do mês ou ano em que ocorre um evento; um encontro romântico."
+  },
+  "word": "date",
+  "ipa": "/deɪt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "The day of the month or year when an event occurs; a romantic outing."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e54"
+  },
+  "es": {
+    "word": "daughter",
+    "definition": "Una hija, una niña o mujer en relación con sus padres."
+  },
+  "pt": {
+    "word": "filha",
+    "definition": "Uma filha, uma menina ou mulher em relação aos seus pais."
+  },
+  "word": "daughter",
+  "ipa": "/ˈdɔːtər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "A female child, girl, or woman in relation to her parents."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e55"
+  },
+  "es": {
+    "word": "dawn",
+    "definition": "El momento en que el día comienza a amanecer; la primera luz del día."
+  },
+  "pt": {
+    "word": "amanhecer",
+    "definition": "O momento em que o dia começa a clarear; a primeira luz do dia."
+  },
+  "word": "dawn",
+  "ipa": "/dɔːn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos."
+    }
+  ],
+  "definition": "The moment when the day begins to break; the first light of day."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e56"
+  },
+  "es": {
+    "word": "day",
+    "definition": "El período de tiempo que comprende las horas de luz entre el amanecer y el anochecer; un período de 24 horas."
+  },
+  "pt": {
+    "word": "dia",
+    "definition": "O período de tempo que compreende as horas de luz entre o amanhecer e o anoitecer; um período de 24 horas."
+  },
+  "word": "day",
+  "ipa": "/deɪ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+    }
+  ],
+  "definition": "The period of time that includes the daylight hours between sunrise and sunset; a 24-hour period."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e57"
+  },
+  "es": {
+    "word": "dead",
+    "definition": "Sin vida; no en funcionamiento o en uso; completamente inactivo o inerte."
+  },
+  "pt": {
+    "word": "morto",
+    "definition": "Sem vida; não em funcionamento ou uso; completamente inativo ou inerte."
+  },
+  "word": "dead",
+  "ipa": "/dɛd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Without life; not in operation or use; completely inactive or inert."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e58"
+  },
+  "es": {
+    "word": "deadline",
+    "definition": "La fecha límite para completar una tarea o proyecto; el plazo final."
+  },
+  "pt": {
+    "word": "prazo",
+    "definition": "A data limite para completar uma tarefa ou projeto; o prazo final."
+  },
+  "word": "deadline",
+  "ipa": "/ˈdɛdˌlaɪn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The date by which a task or project must be completed; the final deadline."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e59"
+  },
+  "es": {
+    "word": "deadly",
+    "definition": "Mortal o extremadamente peligroso; capaz de causar la muerte."
+  },
+  "pt": {
+    "word": "mortal",
+    "definition": "Mortal ou extremamente perigoso; capaz de causar a morte."
+  },
+  "word": "deadly",
+  "ipa": "/ˈdɛdli/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+    }
+  ],
+  "definition": "Mortal or extremely dangerous; capable of causing death."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e5a"
+  },
+  "es": {
+    "word": "deal",
+    "definition": "Un acuerdo, trato o negociación; distribuir o repartir cartas en un juego de cartas."
+  },
+  "pt": {
+    "word": "acordo",
+    "definition": "Um acordo, negócio ou negociação; distribuir ou dar cartas em um jogo de cartas."
+  },
+  "word": "deal",
+  "ipa": "/diːl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "An agreement, arrangement, or negotiation; to distribute or hand out cards in a card game."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e5b"
+  },
+  "es": {
+    "word": "dealer",
+    "definition": "Una persona o negocio que vende productos o mercancías, especialmente de manera profesional; un distribuidor."
+  },
+  "pt": {
+    "word": "revendedor",
+    "definition": "Uma pessoa ou negócio que vende produtos ou mercadorias, especialmente de forma profissional; um distribuidor."
+  },
+  "word": "dealer",
+  "ipa": "/ˈdiːlər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A person or business that sells products or goods, especially in a professional capacity; a distributor."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e5c"
+  },
+  "es": {
+    "word": "dear",
+    "definition": "Querido o amado; costoso o caro en términos monetarios o emocionales."
+  },
+  "pt": {
+    "word": "querido",
+    "definition": "Amado ou estimado; caro em termos monetários ou emocionais."
+  },
+  "word": "dear",
+  "ipa": "/dɪr/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Beloved or cherished; expensive or costly in monetary or emotional terms."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e5d"
+  },
+  "es": {
+    "word": "death",
+    "definition": "El estado de estar muerto; el final de la vida."
+  },
+  "pt": {
+    "word": "morte",
+    "definition": "O estado de estar morto; o fim da vida."
+  },
+  "word": "death",
+  "ipa": "/dɛθ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The state of being dead; the end of life."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e5e"
+  },
+  "es": {
+    "word": "debate",
+    "definition": "Una discusión formal sobre un tema en la que dos o más personas expresan sus puntos de vista y argumentos."
+  },
+  "pt": {
+    "word": "debate",
+    "definition": "Uma discussão formal sobre um tema em que duas ou mais pessoas expressam seus pontos de vista e argumentos."
+  },
+  "word": "debate",
+  "ipa": "/dɪˈbeɪt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A formal discussion on a topic in which two or more people express their views and arguments."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e5f"
+  },
+  "es": {
+    "word": "debt",
+    "definition": "Una suma de dinero que se debe pagar; una obligación financiera."
+  },
+  "pt": {
+    "word": "dívida",
+    "definition": "Uma quantia de dinheiro que deve ser paga; uma obrigação financeira."
+  },
+  "word": "debt",
+  "ipa": "/dɛt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A sum of money that is owed and must be paid; a financial obligation."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e60"
+  },
+  "es": {
+    "word": "decade",
+    "definition": "Un período de diez años; una década."
+  },
+  "pt": {
+    "word": "década",
+    "definition": "Um período de dez anos; uma década."
+  },
+  "word": "decade",
+  "ipa": "/ˈdɛkeɪd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A period of ten years; a decade."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e61"
+  },
+  "es": {
+    "word": "decent",
+    "definition": "Adecuado o apropiado; respetable o aceptable en términos de comportamiento o calidad."
+  },
+  "pt": {
+    "word": "decente",
+    "definition": "Adequado ou apropriado; respeitável ou aceitável em termos de comportamento ou qualidade."
+  },
+  "word": "decent",
+  "ipa": "/ˈdiːsənt/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "Appropriate or suitable; respectable or acceptable in terms of behavior or quality."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e62"
+  },
+  "es": {
+    "word": "decision",
+    "definition": "La acción o proceso de tomar una determinación o elección; el resultado de tomar una decisión."
+  },
+  "pt": {
+    "word": "decisão",
+    "definition": "A ação ou processo de tomar uma determinação ou escolha; o resultado de tomar uma decisão."
+  },
+  "word": "decision",
+  "ipa": "/dɪˈsɪʒən/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The action or process of making a determination or choice; the result of making a decision."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e63"
+  },
+  "es": {
+    "word": "deck",
+    "definition": "Una plataforma plana y elevada, generalmente al aire libre, adjunta a una estructura; una baraja de cartas."
+  },
+  "pt": {
+    "word": "deck",
+    "definition": "Uma plataforma plana e elevada, geralmente ao ar livre, anexa a uma estrutura; um baralho de cartas."
+  },
+  "word": "deck",
+  "ipa": "/dɛk/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A flat, elevated platform, usually outdoors, attached to a structure; a deck of cards."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e64"
+  },
+  "es": {
+    "word": "declare",
+    "definition": "Anunciar o proclamar públicamente; hacer una declaración oficial."
+  },
+  "pt": {
+    "word": "declarar",
+    "definition": "Anunciar ou proclamar publicamente; fazer uma declaração oficial."
+  },
+  "word": "declare",
+  "ipa": "/dɪˈklɛər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To announce or proclaim publicly; to make an official statement."
+},
+{
+  "_id": {
+    "$oid": "6573bd7a88a5380d551c0e65"
+  },
+  "es": {
+    "word": "decline",
+    "definition": "Rechazar o negarse; disminuir o reducirse en cantidad, calidad o importancia."
+  },
+  "pt": {
+    "word": "declinar",
+    "definition": "Recusar ou negar; diminuir ou reduzir em quantidade, qualidade ou importância."
+  },
+  "word": "decline",
+  "ipa": "/dɪˈklaɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To refuse or reject; to decrease or diminish in quantity, quality, or importance."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e73"
+  },
+  "es": {
+    "word": "conduct",
+    "definition": "Llevar a cabo o dirigir una actividad o comportamiento."
+  },
+  "pt": {
+    "word": "conduta",
+    "definition": "Realizar ou dirigir uma atividade ou comportamento."
+  },
+  "word": "conduct",
+  "ipa": "/ˈkɒndʌkt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To carry out or direct an activity or behavior."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e74"
+  },
+  "es": {
+    "word": "conference",
+    "definition": "Una reunión formal para discutir asuntos importantes o intercambiar información."
+  },
+  "pt": {
+    "word": "conferência",
+    "definition": "Uma reunião formal para discutir assuntos importantes ou trocar informações."
+  },
+  "word": "conference",
+  "ipa": "/ˈkɒnfərəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A formal meeting to discuss important matters or exchange information."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e75"
+  },
+  "es": {
+    "word": "confine",
+    "definition": "Restringir o limitar algo o alguien a un área específica o límite."
+  },
+  "pt": {
+    "word": "limitar",
+    "definition": "Restringir ou limitar algo ou alguém a uma área específica ou limite."
+  },
+  "word": "confine",
+  "ipa": "/kənˈfaɪn/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "To restrict or limit something or someone to a specific area or boundary."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e76"
+  },
+  "es": {
+    "word": "confirm",
+    "definition": "Asegurar la veracidad o validez de algo; verificar."
+  },
+  "pt": {
+    "word": "confirmar",
+    "definition": "Assegurar a veracidade ou validade de algo; verificar."
+  },
+  "word": "confirm",
+  "ipa": "/kənˈfɜːrm/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To ensure the truth or validity of something; to verify."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e77"
+  },
+  "es": {
+    "word": "conflict",
+    "definition": "Una lucha o confrontación entre partes en desacuerdo."
+  },
+  "pt": {
+    "word": "conflito",
+    "definition": "Um combate ou confronto entre partes em desacordo."
+  },
+  "word": "conflict",
+  "ipa": "/ˈkɒnflɪkt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "A struggle or confrontation between parties in disagreement."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e78"
+  },
+  "es": {
+    "word": "confront",
+    "definition": "Hacer frente o enfrentar una situación difícil o a alguien."
+  },
+  "pt": {
+    "word": "confrontar",
+    "definition": "Enfrentar ou enfrentar uma situação difícil ou alguém."
+  },
+  "word": "confront",
+  "ipa": "/kənˈfrʌnt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To face or confront a difficult situation or someone."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e79"
+  },
+  "es": {
+    "word": "congratulate",
+    "definition": "Expresar felicitaciones o buenos deseos a alguien."
+  },
+  "pt": {
+    "word": "parabenizar",
+    "definition": "Expressar felicitações ou bons desejos a alguém."
+  },
+  "word": "congratulate",
+  "ipa": "/kənˈɡrætjʊleɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To express congratulations or good wishes to someone."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e7a"
+  },
+  "es": {
+    "word": "congress",
+    "definition": "Un cuerpo legislativo compuesto por representantes elegidos por el pueblo."
+  },
+  "pt": {
+    "word": "congresso",
+    "definition": "Um corpo legislativo composto por representantes eleitos pelo povo."
+  },
+  "word": "congress",
+  "ipa": "/ˈkɒŋɡres/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A legislative body composed of representatives elected by the people."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e7b"
+  },
+  "es": {
+    "word": "conquer",
+    "definition": "Superar o vencer una dificultad o enemigo."
+  },
+  "pt": {
+    "word": "conquistar",
+    "definition": "Superar ou vencer uma dificuldade ou inimigo."
+  },
+  "word": "conquer",
+  "ipa": "/ˈkɒŋkər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes."
+    }
+  ],
+  "definition": "To overcome or defeat a difficulty or enemy."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e7c"
+  },
+  "es": {
+    "word": "conscience",
+    "definition": "La parte de la mente que distingue entre lo correcto y lo incorrecto; la conciencia."
+  },
+  "pt": {
+    "word": "consciência",
+    "definition": "A parte da mente que distingue entre o certo e o errado; a consciência."
+  },
+  "word": "conscience",
+  "ipa": "/ˈkɒnʃəns/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "The part of the mind that distinguishes between right and wrong; conscience."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e7d"
+  },
+  "es": {
+    "word": "conscious",
+    "definition": "Estar al tanto o ser consciente de algo; tener conocimiento o percepción."
+  },
+  "pt": {
+    "word": "consciente",
+    "definition": "Estar ciente ou ser consciente de algo; ter conhecimento ou percepção."
+  },
+  "word": "conscious",
+  "ipa": "/ˈkɒnʃəs/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    }
+  ],
+  "definition": "To be aware or conscious of something; to have knowledge or perception."
+},
+{
+  "_id": {
+    "$oid": "6573bdd088a5380d551c0e7e"
+  },
+  "es": {
+    "word": "consensus",
+    "definition": "Un acuerdo general o la mayoría de opiniones en un grupo."
+  },
+  "pt": {
+    "word": "consenso",
+    "definition": "Um acordo geral ou a maioria das opiniões em um grupo."
+  },
+  "word": "consensus",
+  "ipa": "/kənˈsɛnsəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena."
+    }
+  ],
+  "definition": "A general agreement or majority of opinions within a group."
 }]

@@ -6,9 +6,7 @@ const CodeColorWords = {
   isUnKnow: "text-red-500",
 };
 export default function Home() {
-  const [textConent] = useState(
-    "La idea de qie react sea declarativo es que tu le dices a react que quieres que haga y react se encarga de manejar todos los cambios en el DOM"
-  );
+  const [textConent] = useState("He wanna goes to the school");
 
   const SearchWordInDb = (word: string) => {
     // Extract all word and remove duplicates
@@ -16,9 +14,23 @@ export default function Home() {
     const uniqueWords = [...new Set(words)];
   };
 
+  const speakWordEN = (word: string) => {
+    const speech = new SpeechSynthesisUtterance(word);
+    window.speechSynthesis.speak(speech);
+
+    window.open(
+      "https://dictionary.cambridge.org/dictionary/english/gangway",
+      "_blank",
+      "left=100,top=100,width=320,height=320"
+    );
+  };
+
   const renderWord = (word: string) => {
     return (
-      <span className="text-blue-500 hover:text-blue-700 cursor-pointer">
+      <span
+        onClick={() => speakWordEN(word)}
+        className="text-white-500 hover:text-blue-200 cursor-pointer"
+      >
         {word}
       </span>
     );
@@ -32,7 +44,15 @@ export default function Home() {
           {textConent.split(" ").map((word, index) => (
             <span key={index}>{renderWord(word)} </span>
           ))}
+
+          {textConent.split(" ").map((word, index) => (
+            <span key={index}>{renderWord(word)} </span>
+          ))}
         </div>
+
+        <section className="bottom-0 bg-white fixed w-full m-0 left-0">
+          MArina no hace caso
+        </section>
       </div>
     </MainLayout>
   );
