@@ -17,8 +17,8 @@ export default async function handler(
   try {
     switch (method) {
       case "GET":
-        const rta = await searchAndDeleteRepeatedWords();
-        // const rta = await wordsNotInMongo();
+        // const rta = await searchAndDeleteRepeatedWords();
+        const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
         res.status(200).json(rta);

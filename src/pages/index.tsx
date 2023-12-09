@@ -10,16 +10,11 @@ export default function Home() {
     "La idea de qie react sea declarativo es que tu le dices a react que quieres que haga y react se encarga de manejar todos los cambios en el DOM"
   );
 
-
   const SearchWordInDb = (word: string) => {
     // Extract all word and remove duplicates
     const words = textConent.split(" ");
-    const uniqueWords = Array.from(new Set(words));
-    
-    
-  
-  } 
-  
+    const uniqueWords = [...new Set(words)];
+  };
 
   const renderWord = (word: string) => {
     return (
