@@ -10,8 +10,8 @@ export const MainLayout = ({ children }: Props) => {
   return (
     <div className="w-full h-screen bg-slate-900 text-white overflow-hidden">
       <div className="flex flex-col h-full overflow-auto">
-        <div className="flex justify-between p-4">
-          <div className="flex gap-4">
+        <div className="flex ">
+          <div className="flex gap-4 justify-between p-4">
             <NextLink href="/dictionary" passHref>
               <FaBook style={{ fontSize: 32 }} />
             </NextLink>
@@ -20,7 +20,7 @@ export const MainLayout = ({ children }: Props) => {
             </NextLink>
           </div>
         </div>
-        <div className="flex-grow overflow-auto p-4 bg-slate-800">{children}</div>
+        <div className="flex overflow-auto p-2 bg-slate-800 pb-16 pt-8 h-full">{children}</div>
       </div>
     </div>
   );
