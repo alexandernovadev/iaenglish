@@ -20,7 +20,7 @@ export const MainLayout = ({ children }: Props) => {
             </NextLink>
           </div>
         </div>
-        <div className="flex overflow-auto p-2 bg-slate-800 pb-16 pt-8 h-full">{children}</div>
+        <div className="flex overflow-auto p-2 bg-slate-800 pb-16 pt-8 h-full ">{children}</div>
       </div>
     </div>
   );

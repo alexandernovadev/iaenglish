@@ -2,6 +2,8 @@ import { MainLayout } from "@/components/layouts/MainLayout";
 import { RootState } from "@/redux/reducers";
 import { useEffect, useRef, useState } from "react";
 import { useSelector } from "react-redux";
+import { HiPlayCircle, HiStopCircle } from "react-icons/hi2";
+import CustomSlider from "@/components/atoms/CustomSlider";
 
 export default function Home() {
   const { activeStory } = useSelector((state: RootState) => state.story);
@@ -15,9 +17,21 @@ export default function Home() {
     window.speechSynthesis.getVoices()
   );
 
+  // console.log(activeStory?.paragraphs);
+
   useEffect(() => {
     if (activeStory?.paragraphs) {
-      setWords(activeStory.paragraphs[0].split(" "));
+      // Usar flatMap para procesar todos los párrafos y agregar separación
+      const allWords = activeStory.paragraphs.flatMap((paragraph, index) => {
+        const paragraphWords = paragraph.split(" ");
+
+        // Agregar un elemento de separación entre párrafos, excepto después del último
+        // @ts-ignore
+        return index < activeStory.paragraphs.length - 1
+          ? [...paragraphWords, "¶"] // '¶' como marcador de separación
+          : paragraphWords;
+      });
+      setWords(allWords);
     }
   }, [activeStory?.paragraphs]);
 
@@ -35,13 +49,18 @@ export default function Home() {
     stopAudio();
   };
 
+
+  const handleSliderValueChange = (newValue: number) => {
+    console.log("Nuevo valor del slider:", newValue);
+  };
+
   const speakWordEN = (word: string) => {
     const speech = new SpeechSynthesisUtterance(word);
     window.speechSynthesis.speak(speech);
     window.open(
-      `https://dictionary.cambridge.org/dictionary/english/${word}`,
+      `https://dictionary.cambridge.org/dictionary/english/${word}#cald4-1`,
       "myWindow",
-      "left=100,top=100,width=520,height=420,toolbar=no,location=no,menubar=no"
+      "left=100,top=100,width=720,height=520,toolbar=no,location=no,menubar=no"
     );
   };
 
@@ -88,10 +107,13 @@ export default function Home() {
     }
     return startIndex;
   };
-
   const renderWord = (word: string, index: number) => {
     const isCurrentWord = index === currentWordIndex;
-    return (
+    const isSeparator = word === "¶"; // Verificar si la palabra es el marcador de separación
+
+    return isSeparator ? (
+      <div style={{ margin: "20px 0" }}></div> // Espaciado para separación de párrafos
+    ) : (
       <span
         key={index}
         onDoubleClick={() => speakWordEN(word)}
@@ -107,29 +129,30 @@ export default function Home() {
   return (
     <MainLayout>
       <div className="text-white">
-        <div className="text-2xl">
+        <div className="text-2xl h-full overflow-y-auto">
           {activeStory?.paragraphs && words.map(renderWord)}
         </div>
 
-        <div>
-          {audioPlaying ? (
-            <button onClick={stopAudio}>Stop</button>
-          ) : (
-            <button onClick={startAudio}>Play</button>
-          )}
-        </div>
+        <section className="fixed bottom-0 w-full flex justify-center items-center bg-gradient-to-t from-slate-900 via-slate-900 opacity-90 to-transparent">
+          <div>
+            {audioPlaying ? (
+              <HiStopCircle style={{ fontSize: 40 }} onClick={stopAudio} />
+            ) : (
+              <HiPlayCircle style={{ fontSize: 40 }} onClick={startAudio} />
+            )}
+          </div>
 
-        <section className="fixed bottom-0 w-full">
           <div className="slider-container">
-            <input
+            {/* <input
               type="range"
               min="0"
               max="100"
               value={sliderValue}
-              className="slider"
+              className="slider w-[800px] min-w-sm bg-green-200"
               id="myRange"
               onChange={handleSliderChange}
-            />
+            /> */}
+            <CustomSlider min={0} max={100} onChange={handleSliderValueChange} />
           </div>
         </section>
       </div>
