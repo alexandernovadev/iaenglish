@@ -13,6 +13,7 @@ export default function Home() {
 
   const [textConent] = useState<null | string | undefined>("");
   const [voices] = useState(window.speechSynthesis.getVoices());
+  const [sliderValue, setSliderValue] = useState(0);
 
   // console.log(voices);
 
@@ -27,6 +28,24 @@ export default function Home() {
       setWords(activeStory.paragraphs[0].split(" "));
     }
   }, [activeStory?.paragraphs]);
+
+  useEffect(() => {
+    if (words.length > 0) {
+      setSliderValue((currentWordIndex / (words.length - 1)) * 100);
+    }
+  }, [currentWordIndex, words.length]);
+
+  const handleSliderChange = (e: any) => {
+    const newSliderValue = parseInt(e.target.value, 10);
+    setSliderValue(newSliderValue);
+    const newWordIndex = Math.floor(
+      (newSliderValue / 100) * (words.length - 1)
+    );
+    setCurrentWordIndex(newWordIndex);
+    // Opcional: Detener y reiniciar la narración desde la nueva posición
+    stopAudio();
+    // Actualice aquí la lógica para comenzar la narración desde newWordIndex si es necesario
+  };
 
   useEffect(() => {
     if (audioPlaying && words.length > 0) {
@@ -48,6 +67,9 @@ export default function Home() {
           }
 
           setCurrentWordIndex(wordIndex);
+
+          setCurrentWordIndex(wordIndex);
+          setSliderValue((wordIndex / words.length) * 100);
         }
       };
 
@@ -55,13 +77,38 @@ export default function Home() {
     }
   }, [audioPlaying, words]);
 
-  // Function to start the audio playback
+  const [lastWordIndex, setLastWordIndex] = useState(0);
+
   const startAudio = () => {
+    const paragraph = words.slice(lastWordIndex).join(" ");
+    const utterThis = new SpeechSynthesisUtterance(paragraph);
+
+    utterThis.onboundary = (event) => {
+      if (event.name === "word") {
+        let cumulativeLength = 0;
+        let wordIndex = lastWordIndex;
+
+        for (let i = lastWordIndex; i < words.length; i++) {
+          // @ts-ignore
+          cumulativeLength += words[i].length + 1;
+          if (cumulativeLength > event.charIndex) {
+            wordIndex = i;
+            break;
+          }
+        }
+
+        setCurrentWordIndex(wordIndex);
+      }
+    };
+
+    utterThis.onend = () => {};
+
+    window.speechSynthesis.speak(utterThis);
     setAudioPlaying(true);
   };
 
-  // Function to stop the audio playback
   const stopAudio = () => {
+    setLastWordIndex(currentWordIndex);
     window.speechSynthesis.cancel();
     setAudioPlaying(false);
   };
@@ -81,10 +128,9 @@ export default function Home() {
     return (
       <span
         key={index}
-        style={{
-          backgroundColor: isCurrentWord ? "green" : "transparent",
-          cursor: "pointer",
-        }}
+        className={`p-1 rounded-md  cursor-pointer ${
+          isCurrentWord ? "bg-green-800" : "transparent"
+        }`}
       >
         {word}{" "}
       </span>
@@ -111,7 +157,17 @@ export default function Home() {
 
         {/* Fixed section at the bottom */}
         <section className="fixed bottom-0 w-full">
-          <div>Marina no hace caso</div>
+          <div className="slider-container">
+            <input
+              type="range"
+              min="0"
+              max="100"
+              value={sliderValue}
+              className="slider"
+              id="myRange"
+              onChange={handleSliderChange}
+            />
+          </div>
         </section>
       </div>
     </MainLayout>
