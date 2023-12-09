@@ -4,7 +4,8 @@ import { connect, disconnect } from "@/mongo";
 import { WordModel } from "@/mongo/models/Word";
 import { NextApiRequest, NextApiResponse } from "next";
 import { words__CLEAN } from "../../../word";
-
+const axios = require("axios");
+const cheerio = require("cheerio");
 
 export default async function handler(
   req: NextApiRequest,
@@ -17,7 +18,8 @@ export default async function handler(
   try {
     switch (method) {
       case "GET":
-        const rta = await searchAndDeleteRepeatedWords();
+        const rta = await serchCambrigePupe();
+        // const rta = await searchAndDeleteRepeatedWords();
         // const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
@@ -86,4 +88,34 @@ const wordsNotInMongo = async () => {
   return { wordsNotInMongo, r: wordsNotInMongo.length };
 };
 
+const serchCambrigePupe = async () => {
+  // Launch the browser and open a new blank page
+  try {
+    const language = "en";
+    const word = "example";
+    const apiUrl = `https://www.wordnik.com/words/example#hear`;
 
+    const response = await axios.get(apiUrl, { timeout: 100000 });
+    const $ = cheerio.load(response.data);
+    const audioLinks: Array<string> = [];
+
+    // Selecting all elements with the class 'play_sound' and extracting the 'doc-fileurl' attribute
+    $(".play_sound").each((index: any, element: any) => {
+
+      
+      const audioUrl = $(element).attr("doc-fileurl");
+      if (audioUrl) {
+        audioLinks.push(audioUrl);
+      }
+    });
+
+    // return audioLinks;
+    console.log("Audio Links:", audioLinks);
+    // return audioLinks;
+
+    return { damn: "firstResultTitle", data: audioLinks };
+  } catch (error) {
+    console.error("Hubo un error:", error);
+    return { damn: "errro" };
+  }
+};

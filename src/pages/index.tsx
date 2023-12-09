@@ -1,27 +1,32 @@
 import { MainLayout } from "@/components/layouts/MainLayout";
+import { RootState } from "@/redux/reducers";
 import { useState } from "react";
+import { useSelector } from "react-redux";
 
 const CodeColorWords = {
   know: "text-green-500",
   isUnKnow: "text-red-500",
 };
 export default function Home() {
-  const [textConent] = useState("He wanna goes to the school");
+  const { activeStory, isError, isLoad, selectedActivedWord, stories } =
+    useSelector((state: RootState) => state.story);
 
-  const SearchWordInDb = (word: string) => {
-    // Extract all word and remove duplicates
-    const words = textConent.split(" ");
-    const uniqueWords = [...new Set(words)];
-  };
+  const [textConent] = useState<null | string | undefined>("");
+
+  // const SearchWordInDb = (word: string) => {
+  //   // Extract all word and remove duplicates
+  //   const words = textConent.split(" ");
+  //   const uniqueWords = [...new Set(words)];
+  // };
 
   const speakWordEN = (word: string) => {
     const speech = new SpeechSynthesisUtterance(word);
     window.speechSynthesis.speak(speech);
 
-    window.open(
-      "https://dictionary.cambridge.org/dictionary/english/gangway",
-      "_blank",
-      "left=100,top=100,width=320,height=320"
+    var myWindow = window.open(
+      "https://dictionary.cambridge.org/dictionary/english/" + word,
+      "myWindow",
+      "left=100,top=100,width=520,height=420,toolbar=no,location=no,menubar=no"
     );
   };
 
@@ -41,13 +46,13 @@ export default function Home() {
       <div className="text-white">
         {/* Recorrer text and render word */}
         <div className="text-2xl">
-          {textConent.split(" ").map((word, index) => (
-            <span key={index}>{renderWord(word)} </span>
-          ))}
-
-          {textConent.split(" ").map((word, index) => (
-            <span key={index}>{renderWord(word)} </span>
-          ))}
+          {activeStory &&
+            activeStory.paragraphs &&
+            activeStory?.paragraphs[0]
+              .split(" ")
+              .map((word, index) => (
+                <span key={index}>{renderWord(word)} </span>
+              ))}
         </div>
 
         <section className="bottom-0 bg-white fixed w-full m-0 left-0">
