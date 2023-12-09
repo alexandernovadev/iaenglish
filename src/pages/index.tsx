@@ -52,6 +52,7 @@ export default function Home() {
       const paragraph = words.join(" ");
       const utterThis = new SpeechSynthesisUtterance(paragraph);
 
+      let isLastWord = false;
       utterThis.onboundary = (event) => {
         if (event.name === "word") {
           let cumulativeLength = 0;
@@ -70,10 +71,19 @@ export default function Home() {
 
           setCurrentWordIndex(wordIndex);
           setSliderValue((wordIndex / words.length) * 100);
+
+          if (wordIndex === words.length - 1) {
+            isLastWord = true;
+          }
         }
       };
 
-      window.speechSynthesis.speak(utterThis);
+      if (isLastWord) {
+        setAudioPlaying(false);
+        stopAudio();
+      } else {
+        window.speechSynthesis.speak(utterThis);
+      }
     }
   }, [audioPlaying, words]);
 
@@ -83,6 +93,7 @@ export default function Home() {
     const paragraph = words.slice(lastWordIndex).join(" ");
     const utterThis = new SpeechSynthesisUtterance(paragraph);
 
+    let isLastWord = false;
     utterThis.onboundary = (event) => {
       if (event.name === "word") {
         let cumulativeLength = 0;
@@ -98,13 +109,24 @@ export default function Home() {
         }
 
         setCurrentWordIndex(wordIndex);
+
+        // Verificar si se ha alcanzado la última palabra
+
+     // Define your condition here. For example, stop after reading 5 words:
+     if (wordIndex - lastWordIndex >= words.length - 1) {
+      setAudioPlaying(false);
+      stopAudio();
+    }
       }
     };
 
-    utterThis.onend = () => {};
-
-    window.speechSynthesis.speak(utterThis);
-    setAudioPlaying(true);
+    if (isLastWord) {
+      setAudioPlaying(false);
+      stopAudio();
+    } else {
+      window.speechSynthesis.speak(utterThis);
+      setAudioPlaying(true);
+    }
   };
 
   const stopAudio = () => {
@@ -123,11 +145,13 @@ export default function Home() {
       "left=100,top=100,width=520,height=420,toolbar=no,location=no,menubar=no"
     );
   };
+
   const renderWord = (word: any, index: any) => {
     const isCurrentWord = index === currentWordIndex;
     return (
       <span
         key={index}
+        onDoubleClick={() => speakWordEN(word)}
         className={`p-1 rounded-md  cursor-pointer ${
           isCurrentWord ? "bg-green-800" : "transparent"
         }`}
