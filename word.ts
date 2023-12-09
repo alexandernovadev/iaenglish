@@ -1,5 +1,6 @@
 // Clean Words to search for
 export const words__CLEAN = [
+<<<<<<< Updated upstream
   "berry",
   "beside",
   "best",
@@ -271,17 +272,21 @@ export const words__CLEAN = [
   "compromise",
   "compute",
   "computer",
+=======
+>>>>>>> Stashed changes
   "concede",
   "conceive",
   "concept",
   "concert",
   "conclude",
   "concrete",
+
   "condemn",
   "condition",
   "conduct",
   "conference",
   "confine",
+
   "confirm",
   "conflict",
   "confront",
