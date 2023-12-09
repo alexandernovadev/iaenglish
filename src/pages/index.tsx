@@ -1,6 +1,6 @@
 import { MainLayout } from "@/components/layouts/MainLayout";
 import { RootState } from "@/redux/reducers";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useSelector } from "react-redux";
 
 const CodeColorWords = {
@@ -12,12 +12,59 @@ export default function Home() {
     useSelector((state: RootState) => state.story);
 
   const [textConent] = useState<null | string | undefined>("");
+  const [voices] = useState(window.speechSynthesis.getVoices());
 
-  // const SearchWordInDb = (word: string) => {
-  //   // Extract all word and remove duplicates
-  //   const words = textConent.split(" ");
-  //   const uniqueWords = [...new Set(words)];
-  // };
+  // console.log(voices);
+
+  const [audioPlaying, setAudioPlaying] = useState(false);
+
+  const [currentWordIndex, setCurrentWordIndex] = useState(0);
+  const [words, setWords] = useState([]);
+
+  useEffect(() => {
+    if (activeStory?.paragraphs) {
+      // @ts-ignore
+      setWords(activeStory.paragraphs[0].split(" "));
+    }
+  }, [activeStory?.paragraphs]);
+
+  useEffect(() => {
+    if (audioPlaying && words.length > 0) {
+      const paragraph = words.join(" ");
+      const utterThis = new SpeechSynthesisUtterance(paragraph);
+
+      utterThis.onboundary = (event) => {
+        if (event.name === "word") {
+          let cumulativeLength = 0;
+          let wordIndex = 0;
+
+          for (let i = 0; i < words.length; i++) {
+            // @ts-ignore
+            cumulativeLength += words[i].length + 1; // +1 for the space or end character
+            if (cumulativeLength > event.charIndex) {
+              wordIndex = i;
+              break;
+            }
+          }
+
+          setCurrentWordIndex(wordIndex);
+        }
+      };
+
+      window.speechSynthesis.speak(utterThis);
+    }
+  }, [audioPlaying, words]);
+
+  // Function to start the audio playback
+  const startAudio = () => {
+    setAudioPlaying(true);
+  };
+
+  // Function to stop the audio playback
+  const stopAudio = () => {
+    window.speechSynthesis.cancel();
+    setAudioPlaying(false);
+  };
 
   const speakWordEN = (word: string) => {
     const speech = new SpeechSynthesisUtterance(word);
@@ -29,14 +76,17 @@ export default function Home() {
       "left=100,top=100,width=520,height=420,toolbar=no,location=no,menubar=no"
     );
   };
-
-  const renderWord = (word: string) => {
+  const renderWord = (word: any, index: any) => {
+    const isCurrentWord = index === currentWordIndex;
     return (
       <span
-        onClick={() => speakWordEN(word)}
-        className="text-white-500 hover:text-blue-200 cursor-pointer"
+        key={index}
+        style={{
+          backgroundColor: isCurrentWord ? "green" : "transparent",
+          cursor: "pointer",
+        }}
       >
-        {word}
+        {word}{" "}
       </span>
     );
   };
@@ -44,19 +94,24 @@ export default function Home() {
   return (
     <MainLayout>
       <div className="text-white">
-        {/* Recorrer text and render word */}
+        {/* Story text */}
         <div className="text-2xl">
-          {activeStory &&
-            activeStory.paragraphs &&
-            activeStory?.paragraphs[0]
-              .split(" ")
-              .map((word, index) => (
-                <span key={index}>{renderWord(word)} </span>
-              ))}
+          {activeStory?.paragraphs &&
+            activeStory.paragraphs[0].split(" ").map(renderWord)}
         </div>
 
-        <section className="bottom-0 bg-white fixed w-full m-0 left-0">
-          MArina no hace caso
+        {/* Audio playback controls */}
+        <div>
+          {audioPlaying ? (
+            <button onClick={stopAudio}>Stop</button>
+          ) : (
+            <button onClick={startAudio}>Play</button>
+          )}
+        </div>
+
+        {/* Fixed section at the bottom */}
+        <section className="fixed bottom-0 w-full">
+          <div>Marina no hace caso</div>
         </section>
       </div>
     </MainLayout>
