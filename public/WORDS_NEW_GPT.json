@@ -1,0 +1,2426 @@
+[
+    {
+        "es": {
+            "word": "conditional",
+            "definition": "Condición o término que depende de ciertas circunstancias o eventos."
+        },
+        "pt": {
+            "word": "condicional",
+            "definition": "Condição ou termo que depende de certas circunstâncias ou eventos."
+        },
+        "word": "conditional",
+        "ipa": "/kənˈdɪʃənl/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "Condition or term that depends on certain circumstances or events.",
+        "examples": [
+            "The agreement includes a conditional clause based on future performance.",
+            "Conditional love can be problematic in relationships.",
+            "She set up a conditional rule for the automated process."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "expressing",
+            "definition": "Expresar o comunicar ideas, sentimientos o pensamientos."
+        },
+        "pt": {
+            "word": "expressando",
+            "definition": "Expressar ou comunicar ideias, sentimentos ou pensamentos."
+        },
+        "word": "expressing",
+        "ipa": "/ɪkˈsprɛsɪŋ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "Expressing or communicating ideas, feelings, or thoughts.",
+        "examples": [
+            "She was expressing her concerns about the project.",
+            "Expressing gratitude can improve relationships.",
+            "He has a talent for expressing complex concepts in simple terms."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "possibilities",
+            "definition": "Las opciones o situaciones que pueden ocurrir en el futuro."
+        },
+        "pt": {
+            "word": "possibilidades",
+            "definition": "As opções ou situações que podem ocorrer no futuro."
+        },
+        "word": "possibilities",
+        "ipa": "/ˌpɒsəˈbɪlətiz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "The options or situations that may occur in the future.",
+        "examples": [
+            "Exploring all possibilities is essential in problem-solving.",
+            "There are endless possibilities for innovation in technology.",
+            "The possibilities are limitless when you have an open mind."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "hypothetical",
+            "definition": "Relacionado con una suposición o hipótesis en lugar de un hecho real."
+        },
+        "pt": {
+            "word": "hipotético",
+            "definition": "Relacionado com uma suposição ou hipótese em vez de um fato real."
+        },
+        "word": "hypothetical",
+        "ipa": "/ˌhaɪpəˈθɛtɪkəl/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "Related to a supposition or hypothesis rather than a real fact.",
+        "examples": [
+            "In a hypothetical scenario, what would you do?",
+            "The experiment is based on a hypothetical situation.",
+            "Discussing hypothetical questions can be thought-provoking."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "conditions",
+            "definition": "Las circunstancias o requisitos bajo los cuales algo sucede o se lleva a cabo."
+        },
+        "pt": {
+            "word": "condições",
+            "definition": "As circunstâncias ou requisitos sob os quais algo acontece ou é realizado."
+        },
+        "word": "conditions",
+        "ipa": "/kənˈdɪʃənz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "The circumstances or requirements under which something happens or is carried out.",
+        "examples": [
+            "The project's success depends on certain conditions being met.",
+            "Under ideal conditions, the machine operates efficiently.",
+            "Negotiating the terms and conditions of the contract is crucial."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "main",
+            "definition": "El elemento principal o más importante de algo."
+        },
+        "pt": {
+            "word": "principal",
+            "definition": "O elemento principal ou mais importante de algo."
+        },
+        "word": "main",
+        "ipa": "/meɪn/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "The primary or most important element of something.",
+        "examples": [
+            "The main purpose of this meeting is to discuss the project's progress.",
+            "She plays a main role in the success of the company.",
+            "The main focus should be on improving customer satisfaction."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "parts",
+            "definition": "Divisiones o secciones de algo más grande."
+        },
+        "pt": {
+            "word": "partes",
+            "definition": "Divisões ou seções de algo maior."
+        },
+        "word": "parts",
+        "ipa": "/pɑrts/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "Divisions or sections of something larger.",
+        "examples": [
+            "The car's engine consists of many different parts.",
+            "He analyzed all parts of the problem to find a solution.",
+            "The book is divided into several parts for easier reading."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "clause",
+            "definition": "Una parte de una oración que contiene un sujeto y un verbo."
+        },
+        "pt": {
+            "word": "cláusula",
+            "definition": "Uma parte de uma sentença que contém um sujeito e um verbo."
+        },
+        "word": "clause",
+        "ipa": "/klɔz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "A part of a sentence that contains a subject and a verb.",
+        "examples": [
+            "The conditional clause in the contract specifies certain conditions.",
+            "Understanding the subordinate clause is essential for comprehension.",
+            "This sentence has a main clause and a subordinate clause."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "sets",
+            "definition": "Colecciones de objetos o elementos relacionados."
+        },
+        "pt": {
+            "word": "conjuntos",
+            "definition": "Coleções de objetos ou elementos relacionados."
+        },
+        "word": "sets",
+        "ipa": "/sɛts/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "Collections of related objects or elements.",
+        "examples": [
+            "She has a vast collection of LEGO sets.",
+            "The math problem involves finding the intersection of two sets.",
+            "The toolset includes various tools for different tasks."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "result",
+            "definition": "El producto o consecuencia de una acción o proceso."
+        },
+        "pt": {
+            "word": "resultado",
+            "definition": "O produto ou consequência de uma ação ou processo."
+        },
+        "word": "result",
+        "ipa": "/rɪˈzʌlt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "The product or consequence of an action or process.",
+        "examples": [
+            "The positive result of their efforts was a successful project.",
+            "The result of the experiment surprised the researchers.",
+            "We will have to wait and see the final result of the competition."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "types",
+            "definition": "Categorías o clases de objetos o fenómenos con características similares."
+        },
+        "pt": {
+            "word": "tipos",
+            "definition": "Categorias ou classes de objetos ou fenômenos com características semelhantes."
+        },
+        "word": "types",
+        "ipa": "/taɪps/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "Categories or classes of objects or phenomena with similar characteristics.",
+        "examples": [
+            "There are various types of flowers in the garden.",
+            "He studied different types of birds in his research.",
+            "The library has a wide selection of book types."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "expresses",
+            "definition": "Comunicar pensamientos, sentimientos o ideas de manera verbal o escrita."
+        },
+        "pt": {
+            "word": "expressa",
+            "definition": "Comunicar pensamentos, sentimentos ou ideias de forma verbal ou escrita."
+        },
+        "word": "expresses",
+        "ipa": "/ɪkˈsprɛsɪz/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "To communicate thoughts, feelings, or ideas verbally or in writing.",
+        "examples": [
+            "She expresses her emotions through art.",
+            "He expresses his opinions on social issues through blogging.",
+            "The poem beautifully expresses the beauty of nature."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "clauses",
+            "definition": "Partes de una oración que contienen un sujeto y un verbo y pueden funcionar como una unidad independiente."
+        },
+        "pt": {
+            "word": "cláusulas",
+            "definition": "Partes de uma sentença que contêm um sujeito e um verbo e podem funcionar como uma unidade independente."
+        },
+        "word": "clauses",
+        "ipa": "/klɔzɪz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "Parts of a sentence that contain a subject and a verb and can function as an independent unit.",
+        "examples": [
+            "There are different types of clauses in grammar.",
+            "The independent clause can stand alone as a sentence.",
+            "Understanding complex clauses can be challenging."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "if",
+            "definition": "Utilizado para introducir una condición o suposición."
+        },
+        "pt": {
+            "word": "se",
+            "definition": "Usado para introduzir uma condição ou suposição."
+        },
+        "word": "if",
+        "ipa": "/ɪf/",
+        "type_word": [
+            {
+                "name": "Conjunction",
+                "sigle": "conj.",
+                "description": "Palabras que conectan palabras, frases, cláusulas u oraciones."
+            }
+        ],
+        "definition": "Used to introduce a condition or supposition.",
+        "examples": [
+            "If it rains, we will stay indoors.",
+            "He will come to the party if he has time.",
+            "If you study hard, you will pass the exam."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "rains",
+            "definition": "La acción de precipitación de agua desde las nubes en forma de gotas líquidas."
+        },
+        "pt": {
+            "word": "chove",
+            "definition": "A ação de precipitação de água das nuvens em forma de gotas líquidas."
+        },
+        "word": "rains",
+        "ipa": "/reɪnz/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "The action of precipitation of water from clouds in the form of liquid drops.",
+        "examples": [
+            "It usually rains a lot in this region during the summer.",
+            "If it rains, we should take umbrellas with us.",
+            "The forecast predicts heavy rains for the weekend."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "grass",
+            "definition": "Vegetación verde que cubre el suelo en áreas naturales o jardines."
+        },
+        "pt": {
+            "word": "grama",
+            "definition": "Vegetação verde que cobre o solo em áreas naturais ou jardins."
+        },
+        "word": "grass",
+        "ipa": "/ɡræs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "Green vegetation that covers the ground in natural areas or gardens.",
+        "examples": [
+            "Children love to play on the grass in the park.",
+            "He mowed the grass in his backyard over the weekend.",
+            "The golf course has beautifully manicured grass."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "gets",
+            "definition": "La tercera persona del singular del verbo 'get', que significa obtener o recibir algo."
+        },
+        "pt": {
+            "word": "obtém",
+            "definition": "A terceira pessoa do singular do verbo 'get', que significa obter ou receber algo."
+        },
+        "word": "gets",
+        "ipa": "/ɡɛts/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "The third person singular form of the verb 'get,' which means to obtain or receive something.",
+        "examples": [
+            "She gets good grades in school.",
+            "He gets a lot of praise for his work.",
+            "If he gets the job, he will be happy."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "wet",
+            "definition": "Estar cubierto o impregnado de líquido, especialmente agua."
+        },
+        "pt": {
+            "word": "molhado",
+            "definition": "Estar coberto ou impregnado de líquido, especialmente água."
+        },
+        "word": "wet",
+        "ipa": "/wɛt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "To be covered or soaked in liquid, especially water.",
+        "examples": [
+            "Her clothes got wet in the rain.",
+            "The wet grass made the ground slippery.",
+            "He had to dry his wet hair with a towel."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "possible",
+            "definition": "Que puede suceder o realizarse; que es factible o viable."
+        },
+        "pt": {
+            "word": "possível",
+            "definition": "Que pode acontecer ou ser realizado; que é factível ou viável."
+        },
+        "word": "possible",
+        "ipa": "/ˈpɑsəbl̩/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "That which can happen or be achieved; that is feasible or viable.",
+        "examples": [
+            "With hard work, anything is possible.",
+            "Is it possible to reach that goal in a year?",
+            "He considered all possible solutions to the problem."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "events",
+            "definition": "Ocurrencias o sucesos específicos que tienen lugar en un período de tiempo determinado."
+        },
+        "pt": {
+            "word": "eventos",
+            "definition": "Ocorrências ou eventos específicos que ocorrem durante um período de tempo determinado."
+        },
+        "word": "events",
+        "ipa": "/ɪˈvɛnts/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "Specific occurrences or events that take place during a specified period of time.",
+        "examples": [
+            "The sporting events attracted a large audience.",
+            "Corporate events are often held to celebrate achievements.",
+            "There are many cultural events happening in the city this weekend."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "combines",
+            "definition": "Unir o mezclar dos o más cosas para formar una sola entidad."
+        },
+        "pt": {
+            "word": "combina",
+            "definition": "Unir ou misturar duas ou mais coisas para formar uma única entidade."
+        },
+        "word": "combines",
+        "ipa": "/kəmˈbaɪnz/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "To unite or mix two or more things to form a single entity.",
+        "examples": [
+            "She combines different ingredients to create a delicious dish.",
+            "The project combines art and technology seamlessly.",
+            "His work combines traditional and modern elements."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "exam",
+            "definition": "Una prueba o evaluación de conocimientos o habilidades, generalmente escrita u oral."
+        },
+        "pt": {
+            "word": "exame",
+            "definition": "Um teste ou avaliação de conhecimentos ou habilidades, geralmente escrito ou oral."
+        },
+        "word": "exam",
+        "ipa": "/ɪɡˈzæm/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "A test or assessment of knowledge or skills, typically written or oral.",
+        "examples": [
+            "He has an important exam tomorrow morning.",
+            "The final exam will cover all the topics we studied.",
+            "Taking exams can be stressful for students."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "third",
+            "definition": "La posición numérica que sigue a la segunda y precede a la cuarta."
+        },
+        "pt": {
+            "word": "terceiro",
+            "definition": "A posição numérica que segue a segunda e precede a quarta."
+        },
+        "word": "third",
+        "ipa": "/θɜrd/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "The numerical position that follows the second and precedes the fourth.",
+        "examples": [
+            "He finished in third place in the race.",
+            "This is the third time I've tried to explain it.",
+            "The third chapter of the book is the most exciting."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "unlikely",
+            "definition": "Poco probable o improbable de ocurrir."
+        },
+        "pt": {
+            "word": "improvável",
+            "definition": "Pouco provável ou improvável de acontecer."
+        },
+        "word": "unlikely",
+        "ipa": "/ʌnˈlaɪkli/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "Not likely or improbable to occur.",
+        "examples": [
+            "It's highly unlikely that he will arrive on time.",
+            "An unlikely series of events led to their meeting.",
+            "Winning the lottery is extremely unlikely."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "won",
+            "definition": "El pasado del verbo 'win', que significa ganar o triunfar en algo."
+        },
+        "pt": {
+            "word": "ganhou",
+            "definition": "O passado do verbo 'win', que significa ganhar ou ter sucesso em algo."
+        },
+        "word": "won",
+        "ipa": "/wʌn/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "The past tense of the verb 'win,' which means to gain or succeed in something.",
+        "examples": [
+            "She won first place in the competition.",
+            "They won the championship last year.",
+            "I won a prize in the raffle."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "lottery",
+            "definition": "Un juego de azar en el que los participantes compran boletos para tener la posibilidad de ganar un premio."
+        },
+        "pt": {
+            "word": "loteria",
+            "definition": "Um jogo de azar em que os participantes compram bilhetes com a possibilidade de ganhar um prêmio."
+        },
+        "word": "lottery",
+        "ipa": "/ˈlɒtəri/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "A game of chance in which participants purchase tickets for the chance to win a prize.",
+        "examples": [
+            "He bought a lottery ticket in hopes of winning the jackpot.",
+            "Winning the lottery can change someone's life dramatically.",
+            "The proceeds from the lottery go to fund various public programs."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "fourth",
+            "definition": "La posición numérica que sigue a la tercera y precede a la quinta."
+        },
+        "pt": {
+            "word": "quarto",
+            "definition": "A posição numérica que segue a terceira e precede a quinta."
+        },
+        "word": "fourth",
+        "ipa": "/fɔrθ/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            }
+        ],
+        "definition": "The numerical position that follows the third and precedes the fifth.",
+        "examples": [
+            "She finished in fourth place in the race.",
+            "This is the fourth time I've seen that movie.",
+            "The fourth chapter of the book is the most exciting."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "unreal",
+            "definition": "Que no es real o que parece irreal debido a su naturaleza inusual."
+        },
+        "pt": {
+            "word": "irreal",
+            "definition": "Que não é real ou que parece irreal devido à sua natureza incomum."
+        },
+        "word": "unreal",
+        "ipa": "/ʌnˈriəl/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "Not real or seeming unreal due to its unusual nature.",
+        "examples": [
+            "The special effects in the movie made the scenes look unreal.",
+            "His success in such a short time seemed unreal to many.",
+            "The dream had an unreal quality to it."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "had",
+            "definition": "El pasado del verbo 'have', que se utiliza para indicar posesión, experiencia pasada y otras situaciones."
+        },
+        "pt": {
+            "word": "tinha",
+            "definition": "O passado do verbo 'have', que é usado para indicar posse, experiência passada e outras situações."
+        },
+        "word": "had",
+        "ipa": "/hæd/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "The past tense of the verb 'have,' which is used to indicate possession, past experience, and other situations.",
+        "examples": [
+            "She had a beautiful garden in her backyard.",
+            "I had a great time at the party last night.",
+            "They had already eaten when we arrived."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "studied",
+            "definition": "La forma pasada y pasada del verbo 'study', que significa adquirir conocimientos mediante la lectura o el aprendizaje."
+        },
+        "pt": {
+            "word": "estudou",
+            "definition": "A forma passada e passada do verbo 'study', que significa adquirir conhecimentos por meio da leitura ou do aprendizado."
+        },
+        "word": "studied",
+        "ipa": "/ˈstʌdid/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "The past and past participle form of the verb 'study,' which means to acquire knowledge through reading or learning.",
+        "examples": [
+            "She studied diligently for her exams.",
+            "He had studied the subject extensively before the presentation.",
+            "They studied the history of ancient civilizations."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "harder",
+            "definition": "Más difícil en comparación con algo más fácil."
+        },
+        "pt": {
+            "word": "mais difícil",
+            "definition": "Mais difícil em comparação com algo mais fácil."
+        },
+        "word": "harder",
+        "ipa": "/ˈhɑrdər/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            },
+            {
+                "name": "Adverb",
+                "sigle": "adv.",
+                "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras."
+            }
+        ],
+        "definition": "More difficult in comparison to something easier.",
+        "examples": [
+            "Learning a new language can be harder as an adult.",
+            "The second level of the game is much harder than the first.",
+            "She worked harder to improve her skills."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "passed",
+            "definition": "La forma pasada y el participio pasado del verbo 'pass', que significa avanzar o aprobar algo."
+        },
+        "pt": {
+            "word": "passou",
+            "definition": "A forma passada e o particípio passado do verbo 'pass', que significa avançar ou aprovar algo."
+        },
+        "word": "passed",
+        "ipa": "/pæst/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "The past and past participle form of the verb 'pass,' which means to advance or succeed in something.",
+        "examples": [
+            "She passed the exam with flying colors.",
+            "They passed the finish line together.",
+            "The passed legislation will bring about changes."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "active",
+            "definition": "En funcionamiento o realizando acciones; no pasivo o inactivo."
+        },
+        "pt": {
+            "word": "ativo",
+            "definition": "Em funcionamento ou realizando ações; não passivo ou inativo."
+        },
+        "word": "active",
+        "ipa": "/ˈæktɪv/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "In operation or performing actions; not passive or inactive.",
+        "examples": [
+            "She leads an active lifestyle with regular exercise.",
+            "Active participation is encouraged in the workshop.",
+            "The active ingredients in the medicine provide relief."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "voice",
+            "definition": "El sonido producido por cuerdas vocales al hablar o cantar; también, la expresión de pensamientos o sentimientos."
+        },
+        "pt": {
+            "word": "voz",
+            "definition": "O som produzido pelas cordas vocais ao falar ou cantar; também, a expressão de pensamentos ou sentimentos."
+        },
+        "word": "voice",
+        "ipa": "/vɔɪs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            }
+        ],
+        "definition": "The sound produced by vocal cords when speaking or singing; also, the expression of thoughts or feelings.",
+        "examples": [
+            "Her voice was beautiful and melodious.",
+            "He used his voice to advocate for change.",
+            "The book gives voice to the author's experiences."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "passive",
+            "definition": "No realizando acciones; receptivo o no activo."
+        },
+        "pt": {
+            "word": "passivo",
+            "definition": "Não realizando ações; receptivo ou não ativo."
+        },
+        "word": "passive",
+        "ipa": "/ˈpæsɪv/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "Not performing actions; receptive or not active.",
+        "examples": [
+            "He remained passive and didn't intervene in the argument.",
+            "The passive observer watched the birds in the park.",
+            "A passive attitude won't lead to success."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "distinctions",
+            "definition": "Diferencias notables o reconocimientos por la diferencia entre dos o más cosas."
+        },
+        "pt": {
+            "word": "distinções",
+            "definition": "Diferenças notáveis ou reconhecimentos pela diferença entre duas ou mais coisas."
+        },
+        "word": "distinctions",
+        "ipa": "/dɪˈstɪŋkʃənz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Notable differences or recognitions for the difference between two or more things.",
+        "examples": [
+            "There are several distinctions between the two theories.",
+            "He received many distinctions for his academic achievements.",
+            "The distinctions in flavor make each dish unique."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "applications",
+            "definition": "Usos o solicitudes de algo en situaciones prácticas."
+        },
+        "pt": {
+            "word": "aplicações",
+            "definition": "Usos ou solicitações de algo em situações práticas."
+        },
+        "word": "applications",
+        "ipa": "/ˌæplɪˈkeɪʃənz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Uses or requests for something in practical situations.",
+        "examples": [
+            "The applications of this technology are vast and varied.",
+            "She submitted multiple job applications.",
+            "The applications for the grant came from all over the country."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "constructing",
+            "definition": "La acción de crear, construir o edificar algo."
+        },
+        "pt": {
+            "word": "construindo",
+            "definition": "A ação de criar, construir ou edificar algo."
+        },
+        "word": "constructing",
+        "ipa": "/kənˈstrʌktɪŋ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The action of creating, building, or erecting something.",
+        "examples": [
+            "They are currently constructing a new bridge in the city.",
+            "Constructing a successful business takes time and effort.",
+            "He enjoys the process of constructing model airplanes."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "focuses",
+            "definition": "La tercera persona del singular del presente simple del verbo 'focus', que significa concentrarse en algo."
+        },
+        "pt": {
+            "word": "concentra-se",
+            "definition": "A terceira pessoa do singular do presente simples do verbo 'focus', que significa concentrar-se em algo."
+        },
+        "word": "focuses",
+        "ipa": "/ˈfoʊkəz/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The third person singular present simple form of the verb 'focus,' which means to concentrate on something.",
+        "examples": [
+            "She often focuses on her work for hours at a time.",
+            "He focuses on his studies to achieve his goals.",
+            "The team focuses on delivering high-quality products."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "subject",
+            "definition": "Un tema o asunto de discusión, estudio o atención."
+        },
+        "pt": {
+            "word": "assunto",
+            "definition": "Um tema ou assunto de discussão, estudo ou atenção."
+        },
+        "word": "subject",
+        "ipa": "/ˈsʌbdʒɪkt/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "A topic or subject of discussion, study, or attention.",
+        "examples": [
+            "The subject of the meeting is the budget for the next quarter.",
+            "History is her favorite subject in school.",
+            "The subject of the book is the human condition."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "performing",
+            "definition": "Realizando una acción o una actuación en un escenario, en un trabajo, o en una actividad en general."
+        },
+        "pt": {
+            "word": "realizando",
+            "definition": "Realizando uma ação ou uma atuação em um palco, no trabalho ou em uma atividade em geral."
+        },
+        "word": "performing",
+        "ipa": "/pərˈfɔrmɪŋ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Palabras que expresan acciones, estados o procesos."
+            },
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Palabras que describen o modifican sustantivos."
+            }
+        ],
+        "definition": "Carrying out an action or performance on a stage, at work, or in an activity in general.",
+        "examples": [
+            "She is performing a dance routine on stage tonight.",
+            "Performing well in exams requires preparation and focus.",
+            "The band is performing their new song at the concert."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "action",
+            "definition": "La acción de hacer algo o el acto de llevar a cabo una acción."
+        },
+        "pt": {
+            "word": "ação",
+            "definition": "A ação de fazer algo ou o ato de realizar uma ação."
+        },
+        "word": "action",
+        "ipa": "/ˈækʃən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The act of doing something or the process of carrying out an action.",
+        "examples": [
+            "Taking action is essential to achieve your goals.",
+            "His quick action prevented a disaster.",
+            "The movie is full of thrilling action scenes."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "emphasizes",
+            "definition": "La tercera persona del singular del presente simple del verbo 'emphasize', que significa destacar o enfatizar algo."
+        },
+        "pt": {
+            "word": "destaca",
+            "definition": "A terceira pessoa do singular do presente simples do verbo 'emphasize', que significa destacar ou enfatizar algo."
+        },
+        "word": "emphasizes",
+        "ipa": "/ˈɛmfəˌsaɪzɪz/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The third person singular present simple form of the verb 'emphasize,' which means to highlight or give special importance to something.",
+        "examples": [
+            "She emphasizes the importance of good communication in the workplace.",
+            "The teacher emphasizes the need for careful research in the project.",
+            "The article emphasizes the benefits of a healthy lifestyle."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "receiving",
+            "definition": "Recibiendo algo de alguien o de un lugar."
+        },
+        "pt": {
+            "word": "recebendo",
+            "definition": "Recebendo algo de alguém ou de um lugar."
+        },
+        "word": "receiving",
+        "ipa": "/rɪˈsivɪŋ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Receiving something from someone or a place.",
+        "examples": [
+            "She is receiving a gift from her friend.",
+            "The company is receiving applications for the job opening.",
+            "Receiving positive feedback is always encouraging."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "unique",
+            "definition": "Singular, inusual o único en su tipo; no como cualquier otro."
+        },
+        "pt": {
+            "word": "único",
+            "definition": "Singular, incomum ou único em seu tipo; não como qualquer outro."
+        },
+        "word": "unique",
+        "ipa": "/juˈniːk/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Singular, unusual, or one of a kind; not like any other.",
+        "examples": [
+            "Each snowflake is unique in its design.",
+            "His talent is truly unique and unmatched.",
+            "The restaurant offers a unique dining experience."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "characteristics",
+            "definition": "Las cualidades o rasgos distintivos que definen a alguien o algo."
+        },
+        "pt": {
+            "word": "características",
+            "definition": "As qualidades ou traços distintivos que definem alguém ou algo."
+        },
+        "word": "characteristics",
+        "ipa": "/ˌkærəktəˈrɪstɪks/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The qualities or distinctive traits that define someone or something.",
+        "examples": [
+            "The characteristics of a good leader include empathy and decisiveness.",
+            "Each breed of dog has its own unique characteristics.",
+            "Understanding the characteristics of a culture is essential for effective communication."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "doer",
+            "definition": "Alguien que realiza acciones o que lleva a cabo tareas."
+        },
+        "pt": {
+            "word": "fazedor",
+            "definition": "Alguém que realiza ações ou executa tarefas."
+        },
+        "word": "doer",
+        "ipa": "/duːər/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Someone who performs actions or carries out tasks.",
+        "examples": [
+            "He is a doer who gets things done efficiently.",
+            "The organization needs more doers to achieve its goals.",
+            "Being a doer is an important quality in the business world."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "john",
+            "definition": "Un nombre propio de persona, comúnmente usado en inglés."
+        },
+        "pt": {
+            "word": "joão",
+            "definition": "Um nome próprio de pessoa, comumente usado em inglês."
+        },
+        "word": "john",
+        "ipa": "/dʒɒn/",
+        "type_word": [
+            {
+                "name": "Proper Noun",
+                "sigle": "p.n.",
+                "description": "Words that refer to specific names of people, places, or things."
+            }
+        ],
+        "definition": "A proper noun of a person's name, commonly used in English.",
+        "examples": [
+            "John is a popular name in many English-speaking countries.",
+            "She went to visit her friend John.",
+            "There are several famous people named John."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "ate",
+            "definition": "La forma pasada del verbo 'eat', que significa consumir alimentos."
+        },
+        "pt": {
+            "word": "comeu",
+            "definition": "A forma passada do verbo 'eat', que significa consumir alimentos."
+        },
+        "word": "ate",
+        "ipa": "/eɪt/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The past form of the verb 'eat,' which means to consume food.",
+        "examples": [
+            "He ate a delicious meal for dinner.",
+            "They ate all the cookies in the jar.",
+            "Ate is an important part of our daily routine."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "who",
+            "definition": "Una palabra interrogativa que se utiliza para preguntar acerca de una persona o identificar a alguien."
+        },
+        "pt": {
+            "word": "quem",
+            "definition": "Uma palavra interrogativa usada para fazer perguntas sobre uma pessoa ou identificar alguém."
+        },
+        "word": "who",
+        "ipa": "/huː/",
+        "type_word": [
+            {
+                "name": "Pronoun",
+                "sigle": "pron.",
+                "description": "Words that replace nouns to avoid repetition."
+            }
+        ],
+        "definition": "An interrogative word used to ask about a person or identify someone.",
+        "examples": [
+            "Who is that person standing by the door?",
+            "Do you know who won the game?",
+            "Who will be attending the meeting?"
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "performed",
+            "definition": "La forma pasada del verbo 'perform', que significa llevar a cabo una acción o realizar una actuación."
+        },
+        "pt": {
+            "word": "realizada",
+            "definition": "A forma passada do verbo 'perform', que significa realizar uma ação ou fazer uma atuação."
+        },
+        "word": "performed",
+        "ipa": "/pərˈfɔrmd/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The past form of the verb 'perform,' which means to carry out an action or give a performance.",
+        "examples": [
+            "She performed a beautiful song on stage last night.",
+            "The surgery was performed by a skilled surgeon.",
+            "He has performed exceptionally well in his role."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "the",
+            "definition": "El artículo definido en inglés que se usa para señalar un objeto o grupo de objetos específico."
+        },
+        "pt": {
+            "word": "o",
+            "definition": "O artigo definido em inglês que é usado para indicar um objeto ou grupo de objetos específicos."
+        },
+        "word": "the",
+        "ipa": "/ðə/",
+        "type_word": [
+            {
+                "name": "Article",
+                "sigle": "art.",
+                "description": "Words that define nouns as specific or non-specific."
+            }
+        ],
+        "definition": "The definite article in English that is used to indicate a specific object or group of objects.",
+        "examples": [
+            "The book on the table is mine.",
+            "She is going to the store to buy groceries.",
+            "The sun is shining brightly today."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "straightforward",
+            "definition": "Directo, claro y sin complicaciones; fácil de entender o hacer."
+        },
+        "pt": {
+            "word": "direto",
+            "definition": "Direto, claro e sem complicações; fácil de entender ou fazer."
+        },
+        "word": "straightforward",
+        "ipa": "/ˌstreɪtˈfɔrwərd/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Direct, clear, and uncomplicated; easy to understand or do.",
+        "examples": [
+            "His straightforward instructions made the process simple.",
+            "She appreciates straightforward communication in business.",
+            "The straightforward path led us to the destination quickly."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "direct",
+            "definition": "Ir en línea recta hacia un objetivo; sin rodeos o intermediarios."
+        },
+        "pt": {
+            "word": "direto",
+            "definition": "Ir em linha reta em direção a um objetivo; sem rodeios ou intermediários."
+        },
+        "word": "direct",
+        "ipa": "/dɪˈrɛkt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Going in a straight line toward a goal; without detours or intermediaries.",
+        "examples": [
+            "The direct route to the airport is the fastest.",
+            "He gave a direct answer to the question.",
+            "Direct flights are more convenient for travelers."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "expressing",
+            "definition": "La acción de comunicar pensamientos, sentimientos o ideas en palabras, gestos o de otra manera."
+        },
+        "pt": {
+            "word": "expressando",
+            "definition": "A ação de comunicar pensamentos, sentimentos ou ideias em palavras, gestos ou de outra maneira."
+        },
+        "word": "expressing",
+        "ipa": "/ɪkˈsprɛsɪŋ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The action of conveying thoughts, feelings, or ideas in words, gestures, or other ways.",
+        "examples": [
+            "She is expressing her excitement about the upcoming event.",
+            "Expressing gratitude is important in maintaining relationships.",
+            "The artist is expressing his creativity through his work."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "information",
+            "definition": "Datos o conocimiento que se obtiene sobre un tema o situación."
+        },
+        "pt": {
+            "word": "informação",
+            "definition": "Dados ou conhecimento obtido sobre um tema ou situação."
+        },
+        "word": "information",
+        "ipa": "/ˌɪnfərˈmeɪʃən/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Data or knowledge obtained about a topic or situation.",
+        "examples": [
+            "The internet provides a vast amount of information.",
+            "Accurate information is essential for decision-making.",
+            "She shared valuable information with the team."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "focus",
+            "definition": "La concentración mental en un objetivo o tarea específica."
+        },
+        "pt": {
+            "word": "focus",
+            "definition": "A concentração mental em um objetivo ou tarefa específica."
+        },
+        "word": "focus",
+        "ipa": "/ˈfoʊkəs/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Mental concentration on a specific goal or task.",
+        "examples": [
+            "Maintaining focus is crucial for productivity.",
+            "She has a sharp focus on achieving her career goals.",
+            "The camera allows you to adjust the focus."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "acted",
+            "definition": "La forma pasada del verbo 'act', que significa llevar a cabo una acción o representar un papel."
+        },
+        "pt": {
+            "word": "atuou",
+            "definition": "A forma passada do verbo 'act', que significa realizar uma ação ou representar um papel."
+        },
+        "word": "acted",
+        "ipa": "/æktɪd/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The past form of the verb 'act,' which means to carry out an action or perform a role.",
+        "examples": [
+            "She acted in several movies during her career.",
+            "He acted as the lead character in the play.",
+            "Acted responsibly in handling the situation."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "upon",
+            "definition": "Preposición que indica una posición o condición de contacto o cercanía."
+        },
+        "pt": {
+            "word": "sobre",
+            "definition": "Preposição que indica uma posição ou condição de contato ou proximidade."
+        },
+        "word": "upon",
+        "ipa": "/əˈpɒn/",
+        "type_word": [
+            {
+                "name": "Preposition",
+                "sigle": "prep.",
+                "description": "Words that show relationships between nouns and other words."
+            }
+        ],
+        "definition": "A preposition indicating a position or condition of contact or proximity.",
+        "examples": [
+            "Upon arriving at the airport, they were greeted by a driver.",
+            "He found the lost wallet upon searching the house.",
+            "Upon further consideration, she changed her mind."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "equivalent",
+            "definition": "Similar en valor, cantidad o significado a algo más."
+        },
+        "pt": {
+            "word": "equivalente",
+            "definition": "Semelhante em valor, quantidade ou significado a algo mais."
+        },
+        "word": "equivalent",
+        "ipa": "/ɪˈkwɪvələnt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "Similar in value, quantity, or meaning to something else.",
+        "examples": [
+            "The dollar and the euro are roughly equivalent in value.",
+            "This medication is the equivalent of the one you were taking before.",
+            "His actions are not equivalent to his words."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "apple",
+            "definition": "Una fruta comestible con una piel fina y carne jugosa, generalmente de color rojo, amarillo o verde."
+        },
+        "pt": {
+            "word": "maçã",
+            "definition": "Uma fruta comestível com casca fina e carne suculenta, geralmente de cor vermelha, amarela ou verde."
+        },
+        "word": "apple",
+        "ipa": "/ˈæpl̩/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "An edible fruit with thin skin and juicy flesh, typically red, yellow, or green in color.",
+        "examples": [
+            "She enjoys eating a crisp apple as a snack.",
+            "Apple pie is a popular dessert in many countries.",
+            "He picked a fresh apple from the tree."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "eaten",
+            "definition": "La forma pasada del verbo 'eat', que significa consumir alimentos."
+        },
+        "pt": {
+            "word": "comido",
+            "definition": "A forma passada do verbo 'eat', que significa consumir alimentos."
+        },
+        "word": "eaten",
+        "ipa": "/ˈiːtən/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The past form of the verb 'eat,' which means to consume food.",
+        "examples": [
+            "They had already eaten when we arrived.",
+            "The delicious meal was quickly eaten by the hungry children.",
+            "Eaten is a common verb tense in everyday life."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "john's",
+            "definition": "La forma posesiva del nombre propio 'John', indicando que algo pertenece a John."
+        },
+        "pt": {
+            "word": "de John",
+            "definition": "A forma possessiva do nome próprio 'John', indicando que algo pertence a John."
+        },
+        "word": "john's",
+        "ipa": "/dʒɒnz/",
+        "type_word": [
+            {
+                "name": "Proper Noun",
+                "sigle": "p.n.",
+                "description": "Words that refer to specific names of people, places, or things."
+            }
+        ],
+        "definition": "The possessive form of the proper name 'John,' indicating that something belongs to John.",
+        "examples": [
+            "John's car is parked in the driveway.",
+            "I met John's parents at the party.",
+            "John's book is on the table."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "was",
+            "definition": "La forma pasada del verbo 'be', que indica una acción en el pasado."
+        },
+        "pt": {
+            "word": "foi",
+            "definition": "A forma passada do verbo 'be', que indica uma ação no passado."
+        },
+        "word": "was",
+        "ipa": "/wəz/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The past form of the verb 'be,' indicating an action in the past.",
+        "examples": [
+            "She was happy yesterday.",
+            "It was a beautiful day.",
+            "John was at the party last night."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "eaten",
+            "definition": "La forma pasada del verbo 'eat', que significa consumir alimentos."
+        },
+        "pt": {
+            "word": "comido",
+            "definition": "A forma passada do verbo 'eat', que significa consumir alimentos."
+        },
+        "word": "eaten",
+        "ipa": "/ˈiːtən/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The past form of the verb 'eat,' which means to consume food.",
+        "examples": [
+            "They had already eaten when we arrived.",
+            "The delicious meal was quickly eaten by the hungry children.",
+            "Eaten is a common verb tense in everyday life."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "unknown",
+            "definition": "No conocido o no identificado; no familiar o no reconocido."
+        },
+        "pt": {
+            "word": "desconhecido",
+            "definition": "Não conhecido ou não identificado; não familiar ou não reconhecido."
+        },
+        "word": "unknown",
+        "ipa": "/ʌnˈnoʊn/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Not known or unidentified; not familiar or unrecognized.",
+        "examples": [
+            "The identity of the mysterious person is still unknown.",
+            "The origins of the ancient artifact remain unknown.",
+            "He received a letter from an unknown sender."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "unimportant",
+            "definition": "Sin importancia o relevancia; no significativo o crucial."
+        },
+        "pt": {
+            "word": "desimportante",
+            "definition": "Sem importância ou relevância; não significativo ou crucial."
+        },
+        "word": "unimportant",
+        "ipa": "/ˌʌnɪmˈpɔrtənt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Lacking importance or significance; not meaningful or crucial.",
+        "examples": [
+            "In the grand scheme of things, this detail is unimportant.",
+            "His opinion on the matter is unimportant to me.",
+            "She considered the issue to be unimportant."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "wants",
+            "definition": "El tercer singular del verbo 'want', que significa desear o querer algo."
+        },
+        "pt": {
+            "word": "quer",
+            "definition": "A terceira pessoa do singular do verbo 'want', que significa desejar ou querer algo."
+        },
+        "word": "wants",
+        "ipa": "/wɒnts/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The third person singular of the verb 'want,' which means to desire or wish for something.",
+        "examples": [
+            "He wants a new car for his birthday.",
+            "She wants to travel the world someday.",
+            "What do he wants for dinner?"
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "polite",
+            "definition": "Mostrando buenos modales o comportamiento cortés hacia los demás."
+        },
+        "pt": {
+            "word": "educado",
+            "definition": "Mostrando boas maneiras ou comportamento cortês em relação aos outros."
+        },
+        "word": "polite",
+        "ipa": "/pəˈlaɪt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Displaying good manners or courteous behavior towards others.",
+        "examples": [
+            "He is always polite and respectful to everyone he meets.",
+            "Being polite is important in social interactions.",
+            "She sent a polite thank-you note for the gift."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "indirect",
+            "definition": "No directo o no expresado de manera clara y directa; utilizando rodeos o insinuaciones."
+        },
+        "pt": {
+            "word": "indireto",
+            "definition": "Não direto ou não expresso de maneira clara e direta; usando rodeios ou insinuações."
+        },
+        "word": "indirect",
+        "ipa": "/ɪnˈdaɪrɛkt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Not direct or not clearly and explicitly expressed; using detours or insinuations.",
+        "examples": [
+            "He gave an indirect response to her question.",
+            "Indirect communication can lead to misunderstandings.",
+            "She used indirect methods to achieve her goal."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "voices",
+            "definition": "Sonidos producidos por las cuerdas vocales de los seres humanos y utilizados para la comunicación."
+        },
+        "pt": {
+            "word": "vozes",
+            "definition": "Sons produzidos pelas cordas vocais dos seres humanos e usados para comunicação."
+        },
+        "word": "voices",
+        "ipa": "/ˈvɔɪsɪz/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Sounds produced by the vocal cords of humans and used for communication.",
+        "examples": [
+            "His voice is deep and resonant.",
+            "She has a beautiful singing voice.",
+            "Voices are a fundamental part of human expression."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "choosing",
+            "definition": "La forma presente del verbo 'choose', que significa seleccionar o escoger algo."
+        },
+        "pt": {
+            "word": "escolhendo",
+            "definition": "A forma presente do verbo 'choose', que significa selecionar ou escolher algo."
+        },
+        "word": "choosing",
+        "ipa": "/ˈʧuzɪŋ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The present form of the verb 'choose,' which means to select or pick something.",
+        "examples": [
+            "She is choosing a new outfit for the party.",
+            "Choosing the right words is essential in communication.",
+            "They are currently choosing a restaurant for dinner."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "generally",
+            "definition": "En la mayoría de los casos o de manera común; por lo general."
+        },
+        "pt": {
+            "word": "geralmente",
+            "definition": "Na maioria dos casos ou comumente; geralmente."
+        },
+        "word": "generally",
+        "ipa": "/ˈʤɛnərəli/",
+        "type_word": [
+            {
+                "name": "Adverb",
+                "sigle": "adv.",
+                "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+            }
+        ],
+        "definition": "In most cases or commonly; typically.",
+        "examples": [
+            "Generally, people enjoy spending time with their families.",
+            "He generally arrives at work early in the morning.",
+            "This medicine is generally safe for children."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "preferred",
+            "definition": "Preferido o elegido como la opción más deseable o adecuada."
+        },
+        "pt": {
+            "word": "preferido",
+            "definition": "Preferido ou escolhido como a opção mais desejável ou adequada."
+        },
+        "word": "preferred",
+        "ipa": "/prɪˈfɜrd/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "Favored or chosen as the most desirable or suitable option.",
+        "examples": [
+            "His preferred method of transportation is cycling.",
+            "The preferred candidate for the job has extensive experience.",
+            "This is the preferred route for the journey."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "creates",
+            "definition": "La forma presente del verbo 'create', que significa producir o hacer algo nuevo."
+        },
+        "pt": {
+            "word": "cria",
+            "definition": "A forma presente do verbo 'create', que significa produzir ou fazer algo novo."
+        },
+        "word": "creates",
+        "ipa": "/kriˈeɪts/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The present form of the verb 'create,' which means to produce or make something new.",
+        "examples": [
+            "She creates beautiful artwork using various techniques.",
+            "Innovation often creates new opportunities in business.",
+            "He creates a positive atmosphere in the workplace."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "concise",
+            "definition": "Expresado de manera breve y clara, sin detalles innecesarios; sucinto."
+        },
+        "pt": {
+            "word": "conciso",
+            "definition": "Expresso de forma breve e clara, sem detalhes desnecessários; sucinto."
+        },
+        "word": "concise",
+        "ipa": "/kənˈsaɪs/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Expressed briefly and clearly, without unnecessary details; succinct.",
+        "examples": [
+            "His concise explanation of the problem was appreciated.",
+            "A concise summary of the report is provided on the last page.",
+            "The speaker delivered a concise presentation."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "storytelling",
+            "definition": "El arte o técnica de contar historias de manera efectiva, a menudo utilizando narración oral, escritura, imágenes u otros medios."
+        },
+        "pt": {
+            "word": "contação de histórias",
+            "definition": "A arte ou técnica de contar histórias de forma eficaz, frequentemente usando narrativa oral, escrita, imagens ou outros meios."
+        },
+        "word": "storytelling",
+        "ipa": "/ˈstɔːritɛlɪŋ/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The art or technique of effectively telling stories, often using oral narration, writing, images, or other means.",
+        "examples": [
+            "Storytelling is a powerful tool in marketing and advertising.",
+            "She has a talent for storytelling that captivates her audience.",
+            "The workshop focused on improving storytelling skills."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "highlights",
+            "definition": "Los aspectos más destacados o importantes de algo; momentos sobresalientes."
+        },
+        "pt": {
+            "word": "destaques",
+            "definition": "Os aspectos mais destacados ou importantes de algo; momentos sobressalentes."
+        },
+        "word": "highlights",
+        "ipa": "/ˈhaɪlaɪts/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            },
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The most prominent or important aspects of something; outstanding moments.",
+        "examples": [
+            "The highlights of the trip were the breathtaking views.",
+            "She shared the highlights of her career during the interview.",
+            "The documentary highlights the challenges of wildlife conservation."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "accountability",
+            "definition": "La responsabilidad de rendir cuentas por las acciones y decisiones, especialmente en un contexto profesional o de liderazgo."
+        },
+        "pt": {
+            "word": "responsabilidade",
+            "definition": "A responsabilidade de prestar contas pelas ações e decisões, especialmente em um contexto profissional ou de liderança."
+        },
+        "word": "accountability",
+        "ipa": "/əˌkaʊntəˈbɪləti/",
+        "type_word": [
+            {
+                "name": "Noun",
+                "sigle": "n.",
+                "description": "Words that name people, animals, places, things, ideas, or phenomena."
+            }
+        ],
+        "definition": "The responsibility to be answerable for actions and decisions, especially in a professional or leadership context.",
+        "examples": [
+            "Accountability is a core principle of effective leadership.",
+            "The company emphasizes accountability in its corporate culture.",
+            "There is a need for greater accountability in government."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "stating",
+            "definition": "La forma presente del verbo 'state', que significa expresar o afirmar algo claramente."
+        },
+        "pt": {
+            "word": "declarando",
+            "definition": "A forma presente do verbo 'state', que significa expressar ou afirmar algo claramente."
+        },
+        "word": "stating",
+        "ipa": "/ˈsteɪtɪŋ/",
+        "type_word": [
+            {
+                "name": "Verb",
+                "sigle": "v.",
+                "description": "Words that express actions, states, or processes."
+            }
+        ],
+        "definition": "The present form of the verb 'state,' which means to express or assert something clearly.",
+        "examples": [
+            "He is currently stating his opinion on the matter.",
+            "Stating the facts is essential in a legal context.",
+            "She is stating her case to the committee."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "useful",
+            "definition": "Que es de utilidad o beneficio; que sirve para un propósito o función específica."
+        },
+        "pt": {
+            "word": "útil",
+            "definition": "Que é de utilidade ou benefício; que serve para um propósito ou função específica."
+        },
+        "word": "useful",
+        "ipa": "/ˈjuːsfl/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "That which is of utility or benefit; serving a specific purpose or function.",
+        "examples": [
+            "This tool is very useful for home repairs.",
+            "Learning a new language can be useful in many situations.",
+            "Her advice proved to be quite useful."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "scientific",
+            "definition": "Relativo a la ciencia o al método científico; basado en el estudio sistemático y la observación."
+        },
+        "pt": {
+            "word": "científico",
+            "definition": "Relativo à ciência ou ao método científico; baseado no estudo sistemático e na observação."
+        },
+        "word": "scientific",
+        "ipa": "/ˌsaɪənˈtɪfɪk/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Relating to science or the scientific method; based on systematic study and observation.",
+        "examples": [
+            "The scientific community conducts experiments to test hypotheses.",
+            "Scientific research has led to many advancements in medicine.",
+            "Her work is highly regarded in the scientific community."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "employed",
+            "definition": "El participio pasado del verbo 'employ', que significa utilizar a alguien para un trabajo o tarea específica."
+        },
+        "pt": {
+            "word": "empregado",
+            "definition": "O particípio passado do verbo 'employ', que significa utilizar alguém para um trabalho ou tarefa específica."
+        },
+        "word": "employed",
+        "ipa": "/ɪmˈplɔɪd/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "The past participle of the verb 'employ,' which means to use someone for a specific job or task.",
+        "examples": [
+            "He was employed by the company for over ten years.",
+            "Many skilled workers are currently employed in the construction industry.",
+            "Being employed provides financial stability."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "excessive",
+            "definition": "Más de lo necesario o apropiado; exagerado o extremadamente alto en cantidad o grado."
+        },
+        "pt": {
+            "word": "excessivo",
+            "definition": "Mais do que o necessário ou apropriado; exagerado ou extremamente alto em quantidade ou grau."
+        },
+        "word": "excessive",
+        "ipa": "/ɪkˈsɛsɪv/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "More than necessary or appropriate; exaggerated or extremely high in quantity or degree.",
+        "examples": [
+            "The excessive heat during the summer can be unbearable.",
+            "Her spending habits are often seen as excessive.",
+            "Excessive noise can be a nuisance to neighbors."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "distant",
+            "definition": "Alejado en espacio o tiempo; no cercano en relación física o temporal."
+        },
+        "pt": {
+            "word": "distante",
+            "definition": "Afastado no espaço ou no tempo; não próximo em relação física ou temporal."
+        },
+        "word": "distant",
+        "ipa": "/ˈdɪstənt/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Far away in space or time; not close in physical or temporal relationship.",
+        "examples": [
+            "They live in a distant country and rarely visit.",
+            "The events of the past may seem distant, but they still impact us.",
+            "A distant relative I haven't seen in years."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "less",
+            "definition": "En menor cantidad o grado; comparativo de 'little'."
+        },
+        "pt": {
+            "word": "menos",
+            "definition": "Em menor quantidade ou grau; comparativo de 'pouco'."
+        },
+        "word": "less",
+        "ipa": "/lɛs/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            },
+            {
+                "name": "Adverb",
+                "sigle": "adv.",
+                "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+            }
+        ],
+        "definition": "In a smaller amount or degree; comparative of 'little'.",
+        "examples": [
+            "He has less experience in this field than she does.",
+            "There is less sugar in this recipe compared to the original.",
+            "The movie was less exciting than I expected."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    },
+    {
+        "es": {
+            "word": "engaging",
+            "definition": "Atractivo o interesante; capaz de capturar la atención o el interés de alguien."
+        },
+        "pt": {
+            "word": "envolvente",
+            "definition": "Atraente ou interessante; capaz de capturar a atenção ou o interesse de alguém."
+        },
+        "word": "engaging",
+        "ipa": "/ɪnˈɡeɪdʒɪŋ/",
+        "type_word": [
+            {
+                "name": "Adjective",
+                "sigle": "adj.",
+                "description": "Words that describe or modify nouns."
+            }
+        ],
+        "definition": "Attractive or interesting; capable of capturing someone's attention or interest.",
+        "examples": [
+            "Her engaging personality makes her a great public speaker.",
+            "The book had an engaging plot that kept me reading.",
+            "The engaging artwork drew crowds to the gallery."
+        ],
+        "times_seen": 1,
+        "status": "FAIL"
+    }
+]
