@@ -7,6 +7,8 @@ import CustomSlider from "@/components/atoms/CustomSlider";
 import { GrCaretNext, GrCaretPrevious } from "react-icons/gr";
 import { WordActionTypes } from "@/redux/wordRecuder/types";
 import { HiMiniSpeakerWave } from "react-icons/hi2";
+import cambrigeLogo from "../../public/images/cambrige.png";
+import Image from "next/image";
 
 export default function Home() {
   const { activeStory } = useSelector((state: RootState) => state.story);
@@ -56,9 +58,7 @@ export default function Home() {
     // playAudioFromIndex(newWordIndex);
   };
 
-  const speakWordEN = (word: string) => {
-    const speech = new SpeechSynthesisUtterance(word);
-    window.speechSynthesis.speak(speech);
+  const serchCambridgeDictinonary = (word: string) => {
     window.open(
       `https://dictionary.cambridge.org/dictionary/english/${word}#cald4-1`,
       "myWindow",
@@ -118,7 +118,7 @@ export default function Home() {
     ) : (
       <span
         key={"word-" + index}
-        onDoubleClick={() => speakWordEN(word)}
+        // onDoubleClick={() => speakWordEN(word)}
         onClick={() => setWordUserSelected(word)}
         className={`p-1 rounded-md cursor-pointer inline-flex ${
           isCurrentWord ? "bg-green-800" : "transparent"
@@ -174,14 +174,35 @@ export default function Home() {
           </div>
 
           <div className="flex items-center gap-4">
-            <h1 className="text-3xl capitalize rounded-lg  ">{wordUserSelected} </h1>
-            <HiMiniSpeakerWave
-              style={{ fontSize: 24 }}
-              onClick={() => {
-                const speech = new SpeechSynthesisUtterance(wordUserSelected);
-                window.speechSynthesis.speak(speech);
-              }}
-            />
+            {wordUserSelected && (
+              <>
+                <h1 className="text-3xl capitalize rounded-lg  ">
+                  {wordUserSelected.replaceAll(/[,.]/g, "")}{" "}
+                </h1>
+                <HiMiniSpeakerWave
+                  style={{ fontSize: 24 }}
+                  onClick={() => {
+                    const speech = new SpeechSynthesisUtterance(
+                      wordUserSelected
+                    );
+                    window.speechSynthesis.speak(speech);
+                  }}
+                />
+                <div
+                  className="rounded-full"
+                  title="Search on Cambridge Dictinary"
+                >
+                  <Image
+                    src={cambrigeLogo}
+                    className="rounded-full cursor-pointer "
+                    width={20}
+                    height={20}
+                    onClick={() => serchCambridgeDictinonary(wordUserSelected)}
+                    alt="camdictoniay"
+                  />
+                </div>
+              </>
+            )}
           </div>
 
           {/* <div className="slider-container">

@@ -1,0 +1,177 @@
+{
+  "difficulty": "b1",
+  "title": "B1 Level English Proficiency Test",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "single_choice",
+      "title": "Present Simple Usage",
+      "htmlContent": "Choose the correct form of the verb: She _____ (to go) to school every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes",
+      "feedback": "The correct answer is 'goes'. In present simple, the verb takes an 's' for third person singular.",
+      "metadata": {
+        "time_limit": 30,
+        "difficulty": "b1",
+        "topic_tags": ["grammar", "present simple", "verbs"],
+        "points": 10
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "title": "Prepositions of Time",
+      "htmlContent": "Select all correct prepositions: I have a meeting _____ Monday _____ 3 PM.",
+      "options": ["on", "in", "at", "by"],
+      "answer": ["on", "at"],
+      "feedback": "The correct prepositions are 'on' for days and 'at' for specific times.",
+      "metadata": {
+        "time_limit": 30,
+        "difficulty": "b1",
+        "topic_tags": ["grammar", "prepositions", "time"],
+        "points": 10
+      }
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "title": "Simple Past Tense",
+      "htmlContent": "Is the sentence correct? 'He didn't went to the party yesterday.'",
+      "answer": "False",
+      "feedback": "The sentence should be 'He didn't go to the party yesterday.'",
+      "metadata": {
+        "time_limit": 20,
+        "difficulty": "b1",
+        "topic_tags": ["grammar", "past tense", "verbs"],
+        "points": 5
+      }
+    },
+    {
+      "id": "q4",
+      "type": "single_choice",
+      "title": "Comparatives and Superlatives",
+      "htmlContent": "Complete the sentence: This book is _____ (interesting) than the one I read last week.",
+      "options": [
+        "more interesting",
+        "most interesting",
+        "interesting",
+        "interestinger"
+      ],
+      "answer": "more interesting",
+      "feedback": "The correct form is 'more interesting' for comparative degree.",
+      "metadata": {
+        "time_limit": 30,
+        "difficulty": "b1",
+        "topic_tags": ["grammar", "adjectives", "comparatives"],
+        "points": 10
+      }
+    },
+    {
+      "id": "q5",
+      "type": "single_choice",
+      "title": "Question Formation",
+      "htmlContent": "Select the correct question: _____ does she prefer, tea or coffee?",
+      "options": ["What", "Which", "Who", "How"],
+      "answer": "Which",
+      "feedback": "'Which' is used when choosing between two or more items.",
+      "metadata": {
+        "time_limit": 30,
+        "difficulty": "b1",
+        "topic_tags": ["grammar", "questions", "pronouns"],
+        "points": 10
+      }
+    },
+    {
+      "id": "q6",
+      "type": "single_choice",
+      "title": "Vocabulary: Synonyms",
+      "htmlContent": "Choose the synonym of 'happy':",
+      "options": ["Sad", "Angry", "Elated", "Tired"],
+      "answer": "Elated",
+      "feedback": "'Elated' is a synonym for 'happy'.",
+      "metadata": {
+        "time_limit": 30,
+        "difficulty": "b1",
+        "topic_tags": ["vocabulary", "synonyms"],
+        "points": 10
+      }
+    },
+    {
+      "id": "q7",
+      "type": "single_choice",
+      "title": "Modal Verbs for Ability",
+      "htmlContent": "Complete the sentence: He _____ swim when he was five.",
+      "options": ["can", "could", "will", "would"],
+      "answer": "could",
+      "feedback": "'Could' is used to talk about past abilities.",
+      "metadata": {
+        "time_limit": 30,
+        "difficulty": "b1",
+        "topic_tags": ["grammar", "modal verbs", "ability"],
+        "points": 10
+      }
+    },
+    {
+      "id": "q8",
+      "type": "open_text",
+      "title": "Short Answer: Daily Routine",
+      "htmlContent": "Describe your daily routine in a short paragraph.",
+      "answer": "",
+      "feedback": "",
+      "metadata": {
+        "time_limit": 120,
+        "minimum_word_count": 50,
+        "maximum_word_count": 100,
+        "difficulty": "b1",
+        "topic_tags": ["writing", "daily routine"],
+        "points": 20
+      }
+    },
+    {
+      "id": "q9",
+      "type": "true_false",
+      "title": "Understanding Adverbs",
+      "htmlContent": "Is the adverb correctly used? 'She sings very beautifully.'",
+      "answer": "True",
+      "feedback": "Yes, 'beautifully' is an adverb that correctly modifies the verb 'sings'.",
+      "metadata": {
+        "time_limit": 20,
+        "difficulty": "b1",
+        "topic_tags": ["grammar", "adverbs"],
+        "points": 5
+      }
+    },
+    {
+      "id": "q10",
+      "type": "listening",
+      "title": "Listening Comprehension",
+      "htmlContent": "Listen to the audio and answer the question: What is the main topic of the conversation?",
+      "options": [
+        "A birthday party",
+        "A music concert",
+        "A holiday plan",
+        "A shopping trip"
+      ],
+      "answer": "",
+      "feedback": "The correct answer will be based on the audio content.",
+      "metadata": {
+        "time_limit": 60,
+        "difficulty": "b1",
+        "topic_tags": ["listening", "comprehension"],
+        "points": 15
+      }
+    }
+  ],
+  "userChatWithGepeto": [
+    {
+      "id": "92782",
+      "role": "user",
+      "text": "Why the conditionals are so difficult?"
+    },
+    {
+      "id": "92783",
+      "role": "gepeto",
+      "text": "Because they are not used in everyday speech \n They are used to talk about imaginary situations and their results."
+    }
+  ]
+}
