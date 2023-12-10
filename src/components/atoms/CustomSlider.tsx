@@ -1,39 +1,40 @@
-import React, { useState, useRef, useCallback } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 interface CustomSliderProps {
   min: number;
   max: number;
+  value: number;
   onChange: (value: number) => void;
 }
 
-const CustomSlider: React.FC<CustomSliderProps> = ({ min, max, onChange }) => {
-  const [value, setValue] = useState<number>(min);
+const CustomSlider: React.FC<CustomSliderProps> = ({
+  min,
+  max,
+  value,
+  onChange,
+}) => {
   const [isDragging, setIsDragging] = useState<boolean>(false);
   const sliderRef = useRef<HTMLDivElement>(null);
 
-  const calculateValue = useCallback(
-    (clientX: number) => {
-      if (!sliderRef.current) return;
+  const calculateValue = (clientX: number) => {
+    if (!sliderRef.current) return;
 
-      const rect = sliderRef.current.getBoundingClientRect();
-      const newValue =
-        (Math.min(Math.max(0, clientX - rect.left), rect.width) / rect.width) *
-          (max - min) +
-        min;
-      setValue(newValue);
-      onChange(newValue);
-    },
-    [min, max, onChange]
-  );
+    const rect = sliderRef.current.getBoundingClientRect();
+    const relativeX = Math.min(Math.max(0, clientX - rect.left), rect.width);
+    const newValue = (relativeX / rect.width) * (max - min) + min;
+    return newValue;
+  };
 
   const handleMouseDown = (e: React.MouseEvent<HTMLDivElement>) => {
     setIsDragging(true);
-    calculateValue(e.clientX);
+    const newValue = calculateValue(e.clientX);
+    onChange(newValue!);
   };
 
   const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
     if (isDragging) {
-      calculateValue(e.clientX);
+      const newValue = calculateValue(e.clientX);
+      onChange(newValue!);
     }
   };
 
@@ -46,11 +47,11 @@ const CustomSlider: React.FC<CustomSliderProps> = ({ min, max, onChange }) => {
   return (
     <div
       ref={sliderRef}
-      className="mx-2 w-[200px] bg-gray-200 h-2 cursor-pointer relative rounded-lg"
+      className="mx-3 w-[200px] bg-gray-200 h-2 cursor-pointer relative rounded-lg"
       onMouseDown={handleMouseDown}
       onMouseMove={handleMouseMove}
       onMouseUp={handleMouseUp}
-      onMouseLeave={handleMouseUp} // Para manejar casos en los que el mouse sale del slider mientras arrastra
+      onMouseLeave={handleMouseUp}
     >
       <div
         className="absolute bg-blue-500 h-2"
@@ -58,7 +59,11 @@ const CustomSlider: React.FC<CustomSliderProps> = ({ min, max, onChange }) => {
       ></div>
       <div
         className="absolute w-6 h-6 bg-green-500 rounded-full"
-        style={{ left: `${thumbPosition}%`, transform: "translateX(-50%)" ,top:'-7px'}}
+        style={{
+          left: `${thumbPosition}%`,
+          transform: "translateX(-50%)",
+          top: "-7px",
+        }}
       ></div>
     </div>
   );

@@ -8,16 +8,20 @@ import CustomSlider from "@/components/atoms/CustomSlider";
 export default function Home() {
   const { activeStory } = useSelector((state: RootState) => state.story);
 
-  // Definición de tipos y estado inicial
   const [currentWordIndex, setCurrentWordIndex] = useState<number>(0);
   const [words, setWords] = useState<string[]>([]);
   const [audioPlaying, setAudioPlaying] = useState<boolean>(false);
   const [sliderValue, setSliderValue] = useState<number>(0);
-  const voicesRef = useRef<SpeechSynthesisVoice[]>(
-    window.speechSynthesis.getVoices()
-  );
+  const voicesRef = useRef<SpeechSynthesisVoice[]>([]);
 
-  // console.log(activeStory?.paragraphs);
+  useEffect(() => {
+    if (window.speechSynthesis) {
+      window.speechSynthesis.onvoiceschanged = () => {
+        const voices = window.speechSynthesis.getVoices();
+        voicesRef.current = voices;
+      };
+    }
+  }, []);
 
   useEffect(() => {
     if (activeStory?.paragraphs) {
@@ -39,19 +43,12 @@ export default function Home() {
     setSliderValue((currentWordIndex / Math.max(words.length - 1, 1)) * 100);
   }, [currentWordIndex, words.length]);
 
-  const handleSliderChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const newSliderValue = parseInt(e.target.value, 10);
-    setSliderValue(newSliderValue);
-    const newWordIndex = Math.floor(
-      (newSliderValue / 100) * (words.length - 1)
-    );
+  const handleSliderValueChange = (newValue: number) => {
+    const newWordIndex = Math.floor((newValue / 100) * (words.length - 1));
     setCurrentWordIndex(newWordIndex);
     stopAudio();
-  };
-
-
-  const handleSliderValueChange = (newValue: number) => {
-    console.log("Nuevo valor del slider:", newValue);
+    // Opcionalmente, puedes empezar a reproducir desde el nuevo índice
+    // playAudioFromIndex(newWordIndex);
   };
 
   const speakWordEN = (word: string) => {
@@ -115,7 +112,7 @@ export default function Home() {
       <div style={{ margin: "20px 0" }}></div> // Espaciado para separación de párrafos
     ) : (
       <span
-        key={index}
+        key={"word-" + index}
         onDoubleClick={() => speakWordEN(word)}
         className={`p-1 rounded-md cursor-pointer inline-flex ${
           isCurrentWord ? "bg-green-800" : "transparent"
@@ -126,14 +123,28 @@ export default function Home() {
     );
   };
 
+  useEffect(() => {
+    if (window.speechSynthesis) {
+      window.speechSynthesis.onvoiceschanged = () => {
+        const voices = window.speechSynthesis.getVoices();
+        voicesRef.current = voices;
+      };
+    }
+  }, []);
+
   return (
     <MainLayout>
-      <div className="text-white">
-        <div className="text-2xl h-full overflow-y-auto">
+      <div className="text-white ">
+     
+        <div className="text-2xl h-full overflow-y-auto px-4">
+        <h1 className="text-4xl font-semibold pb-6">
+          {activeStory?.title}
+        </h1>
+
           {activeStory?.paragraphs && words.map(renderWord)}
         </div>
 
-        <section className="fixed bottom-0 w-full flex justify-center items-center bg-gradient-to-t from-slate-900 via-slate-900 opacity-90 to-transparent">
+        <section className="fixed gap-3  bottom-0 w-full flex justify-center items-center bg-gradient-to-t from-slate-900 via-slate-900 opacity-90 to-transparent">
           <div>
             {audioPlaying ? (
               <HiStopCircle style={{ fontSize: 40 }} onClick={stopAudio} />
@@ -143,16 +154,21 @@ export default function Home() {
           </div>
 
           <div className="slider-container">
-            {/* <input
-              type="range"
-              min="0"
-              max="100"
+            <CustomSlider
+              min={0}
+              max={100}
               value={sliderValue}
-              className="slider w-[800px] min-w-sm bg-green-200"
-              id="myRange"
-              onChange={handleSliderChange}
-            /> */}
-            <CustomSlider min={0} max={100} onChange={handleSliderValueChange} />
+              onChange={handleSliderValueChange}
+            />
+          </div>
+
+          <div>
+            List of voices:
+            <select className="bg-slate-800" name="voices" id="voices">
+              {voicesRef.current.map((voice, i) => (
+                <option key={`${i}-voice`}>{voice.name}</option>
+              ))}
+            </select>
           </div>
         </section>
       </div>
