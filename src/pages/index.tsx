@@ -1,9 +1,12 @@
 import { MainLayout } from "@/components/layouts/MainLayout";
 import { RootState } from "@/redux/reducers";
 import { useEffect, useRef, useState } from "react";
-import { useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { HiPlayCircle, HiStopCircle } from "react-icons/hi2";
 import CustomSlider from "@/components/atoms/CustomSlider";
+import { GrCaretNext, GrCaretPrevious } from "react-icons/gr";
+import { WordActionTypes } from "@/redux/wordRecuder/types";
+import { HiMiniSpeakerWave } from "react-icons/hi2";
 
 export default function Home() {
   const { activeStory } = useSelector((state: RootState) => state.story);
@@ -13,6 +16,8 @@ export default function Home() {
   const [audioPlaying, setAudioPlaying] = useState<boolean>(false);
   const [sliderValue, setSliderValue] = useState<number>(0);
   const voicesRef = useRef<SpeechSynthesisVoice[]>([]);
+
+  const [wordUserSelected, setWordUserSelected] = useState("");
 
   useEffect(() => {
     if (window.speechSynthesis) {
@@ -114,6 +119,7 @@ export default function Home() {
       <span
         key={"word-" + index}
         onDoubleClick={() => speakWordEN(word)}
+        onClick={() => setWordUserSelected(word)}
         className={`p-1 rounded-md cursor-pointer inline-flex ${
           isCurrentWord ? "bg-green-800" : "transparent"
         }`}
@@ -132,28 +138,53 @@ export default function Home() {
     }
   }, []);
 
+  const nextWord = () => {
+    if (currentWordIndex < words.length - 1) {
+      setCurrentWordIndex(currentWordIndex + 1);
+      stopAudio();
+    }
+  };
+
+  const prevWord = () => {
+    if (currentWordIndex > 0) {
+      setCurrentWordIndex(currentWordIndex - 1);
+      stopAudio();
+    }
+  };
+
   return (
     <MainLayout>
       <div className="text-white ">
-     
-        <div className="text-2xl h-full overflow-y-auto px-4">
-        <h1 className="text-4xl font-semibold pb-6">
-          {activeStory?.title}
-        </h1>
+        <div className="text-2xl h-full overflow-y-auto px-4 pt-4">
+          <h1 className="text-4xl font-semibold pb-6">{activeStory?.title}</h1>
 
           {activeStory?.paragraphs && words.map(renderWord)}
         </div>
 
-        <section className="fixed gap-3  bottom-0 w-full flex justify-center items-center bg-gradient-to-t from-slate-900 via-slate-900 opacity-90 to-transparent">
-          <div>
+        <section className="fixed gap-3 px-8 bottom-0 w-full flex justify-between items-center bg-gradient-to-t from-slate-900 via-slate-900 opacity-90 to-transparent pb-4">
+          <div className="flex items-center">
             {audioPlaying ? (
               <HiStopCircle style={{ fontSize: 40 }} onClick={stopAudio} />
             ) : (
               <HiPlayCircle style={{ fontSize: 40 }} onClick={startAudio} />
             )}
+
+            <GrCaretPrevious style={{ fontSize: 24 }} onClick={prevWord} />
+            <GrCaretNext style={{ fontSize: 24 }} onClick={nextWord} />
           </div>
 
-          <div className="slider-container">
+          <div className="flex items-center gap-4">
+            <h1 className="text-3xl capitalize rounded-lg  ">{wordUserSelected} </h1>
+            <HiMiniSpeakerWave
+              style={{ fontSize: 24 }}
+              onClick={() => {
+                const speech = new SpeechSynthesisUtterance(wordUserSelected);
+                window.speechSynthesis.speak(speech);
+              }}
+            />
+          </div>
+
+          {/* <div className="slider-container">
             <CustomSlider
               min={0}
               max={100}
@@ -169,7 +200,7 @@ export default function Home() {
                 <option key={`${i}-voice`}>{voice.name}</option>
               ))}
             </select>
-          </div>
+          </div> */}
         </section>
       </div>
     </MainLayout>
