@@ -33,11 +33,11 @@ export default async function handler(
         res.status(200).json(updated);
         break;
 
-      case "DELETE":
-        const { id: deleteId } = req.query;
-        await StoryModel.findByIdAndRemove(deleteId);
-        res.status(204).send("Palabra eliminada correctamente.");
-        break;
+      // case "DELETE":
+      //   const { id: deleteId } = req.query;
+      //   await StoryModel.findByIdAndRemove(deleteId);
+      //   res.status(204).send("Palabra eliminada correctamente.");
+      //   break;
 
       default:
         res.status(405).json({ error: "Método no permitido." });
