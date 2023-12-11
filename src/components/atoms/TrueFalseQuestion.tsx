@@ -1,17 +1,20 @@
 import React from "react";
+import { Question } from "./props";
+import { AlertsResponse } from "./AlertsResponse";
 
-interface TrueFalseQuestionProps {
-  title: string;
-  onChange: (value: boolean) => void;
+interface Props {
+  question: Question;
+  onChange: (option: boolean) => void;
 }
 
-const TrueFalseQuestion: React.FC<TrueFalseQuestionProps> = ({
-  title,
+const TrueFalseQuestion = ({
+  question: { title, htmlContent, feedback },
   onChange,
-}) => {
+}: Props) => {
   return (
     <div className="bg-slate-700 p-4 rounded-lg">
       <h2 className="text-white text-lg mb-2">{title}</h2>
+      <p>{htmlContent}</p>
       <div>
         <label className="block mb-2">
           <input
@@ -34,6 +37,8 @@ const TrueFalseQuestion: React.FC<TrueFalseQuestionProps> = ({
           False
         </label>
       </div>
+      {feedback && <AlertsResponse feedback={feedback} status="correct" />}
+
     </div>
   );
 };

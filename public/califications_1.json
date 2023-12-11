@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q1",
+    "status": "wrong",
+    "feedback": "Your answer 'go' is incorrect. The correct form is 'goes'. Remember, in the present simple tense, verbs in the third person singular (he, she, it) require an 's' at the end. This is a common rule in English grammar, and mastering it will greatly improve your language skills."
+  },
+  {
+    "id": "q2",
+    "status": "correct",
+    "feedback": "Great job! Your selections 'on' and 'at' are correct. 'On' is used for days of the week, and 'at' is for specific times. Understanding prepositions is crucial as they often denote time, place, and other critical details in English. Keep up the good work in identifying these nuances."
+  },
+  {
+    "id": "q3",
+    "status": "correct",
+    "feedback": "Correct! The sentence should be 'He didn't go to the party yesterday.' In English, after 'do not' (don't, didn't), the base form of the verb is always used. This is an important aspect of negation in past tense. Your grasp of this concept shows a good understanding of English sentence structure."
+  },
+  {
+    "id": "q4",
+    "status": "correct",
+    "feedback": "You got it right with 'more interesting'. Comparative adjectives are used to compare differences between the two objects they modify. Remember, for longer adjectives, 'more' is used instead of adding '-er'. This knowledge is key for fluent English communication."
+  },
+  {
+    "id": "q5",
+    "status": "correct",
+    "feedback": "Well done! Choosing 'Which' is correct. 'Which' is used when you're selecting from a limited number of items. Your ability to distinguish between 'which', 'what', 'who', and 'how' is impressive and enhances your question-forming skills in English."
+  },
+  {
+    "id": "q6",
+    "status": "correct",
+    "feedback": "Correct! 'Elated' is indeed a synonym for 'happy'. Building a strong vocabulary with synonyms is essential for effective communication and will help you express yourself more precisely and colorfully in English."
+  },
+  {
+    "id": "q7",
+    "status": "wrong",
+    "feedback": "Your answer 'would' is not correct. The right choice is 'could', which expresses ability in the past. Modal verbs like 'can' and 'could' are fundamental in English, showing ability or possibility. Understanding their correct usage is vital for fluency."
+  },
+  {
+    "id": "q8",
+    "status": "could-improve",
+    "feedback": "Your description of your daily routine is detailed and well-expressed. You've demonstrated a good ability to describe activities in a logical sequence. However, remember to check your spelling and grammar. Consistent practice in writing will enhance your proficiency in English."
+  },
+  {
+    "id": "q9",
+    "status": "correct",
+    "feedback": "The answer should be 'True'. The sentence 'She sings very beautifully' is grammatically correct, as 'beautifully' is an adverb modifying the verb 'sings'. Understanding adverbs and their placement in a sentence is crucial for clear and correct English communication."
+  }
+]

@@ -114,7 +114,7 @@ export default function Home() {
     const isSeparator = word === "¶"; // Verificar si la palabra es el marcador de separación
 
     return isSeparator ? (
-      <div style={{ margin: "20px 0" }}></div> // Espaciado para separación de párrafos
+      <div key={"separator-" + index} style={{ margin: "20px 0" }}></div> // Espaciado para separación de párrafos
     ) : (
       <span
         key={"word-" + index}
@@ -177,7 +177,7 @@ export default function Home() {
             {wordUserSelected && (
               <>
                 <h1 className="text-3xl capitalize rounded-lg  ">
-                  {wordUserSelected.replaceAll(/[,.]/g, "")}{" "}
+                  {wordUserSelected.replaceAll(/[,.()]/g, "")}{" "}
                 </h1>
                 <HiMiniSpeakerWave
                   style={{ fontSize: 24 }}
