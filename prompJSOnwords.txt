@@ -1,210 +1,5 @@
 [
-  {
-    "es": {
-      "word": "oral",
-      "definition": "Relativo a la boca o la palabra hablada en lugar de la escrita."
-    },
-    "pt": {
-      "word": "oral",
-      "definition": "Relativo à boca ou à palavra falada em vez da escrita."
-    },
-    "word": "oral",
-    "ipa": "/ˈɔrəl/",
-    "type_word": [
-      {
-        "name": "Adjective",
-        "sigle": "adj.",
-        "description": "Words that describe or modify nouns."
-      }
-    ],
-    "definition": "Relating to the mouth or spoken word rather than written."
-  },
-  {
-    "es": {
-      "word": "impact",
-      "definition": "El efecto o influencia que algo tiene en algo o alguien."
-    },
-    "pt": {
-      "word": "impacto",
-      "definition": "O efeito ou influência que algo tem em algo ou alguém."
-    },
-    "word": "impact",
-    "ipa": "/ˈɪmpækt/",
-    "type_word": [
-      {
-        "name": "Noun",
-        "sigle": "n.",
-        "description": "Words that name people, animals, places, things, ideas, or phenomena."
-      },
-      {
-        "name": "Verb",
-        "sigle": "v.",
-        "description": "Words that express actions, states, or processes."
-      }
-    ],
-    "definition": "The effect or influence that something has on something or someone."
-  },
-  {
-    "es": {
-      "word": "ensuring",
-      "definition": "Haciendo algo seguro o cierto; garantizando."
-    },
-    "pt": {
-      "word": "garantindo",
-      "definition": "Tornando algo seguro ou certo; garantindo."
-    },
-    "word": "ensuring",
-    "ipa": "/ɪnˈʃʊrɪŋ/",
-    "type_word": [
-      {
-        "name": "Verb",
-        "sigle": "v.",
-        "description": "Words that express actions, states, or processes."
-      }
-    ],
-    "definition": "Making something safe or certain; guaranteeing."
-  },
-  {
-    "es": {
-      "word": "grammatical",
-      "definition": "Relativo a la gramática o las reglas del lenguaje."
-    },
-    "pt": {
-      "word": "gramatical",
-      "definition": "Relativo à gramática ou às regras da língua."
-    },
-    "word": "grammatical",
-    "ipa": "/ɡrəˈmætɪkəl/",
-    "type_word": [
-      {
-        "name": "Adjective",
-        "sigle": "adj.",
-        "description": "Words that describe or modify nouns."
-      }
-    ],
-    "definition": "Relating to grammar or the rules of language."
-  },
-  {
-    "es": {
-      "word": "able",
-      "definition": "Tener la capacidad o habilidad para hacer algo."
-    },
-    "pt": {
-      "word": "capaz",
-      "definition": "Ter a capacidade ou habilidade para fazer algo."
-    },
-    "word": "able",
-    "ipa": "/ˈeɪbl/",
-    "type_word": [
-      {
-        "name": "Adjective",
-        "sigle": "adj.",
-        "description": "Words that describe or modify nouns."
-      }
-    ],
-    "definition": "Having the capacity or ability to do something."
-  },
-  {
-    "es": {
-      "word": "clearly",
-      "definition": "De manera clara o fácilmente comprensible."
-    },
-    "pt": {
-      "word": "claramente",
-      "definition": "De forma clara ou facilmente compreensível."
-    },
-    "word": "clearly",
-    "ipa": "/ˈklɪrli/",
-    "type_word": [
-      {
-        "name": "Adverb",
-        "sigle": "adv.",
-        "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
-      }
-    ],
-    "definition": "In a clear or easily understandable manner."
-  },
-  {
-    "es": {
-      "word": "avoiding",
-      "definition": "Evitar hacer algo o alejarse de una situación."
-    },
-    "pt": {
-      "word": "evitando",
-      "definition": "Evitar fazer algo ou afastar-se de uma situação."
-    },
-    "word": "avoiding",
-    "ipa": "/əˈvɔɪdɪŋ/",
-    "type_word": [
-      {
-        "name": "Verb",
-        "sigle": "v.",
-        "description": "Words that express actions, states, or processes."
-      }
-    ],
-    "definition": "Preventing oneself from doing something or staying away from a situation."
-  },
-  {
-    "es": {
-      "word": "misunderstanding",
-      "definition": "Una interpretación incorrecta o errónea de algo."
-    },
-    "pt": {
-      "word": "mal-entendido",
-      "definition": "Uma interpretação incorreta ou errônea de algo."
-    },
-    "word": "misunderstanding",
-    "ipa": "/ˌmɪsʌndərˈstændɪŋ/",
-    "type_word": [
-      {
-        "name": "Noun",
-        "sigle": "n.",
-        "description": "Words that name people, animals, places, things, ideas, or phenomena."
-      }
-    ],
-    "definition": "An incorrect or erroneous interpretation of something."
-  },
-  {
-    "es": {
-      "word": "whether",
-      "definition": "Usado para indicar una elección entre dos o más opciones."
-    },
-    "pt": {
-      "word": "se",
-      "definition": "Usado para indicar uma escolha entre duas ou mais opções."
-    },
-    "word": "whether",
-    "ipa": "/ˈwɛðər/",
-    "type_word": [
-      {
-        "name": "Conjunction",
-        "sigle": "conj.",
-        "description": "Words that connect words, phrases, clauses, or sentences."
-      }
-    ],
-    "definition": "Used to indicate a choice between two or more options."
-  },
-  {
-    "es": {
-      "word": "subtle",
-      "definition": "Delicado o difícil de percibir o entender."
-    },
-    "pt": {
-      "word": "sutil",
-      "definition": "Delicado ou difícil de perceber ou entender."
-    },
-    "word": "subtle",
-    "ipa": "/ˈsʌtl/",
-    "type_word": [
-      {
-        "name": "Adjective",
-        "sigle": "adj.",
-        "description": "Words that describe or modify nouns."
-      }
-    ],
-    "definition": "Delicate or difficult to perceive or understand."
-  },
-  {
+   {
     "es": {
       "word": "adecuado",
       "definition": "Correcto o apropiado en una situación dada; adecuado o apropiado."
@@ -230,8 +25,6 @@
       "Proper planning is essential for the project's success.",
       "Following proper safety procedures is crucial."
     ],
-    "times_seen": 1,
-    "status": "FAIL"
   },
   {
     "es": {
@@ -264,8 +57,6 @@
       "The job requires candidates to have relevant work experience.",
       "He wanted to experience new cultures and traditions."
     ],
-    "times_seen": 1,
-    "status": "FAIL"
   },
   {
     "es": {
@@ -298,27 +89,168 @@
       "Smooth communication is key to a successful team.",
       "The car's engine ran smoothly without any issues."
     ],
-    "times_seen": 1,
-    "status": "FAIL"
   }
 ]
 
+(aqui estas los types
 
+[
+  {
+    "name": "Proper Noun",
+    "sigle": "pn.",
+    "description": "Specific names of people, places, organizations, etc., that are capitalized."
+  },
+  {
+    "name": "Auxiliary Verb",
+    "sigle": "aux.",
+    "description": "Verbs used with another verb to form tenses, voices, or moods, such as 'have', 'be', 'do'."
+  },
+  {
+    "name": "Proper Noun",
+    "sigle": "pn.",
+    "description": "Specific names of people, places, organizations, etc., that are capitalized."
+  },
+  {
+    "name": "Particle",
+    "sigle": "partic.",
+    "description": "A word that joins with a verb to create a phrasal verb, like 'up' in 'pick up'."
+  },
+  {
+    "name": "Noun",
+    "sigle": "n.",
+    "description": "Words that name people, animals, places, things, ideas, or phenomena."
+  },
+  {
+    "name": "Verb",
+    "sigle": "v.",
+    "description": "Words that express actions, states, or processes."
+  },
+  {
+    "name": "Adjective",
+    "sigle": "adj.",
+    "description": "Words that describe or modify nouns."
+  },
+  {
+    "name": "Adverb",
+    "sigle": "adv.",
+    "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences."
+  },
+  {
+    "name": "Pronoun",
+    "sigle": "pron.",
+    "description": "Words used in place of a noun."
+  },
+  {
+    "name": "Suffix and Prefix",
+    "sigle": "suff./pref.",
+    "description": "Word elements added to the beginning or end of root words to change their meanings."
+  },
+  {
+    "name": "Clause",
+    "sigle": "cl.",
+    "description": "A group of words containing a subject and predicate and functioning as a member of a complex or compound sentence."
+  },
+  {
+    "name": "Subjunctive Mood",
+    "sigle": "subj.",
+    "description": "Used to express wishes, hypotheses, or conditions contrary to fact."
+  },
+  {
+    "name": "Relative Pronouns",
+    "sigle": "rel. pron.",
+    "description": "Pronouns that introduce relative clauses (e.g., which, who, that)."
+  },
+  {
+    "name": "Passive Voice",
+    "sigle": "pass.",
+    "description": "A form where the subject of the sentence is acted upon by the verb."
+  },
+  {
+    "name": "Preposition",
+    "sigle": "prep.",
+    "description": "Words used before a noun or pronoun to form a phrase modifying another word in the sentence."
+  },
+  {
+    "name": "Conjunction",
+    "sigle": "conj.",
+    "description": "Words that connect clauses, sentences, words, or phrases."
+  },
+  {
+    "name": "Interjection",
+    "sigle": "interj.",
+    "description": "Words used to express emotion or a sudden utterance."
+  },
+  {
+    "name": "Article",
+    "sigle": "art.",
+    "description": "Words that define a noun as specific or unspecific."
+  },
+  {
+    "name": "Determiner",
+    "sigle": "det.",
+    "description": "Words that introduce nouns and provide context."
+  },
+  {
+    "name": "Numeral",
+    "sigle": "num.",
+    "description": "Words that denote numbers."
+  },
+  {
+    "name": "Participle",
+    "sigle": "part.",
+    "description": "Verb forms used as adjectives or to form verb tenses."
+  },
+  {
+    "name": "Gerund",
+    "sigle": "ger.",
+    "description": "Verb forms ending in -ing that function as nouns."
+  },
+  {
+    "name": "Infinitive",
+    "sigle": "inf.",
+    "description": "The base form of a verb, usually preceded by 'to'."
+  },
+  {
+    "name": "Phrase",
+    "sigle": "phr.",
+    "description": "A small group of words standing together as a conceptual unit."
+  },
+  {
+    "name": "Idiom",
+    "sigle": "id.",
+    "description": "Expressions with meanings that cannot be inferred from the meanings of the individual words."
+  },
+  {
+    "name": "Acronym",
+    "sigle": "acr.",
+    "description": "A word formed from the first letters of each word in a series."
+  },
+
+  {
+    "name": "Acronym",
+    "sigle": "acr.",
+    "description": "A word formed from the first letters of each word in a series."
+  },
+  {
+    "name": "Phrasal Verb",
+    "sigle": "phr.v.",
+    "description": "A verb combined with a preposition or an adverb (or both), where the combination creates a meaning different from the original verb, such as 'turn off' or 'run into'."
+  }  
+]
+)
 
 GENERATE JSON (TU RTA SOLO TIENE QUE SER UN JSON)un par mas SOLO PARA LA PALABARAs para 
 [
-    "speaker's",
-    "credibility",
-    "professionalism",
-    "showcases",
-    "competence",
-    "attention",
-    "detail",
-    "similarly",
-    "foundation",
-    "writers",
-    "clear",
-    "organized"
+   "fleet",
+  "fleeting",
+  "fleetly",
+  "fleetness",
+  "fleet-footed",
+  "fleetingly",
+  "fleeted",
+  "endorsement",
+  "endorse",
+  "endorsing",
 ]
 
 OJO con las mismas llaves que tienen todos,.SIGUE EL EJEMPLO
@@ -330,11 +262,10 @@ pt
   word  -LA PALABRA EN PT LA TRADUCCION)
   definition - LA PALABRA EN PT LA TRADUCCION)
 word
-ipd
+ipa
 type_word 
 definition
 examples [6 item always]
-times_seen 1
-status :"FAIL"
+
  
-comienza con "speaker's" , ...
+comienza con "fleet" , ...

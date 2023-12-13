@@ -46,7 +46,7 @@ export const Modal = ({ isOpen = false, setIsOpen, children }: ModalProps) => {
     <div className="fixed inset-0 bg-gray-600 bg-opacity-50 overflow-y-auto h-full w-full flex justify-end">
       <div
         ref={modalRef}
-        className={`bg-gray-800 p-5 rounded-md shadow-lg w-[90%] h-screen `}
+        className={`bg-gray-800 p-5 rounded-md shadow-lg w-[90%] h-screen rounded-tl-3xl rounded-bl-3xl `}
       >
         {children}
         {/* <h2 className="text-xl font-bold mb-4">Título del Modal</h2>

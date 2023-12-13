@@ -1,13 +1,11 @@
-import { WORDSHERERAAW } from "@/data/wordsraw";
 import { Word } from "@/interfaces/word";
 import { connect, disconnect } from "@/mongo";
 import { WordModel } from "@/mongo/models/Word";
 import { NextApiRequest, NextApiResponse } from "next";
 import { words__CLEAN } from "../../../word";
-import WORDS_NEW_GPT3 from "../../../public/WORDS_NEW_GPT.json";
-
 const axios = require("axios");
 const cheerio = require("cheerio");
+import DictionaryJson from "../../../public/englishdb_ai.words.json";
 
 export default async function handler(
   req: NextApiRequest,
@@ -22,10 +20,11 @@ export default async function handler(
       case "GET":
         // const rta = await serchCambrigePupe();
         // const rta = await searchAndDeleteRepeatedWords();
-        const rta = await addNewWords();
         // const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
+        const userWord = req.query.word as string;
+        const rta = await serhWordByWord(userWord);
         res.status(200).json(rta);
 
         break;
@@ -42,6 +41,29 @@ export default async function handler(
     await disconnect();
   }
 }
+
+const serhWordByWord = async (word: string) => {
+  if (!word) {
+    // Solo retorna las primeras 10 palabras
+    const words = DictionaryJson.slice(0, 200);
+    return { words: words, total: DictionaryJson.length };
+  }
+
+  // deberia buscar si incluye la palabra
+
+  const wordsSearch = DictionaryJson.find(
+    (element: (typeof DictionaryJson)[0]) =>
+      element.word.toLowerCase().includes(word.toLowerCase())
+  );
+  // Si solo hay una palabra, retorna un array con esa palabra
+  // Si hay más de una palabra, retorna un array con todas las palabras
+  const words = wordsSearch ? [wordsSearch] : [];
+
+  return {
+    words: words || `No exist the word /${word}/`,
+    total: words?.length || 0,
+  };
+};
 
 const getArrayFromAllWords = async () => {
   const words = await WordModel.find({}).select("word");
@@ -118,25 +140,5 @@ const serchCambrigePupe = async () => {
   } catch (error) {
     console.error("Hubo un error:", error);
     return { damn: "errro" };
-  }
-};
-
-const addNewWords = async () => {
-  const newFormat = WORDS_NEW_GPT3.map((word) => {
-    return {
-      ...word,
-      times_seen: 1,
-      status: "FAIL",
-    };
-  });
-
-  try {
-    // Agregar las palabras a la base de datos
-    const words = await WordModel.create(newFormat);
-
-    return { words: "Well done my friend" };
-  } catch (error: any) {
-    console.log(error);
-    return { error: "Error en el servidor: " + error.message };
   }
 };

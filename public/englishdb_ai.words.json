@@ -86566,4 +86566,3741 @@
   ],
   "times_seen": 1,
   "status": "FAIL"
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a14"
+  },
+  "es": {
+    "word": "rápidamente",
+    "definition": "Con gran velocidad o rapidez; de manera ágil."
+  },
+  "pt": {
+    "word": "rapidamente",
+    "definition": "Com grande velocidade ou rapidez; de maneira ágil."
+  },
+  "word": "fleetly",
+  "ipa": "/ˈfliːtlɪ/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a15"
+      }
+    }
+  ],
+  "definition": "With great speed or swiftness; in an agile manner.",
+  "examples": [
+    "The athlete ran fleetly across the field.",
+    "The bird flew fleetly through the air.",
+    "She moved fleetly to avoid the obstacle.",
+    "Time passes fleetly when you're having fun.",
+    "He fleetly completed the task.",
+    "The dancer's feet moved fleetly and gracefully."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a12"
+  },
+  "es": {
+    "word": "fugaz",
+    "definition": "Algo que dura por un tiempo muy corto; breve o rápido."
+  },
+  "pt": {
+    "word": "fugaz",
+    "definition": "Algo que dura por um tempo muito curto; breve ou rápido."
+  },
+  "word": "fleeting",
+  "ipa": "/ˈfliːtɪŋ/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a13"
+      }
+    }
+  ],
+  "definition": "Something that lasts for a very short time; brief or quick.",
+  "examples": [
+    "The moment was fleeting but memorable.",
+    "He caught a fleeting glimpse of the bird.",
+    "Her fame was as fleeting as a summer storm.",
+    "Fleeting happiness is often found in small things.",
+    "They shared a fleeting smile.",
+    "The opportunity was fleeting, so he acted quickly."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a10"
+  },
+  "es": {
+    "word": "flota",
+    "definition": "Un grupo de vehículos, especialmente barcos o aviones, organizados para realizar una actividad específica o bajo el mismo mando."
+  },
+  "pt": {
+    "word": "frota",
+    "definition": "Um grupo de veículos, especialmente navios ou aviões, organizados para realizar uma atividade específica ou sob o mesmo comando."
+  },
+  "word": "fleet",
+  "ipa": "/fliːt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a11"
+      }
+    }
+  ],
+  "definition": "A group of vehicles, especially ships or airplanes, organized for a specific activity or under the same command.",
+  "examples": [
+    "The naval fleet was impressive in its size and formation.",
+    "A fleet of taxis was ready outside the airport.",
+    "The company has a large fleet of delivery trucks.",
+    "He managed the fleet operations efficiently.",
+    "The fleet set sail at dawn.",
+    "Their fleet of drones was used for surveillance."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a1a"
+  },
+  "es": {
+    "word": "fugazmente",
+    "definition": "De una manera que dura por un tiempo muy corto; de forma breve o rápida."
+  },
+  "pt": {
+    "word": "fugazmente",
+    "definition": "De uma maneira que dura por um tempo muito curto; de forma breve ou rápida."
+  },
+  "word": "fleetingly",
+  "ipa": "/ˈfliːtɪŋli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a1b"
+      }
+    }
+  ],
+  "definition": "In a manner that lasts for a very short time; briefly or quickly.",
+  "examples": [
+    "She glanced fleetingly at her watch.",
+    "The moment of joy was experienced fleetingly.",
+    "He thought fleetingly about the past.",
+    "The idea crossed her mind fleetingly.",
+    "Fleetingly, he saw a chance to escape.",
+    "The memory flashed fleetingly in his mind."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a20"
+  },
+  "es": {
+    "word": "endorso",
+    "definition": "Aprobar o respaldar públicamente a alguien o algo."
+  },
+  "pt": {
+    "word": "endossar",
+    "definition": "Aprovar ou apoiar publicamente alguém ou algo."
+  },
+  "word": "endorse",
+  "ipa": "/ɪnˈdɔːrs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a21"
+      }
+    }
+  ],
+  "definition": "To publicly approve or support someone or something.",
+  "examples": [
+    "The celebrity endorsed the new product on social media.",
+    "The organization decided to endorse the candidate for president.",
+    "Many athletes endorse various brands and products.",
+    "The committee voted to endorse the proposed legislation.",
+    "His endorsement of the charity's work helped raise funds.",
+    "The company endorsed the use of eco-friendly materials."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a1c"
+  },
+  "es": {
+    "word": "flotó",
+    "definition": "Pasado simple y participio pasado de 'flotar'; haber estado en la superficie de un líquido o haberse movido suavemente a través de él."
+  },
+  "pt": {
+    "word": "flutuou",
+    "definition": "Passado simples e particípio passado de 'flutuar'; ter estado na superfície de um líquido ou ter-se movido suavemente através dele."
+  },
+  "word": "fleeted",
+  "ipa": "/fliːtɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a1d"
+      }
+    }
+  ],
+  "definition": "Past simple and past participle of 'fleet'; to have been on the surface of a liquid or moved gently through it.",
+  "examples": [
+    "The clouds fleeted across the sky.",
+    "Time fleeted away during the enjoyable evening.",
+    "The boat fleeted down the river.",
+    "Memories fleeted through his mind.",
+    "The hours fleeted by as they talked.",
+    "She watched as the leaves fleeted on the water's surface."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a1e"
+  },
+  "es": {
+    "word": "respaldo",
+    "definition": "El acto de apoyar o aprobar algo o a alguien."
+  },
+  "pt": {
+    "word": "endosso",
+    "definition": "O ato de apoiar ou aprovar algo ou alguém."
+  },
+  "word": "endorsement",
+  "ipa": "/ɪnˈdɔːrsmənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a1f"
+      }
+    }
+  ],
+  "definition": "The act of supporting or approving something or someone.",
+  "examples": [
+    "The celebrity gave his endorsement to the product.",
+    "Her endorsement of the plan was crucial.",
+    "The political candidate received the endorsement of a major newspaper.",
+    "The endorsement deal was lucrative for the athlete.",
+    "He sought endorsement for his innovative ideas.",
+    "The endorsement from the expert gave credibility to the project."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a22"
+  },
+  "es": {
+    "word": "endorso",
+    "definition": "Aprobación pública o respaldo a alguien o algo."
+  },
+  "pt": {
+    "word": "endosso",
+    "definition": "Aprovação pública ou apoio a alguém ou algo."
+  },
+  "word": "endorsing",
+  "ipa": "/ɪnˈdɔːrsɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a23"
+      }
+    }
+  ],
+  "definition": "The act of publicly approving or supporting someone or something.",
+  "examples": [
+    "His endorsing of the charity's work was widely praised.",
+    "Endorsing a political candidate can be a divisive issue.",
+    "The endorsement of the new policy came from influential figures.",
+    "The company's endorsing of the event boosted its popularity.",
+    "The athlete's endorsing of the sports brand increased sales.",
+    "Endorsing a cause you believe in can make a difference."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a24"
+  },
+  "es": {
+    "word": "endorsado",
+    "definition": "Alguien o algo que ha recibido aprobación pública o respaldo."
+  },
+  "pt": {
+    "word": "endorsado",
+    "definition": "Alguém ou algo que recebeu aprovação pública ou apoio."
+  },
+  "word": "endorsed",
+  "ipa": "/ɪnˈdɔːrst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a25"
+      }
+    }
+  ],
+  "definition": "Someone or something that has received public approval or support.",
+  "examples": [
+    "The endorsed candidate won the election by a landslide.",
+    "This product is endorsed by top experts in the field.",
+    "The endorsed charity received a substantial donation.",
+    "Being endorsed by a famous person can boost one's career.",
+    "The film was endorsed by critics and audiences alike.",
+    "An endorsed policy is more likely to be implemented."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a26"
+  },
+  "es": {
+    "word": "endosante",
+    "definition": "Alguien que otorga su aprobación o respaldo público a alguien o algo."
+  },
+  "pt": {
+    "word": "endossante",
+    "definition": "Alguém que concede sua aprovação ou apoio público a alguém ou algo."
+  },
+  "word": "endorser",
+  "ipa": "/ɪnˈdɔːrsər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a27"
+      }
+    }
+  ],
+  "definition": "Someone who grants their public approval or support to someone or something.",
+  "examples": [
+    "The celebrity endorser boosted the brand's sales significantly.",
+    "An effective endorser can create a strong brand image.",
+    "The politician sought endorsements from key endorsers.",
+    "The company's endorsers include famous athletes.",
+    "Being an endorser comes with certain responsibilities.",
+    "She is a well-known endorser of environmental causes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a28"
+  },
+  "es": {
+    "word": "endorsoable",
+    "definition": "Que puede ser aprobado o respaldado públicamente."
+  },
+  "pt": {
+    "word": "endorsável",
+    "definition": "Que pode ser aprovado ou apoiado publicamente."
+  },
+  "word": "endorsable",
+  "ipa": "/ɪnˈdɔːrsəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a29"
+      }
+    }
+  ],
+  "definition": "Capable of being publicly approved or supported.",
+  "examples": [
+    "The policy is endorsable by a wide range of stakeholders.",
+    "His qualifications make him endorsable for the position.",
+    "The idea is endorsable if it aligns with our values.",
+    "Endorsable candidates often receive more campaign funding.",
+    "Products with eco-friendly features are highly endorsable.",
+    "The project's goals are endorsable by the community."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a2a"
+  },
+  "es": {
+    "word": "no endosado",
+    "definition": "Alguien o algo que no ha recibido aprobación pública o respaldo."
+  },
+  "pt": {
+    "word": "não endossado",
+    "definition": "Alguém ou algo que não recebeu aprovação pública ou apoio."
+  },
+  "word": "unendorsed",
+  "ipa": "/ʌnˈdɔːrst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a2b"
+      }
+    }
+  ],
+  "definition": "Someone or something that has not received public approval or support.",
+  "examples": [
+    "The unendorsed candidate faced an uphill battle in the election.",
+    "The product remained unendorsed due to quality issues.",
+    "An unendorsed policy is unlikely to gain traction.",
+    "His talent remained unendorsed until he got discovered.",
+    "The unendorsed charity struggled to attract donors.",
+    "Being unendorsed can be a challenge in the entertainment industry."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a16"
+  },
+  "es": {
+    "word": "rapidez",
+    "definition": "La cualidad o estado de ser rápido o veloz."
+  },
+  "pt": {
+    "word": "rapidez",
+    "definition": "A qualidade ou estado de ser rápido ou veloz."
+  },
+  "word": "fleetness",
+  "ipa": "/ˈfliːtnəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a17"
+      }
+    }
+  ],
+  "definition": "The quality or state of being fast or swift.",
+  "examples": [
+    "The fleetness of the runner was unmatched.",
+    "Her fleetness of foot was evident in her dance.",
+    "The cheetah is known for its fleetness.",
+    "He admired the fleetness of the racehorse.",
+    "The fleetness of the response saved the situation.",
+    "Their fleetness in decision-making was crucial."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a2c"
+  },
+  "es": {
+    "word": "reendorso",
+    "definition": "Volver a aprobar o respaldar públicamente a alguien o algo."
+  },
+  "pt": {
+    "word": "reendosso",
+    "definition": "Reaprovar ou apoiar publicamente alguém ou algo."
+  },
+  "word": "reendorse",
+  "ipa": "/riːɪnˈdɔːrs/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a2d"
+      }
+    }
+  ],
+  "definition": "To publicly approve or support someone or something again.",
+  "examples": [
+    "The organization decided to reendorse the candidate for re-election.",
+    "After improvements, the product was reendorsed by experts.",
+    "Reendorsing the policy required a thorough review.",
+    "The celebrity chose to reendorse the charitable cause.",
+    "Reendorsing a failed project is a strategic decision.",
+    "Reendorsing their commitment to sustainability was important."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a18"
+  },
+  "es": {
+    "word": "de pies ligeros",
+    "definition": "Ser muy rápido y ágil, especialmente al caminar o correr."
+  },
+  "pt": {
+    "word": "de pés ligeiros",
+    "definition": "Ser muito rápido e ágil, especialmente ao caminhar ou correr."
+  },
+  "word": "fleet-footed",
+  "ipa": "/ˈfliːtˌfʊtɪd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a19"
+      }
+    }
+  ],
+  "definition": "Being very fast and agile, especially in walking or running.",
+  "examples": [
+    "The fleet-footed athlete won the race easily.",
+    "He was known for his fleet-footed movements on the dance floor.",
+    "The deer, fleet-footed and graceful, escaped the predator.",
+    "She moved in a fleet-footed manner, avoiding obstacles.",
+    "His reputation as a fleet-footed messenger was well-known.",
+    "The fleet-footed cat chased the mouse around the house."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a32"
+  },
+  "es": {
+    "word": "sello",
+    "definition": "Una pieza de goma o metal grabada con un diseño o texto que se usa para marcar o estampar tinta en papel u otra superficie."
+  },
+  "pt": {
+    "word": "carimbo",
+    "definition": "Uma peça de borracha ou metal gravada com um design ou texto que é usada para marcar ou carimbar tinta em papel ou outra superfície."
+  },
+  "word": "stamp",
+  "ipa": "/stæmp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a33"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a34"
+      }
+    }
+  ],
+  "definition": "A piece of rubber or metal engraved with a design or text that is used to mark or imprint ink on paper or another surface. Also, the act of marking or imprinting with such a tool.",
+  "examples": [
+    "She used a stamp to mark the date on the document.",
+    "Collecting postage stamps is a popular hobby.",
+    "The official stamp of approval was given to the project.",
+    "The stamp on the envelope indicated it had been mailed.",
+    "The company's logo was printed using a custom stamp.",
+    "The stamping of the passport is necessary for entry."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a35"
+  },
+  "es": {
+    "word": "estampar",
+    "definition": "Presionar un sello o marca contra una superficie para transferir tinta o un diseño."
+  },
+  "pt": {
+    "word": "carimbar",
+    "definition": "Pressionar um carimbo ou marca contra uma superfície para transferir tinta ou um design."
+  },
+  "word": "stamping",
+  "ipa": "/ˈstæmpɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a36"
+      }
+    }
+  ],
+  "definition": "Pressing a stamp or mark against a surface to transfer ink or a design.",
+  "examples": [
+    "He was stamping his signature on the contract.",
+    "The artist was stamping the design onto the fabric.",
+    "Stamping the passport is part of the entry process.",
+    "The machine was stamping the serial numbers on the coins.",
+    "The post office employee was stamping the packages.",
+    "Stamping the company logo on the products is essential."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a37"
+  },
+  "es": {
+    "word": "estampado",
+    "definition": "El resultado de haber estampado o marcado una superficie con tinta o un diseño."
+  },
+  "pt": {
+    "word": "carimbado",
+    "definition": "O resultado de pressionar um carimbo ou marca contra uma superfície para transferir tinta ou um design."
+  },
+  "word": "stamped",
+  "ipa": "/stæmpt/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a38"
+      }
+    }
+  ],
+  "definition": "The result of having pressed or marked a surface with ink or a design.",
+  "examples": [
+    "The stamped envelope was ready to be mailed.",
+    "Each coin had a stamped serial number.",
+    "The fabric had a beautifully stamped pattern.",
+    "The document had the official stamped seal.",
+    "The stamped design on the invitation was elegant.",
+    "The passport had a stamped entry visa."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a39"
+  },
+  "es": {
+    "word": "sello",
+    "definition": "Una marca impresa que se utiliza como indicación de aprobación, autenticidad o calidad."
+  },
+  "pt": {
+    "word": "selo",
+    "definition": "Uma marca impressa usada como indicação de aprovação, autenticidade ou qualidade."
+  },
+  "word": "stamps",
+  "ipa": "/stæmps/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a3a"
+      }
+    }
+  ],
+  "definition": "An imprinted mark used as an indication of approval, authenticity, or quality. Also, the plural form of 'stamp,' referring to multiple postage stamps.",
+  "examples": [
+    "The gold seal on the certificate was a mark of authenticity.",
+    "The company's logo is a recognizable stamp of quality.",
+    "The stamps on the package confirmed its postage.",
+    "The government requires certain stamps on official documents.",
+    "The collector had a rare collection of postage stamps.",
+    "The stamps on the letter covered the cost of mailing."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a3b"
+  },
+  "es": {
+    "word": "estampador",
+    "definition": "Una persona o máquina que se utiliza para estampar o marcar superficies con tinta o un diseño."
+  },
+  "pt": {
+    "word": "carimbador",
+    "definition": "Uma pessoa ou máquina usada para carimbar ou marcar superfícies com tinta ou um design."
+  },
+  "word": "stamper",
+  "ipa": "/ˈstæmpər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a3c"
+      }
+    }
+  ],
+  "definition": "A person or machine used to stamp or mark surfaces with ink or a design.",
+  "examples": [
+    "The stamper applied the company logo to each product.",
+    "The artisan was a skilled leather stamper.",
+    "The automated stamper increased production efficiency.",
+    "The government used a stamper to imprint official documents.",
+    "The antique stamper was a valuable collectible.",
+    "She hired a stamper for her custom stationery business."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a3f"
+  },
+  "es": {
+    "word": "desestampar",
+    "definition": "Eliminar o borrar una impresión o marca previamente estampada."
+  },
+  "pt": {
+    "word": "desmarcar",
+    "definition": "Eliminar ou apagar uma impressão ou marca previamente carimbada."
+  },
+  "word": "unstamp",
+  "ipa": "/ʌnˈstæmp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a40"
+      }
+    }
+  ],
+  "definition": "To remove or erase a previously stamped impression or mark.",
+  "examples": [
+    "She had to unstamp the wrong date on the document.",
+    "It's difficult to unstamp ink once it dries.",
+    "The manufacturer needed to unstamp the defective products.",
+    "The official had to unstamp the unauthorized documents.",
+    "Unstamping the fabric proved to be a challenging task.",
+    "Can you unstamp this envelope and correct the date?"
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a3d"
+  },
+  "es": {
+    "word": "estampable",
+    "definition": "Capaz de ser estampado o marcado con tinta o un diseño."
+  },
+  "pt": {
+    "word": "carimbável",
+    "definition": "Capaz de ser carimbado ou marcado com tinta ou um design."
+  },
+  "word": "stampable",
+  "ipa": "/ˈstæmpəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a3e"
+      }
+    }
+  ],
+  "definition": "Capable of being stamped or marked with ink or a design.",
+  "examples": [
+    "The paper was stampable with the official seal.",
+    "The fabric was easily stampable with various patterns.",
+    "The metal surface was not stampable without proper equipment.",
+    "The document needed a stampable area for approval.",
+    "Stampable materials are used in many industries.",
+    "Make sure the material is stampable before proceeding."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a41"
+  },
+  "es": {
+    "word": "reestampar",
+    "definition": "Volver a estampar o marcar una superficie con tinta o un diseño después de haber sido previamente estampada."
+  },
+  "pt": {
+    "word": "recarimbar",
+    "definition": "Carimbar novamente ou marcar uma superfície com tinta ou um design depois de ter sido previamente carimbada."
+  },
+  "word": "restamp",
+  "ipa": "/riːˈstæmp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a42"
+      }
+    }
+  ],
+  "definition": "To stamp or mark a surface with ink or a design again after it has been previously stamped.",
+  "examples": [
+    "She needed to restamp the documents with the correct seal.",
+    "The artist decided to restamp the artwork with a new design.",
+    "Restamping the coins with a commemorative logo was a success.",
+    "The company had to restamp the packages due to an error.",
+    "The passport was restamped with the updated visa information.",
+    "Please restamp the letter with the official mark."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a45"
+  },
+  "es": {
+    "word": "estampadamente",
+    "definition": "De manera que se asemeja o se relaciona con la estampación o el uso de sellos."
+  },
+  "pt": {
+    "word": "carimbadamente",
+    "definition": "De forma que se assemelha ou está relacionada com a carimbagem ou o uso de carimbos."
+  },
+  "word": "stamply",
+  "ipa": "/ˈstæmpli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a46"
+      }
+    }
+  ],
+  "definition": "In a manner that resembles or relates to stamping or the use of stamps.",
+  "examples": [
+    "She signed the letter stamply, as if using an official seal.",
+    "The document was marked stamply to indicate its authenticity.",
+    "The envelope was sealed stamply with the company's logo.",
+    "The artwork was created stamply with various stamping techniques.",
+    "The package was wrapped stamply with decorative stamps.",
+    "He presented the contract stamply, emphasizing its importance."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a30"
+  },
+  "es": {
+    "word": "endosado",
+    "definition": "Alguien o algo que ha recibido aprobación pública o respaldo."
+  },
+  "pt": {
+    "word": "endossado",
+    "definition": "Alguém ou algo que recebeu aprovação pública ou apoio."
+  },
+  "word": "endorsee",
+  "ipa": "/ɪnˈdɔːrsiː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a31"
+      }
+    }
+  ],
+  "definition": "Someone or something that has received public approval or support.",
+  "examples": [
+    "The endorsee of the charity's work was well-known in the community.",
+    "The company's products have multiple celebrity endorsers.",
+    "The endorsee of the policy change was a prominent expert.",
+    "Being an endorsee comes with certain responsibilities.",
+    "The endorsee of the campaign received widespread recognition.",
+    "Endorsees often promote products or causes they believe in."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a47"
+  },
+  "es": {
+    "word": "titular",
+    "definition": "Una persona o entidad que posee o tiene la propiedad de algo."
+  },
+  "pt": {
+    "word": "titular",
+    "definition": "Uma pessoa ou entidade que possui ou tem a propriedade de algo."
+  },
+  "word": "holder",
+  "ipa": "/ˈhoʊldər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a48"
+      }
+    }
+  ],
+  "definition": "A person or entity that owns or has possession of something.",
+  "examples": [
+    "The car's holder is the registered owner of the vehicle.",
+    "The certificate holder is entitled to certain benefits.",
+    "He is the holder of the key to the safe.",
+    "Stockholders have ownership stakes in the company.",
+    "The property holder has the right to make decisions.",
+    "The passport holder can travel internationally."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a4d"
+  },
+  "es": {
+    "word": "titulares",
+    "definition": "Personas o entidades que poseen o tienen la propiedad de algo."
+  },
+  "pt": {
+    "word": "titulares",
+    "definition": "Pessoas ou entidades que possuem ou têm a propriedade de algo."
+  },
+  "word": "holders",
+  "ipa": "/ˈhoʊldərz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a4e"
+      }
+    }
+  ],
+  "definition": "People or entities that own or have possession of something.",
+  "examples": [
+    "The holders of the company's stock receive dividends.",
+    "Property holders are responsible for maintenance.",
+    "Certificate holders can redeem their investments.",
+    "The passport holders waited in line for immigration.",
+    "Shareholders are considered equity holders in a business.",
+    "The holders of intellectual property rights protect their creations."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a55"
+  },
+  "es": {
+    "word": "reposeer",
+    "definition": "Recuperar la posesión o propiedad de algo después de haberla perdido."
+  },
+  "pt": {
+    "word": "reaver",
+    "definition": "Recuperar a posse ou propriedade de algo após tê-la perdido."
+  },
+  "word": "reholder",
+  "ipa": "/riːˈhoʊldər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a56"
+      }
+    }
+  ],
+  "definition": "To regain the possession or ownership of something after having lost it.",
+  "examples": [
+    "He was able to reholder his family's ancestral land.",
+    "The artist reholdered the rights to her own work.",
+    "Reholdering the stolen artwork was a major success.",
+    "The company aimed to reholder its market share.",
+    "She had to reholder her passport after losing it.",
+    "Reholdering the property required legal proceedings."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a4f"
+  },
+  "es": {
+    "word": "poseedor",
+    "definition": "Una persona o entidad que posee o tiene la propiedad de algo."
+  },
+  "pt": {
+    "word": "detentor",
+    "definition": "Uma pessoa ou entidade que possui ou tem a propriedade de algo."
+  },
+  "word": "holderer",
+  "ipa": "/ˈhoʊldərər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a50"
+      }
+    }
+  ],
+  "definition": "A person or entity that possesses or has ownership of something.",
+  "examples": [
+    "The holderer of the antique vase valued its history.",
+    "She was the holderer of the rare stamp collection.",
+    "The corporation acted as the holderer of the company's assets.",
+    "The holderer of the deed had legal control of the property.",
+    "He was the holderer of the winning lottery ticket.",
+    "The holderer of the patent defended their rights vigorously."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a4b"
+  },
+  "es": {
+    "word": "titular",
+    "definition": "Poseer o tener la propiedad de algo."
+  },
+  "pt": {
+    "word": "titular",
+    "definition": "Possuir ou ter a propriedade de algo."
+  },
+  "word": "holdered",
+  "ipa": "/ˈhoʊldərd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a4c"
+      }
+    }
+  ],
+  "definition": "To own or have possession of something.",
+  "examples": [
+    "She holdered a valuable collection of antique coins.",
+    "He holdered the rights to the novel for adaptation.",
+    "The company holdered a significant portion of the market.",
+    "They holdered the property jointly as co-owners.",
+    "The artist holdered the original artwork.",
+    "The government holdered the land for conservation purposes."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a49"
+  },
+  "es": {
+    "word": "titular",
+    "definition": "La acción de poseer o tener la propiedad de algo."
+  },
+  "pt": {
+    "word": "titular",
+    "definition": "A ação de possuir ou ter a propriedade de algo."
+  },
+  "word": "holdering",
+  "ipa": "/ˈhoʊldərɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a4a"
+      }
+    }
+  ],
+  "definition": "The action of owning or having possession of something.",
+  "examples": [
+    "The holdering of valuable assets requires careful management.",
+    "The certificate holdering process involves verification.",
+    "The holdering of real estate properties is a complex task.",
+    "Stockholdering can involve voting rights in a company.",
+    "Effective holdering of intellectual property is essential.",
+    "The passport holdering process includes security checks."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a53"
+  },
+  "es": {
+    "word": "desposeer",
+    "definition": "Privar a alguien de la posesión o propiedad de algo."
+  },
+  "pt": {
+    "word": "desapossar",
+    "definition": "Privar alguém da posse ou propriedade de algo."
+  },
+  "word": "unholder",
+  "ipa": "/ʌnˈhoʊldər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a54"
+      }
+    }
+  ],
+  "definition": "To deprive someone of the possession or ownership of something.",
+  "examples": [
+    "They unholdered the tenant of the rented property.",
+    "The court ordered to unholder the disputed land.",
+    "Unholdering a person from their home is a legal process.",
+    "The government had the authority to unholder the assets.",
+    "She was unholdered from the company due to misconduct.",
+    "The law allows for unholdering in certain circumstances."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a2e"
+  },
+  "es": {
+    "word": "reendorso",
+    "definition": "La acción de volver a aprobar o respaldar públicamente a alguien o algo."
+  },
+  "pt": {
+    "word": "reendosso",
+    "definition": "A ação de reaprovar ou apoiar publicamente alguém ou algo."
+  },
+  "word": "reendorsement",
+  "ipa": "/riːɪnˈdɔːrsmənt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a2f"
+      }
+    }
+  ],
+  "definition": "The act of publicly approving or supporting someone or something again.",
+  "examples": [
+    "The reendorsement of the policy signaled a change in direction.",
+    "Her reendorsement of the charity's work boosted donations.",
+    "The reendorsement of the candidate by the party was expected.",
+    "Reendorsement can be a powerful political tool.",
+    "The reendorsement of the project came after revisions.",
+    "Reendorsement is a strategic move in public relations."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a57"
+  },
+  "es": {
+    "word": "Holderness",
+    "definition": "Una región geográfica en el este de Inglaterra, conocida por su costa y paisajes naturales."
+  },
+  "pt": {
+    "word": "Holderness",
+    "definition": "Uma região geográfica no leste da Inglaterra, conhecida por sua costa e paisagens naturais."
+  },
+  "word": "Holderness",
+  "ipa": "/ˈhoʊldərnɪs/",
+  "type_word": [
+    {
+      "name": "Proper Noun",
+      "sigle": "pn.",
+      "description": "Specific names of people, places, organizations, etc., that are capitalized.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a58"
+      }
+    }
+  ],
+  "definition": "A geographical region in eastern England, known for its coastline and natural landscapes.",
+  "examples": [
+    "Holderness is a popular destination for nature enthusiasts.",
+    "The Holderness coast offers stunning views of the sea.",
+    "Many tourists visit Holderness for its scenic beauty.",
+    "The region of Holderness has a rich history.",
+    "Holderness is famous for its geological features.",
+    "Exploring Holderness is a unique experience."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a59"
+  },
+  "es": {
+    "word": "titularmente",
+    "definition": "De manera que se refiere o relaciona con el titular o el propietario de algo."
+  },
+  "pt": {
+    "word": "titularmente",
+    "definition": "De forma que se refere ou está relacionada com o titular ou o proprietário de algo."
+  },
+  "word": "holderly",
+  "ipa": "/ˈhoʊldərli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a5a"
+      }
+    }
+  ],
+  "definition": "In a manner that relates to or is associated with the holder or owner of something.",
+  "examples": [
+    "She managed the business holderly, making all decisions.",
+    "The property was managed holderly by the owner.",
+    "He acted holderly in his role as CEO.",
+    "The assets were distributed holderly among the heirs.",
+    "The company was operated holderly by the family.",
+    "The certificate was issued holderly to the investor."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a5b"
+  },
+  "es": {
+    "word": "emitido",
+    "definition": "El acto de dar, publicar o entregar algo oficialmente, como un documento, una declaración o un comunicado."
+  },
+  "pt": {
+    "word": "emitido",
+    "definition": "O ato de dar, publicar ou entregar algo oficialmente, como um documento, uma declaração ou um comunicado."
+  },
+  "word": "issued",
+  "ipa": "/ˈɪʃuːd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a5c"
+      }
+    }
+  ],
+  "definition": "The act of officially giving, publishing, or delivering something, such as a document, statement, or announcement.",
+  "examples": [
+    "The company issued a press release about the new product.",
+    "The government issued a public notice regarding the upcoming election.",
+    "He issued a formal apology for his actions.",
+    "The bank issued a certificate of deposit to the customer.",
+    "The school issued report cards to the students.",
+    "The magazine issued a special edition for the anniversary."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a5d"
+  },
+  "es": {
+    "word": "emisión",
+    "definition": "La acción de dar a conocer algo oficialmente a través de medios de comunicación, como la televisión o la radio."
+  },
+  "pt": {
+    "word": "emissão",
+    "definition": "A ação de divulgar algo oficialmente por meio de mídia, como televisão ou rádio."
+  },
+  "word": "issueding",
+  "ipa": "/ˈɪʃuːdɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a5e"
+      }
+    }
+  ],
+  "definition": "The action of officially making something known through media such as television or radio.",
+  "examples": [
+    "The issueding of the news was broadcasted on all major networks.",
+    "The radio station was responsible for the issueding of the emergency alert.",
+    "The company invested in the issueding of a TV commercial.",
+    "The government organized the issueding of public service announcements.",
+    "She was in charge of the issueding of press releases for the event.",
+    "The issueding of the documentary shed light on the issue."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a5f"
+  },
+  "es": {
+    "word": "emitido",
+    "definition": "La acción de dar, publicar o entregar algo oficialmente, como un documento, una declaración o un comunicado."
+  },
+  "pt": {
+    "word": "emitido",
+    "definition": "O ato de dar, publicar ou entregar algo oficialmente, como um documento, uma declaração ou um comunicado."
+  },
+  "word": "issueded",
+  "ipa": "/ˈɪʃuːdɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a60"
+      }
+    }
+  ],
+  "definition": "To have officially given, published, or delivered something, such as a document, statement, or announcement.",
+  "examples": [
+    "He issueded a formal statement addressing the issue.",
+    "The organization issueded a report on their findings.",
+    "The company issueded a recall notice for the defective product.",
+    "The university issueded diplomas to the graduates.",
+    "The government issueded a proclamation for the holiday.",
+    "She issueded a written apology to the affected parties."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a61"
+  },
+  "es": {
+    "word": "emitidos",
+    "definition": "Documentos, declaraciones o comunicados oficiales que han sido dados, publicados o entregados."
+  },
+  "pt": {
+    "word": "emitidos",
+    "definition": "Documentos, declarações ou comunicados oficiais que foram dados, publicados ou entregues."
+  },
+  "word": "issueds",
+  "ipa": "/ˈɪʃuːdz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a62"
+      }
+    }
+  ],
+  "definition": "Official documents, statements, or announcements that have been given, published, or delivered.",
+  "examples": [
+    "The issueds from the government were posted online.",
+    "She reviewed the issueds related to the project.",
+    "The issueds included important policy changes.",
+    "The company's issueds were analyzed by investors.",
+    "The archive contains historical issueds of the organization.",
+    "The issueds were distributed to the relevant departments."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a63"
+  },
+  "es": {
+    "word": "emisor",
+    "definition": "Una persona o entidad que da a conocer algo oficialmente a través de medios de comunicación."
+  },
+  "pt": {
+    "word": "emissor",
+    "definition": "Uma pessoa ou entidade que divulga oficialmente algo por meio de mídia."
+  },
+  "word": "issueder",
+  "ipa": "/ˈɪʃuːdər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a64"
+      }
+    }
+  ],
+  "definition": "A person or entity that officially makes something known through media.",
+  "examples": [
+    "The government spokesperson acted as the issueder of the press release.",
+    "The radio station manager was the issueder of the emergency alert.",
+    "The company hired a professional issueder for the TV commercial.",
+    "The organization appointed her as the issueder of public statements.",
+    "He was the official issueder of information for the event.",
+    "The documentary filmmaker served as the issueder of the story."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a65"
+  },
+  "es": {
+    "word": "emitible",
+    "definition": "Capaz de ser dado a conocer oficialmente a través de medios de comunicación."
+  },
+  "pt": {
+    "word": "emissível",
+    "definition": "Capaz de ser divulgado oficialmente por meio de mídia."
+  },
+  "word": "issuedable",
+  "ipa": "/ˈɪʃuːdəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a66"
+      }
+    }
+  ],
+  "definition": "Capable of being officially made known through media.",
+  "examples": [
+    "The information was deemed issuedable to the public.",
+    "The press release was considered issuedable to the media outlets.",
+    "Certain details were not issuedable due to confidentiality.",
+    "The document was deemed issuedable after review.",
+    "The news was issuedable through various channels.",
+    "The report was made issuedable to the shareholders."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a43"
+  },
+  "es": {
+    "word": "estampación",
+    "definition": "El proceso de estampar o marcar una superficie con tinta o un diseño."
+  },
+  "pt": {
+    "word": "carimbagem",
+    "definition": "O processo de carimbar ou marcar uma superfície com tinta ou um design."
+  },
+  "word": "stampness",
+  "ipa": "/ˈstæmpnɪs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a44"
+      }
+    }
+  ],
+  "definition": "The process of stamping or marking a surface with ink or a design.",
+  "examples": [
+    "The stampness of the paper is essential for the official seal.",
+    "The quality of the stampness determines the clarity of the mark.",
+    "The stampness of the fabric affects the durability of the design.",
+    "Understanding the stampness of materials is crucial in printing.",
+    "The stampness of the ink can be adjusted for different surfaces.",
+    "The stampness of the passport is carefully controlled."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a69"
+  },
+  "es": {
+    "word": "reemitido",
+    "definition": "Volver a dar a conocer algo oficialmente después de haberlo hecho previamente."
+  },
+  "pt": {
+    "word": "reemitido",
+    "definition": "Tornar a divulgar oficialmente algo depois de tê-lo feito anteriormente."
+  },
+  "word": "reissued",
+  "ipa": "/riːˈɪʃuːd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Palabras que expresan acciones, estados o procesos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a6a"
+      }
+    }
+  ],
+  "definition": "To officially make something known again after having done so previously.",
+  "examples": [
+    "The company reissued the product announcement with updates.",
+    "They reissued the statement to clarify their position.",
+    "The news agency reissued the article for a second edition.",
+    "The government decided to reissued the travel advisory.",
+    "The organization reissued the press release due to errors.",
+    "The album was reissued with bonus tracks."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a6b"
+  },
+  "es": {
+    "word": "emisión",
+    "definition": "La cualidad o estado de ser emitido oficialmente."
+  },
+  "pt": {
+    "word": "emissão",
+    "definition": "A qualidade ou estado de ser divulgado oficialmente."
+  },
+  "word": "issuedness",
+  "ipa": "/ˈɪʃuːdnəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a6c"
+      }
+    }
+  ],
+  "definition": "The quality or state of being officially made known.",
+  "examples": [
+    "The issuedness of the information was important for transparency.",
+    "The issuedness of the report was questioned by the media.",
+    "She emphasized the issuedness of accurate data.",
+    "The government prioritized the issuedness of public notices.",
+    "The issuedness of the news was crucial for public safety.",
+    "The issuedness of the document was verified by experts."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a6d"
+  },
+  "es": {
+    "word": "emitidamente",
+    "definition": "De manera que se refiere o relaciona con la acción de emitir oficialmente algo."
+  },
+  "pt": {
+    "word": "emitidamente",
+    "definition": "De forma que se refere ou está relacionada com a ação de divulgar oficialmente algo."
+  },
+  "word": "issuedly",
+  "ipa": "/ˈɪʃuːdli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a6e"
+      }
+    }
+  ],
+  "definition": "In a manner that relates to the action of officially making something known.",
+  "examples": [
+    "She issuedly announced the important news to the audience.",
+    "The company issuedly communicated its strategic plan.",
+    "The government issuedly shared updates on the situation.",
+    "He spoke issuedly about the upcoming product launch.",
+    "The organization issuedly addressed the concerns of the public.",
+    "The press conference was conducted issuedly."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a6f"
+  },
+  "es": {
+    "word": "inmenso",
+    "definition": "Extremadamente grande en tamaño, cantidad o alcance; inmenso o inmenso."
+  },
+  "pt": {
+    "word": "vasto",
+    "definition": "Extremamente grande em tamanho, quantidade ou alcance; vasto ou imenso."
+  },
+  "word": "vast",
+  "ipa": "/væst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a70"
+      }
+    }
+  ],
+  "definition": "Extremely large in size, quantity, or extent; immense or immense.",
+  "examples": [
+    "The desert is a vast, barren expanse.",
+    "They gazed at the vastness of the night sky filled with stars.",
+    "The ocean seemed vast and endless.",
+    "The project required a vast amount of resources.",
+    "His knowledge of history is vast and impressive.",
+    "The universe is a vast and mysterious place."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a71"
+  },
+  "es": {
+    "word": "vastiendo",
+    "definition": "La acción de expandir o extender algo en tamaño o alcance; ampliando o ensanchando."
+  },
+  "pt": {
+    "word": "expansão",
+    "definition": "A ação de expandir ou estender algo em tamanho ou alcance; ampliando ou alargando."
+  },
+  "word": "vasting",
+  "ipa": "/ˈvæstɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a72"
+      }
+    }
+  ],
+  "definition": "The action of expanding or extending something in size or scope; enlarging or widening.",
+  "examples": [
+    "The vasting of their business operations led to international success.",
+    "The vasting of the city's infrastructure improved transportation.",
+    "The company invested in the vasting of its product line.",
+    "The vasting of their knowledge base benefited their research.",
+    "The vasting of the project's goals required additional resources.",
+    "The vasting of the park created more recreational space."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a73"
+  },
+  "es": {
+    "word": "vastado",
+    "definition": "Expandido o extendido en tamaño o alcance; agrandado o ensanchado."
+  },
+  "pt": {
+    "word": "expandido",
+    "definition": "Expandido ou estendido em tamanho ou alcance; ampliado ou alargado."
+  },
+  "word": "vasted",
+  "ipa": "/ˈvæstɪd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a74"
+      }
+    }
+  ],
+  "definition": "Expanded or extended in size or scope; enlarged or widened.",
+  "examples": [
+    "The vasted city skyline was a testament to its growth.",
+    "Their vasted knowledge allowed them to tackle complex problems.",
+    "The vasted road network improved connectivity.",
+    "The vasted product line offered more options to customers.",
+    "The vasted land provided room for expansion.",
+    "The vasted team of experts was well-equipped for the project."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a75"
+  },
+  "es": {
+    "word": "inmensidades",
+    "definition": "Áreas extremadamente grandes o vastas; extensiones inmensas o vastas."
+  },
+  "pt": {
+    "word": "imensidões",
+    "definition": "Áreas extremamente grandes ou vastas; extensões imensas ou vastas."
+  },
+  "word": "vasts",
+  "ipa": "/væsts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a76"
+      }
+    }
+  ],
+  "definition": "Extremely large or vast areas; immense or vast expanses.",
+  "examples": [
+    "The explorer ventured into the uncharted vasts of the jungle.",
+    "The vasts of the ocean hold many mysteries.",
+    "They admired the natural beauty of the desert's vasts.",
+    "The country's vasts were rich in natural resources.",
+    "Exploring the vasts of space is a scientific endeavor.",
+    "The wilderness offers opportunities to explore its vasts."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a77"
+  },
+  "es": {
+    "word": "más vasto",
+    "definition": "Que tiene un tamaño, cantidad o alcance mayor que algo más."
+  },
+  "pt": {
+    "word": "mais vasto",
+    "definition": "Que tem um tamanho, quantidade ou alcance maior do que algo mais."
+  },
+  "word": "vaster",
+  "ipa": "/ˈvæstər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a78"
+      }
+    }
+  ],
+  "definition": "Having a size, quantity, or extent greater than something else.",
+  "examples": [
+    "The Pacific Ocean is vaster than the Atlantic Ocean.",
+    "His knowledge of literature is vaster than mine.",
+    "The vast desert is even vaster than it appears.",
+    "The company's reach is vaster than its competitors.",
+    "The universe is vaster than our comprehension.",
+    "The vaster forest areas are home to diverse wildlife."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a51"
+  },
+  "es": {
+    "word": "poseíble",
+    "definition": "Capaz de ser poseído o tener la propiedad de algo."
+  },
+  "pt": {
+    "word": "possível",
+    "definition": "Capaz de ser possuído ou ter a propriedade de algo."
+  },
+  "word": "holderable",
+  "ipa": "/ˈhoʊldərəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a52"
+      }
+    }
+  ],
+  "definition": "Capable of being possessed or having ownership of something.",
+  "examples": [
+    "The property was holderable under certain conditions.",
+    "The company shares were holderable by employees.",
+    "Intellectual property rights are holderable assets.",
+    "The art collection was holderable by the museum.",
+    "Some assets may not be holderable due to legal restrictions.",
+    "The certificate is holderable by the original investor."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a7b"
+  },
+  "es": {
+    "word": "no vasto",
+    "definition": "Que no es inmenso o extenso; no vasto o limitado en tamaño o alcance."
+  },
+  "pt": {
+    "word": "não vasto",
+    "definition": "Que não é imenso ou extenso; não vasto ou limitado em tamanho ou alcance."
+  },
+  "word": "unvast",
+  "ipa": "/ʌnˈvæst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a7c"
+      }
+    }
+  ],
+  "definition": "Not immense or extensive; not vast or limited in size or scope.",
+  "examples": [
+    "The garden is unvast but beautifully landscaped.",
+    "Their knowledge in this field is unvast and specific.",
+    "The project's budget is unvast and restricted.",
+    "The company's reach is unvast compared to its competitors.",
+    "The desert region is unvast and arid.",
+    "Her experience is unvast but relevant."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a7d"
+  },
+  "es": {
+    "word": "revast",
+    "definition": "Volver a expandir o extender algo en tamaño o alcance; ampliando o ensanchando de nuevo."
+  },
+  "pt": {
+    "word": "reexpansão",
+    "definition": "Expandir ou estender algo em tamanho ou alcance novamente; ampliar ou alargar de novo."
+  },
+  "word": "revast",
+  "ipa": "/riːˈvæst/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a7e"
+      }
+    }
+  ],
+  "definition": "To expand or extend something in size or scope again; enlarging or widening once more.",
+  "examples": [
+    "The company decided to revast its product line to meet demand.",
+    "They planned to revast the city's public transportation system.",
+    "The revast of their knowledge base was essential for innovation.",
+    "Revasting the project's goals required additional resources.",
+    "The revast of the park's facilities improved visitor experience.",
+    "The revast of the website enhanced user engagement."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a7f"
+  },
+  "es": {
+    "word": "inmensidad",
+    "definition": "La cualidad o estado de ser inmenso o vasto en tamaño o alcance."
+  },
+  "pt": {
+    "word": "imensidão",
+    "definition": "A qualidade ou estado de ser imenso ou vasto em tamanho ou alcance."
+  },
+  "word": "vastness",
+  "ipa": "/ˈvæstnəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a80"
+      }
+    }
+  ],
+  "definition": "The quality or state of being immense or vast in size or scope.",
+  "examples": [
+    "The vastness of the ocean is both beautiful and intimidating.",
+    "They marveled at the vastness of the universe.",
+    "The vastness of the desert landscape stretched for miles.",
+    "The project's vastness required careful planning.",
+    "Exploring the vastness of the wilderness was an adventure.",
+    "The vastness of her knowledge was impressive."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a81"
+  },
+  "es": {
+    "word": "turismo",
+    "definition": "La actividad de visitar lugares de interés turístico y explorar una nueva área."
+  },
+  "pt": {
+    "word": "turismo",
+    "definition": "A atividade de visitar lugares turísticos e explorar uma nova área."
+  },
+  "word": "sightseeing",
+  "ipa": "/ˈsaɪtsiːɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a82"
+      }
+    }
+  ],
+  "definition": "The activity of visiting tourist attractions and exploring a new area.",
+  "examples": [
+    "Sightseeing in Paris includes visiting the Eiffel Tower and the Louvre.",
+    "Many tourists enjoy sightseeing in historical cities.",
+    "Sightseeing tours offer guided exploration of popular landmarks.",
+    "She planned a day of sightseeing in the national park.",
+    "The city offers a variety of sightseeing opportunities.",
+    "Sightseeing allows you to experience the culture of a place."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a83"
+  },
+  "es": {
+    "word": "turismo",
+    "definition": "La práctica de visitar lugares turísticos y explorar una nueva área como actividad de ocio."
+  },
+  "pt": {
+    "word": "turismo",
+    "definition": "A prática de visitar lugares turísticos e explorar uma nova área como atividade de lazer."
+  },
+  "word": "sightseeinging",
+  "ipa": "/ˈsaɪtsiːɪŋɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a84"
+      }
+    }
+  ],
+  "definition": "The practice of visiting tourist attractions and exploring a new area as a leisure activity.",
+  "examples": [
+    "Sightseeinging in coastal towns often includes beach visits.",
+    "They enjoy sightseeinging in natural reserves and parks.",
+    "Sightseeinging is a popular pastime for vacationers.",
+    "The town promotes sightseeinging to boost tourism.",
+    "Their sightseeinging itinerary was filled with exciting activities.",
+    "Sightseeinging can be a relaxing way to spend a vacation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a85"
+  },
+  "es": {
+    "word": "turismo",
+    "definition": "La actividad pasada de visitar lugares turísticos y explorar una nueva área."
+  },
+  "pt": {
+    "word": "turismo",
+    "definition": "A atividade passada de visitar lugares turísticos e explorar uma nova área."
+  },
+  "word": "sightseeinged",
+  "ipa": "/ˈsaɪtsiːɪŋd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a86"
+      }
+    }
+  ],
+  "definition": "The past activity of visiting tourist attractions and exploring a new area.",
+  "examples": [
+    "Their sightseeinged in Europe left them with wonderful memories.",
+    "Sightseeinged during their honeymoon was a memorable experience.",
+    "They shared stories of their sightseeinged adventures.",
+    "The sightseeinged of ancient ruins fascinated them.",
+    "The family enjoyed sightseeinged during the summer vacation.",
+    "Sightseeinged allows you to discover new cultures."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a87"
+  },
+  "es": {
+    "word": "turismos",
+    "definition": "Las actividades de visitar lugares turísticos y explorar nuevas áreas."
+  },
+  "pt": {
+    "word": "turismos",
+    "definition": "As atividades de visitar lugares turísticos e explorar novas áreas."
+  },
+  "word": "sightseeings",
+  "ipa": "/ˈsaɪtsiːɪŋz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a88"
+      }
+    }
+  ],
+  "definition": "The activities of visiting tourist attractions and exploring new areas.",
+  "examples": [
+    "Sightseeings in different countries provide unique experiences.",
+    "They enjoy planning sightseeings during their travels.",
+    "The city offers a variety of sightseeings for tourists.",
+    "Their sightseeings include historical landmarks.",
+    "The guidebook lists popular sightseeings in the region.",
+    "Sightseeings allow you to discover hidden gems."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a89"
+  },
+  "es": {
+    "word": "turista",
+    "definition": "Una persona que se dedica a hacer turismo y visita lugares de interés."
+  },
+  "pt": {
+    "word": "turista",
+    "definition": "Uma pessoa que se dedica ao turismo e visita lugares turísticos."
+  },
+  "word": "sightseeinger",
+  "ipa": "/ˈsaɪtsiːɪŋər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a8a"
+      }
+    }
+  ],
+  "definition": "A person who engages in sightseeing and visits tourist attractions.",
+  "examples": [
+    "Sightseeingers often carry cameras to capture memories.",
+    "The city attracts many sightseeingers each year.",
+    "As a sightseeinger, she enjoys exploring new cultures.",
+    "The group of sightseeingers joined a guided tour.",
+    "Sightseeingers appreciate local hospitality.",
+    "The sightseeinger shared travel tips with fellow tourists."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a8b"
+  },
+  "es": {
+    "word": "turisteable",
+    "definition": "Que es adecuado o apto para ser visitado por turistas."
+  },
+  "pt": {
+    "word": "turistável",
+    "definition": "Que é adequado ou apto para ser visitado por turistas."
+  },
+  "word": "sightseeingable",
+  "ipa": "/ˈsaɪtsiːɪŋəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a8c"
+      }
+    }
+  ],
+  "definition": "Suitable or apt to be visited by tourists.",
+  "examples": [
+    "The historic sites in the city are sightseeingable attractions.",
+    "The national park offers many sightseeingable opportunities.",
+    "The beach resort is a popular sightseeingable destination.",
+    "The cultural festival makes the town sightseeingable.",
+    "The region's natural beauty is sightseeingable year-round.",
+    "The city's architecture is sightseeingable for history buffs."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a8d"
+  },
+  "es": {
+    "word": "noturismo",
+    "definition": "La falta de interés o participación en actividades de turismo o turismo."
+  },
+  "pt": {
+    "word": "nãoturismo",
+    "definition": "A falta de interesse ou participação em atividades de turismo ou turismo."
+  },
+  "word": "unsightseeing",
+  "ipa": "/ʌnˈsaɪtsiːɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a8e"
+      }
+    }
+  ],
+  "definition": "The lack of interest or participation in tourism or sightseeing activities.",
+  "examples": [
+    "He prefers unsightseeing and relaxation during vacations.",
+    "Unsightseeing allows you to disconnect from tourist crowds.",
+    "Her unsightseeing choices involve solitude in nature.",
+    "Unsightseeing can be a way to recharge away from tourism.",
+    "The town offers options for both sightseeing and unsightseeing.",
+    "Unsightseeing in remote locations provides solitude."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a8f"
+  },
+  "es": {
+    "word": "returismo",
+    "definition": "La actividad de volver a visitar lugares turísticos o de hacer turismo de repetición."
+  },
+  "pt": {
+    "word": "returismo",
+    "definition": "A atividade de revisitar lugares turísticos ou fazer turismo repetido."
+  },
+  "word": "resightseeing",
+  "ipa": "/riːˈsaɪtsiːɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a90"
+      }
+    }
+  ],
+  "definition": "The activity of revisiting tourist attractions or engaging in repeated sightseeing.",
+  "examples": [
+    "Resightseeing allows you to rediscover familiar places.",
+    "They planned a resightseeing trip to their favorite city.",
+    "Her love for art led to frequent resightseeing in museums.",
+    "Resightseeing in historic towns offers new perspectives.",
+    "The couple enjoyed resightseeing their honeymoon destination.",
+    "Resightseeing can be a nostalgic experience."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a91"
+  },
+  "es": {
+    "word": "turistismo",
+    "definition": "La calidad o estado de estar involucrado en actividades de turismo o turismo."
+  },
+  "pt": {
+    "word": "turistismo",
+    "definition": "A qualidade ou estado de estar envolvido em atividades de turismo ou turismo."
+  },
+  "word": "sightseeingness",
+  "ipa": "/ˈsaɪtsiːɪŋnəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a92"
+      }
+    }
+  ],
+  "definition": "The quality or state of being involved in tourism or sightseeing activities.",
+  "examples": [
+    "Her sightseeingness led to a deep appreciation of culture.",
+    "The town's sightseeingness boosts the local economy.",
+    "Sightseeingness can enrich one's life with new experiences.",
+    "The region's sightseeingness attracts visitors from around the world.",
+    "The sightseeingness of the area is promoted by the tourism board.",
+    "Sightseeingness provides opportunities for cultural exchange."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a93"
+  },
+  "es": {
+    "word": "articulado",
+    "definition": "Que tiene una articulación o bisagra que permite el movimiento, como una puerta o una tapa."
+  },
+  "pt": {
+    "word": "articulado",
+    "definition": "Que possui uma articulação ou dobradiça que permite movimento, como uma porta ou tampa."
+  },
+  "word": "hinged",
+  "ipa": "/hɪndʒd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a94"
+      }
+    }
+  ],
+  "definition": "Having a joint or hinge that allows movement, like a door or lid.",
+  "examples": [
+    "The hinged lid of the chest opened easily.",
+    "She designed a hinged gate for the garden.",
+    "Hinged windows can be opened for ventilation.",
+    "The laptop has a hinged screen for flexibility.",
+    "The hinged door creaked as it swung open.",
+    "A hinged mechanism allows the box to close securely."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a95"
+  },
+  "es": {
+    "word": "articulado",
+    "definition": "El acto de conectar dos cosas en un punto de articulación o bisagra."
+  },
+  "pt": {
+    "word": "articulação",
+    "definition": "O ato de ligar duas coisas em um ponto de articulação ou dobradiça."
+  },
+  "word": "hingeding",
+  "ipa": "/ˈhɪndʒdɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a96"
+      }
+    }
+  ],
+  "definition": "The act of connecting two things at a hinge or articulation point.",
+  "examples": [
+    "The hingeding of the door to the frame required precision.",
+    "He completed the hingeding of the gate by himself.",
+    "Proper hingeding ensures smooth movement.",
+    "The hingeding of the laptop screen allows it to fold.",
+    "Hingeding is essential for the functionality of doors."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a97"
+  },
+  "es": {
+    "word": "articulado",
+    "definition": "El resultado de conectar dos cosas en un punto de articulación o bisagra."
+  },
+  "pt": {
+    "word": "articulação",
+    "definition": "O resultado de ligar duas coisas em um ponto de articulação ou dobradiça."
+  },
+  "word": "hingeded",
+  "ipa": "/ˈhɪndʒdɪd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a98"
+      }
+    }
+  ],
+  "definition": "The result of connecting two things at a hinge or articulation point.",
+  "examples": [
+    "The hingeded door allowed access to the attic.",
+    "Proper hingeded ensures the stability of the structure.",
+    "Hingeded is essential for the functionality of gates.",
+    "The hingeded of the book cover was well-crafted.",
+    "The hingeded of the box lid is sturdy."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a99"
+  },
+  "es": {
+    "word": "articulados",
+    "definition": "Las partes móviles de una estructura o mecanismo que permiten el movimiento, como las patas de una mesa plegable."
+  },
+  "pt": {
+    "word": "articulações",
+    "definition": "As partes móveis de uma estrutura ou mecanismo que permitem movimento, como as pernas de uma mesa dobrável."
+  },
+  "word": "hingeds",
+  "ipa": "/hɪndʒdz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a9a"
+      }
+    }
+  ],
+  "definition": "The movable parts of a structure or mechanism that allow movement, like the legs of a folding table.",
+  "examples": [
+    "The hingeds of the cabinet doors need oiling.",
+    "The hingeds of the laptop screen are durable.",
+    "Proper maintenance of hingeds ensures longevity.",
+    "The hingeds of the gate are rusted and need replacement.",
+    "Hingeds play a crucial role in furniture design."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a9b"
+  },
+  "es": {
+    "word": "articulado",
+    "definition": "La persona o entidad que realiza la conexión de dos cosas en un punto de articulación o bisagra."
+  },
+  "pt": {
+    "word": "articulador",
+    "definition": "A pessoa ou entidade que faz a ligação de duas coisas em um ponto de articulação ou dobradiça."
+  },
+  "word": "hingeder",
+  "ipa": "/ˈhɪndʒər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a9c"
+      }
+    }
+  ],
+  "definition": "The person or entity that performs the connection of two things at a hinge or articulation point.",
+  "examples": [
+    "The hingeder carefully installed the door's hinge.",
+    "The hingeder is responsible for gate repairs.",
+    "Hingeder expertise ensures the smooth operation of mechanisms.",
+    "The hingeder inspected the laptop's hinge for defects.",
+    "The hingeder provided maintenance for the cabinet hingeds."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a9d"
+  },
+  "es": {
+    "word": "articulable",
+    "definition": "Que puede ser conectado o unido mediante una articulación o bisagra."
+  },
+  "pt": {
+    "word": "articulável",
+    "definition": "Que pode ser conectado ou unido por meio de uma articulação ou dobradiça."
+  },
+  "word": "hingedable",
+  "ipa": "/ˈhɪndʒəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a9e"
+      }
+    }
+  ],
+  "definition": "Capable of being connected or joined by means of a hinge or articulation.",
+  "examples": [
+    "The hingedable lid allows access to the storage compartment.",
+    "The table's hingedable legs can be folded for easy storage.",
+    "Hingedable doors provide security for the building.",
+    "The laptop's hingedable screen can be adjusted to different angles.",
+    "Hingedable mechanisms are commonly used in furniture."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a9f"
+  },
+  "es": {
+    "word": "desarticulado",
+    "definition": "Que ha perdido la conexión o unión en un punto de articulación o bisagra."
+  },
+  "pt": {
+    "word": "desarticulado",
+    "definition": "Que perdeu a conexão ou união em um ponto de articulação ou dobradiça."
+  },
+  "word": "unhinged",
+  "ipa": "/ʌnˈhɪndʒd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aa0"
+      }
+    }
+  ],
+  "definition": "Having lost the connection or union at a hinge or articulation point.",
+  "examples": [
+    "The unhinged door swung open in the strong wind.",
+    "The cabinet door became unhinged due to repeated use.",
+    "His actions left her feeling emotionally unhinged.",
+    "The laptop screen became unhinged and needed repair.",
+    "The gate became unhinged from its frame."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aa1"
+  },
+  "es": {
+    "word": "rearticulado",
+    "definition": "Que ha vuelto a conectar o unir en un punto de articulación o bisagra."
+  },
+  "pt": {
+    "word": "rearticulado",
+    "definition": "Que foi novamente conectado ou unido em um ponto de articulação ou dobradiça."
+  },
+  "word": "rehinged",
+  "ipa": "/riːˈhɪndʒd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aa2"
+      }
+    }
+  ],
+  "definition": "Having been reconnected or reunited at a hinge or articulation point.",
+  "examples": [
+    "The rehinged gate now opens and closes smoothly.",
+    "She rehinged the cabinet door to fix the issue.",
+    "Rehinged windows improved the energy efficiency of the house.",
+    "The laptop screen was rehinged by a professional technician.",
+    "Rehinged doors are more secure and functional."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aa3"
+  },
+  "es": {
+    "word": "articulabilidad",
+    "definition": "La calidad o estado de poder ser conectado o unido mediante una articulación o bisagra."
+  },
+  "pt": {
+    "word": "articulabilidade",
+    "definition": "A qualidade ou estado de poder ser conectado ou unido por meio de uma articulação ou dobradiça."
+  },
+  "word": "hingedness",
+  "ipa": "/ˈhɪndʒdnəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aa4"
+      }
+    }
+  ],
+  "definition": "The quality or state of being able to be connected or joined by means of a hinge or articulation.",
+  "examples": [
+    "The hingedness of the laptop screen allows for versatility.",
+    "Hingedness is an important feature in door design.",
+    "The table's hingedness makes it portable and easy to store.",
+    "The hingedness of the gate provides security.",
+    "Proper hingedness ensures smooth operation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aa5"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "En dirección o en sentido opuesto al interior o al centro; hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "Em direção ou sentido oposto ao interior ou ao centro; em direção ao exterior."
+  },
+  "word": "outward",
+  "ipa": "/ˈaʊtwərd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aa6"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aa7"
+      }
+    }
+  ],
+  "definition": "In a direction or sense opposite to the interior or center; toward the outside.",
+  "examples": [
+    "She turned the doorknob outward to open the door.",
+    "The outward appearance of the building was impressive.",
+    "They directed their efforts outward to expand their business.",
+    "The hike took them outward into the wilderness.",
+    "His outward demeanor was calm, despite his inner turmoil.",
+    "The arrow pointed outward from the center."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aa8"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "El acto de moverse o dirigirse en dirección o sentido opuesto al interior o al centro; el acto de ir hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "O ato de mover-se ou direcionar-se em direção ou sentido oposto ao interior ou ao centro; o ato de ir em direção ao exterior."
+  },
+  "word": "outwarding",
+  "ipa": "/ˈaʊtwərdɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aa9"
+      }
+    }
+  ],
+  "definition": "The act of moving or directing in a direction or sense opposite to the interior or center; the act of going outward.",
+  "examples": [
+    "The outwarding of the ship signaled the start of the journey.",
+    "Outwarding can be a refreshing experience.",
+    "His outwarding from the city brought him closer to nature.",
+    "The company's outwarding strategy aimed to reach new markets.",
+    "Outwarding requires careful planning and preparation."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aaa"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "El resultado de moverse o dirigirse en dirección o sentido opuesto al interior o al centro; el resultado de ir hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "O resultado de mover-se ou direcionar-se em direção ou sentido oposto ao interior ou ao centro; o resultado de ir em direção ao exterior."
+  },
+  "word": "outwarded",
+  "ipa": "/ˈaʊtwərdɪd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aab"
+      }
+    }
+  ],
+  "definition": "The result of moving or directing in a direction or sense opposite to the interior or center; the result of going outward.",
+  "examples": [
+    "The outwarded journey provided them with new experiences.",
+    "The outwarded expansion of the city led to suburban developments.",
+    "Outwarded movement can be a response to urban congestion.",
+    "The company celebrated the successful outwarded growth of its business.",
+    "The outwarded exploration of the forest revealed hidden beauty."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aac"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "En dirección o en sentido opuesto al interior o al centro; hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "Em direção ou sentido oposto ao interior ou ao centro; em direção ao exterior."
+  },
+  "word": "outwards",
+  "ipa": "/ˈaʊtwərdz/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aad"
+      }
+    }
+  ],
+  "definition": "In a direction or sense opposite to the interior or center; toward the outside.",
+  "examples": [
+    "The road led outwards from the town into the countryside.",
+    "She gazed outwards at the vast ocean.",
+    "The company expanded outwards to reach new markets.",
+    "His interests extended outwards from science to art.",
+    "The rays of sunlight beamed outwards from the source."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aae"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "La persona o entidad que se mueve o dirige en dirección o sentido opuesto al interior o al centro; la persona o entidad que va hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "A pessoa ou entidade que se move ou direciona em direção ou sentido oposto ao interior ou ao centro; a pessoa ou entidade que vai em direção ao exterior."
+  },
+  "word": "outwarder",
+  "ipa": "/ˈaʊtwərdər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9aaf"
+      }
+    }
+  ],
+  "definition": "The person or entity that moves or directs in a direction or sense opposite to the interior or center; the person or entity that goes outward.",
+  "examples": [
+    "The outwarder of the group led the way to the summit.",
+    "The company's outwarder focused on international expansion.",
+    "Outwarders often seek new challenges and experiences.",
+    "He became an outwarder after living in the countryside.",
+    "The outwarder of the team explored uncharted territories."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9ab0"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "Que puede moverse o dirigirse en dirección o sentido opuesto al interior o al centro; que puede ir hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "Que pode mover-se ou direcionar-se em direção ou sentido oposto ao interior ou ao centro; que pode ir em direção ao exterior."
+  },
+  "word": "outwardable",
+  "ipa": "/ˈaʊtwərdəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9ab1"
+      }
+    }
+  ],
+  "definition": "Capable of moving or directing in a direction or sense opposite to the interior or center; capable of going outward.",
+  "examples": [
+    "The suitcase has outwardable wheels for easy transport.",
+    "The outwardable design of the backpack allows for versatility.",
+    "Outwardable features make this car ideal for off-road adventures.",
+    "The company values employees who are outwardable and adaptable.",
+    "The outwardable nature of the job attracted adventurous individuals."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9ab2"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "Que no se dirige o se mueve en dirección o sentido opuesto al interior o al centro; que no va hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "Que não se move ou direciona em direção ou sentido oposto ao interior ou ao centro; que não vai em direção ao exterior."
+  },
+  "word": "unoutward",
+  "ipa": "/ʌnˈaʊtwərd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9ab3"
+      }
+    }
+  ],
+  "definition": "Not moving or directing in a direction or sense opposite to the interior or center; not going outward.",
+  "examples": [
+    "His unoutward behavior masked his inner turmoil.",
+    "The unoutward appearance of the building was deceiving.",
+    "She remained unoutward in her response to criticism.",
+    "The unoutward nature of the lake made it appear calm.",
+    "The company's unoutward growth was due to internal challenges."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9ab4"
+  },
+  "es": {
+    "word": "hacia afuera nuevamente",
+    "definition": "El acto de moverse o dirigirse en dirección o sentido opuesto al interior o al centro nuevamente; el acto de volver a ir hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora novamente",
+    "definition": "O ato de mover-se ou direcionar-se em direção ou sentido oposto ao interior ou ao centro novamente; o ato de voltar a ir em direção ao exterior."
+  },
+  "word": "reoutward",
+  "ipa": "/riːˈaʊtwərd/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9ab5"
+      }
+    }
+  ],
+  "definition": "The act of moving or directing in a direction or sense opposite to the interior or center again; the act of going outward again.",
+  "examples": [
+    "The reoutward of the team was met with excitement.",
+    "Reoutward after a period of introspection can be refreshing.",
+    "The company's reoutward strategy aimed to regain market share.",
+    "Reoutward after a setback requires determination and planning.",
+    "Her reoutward journey brought her new opportunities."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9ab6"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "La calidad o estado de estar dirigido o moverse en dirección o sentido opuesto al interior o al centro; la calidad o estado de ir hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "A qualidade ou estado de estar direcionado ou mover-se em direção ou sentido oposto ao interior ou ao centro; a qualidade ou estado de ir em direção ao exterior."
+  },
+  "word": "outwardness",
+  "ipa": "/ˈaʊtwərdnəs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9ab7"
+      }
+    }
+  ],
+  "definition": "The quality or state of being directed or moving in a direction or sense opposite to the interior or center; the quality or state of going outward.",
+  "examples": [
+    "Her outwardness was evident in her adventurous spirit.",
+    "Outwardness can be a reflection of one's personality.",
+    "The outwardness of the city was a result of urban expansion.",
+    "The company encouraged outwardness in its employees.",
+    "The outwardness of the river's flow indicated its strength."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9ab8"
+  },
+  "es": {
+    "word": "hacia afuera",
+    "definition": "De manera que se dirige o se mueve en dirección o sentido opuesto al interior o al centro; de manera que va hacia el exterior."
+  },
+  "pt": {
+    "word": "para fora",
+    "definition": "De maneira que se move ou direciona em direção ou sentido oposto ao interior ou ao centro; de maneira que vai em direção ao exterior."
+  },
+  "word": "outwardly",
+  "ipa": "/ˈaʊtwərdli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9ab9"
+      }
+    }
+  ],
+  "definition": "In a manner that is directed or moving in a direction or sense opposite to the interior or center; in a manner that is going outward.",
+  "examples": [
+    "He smiled outwardly, but inside he was anxious.",
+    "The building was designed outwardly to impress visitors.",
+    "She spoke outwardly about her plans for the future.",
+    "Outwardly, the lake appeared calm, but strong currents lurked beneath.",
+    "The company appeared outwardly confident about its expansion."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9aba"
+  },
+  "es": {
+    "word": "de manera articulada",
+    "definition": "De una manera que implica tener una articulación o bisagra; de una manera que permite el movimiento o la dirección en un punto de articulación."
+  },
+  "pt": {
+    "word": "articuladamente",
+    "definition": "De maneira que envolve uma articulação ou dobradiça; de maneira que permite movimento ou direção em um ponto de articulação."
+  },
+  "word": "hingedly",
+  "ipa": "/ˈhɪndʒɪdli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9abb"
+      }
+    }
+  ],
+  "definition": "In a manner that involves having a hinge; in a manner that allows movement or direction at a hinge point.",
+  "examples": [
+    "The door swung hingedly on its well-oiled hinges.",
+    "The laptop screen can be adjusted hingedly to different angles.",
+    "The gate opened and closed hingedly with ease.",
+    "He attached the shelf hingedly to the wall for flexibility.",
+    "The cabinet door functioned hingedly thanks to its design."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a67"
+  },
+  "es": {
+    "word": "no emitido",
+    "definition": "Que no ha sido dado a conocer oficialmente."
+  },
+  "pt": {
+    "word": "não emitido",
+    "definition": "Que não foi divulgado oficialmente."
+  },
+  "word": "unissued",
+  "ipa": "/ʌnˈɪʃuːd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a68"
+      }
+    }
+  ],
+  "definition": "Not officially made known or published.",
+  "examples": [
+    "The statement remained unissued until further notice.",
+    "The document was marked as unissued due to errors.",
+    "The news was unissued pending verification.",
+    "The book remained unissued due to copyright issues.",
+    "The press release was intentionally left unissued.",
+    "The report was kept unissued for legal reasons."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9a79"
+  },
+  "es": {
+    "word": "vastable",
+    "definition": "Capaz de ser expandido o extendido en tamaño o alcance."
+  },
+  "pt": {
+    "word": "expansível",
+    "definition": "Capaz de ser expandido ou estendido em tamanho ou alcance."
+  },
+  "word": "vastable",
+  "ipa": "/ˈvæstəbl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Palabras que describen o modifican sustantivos.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9a7a"
+      }
+    }
+  ],
+  "definition": "Capable of being expanded or extended in size or scope.",
+  "examples": [
+    "The software platform is vastable to accommodate more users.",
+    "Their business model is vastable to include new markets.",
+    "The project's scope is vastable to meet changing requirements.",
+    "The infrastructure is vastable to support future growth.",
+    "The organization is vastable to adapt to market dynamics.",
+    "The team's capabilities are vastable for diverse projects."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9abc"
+  },
+  "es": {
+    "word": "de manera turística",
+    "definition": "De una manera relacionada con el turismo o la visita a lugares de interés; de una manera que implica explorar o disfrutar de atracciones turísticas."
+  },
+  "pt": {
+    "word": "turistamente",
+    "definition": "De maneira relacionada ao turismo ou à visita a lugares de interesse; de maneira que envolve explorar ou desfrutar de atrações turísticas."
+  },
+  "word": "sightseeingly",
+  "ipa": "/ˈsaɪtˌsiːɪŋli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9abd"
+      }
+    }
+  ],
+  "definition": "In a manner related to tourism or the visitation of places of interest; in a manner that involves exploring or enjoying tourist attractions.",
+  "examples": [
+    "They traveled sightseeingly through Europe, visiting famous landmarks.",
+    "She took photographs sightseeingly to capture the beauty of the city.",
+    "Sightseeingly, they explored the historical sites of the ancient city.",
+    "Tourists often move sightseeingly from one attraction to another.",
+    "Sightseeingly, he marveled at the architecture of the old cathedral."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657927ab3b893b80492d9abe"
+  },
+  "es": {
+    "word": "ampliamente",
+    "definition": "De manera extensa o en gran medida; de manera que implica una gran extensión o alcance."
+  },
+  "pt": {
+    "word": "amplamente",
+    "definition": "De maneira extensa ou em grande medida; de maneira que envolve grande extensão ou alcance."
+  },
+  "word": "vastly",
+  "ipa": "/ˈvæstli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Palabras que modifican verbos, adjetivos, otros adverbios o frases enteras.",
+      "_id": {
+        "$oid": "657927ab3b893b80492d9abf"
+      }
+    }
+  ],
+  "definition": "In a manner that is extensive or to a great degree; in a manner that implies a great extent or scope.",
+  "examples": [
+    "His knowledge of history is vastly superior to mine.",
+    "The company expanded vastly in the last decade.",
+    "She improved her skills vastly through continuous practice.",
+    "Vastly different cultures can be found in this diverse city.",
+    "The project's success was due to their vastly improved teamwork."
+  ],
+  "times_seen": 1,
+  "status": "FAIL",
+  "createdAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T03:40:28.000Z"
+  },
+  "__v": 0
 }]
