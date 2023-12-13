@@ -87214,57 +87214,6 @@
 },
 {
   "_id": {
-    "$oid": "657927ab3b893b80492d9a32"
-  },
-  "es": {
-    "word": "sello",
-    "definition": "Una pieza de goma o metal grabada con un diseño o texto que se usa para marcar o estampar tinta en papel u otra superficie."
-  },
-  "pt": {
-    "word": "carimbo",
-    "definition": "Uma peça de borracha ou metal gravada com um design ou texto que é usada para marcar ou carimbar tinta em papel ou outra superfície."
-  },
-  "word": "stamp",
-  "ipa": "/stæmp/",
-  "type_word": [
-    {
-      "name": "Noun",
-      "sigle": "n.",
-      "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos.",
-      "_id": {
-        "$oid": "657927ab3b893b80492d9a33"
-      }
-    },
-    {
-      "name": "Verb",
-      "sigle": "v.",
-      "description": "Palabras que expresan acciones, estados o procesos.",
-      "_id": {
-        "$oid": "657927ab3b893b80492d9a34"
-      }
-    }
-  ],
-  "definition": "A piece of rubber or metal engraved with a design or text that is used to mark or imprint ink on paper or another surface. Also, the act of marking or imprinting with such a tool.",
-  "examples": [
-    "She used a stamp to mark the date on the document.",
-    "Collecting postage stamps is a popular hobby.",
-    "The official stamp of approval was given to the project.",
-    "The stamp on the envelope indicated it had been mailed.",
-    "The company's logo was printed using a custom stamp.",
-    "The stamping of the passport is necessary for entry."
-  ],
-  "times_seen": 1,
-  "status": "FAIL",
-  "createdAt": {
-    "$date": "2023-12-13T03:40:27.999Z"
-  },
-  "updatedAt": {
-    "$date": "2023-12-13T03:40:27.999Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "657927ab3b893b80492d9a35"
   },
   "es": {
