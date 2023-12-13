@@ -21,8 +21,8 @@ export default async function handler(
     switch (method) {
       case "GET":
         // const rta = await serchCambrigePupe();
-        // const rta = await searchAndDeleteRepeatedWords();
-        const rta = await addNewWords();
+        const rta = await searchAndDeleteRepeatedWords();
+        // const rta = await addNewWords();
         // const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
@@ -121,22 +121,22 @@ const serchCambrigePupe = async () => {
   }
 };
 
-const addNewWords = async () => {
-  const newFormat = WORDS_NEW_GPT3.map((word) => {
-    return {
-      ...word,
-      times_seen: 1,
-      status: "FAIL",
-    };
-  });
+// const addNewWords = async () => {
+//   const newFormat = WORDS_NEW_GPT3.map((word) => {
+//     return {
+//       ...word,
+//       times_seen: 1,
+//       status: "FAIL",
+//     };
+//   });
 
-  try {
-    // Agregar las palabras a la base de datos
-    const words = await WordModel.create(newFormat);
+//   try {
+//     // Agregar las palabras a la base de datos
+//     const words = await WordModel.create(newFormat);
 
-    return { words: "Well done my friend" };
-  } catch (error: any) {
-    console.log(error);
-    return { error: "Error en el servidor: " + error.message };
-  }
-};
+//     return { words: "Well done my friend" };
+//   } catch (error: any) {
+//     console.log(error);
+//     return { error: "Error en el servidor: " + error.message };
+//   }
+// };
