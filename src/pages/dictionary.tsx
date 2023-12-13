@@ -123,7 +123,8 @@ const Dictionary = () => {
 
             <div>
               <p className="py-1 text-gray-400">
-                Created at: {new Date(wordDetail?.updatedAt!).toLocaleString()}
+                {/* @ts-ignore */}
+                Last Update: {new Date(wordDetail?.updatedAt!["$date"]!).toLocaleString()}
               </p>
             </div>
           </section>
