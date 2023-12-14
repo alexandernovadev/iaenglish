@@ -21,9 +21,9 @@ export default async function handler(
     switch (method) {
       case "GET":
         // const rta = await serchCambrigePupe();
-        const rta = await searchAndDeleteRepeatedWords();
+        // const rta = await searchAndDeleteRepeatedWords();
         // const rta = await addNewWords();
-        // const rta = await wordsNotInMongo();
+        const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
         res.status(200).json(rta);

@@ -9,7 +9,7 @@ import { WordActionTypes } from "@/redux/wordRecuder/types";
 import { HiMiniSpeakerWave } from "react-icons/hi2";
 import cambrigeLogo from "../../public/images/cambrige.png";
 import Image from "next/image";
-
+import Dictonary from '../../public/englishdb_ai.words.json'
 export default function Home() {
   const { activeStory } = useSelector((state: RootState) => state.story);
 
@@ -29,6 +29,32 @@ export default function Home() {
       };
     }
   }, []);
+
+
+  useEffect(() => {
+
+    const setUnique = new Set(words);
+    const wordsKnown: string[] = [];
+    const wordsUnKnown: string[] = [];
+    setUnique.forEach((word) => {
+      const wordLowerCase = word.toLocaleLowerCase().replace(/[.,();\/ ]/g, "");
+      const wordExist = Dictonary.find(
+        (w) => w.word?.toLocaleLowerCase() === wordLowerCase
+      );
+      if (wordExist) {
+        wordsKnown.push(wordLowerCase);
+      } else {
+        wordsUnKnown.push(wordLowerCase);
+      }
+    });
+
+
+    console.log('wordsUnKnown', wordsUnKnown)
+    // console.log('wordsKnown',wordsKnown)
+
+  }, [activeStory, words]);
+
+
 
   useEffect(() => {
     if (activeStory?.paragraphs) {
@@ -120,9 +146,8 @@ export default function Home() {
         key={"word-" + index}
         // onDoubleClick={() => speakWordEN(word)}
         onClick={() => setWordUserSelected(word)}
-        className={`p-1 rounded-md cursor-pointer inline-flex ${
-          isCurrentWord ? "bg-green-800" : "transparent"
-        }`}
+        className={`p-1 rounded-md cursor-pointer inline-flex ${isCurrentWord ? "bg-green-800" : "transparent"
+          }`}
       >
         {word}
       </span>
