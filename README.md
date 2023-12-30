@@ -35,3 +35,4 @@ todas las words que tengan un espacio en blanco, o almento dos palabras
 Generate an array that containing all variations of the word 'fleet'
 
 
+{"word": {"$regex": "zoom", "$options": "i"}}

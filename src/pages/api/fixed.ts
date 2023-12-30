@@ -20,10 +20,11 @@ export default async function handler(
   try {
     switch (method) {
       case "GET":
+        // const rta = await deleteRepeatwordFromARRAY();
         // const rta = await serchCambrigePupe();
-        const rta = await fixdates();
-        // const rta = await searchAndDeleteRepeatedWords();
-        // const rta = await addNewWords();
+        // const rta = await fixdates();
+        const rta = await searchAndDeleteRepeatedWords();
+        // const rta = await addNewWordsToMongoDBAtlas();
         // const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
@@ -44,16 +45,8 @@ export default async function handler(
   }
 }
 
-const addNewWords = async () => {
-  // Add WORDS_NEW_GPT3 to mongo, add properties updatedAt con la fecha de hoy
+const addNewWordsToMongoDBAtlas = async () => {
   const newDataFormat = WORDS_NEW_GPT3;
-  // .map((x) => {
-  //   return {
-  //     ...x,
-  //     status: "FAIL",
-  //     times_seen: 0,
-  //   };
-  // });
 
   try {
     // Usa el método create o insertMany para agregar los nuevos datos a MongoDB
@@ -173,4 +166,11 @@ const serchCambrigePupe = async () => {
     console.error("Hubo un error:", error);
     return { damn: "errro" };
   }
+};
+
+const deleteRepeatwordFromARRAY = async () => {
+  const rr = words__CLEAN.filter((word, index, self) => {
+    return index === self.indexOf(word);
+  });
+  return { totalWordsNormal: words__CLEAN.length, totalWordClean: rr };
 };

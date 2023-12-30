@@ -11,11 +11,11 @@
     "word": "proper",
     "ipa": "/ˈprɒpər/",
     "type_word": [
-      {
-        "name": "Adjective",
-        "sigle": "adj.",
-        "description": "Palabras que describen o modifican sustantivos."
-      }
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns."
+    },
     ],
     "definition": "Correct or appropriate in a given situation; suitable or appropriate.",
     "examples": [
@@ -38,16 +38,16 @@
     "word": "experience",
     "ipa": "/ɪkˈspɪəriəns/",
     "type_word": [
-      {
-        "name": "Noun",
-        "sigle": "n.",
-        "description": "Palabras que nombran personas, animales, lugares, cosas, ideas o fenómenos."
-      },
-      {
-        "name": "Verb",
-        "sigle": "v.",
-        "description": "Palabras que expresan acciones, estados o procesos."
-      }
+   {
+    "name": "Proper Noun",
+    "sigle": "pn.",
+    "description": "Specific names of people, places, organizations, etc., that are capitalized."
+  },
+  {
+    "name": "Verb",
+    "sigle": "v.",
+    "description": "Words that express actions, states, or processes."
+  },
     ],
     "definition": "The accumulation of knowledge, skills, and life experiences over time.",
     "examples": [
@@ -60,7 +60,7 @@
   },
   {
     "es": {
-      "word": "smooth",
+      "word": "suave",
       "definition": "Tener una superficie uniforme o sin asperezas; sin problemas o dificultades."
     },
     "pt": {
@@ -70,16 +70,16 @@
     "word": "smooth",
     "ipa": "/smuːð/",
     "type_word": [
-      {
-        "name": "Adjective",
-        "sigle": "adj.",
-        "description": "Palabras que describen o modifican sustantivos."
-      },
-      {
-        "name": "Verb",
-        "sigle": "v.",
-        "description": "Palabras que expresan acciones, estados o procesos."
-      }
+  {
+    "name": "Adjective",
+    "sigle": "adj.",
+    "description": "Words that describe or modify nouns."
+  },
+    {
+    "name": "Verb",
+    "sigle": "v.",
+    "description": "Words that express actions, states, or processes."
+  },
     ],
     "definition": "Having a uniform or unblemished surface; without problems or difficulties.",
     "examples": [
@@ -241,16 +241,16 @@
 
 GENERATE JSON (TU RTA SOLO TIENE QUE SER UN JSON)un par mas SOLO PARA LA PALABARAs para 
 [
-   "fleet",
-  "fleeting",
-  "fleetly",
-  "fleetness",
-  "fleet-footed",
-  "fleetingly",
-  "fleeted",
-  "endorsement",
-  "endorse",
-  "endorsing",
+  "novel",
+  "sight",
+  "argent",
+  "moon",
+  "sparks",
+  "curiosity",
+  "color-infused",
+  "dog",
+  "night",
+ 
 ]
 
 OJO con las mismas llaves que tienen todos,.SIGUE EL EJEMPLO
@@ -263,9 +263,9 @@ pt
   definition - LA PALABRA EN PT LA TRADUCCION)
 word
 ipa
-type_word 
+type_word  (look the examples, ALL in english )
 definition
 examples [6 item always]
 
  
-comienza con "fleet" , ...
+comienza con "novel" , ...

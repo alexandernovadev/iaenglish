@@ -43,10 +43,9 @@ const searchWordOnMongo = async (word: string) => {
     const regex = new RegExp(word, "i");
     const words = await WordModel.find({ word: { $regex: regex } })
       .sort({
-        updatedAt: 1,
-        word: -1,
+        updatedAt: -1,
       })
-      .limit(50);
+      .limit(220);
 
     return words;
   } catch (error) {
