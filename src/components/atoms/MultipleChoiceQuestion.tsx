@@ -1,6 +1,7 @@
 import React from "react";
-import { Question } from "./props";
+
 import { AlertsResponse } from "./AlertsResponse";
+import { Question } from "@/redux/examReducer/types";
 
 interface Props {
   question: Question;
@@ -8,7 +9,7 @@ interface Props {
 }
 
 const MultipleChoiceQuestion = ({
-  question: { title, htmlContent, options,feedback },
+  question: { title, htmlContent, options, feedback },
   onChange,
 }: Props) => {
   const [selectedOptions, setSelectedOptions] = React.useState<string[]>([]);
@@ -40,7 +41,6 @@ const MultipleChoiceQuestion = ({
       </div>
 
       {feedback && <AlertsResponse feedback={feedback} status="correct" />}
-
     </div>
   );
 };
