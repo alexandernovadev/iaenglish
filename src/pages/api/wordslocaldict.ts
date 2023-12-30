@@ -39,12 +39,19 @@ export default async function handler(
 }
 
 const searchWordOnMongo = async (word: string) => {
-  const words = await WordModel.find({
-    word: { $regex: word, $options: "i" },
-  })
-    .sort({ updatedAt: -1 })
-    .limit(70);
-  return words;
+  try {
+    const regex = new RegExp(word, "i");
+    const words = await WordModel.find({ word: { $regex: regex } })
+      .sort({
+        word: -1,
+      })
+      .limit(50);
+
+    return words;
+  } catch (error) {
+    console.error("Error en la búsqueda en MongoDB:", error);
+    throw error;
+  }
 };
 
 const serhWordByWord = async (word: string) => {

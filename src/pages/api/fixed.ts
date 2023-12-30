@@ -45,13 +45,15 @@ export default async function handler(
 
 const addNewWords = async () => {
   // Add WORDS_NEW_GPT3 to mongo, add properties updatedAt con la fecha de hoy
-  const newDataFormat = WORDS_NEW_GPT3.map((x) => {
-    return {
-      ...x,
-      status: "FAIL",
-      times_seen: 0,
-    };
-  });
+  const newDataFormat = 
+  WORDS_NEW_GPT3
+  // .map((x) => {
+  //   return {
+  //     ...x,
+  //     status: "FAIL",
+  //     times_seen: 0,
+  //   };
+  // });
 
   try {
     // Usa el método create o insertMany para agregar los nuevos datos a MongoDB
