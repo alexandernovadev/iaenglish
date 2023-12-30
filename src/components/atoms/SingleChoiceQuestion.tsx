@@ -1,6 +1,6 @@
 import React from "react";
-import { Question } from "./props";
 import { AlertsResponse } from "./AlertsResponse";
+import { Question } from "@/redux/examReducer/types";
 
 interface Props {
   question: Question;
