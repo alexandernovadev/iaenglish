@@ -21,8 +21,9 @@ export default async function handler(
     switch (method) {
       case "GET":
         // const rta = await serchCambrigePupe();
+        const rta = await fixdates();
         // const rta = await searchAndDeleteRepeatedWords();
-        const rta = await addNewWords();
+        // const rta = await addNewWords();
         // const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
@@ -45,8 +46,7 @@ export default async function handler(
 
 const addNewWords = async () => {
   // Add WORDS_NEW_GPT3 to mongo, add properties updatedAt con la fecha de hoy
-  const newDataFormat = 
-  WORDS_NEW_GPT3
+  const newDataFormat = WORDS_NEW_GPT3;
   // .map((x) => {
   //   return {
   //     ...x,
@@ -66,6 +66,31 @@ const addNewWords = async () => {
     // throw error;
     return { data: "error" };
   }
+};
+
+const fixdates = async () => {
+  // Search all words that doesn't have updatedAt or createdAt and add them with the date of "2023/12/25"
+  // Fecha a establecer
+  const fixedDate = new Date("2023-11-25");
+
+  // Buscar documentos que no tienen las propiedades createdAt y updatedAt
+  const wordsWithoutDates = await WordModel.find({
+    $or: [{ createdAt: { $exists: false } }, { updatedAt: { $exists: false } }],
+  });
+
+  // Actualizar cada documento encontrado
+  for (const word of wordsWithoutDates) {
+    word.createdAt = fixedDate;
+    word.updatedAt = fixedDate;
+    word.status = "FAIL";
+    await word.save();
+  }
+
+  console.log(`Actualizados ${wordsWithoutDates.length} documentos.`);
+
+  return {
+    wordsNotInMongo: `Actualizados ${wordsWithoutDates.length} documentos.`,
+  };
 };
 
 const getArrayFromAllWords = async () => {
