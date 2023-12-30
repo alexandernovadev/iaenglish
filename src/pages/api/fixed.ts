@@ -22,8 +22,8 @@ export default async function handler(
       case "GET":
         // const rta = await serchCambrigePupe();
         // const rta = await searchAndDeleteRepeatedWords();
-        // const rta = await addNewWords();
-        const rta = await wordsNotInMongo();
+        const rta = await addNewWords();
+        // const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
         res.status(200).json(rta);
@@ -42,6 +42,29 @@ export default async function handler(
     await disconnect();
   }
 }
+
+const addNewWords = async () => {
+  // Add WORDS_NEW_GPT3 to mongo, add properties updatedAt con la fecha de hoy
+  const newDataFormat = WORDS_NEW_GPT3.map((x) => {
+    return {
+      ...x,
+      status: "FAIL",
+      times_seen: 0,
+    };
+  });
+
+  try {
+    // Usa el método create o insertMany para agregar los nuevos datos a MongoDB
+    const result = await WordModel.insertMany(newDataFormat);
+
+    console.log("Datos agregados con éxito:", result);
+    return { data: "Datos agregados con éxito:" };
+  } catch (error) {
+    console.error("Error al agregar datos a MongoDB:", error);
+    // throw error;
+    return { data: "error" };
+  }
+};
 
 const getArrayFromAllWords = async () => {
   const words = await WordModel.find({}).select("word");
@@ -91,6 +114,10 @@ const wordsNotInMongo = async () => {
   return { wordsNotInMongo, r: wordsNotInMongo.length };
 };
 
+/**
+ * Scan wordnik for audio links and save them in the database
+ * @Deprecated
+ */
 const serchCambrigePupe = async () => {
   // Launch the browser and open a new blank page
   try {
@@ -120,23 +147,3 @@ const serchCambrigePupe = async () => {
     return { damn: "errro" };
   }
 };
-
-// const addNewWords = async () => {
-//   const newFormat = WORDS_NEW_GPT3.map((word) => {
-//     return {
-//       ...word,
-//       times_seen: 1,
-//       status: "FAIL",
-//     };
-//   });
-
-//   try {
-//     // Agregar las palabras a la base de datos
-//     const words = await WordModel.create(newFormat);
-
-//     return { words: "Well done my friend" };
-//   } catch (error: any) {
-//     console.log(error);
-//     return { error: "Error en el servidor: " + error.message };
-//   }
-// };

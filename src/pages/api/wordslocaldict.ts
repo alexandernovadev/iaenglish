@@ -19,7 +19,8 @@ export default async function handler(
     switch (method) {
       case "GET":
         const userWord = req.query.word as string;
-        const rta = await serhWordByWord(userWord);
+        // const rta = await serhWordByWord(userWord);
+        const rta = await searchWordOnMongo(userWord);
         res.status(200).json(rta);
 
         break;
@@ -37,16 +38,27 @@ export default async function handler(
   }
 }
 
+const searchWordOnMongo = async (word: string) => {
+  const words = await WordModel.find({
+    word: { $regex: word, $options: "i" },
+  })
+    .sort({ updatedAt: -1 })
+    .limit(70);
+  return words;
+};
+
 const serhWordByWord = async (word: string) => {
   if (!word) {
     // Solo retorna las primeras 10 palabras
     const words = DictionaryJson.map((x) => x).sort((a, b) => {
-      let date1Temp = a.updatedAt && a.updatedAt["$date"]
-        ? a.updatedAt["$date"]
-        : "2023-12-25T06:59:56.386Z";
-      let date2Temp = b.updatedAt && b.updatedAt["$date"]
-        ? b.updatedAt["$date"]
-        : "2023-12-25T06:59:56.386Z";
+      let date1Temp =
+        a.updatedAt && a.updatedAt["$date"]
+          ? a.updatedAt["$date"]
+          : "2023-12-25T06:59:56.386Z";
+      let date2Temp =
+        b.updatedAt && b.updatedAt["$date"]
+          ? b.updatedAt["$date"]
+          : "2023-12-25T06:59:56.386Z";
 
       const dateA = new Date(date1Temp).getTime(); // Convert to numeric timestamp
       const dateB = new Date(date2Temp).getTime(); // Convert to numeric timestamp

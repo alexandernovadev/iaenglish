@@ -2,6 +2,7 @@ import { MainLayout } from "@/components/layouts/MainLayout";
 import { Modal } from "@/components/molecules/Modal/Modal";
 import { Word } from "@/interfaces/word";
 import React, { use, useEffect, useState } from "react";
+import { DateTime } from "luxon";
 
 const Dictionary = () => {
   const [wordUser, setWordUser] = useState("");
@@ -15,17 +16,17 @@ const Dictionary = () => {
   }, []);
 
   const getWords = async () => {
+    const wordTemp = wordUser.toLowerCase() || "";
     try {
-      const res = await fetch(
-        `/api/wordslocaldict${wordUser ? `?word=${wordUser}` : ""}`
-      );
+      const res = await fetch(`/api/wordslocaldict?word=${wordTemp}`);
       const data = await res.json();
-      if (data.total !== 0) {
-        setWords(data.words);
-      } else {
-        setWords([]);
-      }
+      // if (data.length !== 0) {
+      //   setWords(data.words);
+      // } else {
+      //   setWords([]);
+      // }
       console.log(data);
+      setWords(data);
     } catch (error) {
       console.log(error);
     }
@@ -47,7 +48,7 @@ const Dictionary = () => {
         <div className="text-white px-4 pb-4">
           <form onSubmit={handleSubmit} className="w-full">
             <input
-              type="text"
+              type="search"
               value={wordUser}
               className="bg-gray-800 rounded-lg px-4 py-2 w-full"
               placeholder="Search word"
@@ -120,13 +121,19 @@ const Dictionary = () => {
                 </p>
               ))}
             </div>
-
-            <div>
-              <p className="py-1 text-gray-400">
-                {/* @ts-ignore */}
-                Last Update: {new Date(wordDetail?.updatedAt!["$date"]!).toLocaleString()}
-              </p>
-            </div>
+            {wordDetail && wordDetail.updatedAt && (
+              <div>
+                <p className="py-1 text-gray-400">
+                  Last Update: {/* @ts-ignore */}
+                  {DateTime.fromISO(wordDetail.updatedAt).toLocaleString({
+                    weekday: "long",
+                    month: "long",
+                    year: "numeric",
+                    day:"2-digit"
+                  })}
+                </p>
+              </div>
+            )}
           </section>
         </Modal>
       </>
