@@ -92,7 +92,7 @@
   }
 ]
 
-(aqui estas los types
+(Here the types_word examples
 
 [
   {
@@ -241,15 +241,14 @@
 
 GENERATE JSON (TU RTA SOLO TIENE QUE SER UN JSON)un par mas SOLO PARA LA PALABARAs para 
 [
-  "novel",
-  "sight",
-  "argent",
-  "moon",
-  "sparks",
-  "curiosity",
-  "color-infused",
-  "dog",
-  "night",
+  "obvious",
+  "replies",
+  "emphasize",
+  "did",
+  "fixed",
+  "directly",
+  "related",
+  "literal",
  
 ]
 
@@ -268,4 +267,6 @@ definition
 examples [6 item always]
 
  
-comienza con "novel" , ...
+comienza con "obvious" , ...
+En tu RTA SOLO me daras EL ARRAY , no quiero comentarios , sugerencias texto alternativo o texto como("
+Aquí tienes el JSON solicitado para las palabras proporcionadas:") nadaaaa como eso naaada , SOLO EL ARRAY en tu rta

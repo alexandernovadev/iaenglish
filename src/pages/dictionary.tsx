@@ -45,12 +45,12 @@ const Dictionary = () => {
   return (
     <MainLayout>
       <>
-        <div className="text-white px-4 pb-4">
-          <form onSubmit={handleSubmit} className="w-full">
+        <div className="text-white px-4 pb-4 w-[100%]">
+          <form onSubmit={handleSubmit} className="">
             <input
               type="search"
               value={wordUser}
-              className="bg-gray-800 rounded-lg px-4 py-2 w-full"
+              className="bg-gray-800 rounded-lg px-4 py-2 w-full border "
               placeholder="Search word"
               onChange={(e) => setWordUser(e.target.value)}
             />
@@ -76,7 +76,7 @@ const Dictionary = () => {
                 </div>
               ))
             ) : (
-              <p className="text-2xl text-center w-full">No words found</p>
+              <p className="text-2xl text-center w-full pt-12">No words found</p>
             )}
           </div>
         </div>
@@ -86,7 +86,7 @@ const Dictionary = () => {
               className="text-5xl font-semibold capitalize"
               onClick={() => speakInEnglish(wordDetail?.word!)}
             >
-              {wordDetail?.word} <span>🔊</span>
+              {wordDetail?.word} <span className="cursor-pointer">🔊</span>
             </h1>
 
             <div className="py-2 px-3">

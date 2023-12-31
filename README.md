@@ -1,3 +1,7 @@
+# Node version
+Please use node 20 version, use nvm to changue between versions
+
+
 # The core of this app should be the REDUX
  WORD 
   words
