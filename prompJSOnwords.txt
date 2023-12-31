@@ -238,24 +238,24 @@
   }  
 ]
 )
+NOTA: En tu RTA SOLO me daras EL ARRAY , no quiero comentarios , sugerencias texto alternativo ,nadaaaa como eso naaada , SOLO EL ARRAY en tu rta
 
 GENERATE JSON (TU RTA SOLO TIENE QUE SER UN JSON)un par mas SOLO PARA LA PALABARAs para 
 [
-  "obvious",
-  "replies",
-  "emphasize",
-  "did",
-  "fixed",
-  "directly",
-  "related",
-  "literal",
- 
+  "bushier",
+  "bushiest",
+  "midwinter",
+  "midwinters",
+  "borders",
+  "bordered",
+  "bordering",
+  "goodwill" 
 ]
 
 OJO con las mismas llaves que tienen todos,.SIGUE EL EJEMPLO
 
 es
- word - (LA PALABRA EN ESPAÑOL, LA TRADUCCION)
+ word - (AQUI ES LA PALABRA EN ESPAÑOL, LA TRADUCCION)
  definition - LA DEFINICION EN ESPAÑOL, LA TRADUCCION)
 pt
   word  -LA PALABRA EN PT LA TRADUCCION)
@@ -264,9 +264,7 @@ word
 ipa
 type_word  (look the examples, ALL in english )
 definition
-examples [6 item always]
+examples [siempre pon 5 items AQUI en english ]
 
  
-comienza con "obvious" , ...
-En tu RTA SOLO me daras EL ARRAY , no quiero comentarios , sugerencias texto alternativo o texto como("
-Aquí tienes el JSON solicitado para las palabras proporcionadas:") nadaaaa como eso naaada , SOLO EL ARRAY en tu rta
+comienza con "bushier" , ...
