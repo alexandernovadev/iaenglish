@@ -16,7 +16,7 @@ const Dictionary = () => {
   }, []);
 
   const getWords = async () => {
-    const wordTemp = wordUser.toLowerCase() || "";
+    const wordTemp = wordUser.toLowerCase().trim() || "";
     try {
       const res = await fetch(`/api/wordslocaldict?word=${wordTemp}`);
       const data = await res.json();

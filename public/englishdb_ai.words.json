@@ -51774,7 +51774,7 @@
     "$oid": "65641520aa5e4596d619cc6e"
   },
   "es": {
-    "word": "doubt",
+    "word": "duda",
     "definition": "Duda o falta de certeza sobre algo."
   },
   "pt": {
@@ -52020,7 +52020,7 @@
     "$oid": "65641520aa5e4596d619cc74"
   },
   "es": {
-    "word": "drop",
+    "word": "soltar",
     "definition": "Dejar caer algo desde una altura."
   },
   "pt": {
@@ -65822,7 +65822,7 @@
     "$oid": "656bb501112adff214e8efb0"
   },
   "es": {
-    "word": "subtract",
+    "word": "restar",
     "definition": "Restar o quitar una cantidad de otra."
   },
   "pt": {
@@ -68574,7 +68574,7 @@
     "$oid": "656bb501112adff214e8effb"
   },
   "es": {
-    "word": "wrap",
+    "word": "envoltura",
     "definition": "Envolver algo con un material como papel o tela; el acto de envolver."
   },
   "pt": {
@@ -71166,7 +71166,7 @@
     "$oid": "656fe51dd9df4108f2bb716d"
   },
   "es": {
-    "word": "aluminum",
+    "word": "aluminio",
     "definition": "Un metal plateado ligero que es resistente a la corrosión y se usa en una variedad de aplicaciones, incluyendo la fabricación de envases, utensilios de cocina y componentes de vehículos."
   },
   "pt": {
@@ -74832,7 +74832,7 @@
     "$oid": "656fe51dd9df4108f2bb71d8"
   },
   "es": {
-    "word": "backdrop",
+    "word": "fondo",
     "definition": "El fondo o escenario detrás de un evento, una situación o una representación; el contexto en el que algo ocurre."
   },
   "pt": {
@@ -86354,7 +86354,7 @@
     "$oid": "6573bd7a88a5380d551c0de7"
   },
   "es": {
-    "word": "contact",
+    "word": "contacto",
     "definition": "La acción de comunicarse o tocar a alguien o algo."
   },
   "pt": {
@@ -99799,7 +99799,7 @@
     "$oid": "658f859c3b2e1d3e8a9148c2"
   },
   "es": {
-    "word": "hollow",
+    "word": "huec@",
     "definition": "Tener un espacio vacío o hueco en el interior; carente de sustancia o contenido."
   },
   "pt": {
@@ -99857,7 +99857,7 @@
     "$oid": "658f859c3b2e1d3e8a9148c6"
   },
   "es": {
-    "word": "hollower",
+    "word": "mas huec@",
     "definition": "Más hueco o vacío que algo más."
   },
   "pt": {
@@ -99899,7 +99899,7 @@
     "$oid": "658f859c3b2e1d3e8a9148c8"
   },
   "es": {
-    "word": "hollowest",
+    "word": "muy huec@",
     "definition": "El más hueco o vacío en comparación con otros."
   },
   "pt": {
@@ -99941,7 +99941,7 @@
     "$oid": "658f859c3b2e1d3e8a9148ca"
   },
   "es": {
-    "word": "hollowly",
+    "word": "huecamente",
     "definition": "De manera hueca o sin sustancia; sin convicción o sinceridad."
   },
   "pt": {
@@ -99983,7 +99983,7 @@
     "$oid": "658f859c3b2e1d3e8a9148cc"
   },
   "es": {
-    "word": "hollowness",
+    "word": "vacio",
     "definition": "La cualidad de ser hueco o carente de sustancia; falta de convicción o sinceridad."
   },
   "pt": {
@@ -133346,7 +133346,7 @@
     "$oid": "65917ec07871fab71b9d2185"
   },
   "es": {
-    "word": "act out",
+    "word": "representar",
     "definition": "Representar un comportamiento o situación a través de acciones en lugar de palabras; actuar de manera inapropiada o impulsiva."
   },
   "pt": {
@@ -133386,7 +133386,7 @@
     "$oid": "65917ec07871fab71b9d2187"
   },
   "es": {
-    "word": "although",
+    "word": "aunque",
     "definition": "A pesar de que; sin embargo."
   },
   "pt": {
@@ -133426,7 +133426,7 @@
     "$oid": "65917ec07871fab71b9d2189"
   },
   "es": {
-    "word": "arguably",
+    "word": "discutible",
     "definition": "Se puede argumentar; posiblemente."
   },
   "pt": {
@@ -133466,7 +133466,7 @@
     "$oid": "65917ec07871fab71b9d218b"
   },
   "es": {
-    "word": "nevertheless",
+    "word": "sin embargo",
     "definition": "Sin embargo; no obstante."
   },
   "pt": {
@@ -133506,7 +133506,7 @@
     "$oid": "65917ec07871fab71b9d218d"
   },
   "es": {
-    "word": "midwinter",
+    "word": "Medio-Invierno",
     "definition": "El punto medio del invierno; la mitad del período invernal."
   },
   "pt": {
@@ -133665,7 +133665,7 @@
     "$oid": "65917ec07871fab71b9d2199"
   },
   "es": {
-    "word": "arguably's",
+    "word": "Discutible",
     "definition": "La forma posesiva de 'arguably'; perteneciente o relacionado a algo que se puede argumentar."
   },
   "pt": {
@@ -133860,7 +133860,7 @@
     "$oid": "65917ec07871fab71b9d21a3"
   },
   "es": {
-    "word": "worst",
+    "word": "peor",
     "definition": "Lo peor; la situación o condición más desfavorable."
   },
   "pt": {
@@ -136146,5 +136146,4385 @@
   },
   "updatedAt": {
     "$date": "2023-12-31T14:46:24.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6591801ed3b0b99bb0a4fdc3"
+  },
+  "es": {
+    "word": "preguntar",
+    "definition": "Hacer una pregunta o buscar información."
+  },
+  "pt": {
+    "word": "perguntar",
+    "definition": "Fazer uma pergunta ou buscar informação."
+  },
+  "word": "enquire",
+  "ipa": "/ɪnˈkwaɪər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "6591801ed3b0b99bb0a4fdc4"
+      }
+    }
+  ],
+  "definition": "To ask a question or seek information.",
+  "examples": [
+    "I will enquire about the schedule.",
+    "She likes to enquire about new opportunities.",
+    "They need to enquire at the reception desk.",
+    "He decided to enquire into the matter further.",
+    "Please enquire within for more details."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-12-31T14:52:14.993Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T14:52:14.993Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6591801ed3b0b99bb0a4fdc5"
+  },
+  "es": {
+    "word": "pregunta",
+    "definition": "Hace preguntas o busca información; tercera persona del singular del presente de 'preguntar'."
+  },
+  "pt": {
+    "word": "pergunta",
+    "definition": "Faz perguntas ou busca informação; terceira pessoa do singular do presente de 'perguntar'."
+  },
+  "word": "enquires",
+  "ipa": "/ɪnˈkwaɪərz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "6591801ed3b0b99bb0a4fdc6"
+      }
+    }
+  ],
+  "definition": "Asks questions or seeks information; third person singular present of 'enquire'.",
+  "examples": [
+    "He often enquires about your wellbeing.",
+    "The teacher enquires if everyone understands the topic.",
+    "She always enquires about the prices before buying.",
+    "The detective enquires into the details of the case.",
+    "Management enquires about employee satisfaction regularly."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-12-31T14:52:14.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T14:52:14.994Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6591801ed3b0b99bb0a4fdc7"
+  },
+  "es": {
+    "word": "preguntando",
+    "definition": "Estar en el proceso de hacer preguntas o buscar información."
+  },
+  "pt": {
+    "word": "perguntando",
+    "definition": "Estar no processo de fazer perguntas ou buscar informação."
+  },
+  "word": "enquiring",
+  "ipa": "/ɪnˈkwaɪərɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "6591801ed3b0b99bb0a4fdc8"
+      }
+    }
+  ],
+  "definition": "In the process of asking questions or seeking information.",
+  "examples": [
+    "They were enquiring about the train schedule.",
+    "She spent the morning enquiring into different courses.",
+    "While enquiring about the job, he learned about the company.",
+    "They are enquiring about various investment options.",
+    "He was enquiring about the health of his colleague."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-12-31T14:52:14.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T14:52:14.994Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6591801ed3b0b99bb0a4fdc9"
+  },
+  "es": {
+    "word": "preguntó",
+    "definition": "Haber hecho una pregunta o buscado información; pasado de 'preguntar'."
+  },
+  "pt": {
+    "word": "perguntou",
+    "definition": "Ter feito uma pergunta ou buscado informação; passado de 'perguntar'."
+  },
+  "word": "enquired",
+  "ipa": "/ɪnˈkwaɪərd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "6591801ed3b0b99bb0a4fdca"
+      }
+    }
+  ],
+  "definition": "To have asked a question or sought information; past tense of 'enquire'.",
+  "examples": [
+    "She enquired about the departure time yesterday.",
+    "He enquired about the condition of the antique.",
+    "They enquired about hotel reservations last week.",
+    "The student enquired about the course requirements.",
+    "I enquired about your health last time we met."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-12-31T14:52:14.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T14:52:14.994Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50279"
+  },
+  "es": {
+    "word": "buscado",
+    "definition": "Haber buscado o intentado obtener algo; pasado de 'buscar'."
+  },
+  "pt": {
+    "word": "procurado",
+    "definition": "Ter procurado ou tentado obter algo; passado de 'procurar'."
+  },
+  "word": "sought",
+  "ipa": "/sɔːt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5027a"
+      }
+    }
+  ],
+  "definition": "To have searched for or tried to obtain something; past tense of 'seek'.",
+  "examples": [
+    "He sought advice from his mentor.",
+    "She has always sought perfection in her work.",
+    "They sought shelter from the storm.",
+    "Sought-after talents are valuable in the job market.",
+    "The lost dog was eagerly sought by its owners."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.272Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.272Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5027f"
+  },
+  "es": {
+    "word": "anual",
+    "definition": "Relacionado con o que ocurre cada año."
+  },
+  "pt": {
+    "word": "anual",
+    "definition": "Relacionado a ou que ocorre a cada ano."
+  },
+  "word": "yearly",
+  "ipa": "/ˈjɪərli/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50280"
+      }
+    },
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50281"
+      }
+    }
+  ],
+  "definition": "Related to or occurring every year.",
+  "examples": [
+    "The company holds a yearly conference.",
+    "She conducts a yearly review of her finances.",
+    "Yearly check-ups are important for health.",
+    "The garden requires yearly maintenance.",
+    "They celebrate their friendship with a yearly trip."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50284"
+  },
+  "es": {
+    "word": "suyos",
+    "definition": "Perteneciente o relacionado con ellos; forma posesiva plural de 'su'."
+  },
+  "pt": {
+    "word": "deles",
+    "definition": "Pertencente ou relacionado a eles; forma possessiva plural de 'seu'."
+  },
+  "word": "theirs",
+  "ipa": "/ðɛərz/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50285"
+      }
+    }
+  ],
+  "definition": "Belonging to or associated with them; possessive plural form of 'their'.",
+  "examples": [
+    "The red car is theirs.",
+    "The decision was theirs to make.",
+    "Theirs was the larger portion.",
+    "The house at the corner is theirs.",
+    "The responsibility is theirs alone."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50286"
+  },
+  "es": {
+    "word": "dejar",
+    "definition": "Cesar o detener una actividad o costumbre."
+  },
+  "pt": {
+    "word": "desistir",
+    "definition": "Cessar ou parar uma atividade ou costume."
+  },
+  "word": "quit",
+  "ipa": "/kwɪt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50287"
+      }
+    }
+  ],
+  "definition": "To stop or cease an activity or habit.",
+  "examples": [
+    "He decided to quit smoking.",
+    "She quit her job last month.",
+    "It's important to never quit trying.",
+    "They had to quit the game due to rain.",
+    "He quit the band to pursue a solo career."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50288"
+  },
+  "es": {
+    "word": "abandonar",
+    "definition": "Cesar o detener una actividad o costumbre; forma plural de 'dejar'."
+  },
+  "pt": {
+    "word": "abandonar",
+    "definition": "Cessar ou parar uma atividade ou costume; forma plural de 'desistir'."
+  },
+  "word": "quits",
+  "ipa": "/kwɪts/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50289"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5028a"
+      }
+    }
+  ],
+  "definition": "Cease or stop an activity or habit; plural form of 'quit'.",
+  "examples": [
+    "They called it quits after five years of partnership.",
+    "The team quits the competition.",
+    "He quits his attempts after several failures.",
+    "They've quits the deal.",
+    "Let's quits before it gets too late."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5028b"
+  },
+  "es": {
+    "word": "a sí mismos",
+    "definition": "Forma incorrecta de referirse a 'themselves', que significa 'a ellos mismos'."
+  },
+  "pt": {
+    "word": "a si mesmos",
+    "definition": "Forma incorreta de referir-se a 'themselves', que significa 'a eles mesmos'."
+  },
+  "word": "theirselves",
+  "ipa": "/ðɛərˈsɛlvz/",
+  "type_word": [
+    {
+      "name": "Pronoun",
+      "sigle": "pron.",
+      "description": "Words used in place of a noun.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5028c"
+      }
+    }
+  ],
+  "definition": "Incorrect form for 'themselves', which means 'to or for themselves'.",
+  "examples": [
+    "They should take care of theirselves. (Incorrect, should be 'themselves')",
+    "The kids made the sandwiches all by theirselves. (Incorrect, should be 'themselves')",
+    "They have to learn to trust in theirselves. (Incorrect, should be 'themselves')",
+    "The players celebrated the victory among theirselves. (Incorrect, should be 'themselves')",
+    "They solved the puzzle by theirselves. (Incorrect, should be 'themselves')"
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5028d"
+  },
+  "es": {
+    "word": "dejando",
+    "definition": "Estar en el proceso de cesar o detener una actividad o costumbre."
+  },
+  "pt": {
+    "word": "deixando",
+    "definition": "Estar no processo de cessar ou parar uma atividade ou costume."
+  },
+  "word": "quitting",
+  "ipa": "/ˈkwɪtɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5028e"
+      }
+    }
+  ],
+  "definition": "In the process of stopping or ceasing an activity or habit.",
+  "examples": [
+    "She is quitting her job next month.",
+    "He's thinking about quitting smoking.",
+    "They are quitting the competition due to lack of funds.",
+    "I'm quitting my piano lessons to focus on guitar.",
+    "They're quitting the project to pursue other interests."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5028f"
+  },
+  "es": {
+    "word": "dejó",
+    "definition": "Haber cesado o detenido una actividad o costumbre; pasado de 'dejar'."
+  },
+  "pt": {
+    "word": "deixou",
+    "definition": "Ter cessado ou parado uma atividade ou costume; passado de 'deixar'."
+  },
+  "word": "quitted",
+  "ipa": "/ˈkwɪtɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50290"
+      }
+    }
+  ],
+  "definition": "To have stopped or ceased an activity or habit; past tense of 'quit'.",
+  "examples": [
+    "He quitted the job due to personal reasons.",
+    "She quitted the course halfway through.",
+    "They quitted their band to start new projects.",
+    "He quitted the race after the injury.",
+    "She had quitted smoking last year."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50291"
+  },
+  "es": {
+    "word": "abandonador",
+    "definition": "Una persona que habitualmente deja o abandona algo."
+  },
+  "pt": {
+    "word": "desistente",
+    "definition": "Uma pessoa que habitualmente deixa ou abandona algo."
+  },
+  "word": "quitter",
+  "ipa": "/ˈkwɪtər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50292"
+      }
+    }
+  ],
+  "definition": "A person who habitually quits or gives up easily.",
+  "examples": [
+    "He is not a quitter, he always finishes what he starts.",
+    "Being a quitter can affect one's professional reputation.",
+    "She's no quitter, she'll keep trying until she succeeds.",
+    "They called him a quitter for leaving the team.",
+    "She proved she wasn't a quitter by completing the marathon."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50293"
+  },
+  "es": {
+    "word": "abandonadores",
+    "definition": "Personas que habitualmente dejan o abandonan algo."
+  },
+  "pt": {
+    "word": "desistentes",
+    "definition": "Pessoas que habitualmente deixam ou abandonam algo."
+  },
+  "word": "quitters",
+  "ipa": "/ˈkwɪtərz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50294"
+      }
+    }
+  ],
+  "definition": "People who habitually quit or give up easily.",
+  "examples": [
+    "Quitters never win and winners never quit.",
+    "The coach doesn't want quitters on the team.",
+    "They are not quitters, they face challenges head-on.",
+    "The group consisted of determined individuals, not quitters.",
+    "Quitters often regret not seeing things through."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50295"
+  },
+  "es": {
+    "word": "rencor",
+    "definition": "Sentimiento de resentimiento o mala voluntad hacia alguien debido a un agravio o daño pasado."
+  },
+  "pt": {
+    "word": "rancor",
+    "definition": "Sentimento de ressentimento ou má vontade em relação a alguém devido a uma afronta ou dano passado."
+  },
+  "word": "spite",
+  "ipa": "/spaɪt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50296"
+      }
+    }
+  ],
+  "definition": "A feeling of ill will or resentment towards someone due to a past injury or wrong.",
+  "examples": [
+    "He acted out of spite, not because he cared.",
+    "She held a grudge against him in spite of his apologies.",
+    "They built the fence out of spite to block the view.",
+    "He made the comment just to spite her.",
+    "In spite of their differences, they remained friends."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50297"
+  },
+  "es": {
+    "word": "rencorosos",
+    "definition": "Plural de rencoroso; personas o acciones que muestran rencor o mala voluntad."
+  },
+  "pt": {
+    "word": "rancorosos",
+    "definition": "Plural de rancoroso; pessoas ou ações que mostram rancor ou má vontade."
+  },
+  "word": "spites",
+  "ipa": "/spaɪts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50298"
+      }
+    }
+  ],
+  "definition": "Plural of spite; people or actions showing ill will or resentment.",
+  "examples": [
+    "His actions were full of spites.",
+    "The novel depicted the spites between the rival families.",
+    "Their words were bitter, filled with spites.",
+    "The spites of the past were hard to forget.",
+    "The story tells of the spites and grudges held by the characters."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50299"
+  },
+  "es": {
+    "word": "actuando con rencor",
+    "definition": "Estar en el proceso de mostrar rencor o mala voluntad hacia alguien."
+  },
+  "pt": {
+    "word": "agindo com rancor",
+    "definition": "Estar no processo de mostrar rancor ou má vontade em relação a alguém."
+  },
+  "word": "spiting",
+  "ipa": "/ˈspaɪtɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5029a"
+      }
+    }
+  ],
+  "definition": "In the process of showing ill will or resentment towards someone.",
+  "examples": [
+    "He was spiting his neighbor by playing loud music.",
+    "She kept spiting her ex with her comments.",
+    "They were spiting each other with their actions.",
+    "He was spiting his rival by winning the competition.",
+    "She's spiting her colleague by spreading rumors."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5029b"
+  },
+  "es": {
+    "word": "actuado con rencor",
+    "definition": "Haber mostrado rencor o mala voluntad hacia alguien; pasado de 'actuar con rencor'."
+  },
+  "pt": {
+    "word": "agido com rancor",
+    "definition": "Ter mostrado rancor ou má vontade em relação a alguém; passado de 'agir com rancor'."
+  },
+  "word": "spited",
+  "ipa": "/ˈspaɪtɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5029c"
+      }
+    }
+  ],
+  "definition": "To have shown ill will or resentment towards someone; past tense of 'spite'.",
+  "examples": [
+    "She felt spited by his abrupt departure.",
+    "He was spited by the unfair criticism.",
+    "They felt spited by the decision.",
+    "She had spited her friend in the argument.",
+    "The community felt spited by the closure of the local park."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5029d"
+  },
+  "es": {
+    "word": "religioso",
+    "definition": "Relacionado con la religión o la práctica religiosa."
+  },
+  "pt": {
+    "word": "religioso",
+    "definition": "Relacionado à religião ou à prática religiosa."
+  },
+  "word": "religious",
+  "ipa": "/rɪˈlɪdʒəs/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5029e"
+      }
+    }
+  ],
+  "definition": "Related to religion or religious practice.",
+  "examples": [
+    "The church is a place of religious worship.",
+    "She holds strong religious beliefs.",
+    "They attended a religious school.",
+    "The festival has religious significance.",
+    "He is not very religious but respects all faiths."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5029f"
+  },
+  "es": {
+    "word": "religiosamente",
+    "definition": "De manera relacionada con la religión o con devoción y seriedad."
+  },
+  "pt": {
+    "word": "religiosamente",
+    "definition": "De maneira relacionada à religião ou com devoção e seriedade."
+  },
+  "word": "religiously",
+  "ipa": "/rɪˈlɪdʒəsli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502a0"
+      }
+    }
+  ],
+  "definition": "In a manner relating to religion or with devotion and seriousness.",
+  "examples": [
+    "He follows his team's games religiously.",
+    "She practices her piano skills religiously.",
+    "They attend church religiously every Sunday.",
+    "He reads the news religiously every morning.",
+    "She follows her routine religiously."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502a1"
+  },
+  "es": {
+    "word": "paz",
+    "definition": "La ausencia de disturbios, guerra o conflicto; tranquilidad y calma."
+  },
+  "pt": {
+    "word": "paz",
+    "definition": "A ausência de distúrbios, guerra ou conflito; tranquilidade e calma."
+  },
+  "word": "peace",
+  "ipa": "/piːs/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502a2"
+      }
+    }
+  ],
+  "definition": "The absence of disturbance, war, or conflict; tranquility and calm.",
+  "examples": [
+    "The treaty brought peace to the region.",
+    "She found peace in the quiet countryside.",
+    "They worked together for world peace.",
+    "He enjoyed the peace of the early morning.",
+    "The agreement restored peace between the neighbors."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502a3"
+  },
+  "es": {
+    "word": "pazes",
+    "definition": "Forma plural incorrecta de 'paz'; 'paz' no tiene un plural habitual en su uso."
+  },
+  "pt": {
+    "word": "pazes",
+    "definition": "Forma plural incorreta de 'paz'; 'paz' não tem um plural habitual no seu uso."
+  },
+  "word": "peaces",
+  "ipa": "/piːsɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502a4"
+      }
+    }
+  ],
+  "definition": "Incorrect plural form of 'peace'; 'peace' does not have a usual plural form in its usage.",
+  "examples": [
+    "The treaty brought peaces to the regions. (Incorrect, should be 'peace')",
+    "She seeks peaces in various aspects of life. (Incorrect, should be 'peace')",
+    "The nations worked for peaces. (Incorrect, should be 'peace')",
+    "Finding peaces in different cultures is enriching. (Incorrect, should be 'peace')",
+    "They discussed the different peaces achieved in history. (Incorrect, should be 'peace')"
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502a5"
+  },
+  "es": {
+    "word": "haciendo la paz",
+    "definition": "Forma incorrecta de referirse al acto de crear o restaurar la paz."
+  },
+  "pt": {
+    "word": "fazendo a paz",
+    "definition": "Forma incorreta de referir-se ao ato de criar ou restaurar a paz."
+  },
+  "word": "peacing",
+  "ipa": "/ˈpiːsɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502a6"
+      }
+    }
+  ],
+  "definition": "Incorrect form referring to the act of making or restoring peace.",
+  "examples": [
+    "They are peacing the conflicting parties. (Incorrect, should be 'making peace')",
+    "He is peacing with his past. (Incorrect, should be 'finding peace')",
+    "She has been peacing her inner turmoil. (Incorrect, should be 'finding peace')",
+    "The nations are peacing their disputes. (Incorrect, should be 'resolving')",
+    "They're peacing the situation in the community. (Incorrect, should be 'bringing peace')"
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502a7"
+  },
+  "es": {
+    "word": "hizo la paz",
+    "definition": "Forma incorrecta de referirse al acto de haber creado o restaurado la paz."
+  },
+  "pt": {
+    "word": "fez a paz",
+    "definition": "Forma incorreta de referir-se ao ato de ter criado ou restaurado a paz."
+  },
+  "word": "peaced",
+  "ipa": "/piːst/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502a8"
+      }
+    }
+  ],
+  "definition": "Incorrect form referring to the act of having made or restored peace.",
+  "examples": [
+    "They peaced their differences. (Incorrect, should be 'made peace')",
+    "He finally peaced with his brother. (Incorrect, should be 'made peace')",
+    "She peaced the conflict within herself. (Incorrect, should be 'found peace')",
+    "The leaders peaced the territorial dispute. (Incorrect, should be 'resolved')",
+    "He peaced the argument before it escalated. (Incorrect, should be 'resolved')"
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502a9"
+  },
+  "es": {
+    "word": "resolver",
+    "definition": "Encontrar una solución a un problema o dificultad."
+  },
+  "pt": {
+    "word": "resolver",
+    "definition": "Encontrar uma solução para um problema ou dificuldade."
+  },
+  "word": "solve",
+  "ipa": "/sɒlv/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502aa"
+      }
+    }
+  ],
+  "definition": "To find an answer or solution to a problem or difficulty.",
+  "examples": [
+    "She can solve complex puzzles quickly.",
+    "The detective hopes to solve the case.",
+    "They worked together to solve the issue.",
+    "He used a formula to solve the equation.",
+    "The team is trying to solve the budget shortfall."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502ab"
+  },
+  "es": {
+    "word": "resuelve",
+    "definition": "Encuentra una solución; tercera persona del singular del presente de 'resolver'."
+  },
+  "pt": {
+    "word": "resolve",
+    "definition": "Encontra uma solução; terceira pessoa do singular do presente de 'resolver'."
+  },
+  "word": "solves",
+  "ipa": "/sɒlvz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502ac"
+      }
+    }
+  ],
+  "definition": "Finds a solution; third person singular present of 'solve'.",
+  "examples": [
+    "She solves the problem with ease.",
+    "The algorithm solves complex equations.",
+    "He always solves these types of puzzles.",
+    "The system solves logistical issues efficiently.",
+    "This approach solves the conflict between departments."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502ad"
+  },
+  "es": {
+    "word": "resolviendo",
+    "definition": "Estar en el proceso de encontrar una solución."
+  },
+  "pt": {
+    "word": "resolvendo",
+    "definition": "Estar no processo de encontrar uma solução."
+  },
+  "word": "solving",
+  "ipa": "/ˈsɒlvɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502ae"
+      }
+    }
+  ],
+  "definition": "In the process of finding a solution.",
+  "examples": [
+    "They are solving the mystery together.",
+    "She is solving the technical issues.",
+    "The team is solving the challenge as we speak.",
+    "He's solving a difficult mathematical problem.",
+    "They're solving the logistical problems of the event."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502af"
+  },
+  "es": {
+    "word": "resuelto",
+    "definition": "Haber encontrado una solución; pasado de 'resolver'."
+  },
+  "pt": {
+    "word": "resolvido",
+    "definition": "Ter encontrado uma solução; passado de 'resolver'."
+  },
+  "word": "solved",
+  "ipa": "/sɒlvd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502b0"
+      }
+    }
+  ],
+  "definition": "To have found a solution; past tense of 'solve'.",
+  "examples": [
+    "The puzzle was finally solved.",
+    "The crime has been solved after many years.",
+    "The issue was solved with innovative thinking.",
+    "They solved the mystery of the missing artifact.",
+    "He solved the math problem correctly."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502b1"
+  },
+  "es": {
+    "word": "brillante",
+    "definition": "Reflejando la luz, típicamente porque está pulido o limpio; con brillo."
+  },
+  "pt": {
+    "word": "brilhante",
+    "definition": "Refletindo luz, tipicamente porque está polido ou limpo; com brilho."
+  },
+  "word": "shiny",
+  "ipa": "/ˈʃaɪni/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502b2"
+      }
+    }
+  ],
+  "definition": "Reflecting light, typically because it's polished or clean; glossy.",
+  "examples": [
+    "The car's shiny surface gleamed in the sun.",
+    "She wore a shiny new bracelet.",
+    "The floor was shiny after being waxed.",
+    "His eyes were shiny with excitement.",
+    "The apples had a shiny, red skin."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502b3"
+  },
+  "es": {
+    "word": "más brillante",
+    "definition": "Comparativo de brillante; con mayor brillo o reflejo de luz."
+  },
+  "pt": {
+    "word": "mais brilhante",
+    "definition": "Comparativo de brilhante; com maior brilho ou reflexo de luz."
+  },
+  "word": "shinier",
+  "ipa": "/ˈʃaɪniər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502b4"
+      }
+    }
+  ],
+  "definition": "Comparative of shiny; with more gloss or light reflection.",
+  "examples": [
+    "Her hair looked shinier than ever.",
+    "The shinier car caught everyone's attention.",
+    "After polishing, the silverware was much shinier.",
+    "He chose the shinier of the two stones.",
+    "The shinier finish made the jewelry stand out."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502b5"
+  },
+  "es": {
+    "word": "el más brillante",
+    "definition": "Superlativo de brillante; con el mayor brillo o reflejo de luz posible."
+  },
+  "pt": {
+    "word": "o mais brilhante",
+    "definition": "Superlativo de brilhante; com o maior brilho ou reflexo de luz possível."
+  },
+  "word": "shiniest",
+  "ipa": "/ˈʃaɪniɪst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502b6"
+      }
+    }
+  ],
+  "definition": "Superlative of shiny; with the greatest gloss or light reflection.",
+  "examples": [
+    "She had the shiniest shoes in the room.",
+    "The trophy was the shiniest of all the awards.",
+    "His car was the shiniest on the block.",
+    "The shiniest star in the sky caught her eye.",
+    "Out of all the gems, the diamond was the shiniest."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502b7"
+  },
+  "es": {
+    "word": "brillantemente",
+    "definition": "De una manera brillante; con brillo o luminosidad."
+  },
+  "pt": {
+    "word": "brilhantemente",
+    "definition": "De uma maneira brilhante; com brilho ou luminosidade."
+  },
+  "word": "shinily",
+  "ipa": "/ˈʃaɪnɪli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502b8"
+      }
+    }
+  ],
+  "definition": "In a shiny manner; with brightness or luster.",
+  "examples": [
+    "The floor was shinily polished.",
+    "Her eyes sparkled shinily under the lights.",
+    "The decoration was shinily gleaming in the sun.",
+    "The metal surface was shinily reflecting the light.",
+    "The stars shone shinily in the night sky."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502b9"
+  },
+  "es": {
+    "word": "estaño",
+    "definition": "Un elemento metálico, típicamente utilizado para recubrir o fabricar objetos."
+  },
+  "pt": {
+    "word": "estanho",
+    "definition": "Um elemento metálico, tipicamente utilizado para revestir ou fabricar objetos."
+  },
+  "word": "tin",
+  "ipa": "/tɪn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502ba"
+      }
+    }
+  ],
+  "definition": "A metallic element, typically used for coating or making objects.",
+  "examples": [
+    "The cookies were stored in a tin box.",
+    "Tin foil is often used in cooking.",
+    "She collected vintage tin toys.",
+    "Tin is used in soldering materials.",
+    "He found an old tin can in the garage."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502bb"
+  },
+  "es": {
+    "word": "latas",
+    "definition": "Plural de lata; varios objetos o recipientes hechos de estaño."
+  },
+  "pt": {
+    "word": "latas",
+    "definition": "Plural de lata; vários objetos ou recipientes feitos de estanho."
+  },
+  "word": "tins",
+  "ipa": "/tɪnz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502bc"
+      }
+    }
+  ],
+  "definition": "Plural of tin; multiple objects or containers made of tin.",
+  "examples": [
+    "She collected tins of different shapes and sizes.",
+    "The pantry was filled with tins of food.",
+    "He used paint tins for his art project.",
+    "The tins were lined up on the shelf.",
+    "They donated tins of food to the charity."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502bd"
+  },
+  "es": {
+    "word": "estañando",
+    "definition": "Estar en el proceso de aplicar estaño a un metal."
+  },
+  "pt": {
+    "word": "estanhando",
+    "definition": "Estar no processo de aplicar estanho a um metal."
+  },
+  "word": "tinning",
+  "ipa": "/ˈtɪnɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502be"
+      }
+    }
+  ],
+  "definition": "In the process of applying tin to a metal.",
+  "examples": [
+    "He's tinning the copper wire for electrical work.",
+    "The process of tinning is essential in soldering.",
+    "Tinning is used to protect the metal from corrosion.",
+    "They are tinning the sheets for the roofing.",
+    "The workshop specializes in tinning antique cookware."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502bf"
+  },
+  "es": {
+    "word": "estañado",
+    "definition": "Haber aplicado estaño a un metal; pasado de 'estañar'."
+  },
+  "pt": {
+    "word": "estanhado",
+    "definition": "Ter aplicado estanho a um metal; passado de 'estanhar'."
+  },
+  "word": "tinned",
+  "ipa": "/tɪnd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502c0"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502c1"
+      }
+    }
+  ],
+  "definition": "To have applied tin to a metal; past tense of 'tin'.",
+  "examples": [
+    "The tinned copper is resistant to oxidation.",
+    "She used tinned food for the recipe.",
+    "Tinned wires are commonly used in electronics.",
+    "The tinned roof was shiny under the sun.",
+    "He preferred tinned fruits for their convenience."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502c2"
+  },
+  "es": {
+    "word": "papel aluminio",
+    "definition": "Un papel delgado hecho de aluminio, utilizado para envolver alimentos o para otros usos domésticos."
+  },
+  "pt": {
+    "word": "papel alumínio",
+    "definition": "Um papel fino feito de alumínio, utilizado para embrulhar alimentos ou para outros usos domésticos."
+  },
+  "word": "foil",
+  "ipa": "/fɔɪl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502c3"
+      }
+    }
+  ],
+  "definition": "A thin sheet of aluminum used for wrapping food or for other household uses.",
+  "examples": [
+    "She wrapped the leftovers in foil.",
+    "Foil is useful for baking and grilling.",
+    "He used foil to cover the dish.",
+    "Foil can be recycled if it's clean.",
+    "The artist used foil in her mixed media project."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502c4"
+  },
+  "es": {
+    "word": "papeles aluminio",
+    "definition": "Plural de papel aluminio; varios papeles delgados hechos de aluminio."
+  },
+  "pt": {
+    "word": "papéis alumínio",
+    "definition": "Plural de papel alumínio; vários papéis finos feitos de alumínio."
+  },
+  "word": "foils",
+  "ipa": "/fɔɪlz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502c5"
+      }
+    }
+  ],
+  "definition": "Plural of foil; multiple thin sheets of aluminum.",
+  "examples": [
+    "She bought several rolls of foils for the kitchen.",
+    "The artist experimented with different colored foils.",
+    "They used various foils in the science experiment.",
+    "Different types of foils are available for cooking.",
+    "The crafts class used foils for decorative purposes."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502c6"
+  },
+  "es": {
+    "word": "frustrando",
+    "definition": "Estar en el proceso de prevenir o detener el éxito de algo o alguien."
+  },
+  "pt": {
+    "word": "frustrando",
+    "definition": "Estar no processo de prevenir ou impedir o sucesso de algo ou alguém."
+  },
+  "word": "foiling",
+  "ipa": "/ˈfɔɪlɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502c7"
+      }
+    }
+  ],
+  "definition": "In the process of preventing or stopping the success of something or someone.",
+  "examples": [
+    "The detectives are foiling the criminal's plans.",
+    "She's foiling his attempts to cheat in the game.",
+    "They are foiling the enemy's advances.",
+    "The new security system is foiling theft attempts.",
+    "He is foiling their efforts to spread misinformation."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502c8"
+  },
+  "es": {
+    "word": "frustrado",
+    "definition": "Haber prevenido o detenido el éxito de algo o alguien; pasado de 'frustrar'."
+  },
+  "pt": {
+    "word": "frustrado",
+    "definition": "Ter prevenido ou impedido o sucesso de algo ou alguém; passado de 'frustrar'."
+  },
+  "word": "foiled",
+  "ipa": "/fɔɪld/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502c9"
+      }
+    }
+  ],
+  "definition": "To have prevented or stopped the success of something or someone; past tense of 'foil'.",
+  "examples": [
+    "The hero foiled the villain's plot.",
+    "Her quick thinking foiled the robbery.",
+    "The surprise attack was foiled by the scouts.",
+    "Their plan was foiled at the last moment.",
+    "The police foiled the bank heist."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502ca"
+  },
+  "es": {
+    "word": "límite",
+    "definition": "Algo que está cerca de un límite o umbral, especialmente en términos de aceptabilidad o clasificación."
+  },
+  "pt": {
+    "word": "limite",
+    "definition": "Algo que está perto de um limite ou limiar, especialmente em termos de aceitabilidade ou classificação."
+  },
+  "word": "borderline",
+  "ipa": "/ˈbɔːrdərlaɪn/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502cb"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502cc"
+      }
+    }
+  ],
+  "definition": "Something that is near a boundary or threshold, especially in terms of acceptability or classification.",
+  "examples": [
+    "His behavior was borderline unacceptable.",
+    "The movie is a borderline comedy/drama.",
+    "She was diagnosed with a borderline personality disorder.",
+    "The results were borderline, requiring further tests.",
+    "It's a borderline case between genius and madness."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502cd"
+  },
+  "es": {
+    "word": "desdén",
+    "definition": "Sentimiento de desprecio o falta de respeto hacia alguien o algo considerado inferior."
+  },
+  "pt": {
+    "word": "desdém",
+    "definition": "Sentimento de desprezo ou falta de respeito por alguém ou algo considerado inferior."
+  },
+  "word": "disdain",
+  "ipa": "/dɪsˈdeɪn/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502ce"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502cf"
+      }
+    }
+  ],
+  "definition": "A feeling of contempt or lack of respect towards someone or something considered inferior.",
+  "examples": [
+    "She looked at the mess with disdain.",
+    "He expressed disdain for the new policies.",
+    "Her disdain for the project was evident.",
+    "They regarded his ideas with disdain.",
+    "He holds a certain disdain for social media."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502d0"
+  },
+  "es": {
+    "word": "desprecia",
+    "definition": "Mostrar desdén; tercera persona del singular del presente de 'despreciar'."
+  },
+  "pt": {
+    "word": "despreza",
+    "definition": "Mostrar desdém; terceira pessoa do singular do presente de 'desprezar'."
+  },
+  "word": "disdains",
+  "ipa": "/dɪsˈdeɪnz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502d1"
+      }
+    }
+  ],
+  "definition": "Shows contempt; third person singular present of 'disdain'.",
+  "examples": [
+    "She disdains anyone who disagrees with her.",
+    "He disdains the idea of working late.",
+    "The critic disdains most modern art.",
+    "She disdains to engage in gossip.",
+    "The chef disdains using frozen ingredients."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502d2"
+  },
+  "es": {
+    "word": "despreciando",
+    "definition": "Estar en el proceso de mostrar desdén o desprecio."
+  },
+  "pt": {
+    "word": "desprezando",
+    "definition": "Estar no processo de mostrar desdém ou desprezo."
+  },
+  "word": "disdaining",
+  "ipa": "/dɪsˈdeɪnɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502d3"
+      }
+    }
+  ],
+  "definition": "In the process of showing disdain or contempt.",
+  "examples": [
+    "He was disdaining the offer as beneath him.",
+    "She spent the evening disdaining the party's frivolity.",
+    "They were disdaining the very idea of compromise.",
+    "The professor was disdaining the student's question.",
+    "She's disdaining the new celabration"
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502d4"
+  },
+  "es": {
+    "word": "despreciado",
+    "definition": "Mostrado desdén o desprecio; pasado de 'despreciar'."
+  },
+  "pt": {
+    "word": "desprezado",
+    "definition": "Mostrado desdém ou desprezo; passado de 'desprezar'."
+  },
+  "word": "disdained",
+  "ipa": "/dɪsˈdeɪnd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502d5"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502d6"
+      }
+    }
+  ],
+  "definition": "Showed disdain or contempt; past tense of 'disdain'.",
+  "examples": [
+    "He disdained the offer with a sneer.",
+    "She had disdained his advances for years.",
+    "Their disdained opinions were well-known.",
+    "He was often disdained for his unconventional ideas.",
+    "The disdained artwork found a new audience."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502d7"
+  },
+  "es": {
+    "word": "desprecio",
+    "definition": "Sentimiento de desdén o falta de respeto hacia alguien o algo considerado inferior."
+  },
+  "pt": {
+    "word": "desprezo",
+    "definition": "Sentimento de desprezo ou falta de respeito por alguém ou algo considerado inferior."
+  },
+  "word": "contempt",
+  "ipa": "/kənˈtɛmpt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502d8"
+      }
+    }
+  ],
+  "definition": "A feeling of disdain or lack of respect towards someone or something considered inferior.",
+  "examples": [
+    "His contempt for authority was evident.",
+    "She regarded the decision with contempt.",
+    "They expressed their contempt for the new policy.",
+    "Contempt for the competitor's product was clear.",
+    "He couldn't hide his contempt for mediocrity."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502d9"
+  },
+  "es": {
+    "word": "desprecios",
+    "definition": "Sentimientos de desdén o falta de respeto hacia alguien o algo considerado inferior; plural de 'desprecio'."
+  },
+  "pt": {
+    "word": "desprezos",
+    "definition": "Sentimentos de desprezo ou falta de respeito por alguém ou algo considerado inferior; plural de 'desprezo'."
+  },
+  "word": "contempts",
+  "ipa": "/kənˈtɛmpts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502da"
+      }
+    }
+  ],
+  "definition": "Feelings of disdain or lack of respect towards someone or something considered inferior; plural of 'contempt'.",
+  "examples": [
+    "Their contempts for each other were well-known.",
+    "The contempts for the outdated technology were justified.",
+    "She couldn't hide her contempts for mediocrity.",
+    "The contempts between the rival factions grew stronger.",
+    "Their contempts for the project's leader were evident."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502db"
+  },
+  "es": {
+    "word": "falso",
+    "definition": "Algo que no es genuino o auténtico; una imitación o engaño."
+  },
+  "pt": {
+    "word": "falso",
+    "definition": "Algo que não é genuíno ou autêntico; uma imitação ou engano."
+  },
+  "word": "sham",
+  "ipa": "/ʃæm/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502dc"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502dd"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502de"
+      }
+    }
+  ],
+  "definition": "Something that is not genuine or authentic; an imitation or deception.",
+  "examples": [
+    "The antique turned out to be a sham.",
+    "She saw through his sham smile.",
+    "The sham of a product was exposed in reviews.",
+    "His apologies were nothing but shams.",
+    "The sham wedding was part of a movie."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502df"
+  },
+  "es": {
+    "word": "falsos",
+    "definition": "Cosas que no son genuinas o auténticas; plural de 'falso'."
+  },
+  "pt": {
+    "word": "falsos",
+    "definition": "Coisas que não são genuínas ou autênticas; plural de 'falso'."
+  },
+  "word": "shams",
+  "ipa": "/ʃæmz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502e0"
+      }
+    }
+  ],
+  "definition": "Things that are not genuine or authentic; plural of 'sham'.",
+  "examples": [
+    "She exposed the shams in the industry.",
+    "Their shams were revealed through investigation.",
+    "He collected various shams over the years.",
+    "The market was flooded with shams.",
+    "The shams of the art world were evident."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502e1"
+  },
+  "es": {
+    "word": "simulación",
+    "definition": "El acto de fingir o pretender algo que no es real; engañar a otros al hacerlo."
+  },
+  "pt": {
+    "word": "simulação",
+    "definition": "O ato de fingir ou pretender algo que não é real; enganar os outros ao fazê-lo."
+  },
+  "word": "shamming",
+  "ipa": "/ˈʃæmɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502e2"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502e3"
+      }
+    }
+  ],
+  "definition": "The act of pretending or feigning something that is not real; deceiving others by doing so.",
+  "examples": [
+    "His shamming of illness was exposed.",
+    "She accused him of shamming incompetence.",
+    "The shamming of emotions was evident.",
+    "They were tired of his constant shamming.",
+    "Shamming sincerity won't get you far."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502e4"
+  },
+  "es": {
+    "word": "fingido",
+    "definition": "Que finge o simula; actuando de manera falsa o hipócrita."
+  },
+  "pt": {
+    "word": "fingido",
+    "definition": "Que finge ou simula; agindo de maneira falsa ou hipócrita."
+  },
+  "word": "shammed",
+  "ipa": "/ʃæmd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502e5"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502e6"
+      }
+    }
+  ],
+  "definition": "Pretended or simulated; acting in a false or hypocritical manner.",
+  "examples": [
+    "His shammed enthusiasm was unconvincing.",
+    "She gave a shammed smile to hide her true feelings.",
+    "The shammed sorrow was evident in his eyes.",
+    "They shammed ignorance to avoid responsibility.",
+    "His shammed interest in the topic was transparent."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502e7"
+  },
+  "es": {
+    "word": "gruñón",
+    "definition": "De mal humor o propenso a enfadarse fácilmente; que muestra irritabilidad."
+  },
+  "pt": {
+    "word": "rabugento",
+    "definition": "De mau humor ou propenso a ficar zangado facilmente; que mostra irritabilidade."
+  },
+  "word": "grumpy",
+  "ipa": "/ˈɡrʌmpi/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502e8"
+      }
+    }
+  ],
+  "definition": "Irritable or prone to easily becoming angry; displaying irritability.",
+  "examples": [
+    "He's always grumpy in the morning.",
+    "She becomes grumpy when she's tired.",
+    "The grumpy customer complained about the service.",
+    "Don't be so grumpy; it's just a joke.",
+    "His grumpy demeanor scared off visitors."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502e9"
+  },
+  "es": {
+    "word": "rabugiento",
+    "definition": "Más mal humorado o propenso a enfadarse fácilmente que otros; superlativo de 'rabugiento'."
+  },
+  "pt": {
+    "word": "rabugento",
+    "definition": "Mais mal humorado ou propenso a ficar zangado facilmente do que outros; superlativo de 'rabugento'."
+  },
+  "word": "grumpier",
+  "ipa": "/ˈɡrʌmpiər/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502ea"
+      }
+    }
+  ],
+  "definition": "More irritable or prone to easily becoming angry than others; superlative of 'grumpy'.",
+  "examples": [
+    "He's the grumpier of the two brothers.",
+    "She becomes even grumpier when she's hungry.",
+    "The grumpier customers often complain.",
+    "The weather makes people grumpier here.",
+    "His grumpier attitude drove people away."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502eb"
+  },
+  "es": {
+    "word": "rabugiento",
+    "definition": "El más mal humorado o propenso a enfadarse fácilmente; superlativo de 'rabugiento'."
+  },
+  "pt": {
+    "word": "rabugento",
+    "definition": "O mais mal humorado ou propenso a ficar zangado facilmente; superlativo de 'rabugento'."
+  },
+  "word": "grumpiest",
+  "ipa": "/ˈɡrʌmpiɪst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502ec"
+      }
+    }
+  ],
+  "definition": "The most irritable or prone to easily becoming angry; superlative of 'grumpy'.",
+  "examples": [
+    "He's the grumpiest person I know.",
+    "She becomes the grumpiest when she's sleep-deprived.",
+    "The grumpiest customers are often the most demanding.",
+    "The grumpiest employee finally smiled.",
+    "His grumpiest moments were legendary."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502ed"
+  },
+  "es": {
+    "word": "malhumorado",
+    "definition": "De manera irritada o enojada; en un estado de mal humor."
+  },
+  "pt": {
+    "word": "mal-humorado",
+    "definition": "De maneira irritada ou zangada; em um estado de mau humor."
+  },
+  "word": "grumpily",
+  "ipa": "/ˈɡrʌmpɪli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, or other adverbs.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502ee"
+      }
+    }
+  ],
+  "definition": "In an irritable or angry manner; in a state of bad temper.",
+  "examples": [
+    "He answered grumpily when asked about his day.",
+    "She mumbled grumpily as she got out of bed.",
+    "The customer complained grumpily about the service.",
+    "He sighed grumpily at the long line.",
+    "She walked away grumpily after the argument."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502f6"
+  },
+  "es": {
+    "word": "frecuenta",
+    "definition": "Visita con regularidad un lugar, especialmente uno donde alguien ha vivido o pasado mucho tiempo."
+  },
+  "pt": {
+    "word": "frequentar",
+    "definition": "Visitar regularmente um lugar, especialmente aquele onde alguém viveu ou passou muito tempo."
+  },
+  "word": "haunts",
+  "ipa": "/hɔnts/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502f7"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502f8"
+      }
+    }
+  ],
+  "definition": "Visits a place regularly, especially one where someone has lived or spent a lot of time.",
+  "examples": [
+    "He haunts the local library every weekend.",
+    "The old house is said to be haunted.",
+    "She haunts the memories of her childhood.",
+    "The bar is a favorite haunt of the locals.",
+    "The forest has many haunts for wildlife."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502f9"
+  },
+  "es": {
+    "word": "embrujador",
+    "definition": "Que causa una impresión duradera o inquietante en la mente; que persigue a alguien."
+  },
+  "pt": {
+    "word": "assombrador",
+    "definition": "Que causa uma impressão duradoura ou inquietante na mente; que persegue alguém."
+  },
+  "word": "haunting",
+  "ipa": "/ˈhɔːntɪŋ/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502fa"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502fb"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502fc"
+      }
+    }
+  ],
+  "definition": "Causing a lasting or unsettling impression on the mind; haunting someone.",
+  "examples": [
+    "The haunting melody brought tears to her eyes.",
+    "The haunting beauty of the landscape stayed with him.",
+    "The haunting memories of the past haunted him.",
+    "The old house has a haunting presence.",
+    "The haunting feeling of déjà vu struck her."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502fd"
+  },
+  "es": {
+    "word": "embrujado",
+    "definition": "Poseído por un espíritu o fuerza sobrenatural; aterrorizado o acosado por algo."
+  },
+  "pt": {
+    "word": "assombrado",
+    "definition": "Possuído por um espírito ou força sobrenatural; aterrorizado ou perseguido por algo."
+  },
+  "word": "haunted",
+  "ipa": "/ˈhɔːntɪd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a502fe"
+      }
+    }
+  ],
+  "definition": "Possessed by a supernatural spirit or force; terrified or harassed by something.",
+  "examples": [
+    "The haunted house was said to be cursed.",
+    "He felt like a haunted man after the accident.",
+    "The forest was haunted by mysterious sounds.",
+    "Her haunted expression revealed her trauma.",
+    "The old cemetery was believed to be haunted."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a502ff"
+  },
+  "es": {
+    "word": "fiel",
+    "definition": "Que es leal, sincero y constante en su apoyo o compromiso; digno de confianza."
+  },
+  "pt": {
+    "word": "fiel",
+    "definition": "Que é leal, sincero e constante em seu apoio ou compromisso; digno de confiança."
+  },
+  "word": "faithful",
+  "ipa": "/ˈfeɪθfəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50300"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50301"
+      }
+    }
+  ],
+  "definition": "Loyal, sincere, and steadfast in one's support or commitment; trustworthy.",
+  "examples": [
+    "She remained faithful to her principles.",
+    "He is a faithful friend who can be relied upon.",
+    "Their faithful dedication to the cause was unwavering.",
+    "The faithful followers never lost faith in their leader.",
+    "The faithful dog waited patiently for his owner."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50302"
+  },
+  "es": {
+    "word": "fielmente",
+    "definition": "De manera leal, sincera y constante en su apoyo o compromiso; de manera digna de confianza."
+  },
+  "pt": {
+    "word": "fielmente",
+    "definition": "De maneira leal, sincera e constante em seu apoio ou compromisso; digna de confiança."
+  },
+  "word": "faithfully",
+  "ipa": "/ˈfeɪθfəli/",
+  "type_word": [
+    {
+      "name": "Adverb",
+      "sigle": "adv.",
+      "description": "Words that modify verbs, adjectives, other adverbs, or entire sentences.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50303"
+      }
+    }
+  ],
+  "definition": "In a loyal, sincere, and steadfast manner in one's support or commitment; in a trustworthy manner.",
+  "examples": [
+    "She followed her principles faithfully.",
+    "He has served his country faithfully for years.",
+    "The team faithfully executed the plan.",
+    "The faithful dog guarded the house faithfully.",
+    "They continued to support the cause faithfully."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50307"
+  },
+  "es": {
+    "word": "descongelar",
+    "definition": "El proceso de volver un sólido congelado a su estado líquido al aumentar su temperatura."
+  },
+  "pt": {
+    "word": "descongelar",
+    "definition": "O processo de transformar um sólido congelado de volta ao seu estado líquido ao aumentar sua temperatura."
+  },
+  "word": "thaws",
+  "ipa": "/θɔz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50308"
+      }
+    }
+  ],
+  "definition": "The process of turning a frozen solid back into its liquid state by increasing its temperature; third person singular present of 'thaw'.",
+  "examples": [
+    "He thaws the frozen food in the microwave.",
+    "She carefully thaws the ice on the windshield.",
+    "The gradual thaw of the snow allowed for travel.",
+    "It thaws quickly under direct sunlight.",
+    "The thawing process takes time."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50309"
+  },
+  "es": {
+    "word": "descongelamiento",
+    "definition": "El proceso de volver un sólido congelado a su estado líquido al aumentar su temperatura."
+  },
+  "pt": {
+    "word": "descongelamento",
+    "definition": "O processo de transformar um sólido congelado de volta ao seu estado líquido ao aumentar sua temperatura."
+  },
+  "word": "thawing",
+  "ipa": "/ˈθɔɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5030a"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5030b"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5030c"
+      }
+    }
+  ],
+  "definition": "The process of turning a frozen solid back into its liquid state by increasing its temperature.",
+  "examples": [
+    "The thawing of the ice revealed hidden dangers.",
+    "A gradual thawing followed the winter freeze.",
+    "The thawing process can be accelerated with heat.",
+    "The thawing of permafrost is a concern in the Arctic.",
+    "Thawing is necessary for certain cooking methods."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5030d"
+  },
+  "es": {
+    "word": "descongelado",
+    "definition": "Un sólido que ha vuelto a su estado líquido después de estar congelado."
+  },
+  "pt": {
+    "word": "descongelado",
+    "definition": "Um sólido que voltou ao seu estado líquido após estar congelado."
+  },
+  "word": "thawed",
+  "ipa": "/θɔd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5030e"
+      }
+    }
+  ],
+  "definition": "A solid that has returned to its liquid state after being frozen.",
+  "examples": [
+    "The thawed meat is ready to be cooked.",
+    "She used the thawed berries to make a smoothie.",
+    "The thawed ice cream was a refreshing treat.",
+    "He stored the thawed soup in the refrigerator.",
+    "The thawed lake allowed for ice skating."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50314"
+  },
+  "es": {
+    "word": "hervir",
+    "definition": "El proceso de calentar un líquido hasta que alcance su punto de ebullición."
+  },
+  "pt": {
+    "word": "ebulição",
+    "definition": "O processo de aquecer um líquido até que atinja seu ponto de ebulição."
+  },
+  "word": "boiling",
+  "ipa": "/ˈbɔɪlɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50315"
+      }
+    }
+  ],
+  "definition": "The process of heating a liquid until it reaches its boiling point.",
+  "examples": [
+    "The boiling of water is essential for cooking.",
+    "She watched the boiling of the pot closely.",
+    "The recipe required precise timing for the boiling.",
+    "Boiling is a fundamental cooking technique.",
+    "The boiling of the sauce filled the kitchen with aroma."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50316"
+  },
+  "es": {
+    "word": "hervido",
+    "definition": "Algo que ha sido sometido al proceso de hervir; pasado de 'hervir'."
+  },
+  "pt": {
+    "word": "cozido",
+    "definition": "Algo que foi submetido ao processo de fervura; passado de 'cozer'."
+  },
+  "word": "boiled",
+  "ipa": "/bɔɪld/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50317"
+      }
+    }
+  ],
+  "definition": "Something that has been subjected to the boiling process; past tense of 'boil'.",
+  "examples": [
+    "She enjoyed a bowl of hot boiled rice.",
+    "The boiled vegetables were tender and flavorful.",
+    "He liked his eggs soft-boiled.",
+    "The recipe called for diced boiled chicken.",
+    "The boiled pasta was served with a rich sauce."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50318"
+  },
+  "es": {
+    "word": "budín",
+    "definition": "Un postre o plato que consiste en una mezcla de ingredientes, como pan o frutas, cocidos al horno o en agua."
+  },
+  "pt": {
+    "word": "pudim",
+    "definition": "Uma sobremesa ou prato que consiste em uma mistura de ingredientes, como pão ou frutas, cozidos no forno ou em água."
+  },
+  "word": "pudding",
+  "ipa": "/ˈpʊdɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50319"
+      }
+    }
+  ],
+  "definition": "A dessert or dish consisting of a mixture of ingredients, such as bread or fruit, cooked in the oven or in water.",
+  "examples": [
+    "She made a delicious chocolate pudding.",
+    "The traditional English pudding is a favorite.",
+    "The bread pudding was served with a sweet sauce.",
+    "He enjoys a creamy rice pudding.",
+    "Pudding can be both sweet and savory."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5031a"
+  },
+  "es": {
+    "word": "budines",
+    "definition": "Postres o platos que consisten en una mezcla de ingredientes cocidos al horno o en agua; plural de 'budín'."
+  },
+  "pt": {
+    "word": "pudins",
+    "definition": "Sobremesas ou pratos que consistem em uma mistura de ingredientes cozidos no forno ou em água; plural de 'pudim'."
+  },
+  "word": "puddings",
+  "ipa": "/ˈpʊdɪŋz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5031b"
+      }
+    }
+  ],
+  "definition": "Desserts or dishes consisting of a mixture of ingredients cooked in the oven or in water; plural of 'pudding'.",
+  "examples": [
+    "She bakes various types of puddings.",
+    "The menu offers a selection of sweet puddings.",
+    "They enjoy experimenting with different puddings.",
+    "Traditional puddings are a staple of the holiday season.",
+    "Puddings can be customized with toppings."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5031e"
+  },
+  "es": {
+    "word": "enterra",
+    "definition": "Tercera persona del singular del presente de 'enterrar'."
+  },
+  "pt": {
+    "word": "enterra",
+    "definition": "Terceira pessoa do singular do presente de 'enterrar'."
+  },
+  "word": "buries",
+  "ipa": "/ˈbɛriz/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5031f"
+      }
+    }
+  ],
+  "definition": "Third person singular present of 'bury'.",
+  "examples": [
+    "She buries her worries in work.",
+    "He buries the past and moves forward.",
+    "The gardener buries seeds in the soil.",
+    "The archaeologist buries the artifacts for preservation.",
+    "The author buries hidden meanings in the text."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50320"
+  },
+  "es": {
+    "word": "enterrando",
+    "definition": "Estar en el proceso de poner algo bajo tierra, por lo general como un método de ocultamiento o disposición."
+  },
+  "pt": {
+    "word": "enterrando",
+    "definition": "Estar no processo de colocar algo sob a terra, geralmente como um método de ocultação ou disposição."
+  },
+  "word": "burying",
+  "ipa": "/ˈbɛriɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50321"
+      }
+    }
+  ],
+  "definition": "In the process of placing something under the ground, usually as a method of concealment or disposing of a body.",
+  "examples": [
+    "They were burying the time capsule in the park.",
+    "She is burying her old journals in the backyard.",
+    "The construction workers are burying the utility lines.",
+    "The criminals were burying the evidence at night.",
+    "Burying the deceased is a solemn tradition."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50322"
+  },
+  "es": {
+    "word": "enterrado",
+    "definition": "Colocado debajo de la tierra o cubierto con tierra; pasado de 'enterrar'."
+  },
+  "pt": {
+    "word": "enterrado",
+    "definition": "Colocado debaixo da terra ou coberto com terra; passado de 'enterrar'."
+  },
+  "word": "buried",
+  "ipa": "/ˈberid/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50323"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50324"
+      }
+    }
+  ],
+  "definition": "Placed beneath the ground or covered with earth; past tense of 'bury'.",
+  "examples": [
+    "The treasure was buried deep underground.",
+    "They buried the time capsule in the backyard.",
+    "His talent remained buried for years.",
+    "She uncovered a buried manuscript in the library.",
+    "The secret was buried with him."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50325"
+  },
+  "es": {
+    "word": "juerga",
+    "definition": "Un período de diversión desenfrenada o indulgencia en actividades placenteras."
+  },
+  "pt": {
+    "word": "farra",
+    "definition": "Um período de diversão desenfreada ou indulgência em atividades prazerosas."
+  },
+  "word": "spree",
+  "ipa": "/spriː/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50326"
+      }
+    }
+  ],
+  "definition": "A period of unrestrained fun or indulgence in enjoyable activities.",
+  "examples": [
+    "They went on a shopping spree and bought everything.",
+    "Her weekend spree included parties and adventures.",
+    "The spending spree left them with empty wallets.",
+    "He was on a food spree, trying different cuisines.",
+    "The vacation turned into a shopping and dining spree."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50327"
+  },
+  "es": {
+    "word": "inclinarse",
+    "definition": "Doblar el cuerpo hacia adelante o hacia abajo como signo de respeto, saludo o agradecimiento."
+  },
+  "pt": {
+    "word": "inclinado",
+    "definition": "Dobrar o corpo para a frente ou para baixo como sinal de respeito, saudação ou agradecimento; passado de 'inclinarse'."
+  },
+  "word": "bowing",
+  "ipa": "/ˈboʊɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50328"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50329"
+      }
+    }
+  ],
+  "definition": "Bending the body forward or downward as a sign of respect, greeting, or gratitude; present participle of 'bow'.",
+  "examples": [
+    "He was bowing to the audience after his performance.",
+    "She greeted the king with a deep bow.",
+    "The ceremony included a traditional bowing ritual.",
+    "Bowing is a common gesture in many cultures.",
+    "Their bows showed respect and appreciation."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5032a"
+  },
+  "es": {
+    "word": "inclinado",
+    "definition": "Doblar el cuerpo hacia adelante o hacia abajo como signo de respeto, saludo o agradecimiento; pasado de 'inclinarse'."
+  },
+  "pt": {
+    "word": "inclinado",
+    "definition": "Dobrar o corpo para a frente ou para baixo como sinal de respeito, saudação ou agradecimento; passado de 'inclinarse'."
+  },
+  "word": "bowed",
+  "ipa": "/boʊd/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5032b"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5032c"
+      }
+    }
+  ],
+  "definition": "Bent the body forward or downward as a sign of respect, greeting, or gratitude; past tense of 'bow'.",
+  "examples": [
+    "He was in a bowed position during the ceremony.",
+    "The bowed heads in the church showed reverence.",
+    "She looked at the bowed figure with respect.",
+    "Their bowed gestures were a cultural tradition.",
+    "The knight bowed before the king."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5032d"
+  },
+  "es": {
+    "word": "chascar",
+    "definition": "Hacer un sonido repentino y fuerte, como el que se produce al romper algo."
+  },
+  "pt": {
+    "word": "estalar",
+    "definition": "Produzir um som repentino e alto, como o que ocorre ao quebrar algo."
+  },
+  "word": "snap",
+  "ipa": "/snæp/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5032e"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5032f"
+      }
+    }
+  ],
+  "definition": "Make a sudden and loud sound, such as that produced when something breaks.",
+  "examples": [
+    "He heard the snap of a twig in the forest.",
+    "The snap of the whip echoed through the air.",
+    "The snap of the branch startled them.",
+    "The snap of the door closing signaled their departure.",
+    "She felt a snap in her knee during the fall."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50330"
+  },
+  "es": {
+    "word": "chasquidos",
+    "definition": "Sonidos repentinos y fuertes; plural de 'chasquido'."
+  },
+  "pt": {
+    "word": "estalidos",
+    "definition": "Sons repentinos e altos; plural de 'estalido'."
+  },
+  "word": "snaps",
+  "ipa": "/snæps/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50331"
+      }
+    }
+  ],
+  "definition": "Sudden and loud sounds; plural of 'snap'.",
+  "examples": [
+    "The snaps of the firecrackers filled the night.",
+    "She couldn't ignore the snaps of the breaking glass.",
+    "The snaps of the camera captured the moment.",
+    "The snaps of the car engine signaled trouble.",
+    "The snaps of the twigs underfoot echoed in the woods."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50332"
+  },
+  "es": {
+    "word": "chasqueando",
+    "definition": "Haciendo un sonido repentino y fuerte, como el de los dedos o una trampa que se cierra; presente continuo de 'chascar'."
+  },
+  "pt": {
+    "word": "estalando",
+    "definition": "Fazendo um som repentino e alto, como o dos dedos ou uma armadilha que se fecha; presente contínuo de 'estalar'."
+  },
+  "word": "snapping",
+  "ipa": "/ˈsnæpɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50333"
+      }
+    },
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50334"
+      }
+    }
+  ],
+  "definition": "Making a sudden and loud sound, such as snapping fingers or a closing trap; present continuous of 'snap'.",
+  "examples": [
+    "He was snapping his fingers in rhythm.",
+    "The snapping of branches in the forest was eerie.",
+    "She caught the mouse in a snapping trap.",
+    "The snapping of the door closing echoed in the hallway.",
+    "The snapping of twigs signaled their approach."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50335"
+  },
+  "es": {
+    "word": "chasqueó",
+    "definition": "Hizo un sonido repentino y fuerte, como el de los dedos o una trampa que se cierra; pasado de 'chascar'."
+  },
+  "pt": {
+    "word": "estalou",
+    "definition": "Fez um som repentino e alto, como o dos dedos ou uma armadilha que se fecha; passado de 'estalar'."
+  },
+  "word": "snapped",
+  "ipa": "/snæpt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50336"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50337"
+      }
+    }
+  ],
+  "definition": "Made a sudden and loud sound, such as snapping fingers or a closing trap; past tense of 'snap'.",
+  "examples": [
+    "He snapped his fingers to get her attention.",
+    "The branch snapped under his weight.",
+    "The trap snapped shut, catching the prey.",
+    "She snapped at him in anger.",
+    "The rope snapped, causing the fall."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50338"
+  },
+  "es": {
+    "word": "nuez",
+    "definition": "Una fruta seca con una cáscara dura que generalmente contiene una sola semilla comestible en su interior."
+  },
+  "pt": {
+    "word": "noz",
+    "definition": "Uma fruta seca com uma casca dura que geralmente contém uma única semente comestível em seu interior."
+  },
+  "word": "nut",
+  "ipa": "/nʌt/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50339"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5033a"
+      }
+    }
+  ],
+  "definition": "A dry fruit with a hard shell that typically contains a single edible seed inside.",
+  "examples": [
+    "She cracked open the nut to reveal the kernel.",
+    "Nuts are a healthy snack option.",
+    "He's allergic to certain types of nuts.",
+    "The recipe calls for chopped nuts.",
+    "Nutcrackers are used to open tough nuts."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5033b"
+  },
+  "es": {
+    "word": "nueces",
+    "definition": "Frutas secas con cáscaras duras que generalmente contienen una sola semilla comestible en su interior; plural de 'nuez'."
+  },
+  "pt": {
+    "word": "nozes",
+    "definition": "Frutas secas com cascas duras que geralmente contêm uma única semente comestível em seu interior; plural de 'noz'."
+  },
+  "word": "nuts",
+  "ipa": "/nʌts/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5033c"
+      }
+    }
+  ],
+  "definition": "Dry fruits with hard shells that typically contain a single edible seed inside; plural of 'nut'.",
+  "examples": [
+    "Mixed nuts are a popular snack.",
+    "She enjoys baking with chopped nuts.",
+    "Nuts are a good source of protein.",
+    "The squirrel collected nuts for the winter.",
+    "You can find a variety of nuts at the store."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5033d"
+  },
+  "es": {
+    "word": "cosecha de nueces",
+    "definition": "La acción de recolectar nueces; presente continuo de 'cosechar nueces'."
+  },
+  "pt": {
+    "word": "colheita de nozes",
+    "definition": "A ação de colher nozes; presente contínuo de 'colher nozes'."
+  },
+  "word": "nutting",
+  "ipa": "/ˈnʌtɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5033e"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5033f"
+      }
+    }
+  ],
+  "definition": "The action of gathering nuts; present continuous of 'nut'.",
+  "examples": [
+    "Nutting is a common autumn activity.",
+    "They went nutting in the forest.",
+    "The nutting season had begun.",
+    "Children enjoy nutting in the park.",
+    "The squirrel's nutting habits were observed."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50340"
+  },
+  "es": {
+    "word": "cosechó nueces",
+    "definition": "Realizó la acción de recolectar nueces; pasado de 'cosechar nueces'."
+  },
+  "pt": {
+    "word": "colheu nozes",
+    "definition": "Realizou a ação de colher nozes; passado de 'colher nozes'."
+  },
+  "word": "nutted",
+  "ipa": "/ˈnʌtɪd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50341"
+      }
+    }
+  ],
+  "definition": "Performed the action of gathering nuts; past tense of 'nut'.",
+  "examples": [
+    "He nutted in the orchard for hours.",
+    "She nutted to prepare for winter.",
+    "The squirrel nutted in the trees.",
+    "They nutted during the nutting season.",
+    "The villagers nutted to stock up for the season."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50342"
+  },
+  "es": {
+    "word": "nueva evaluación de pruebas",
+    "definition": "Un nuevo juicio para volver a evaluar las pruebas presentadas en un caso anterior; compuesto de 'nuevo' y 'evaluación de pruebas'."
+  },
+  "pt": {
+    "word": "novo julgamento de provas",
+    "definition": "Um novo julgamento para reavaliar as provas apresentadas em um caso anterior; composto de 'novo' e 'julgamento de provas'."
+  },
+  "word": "retrial",
+  "ipa": "/ˌriːˈtraɪəl/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50343"
+      }
+    }
+  ],
+  "definition": "A new trial to reevaluate the evidence presented in a previous case; compound of 're' and 'trial'.",
+  "examples": [
+    "The retrial of the suspect is scheduled for next month.",
+    "The retrial was ordered due to new evidence.",
+    "She was granted a retrial of her case.",
+    "The retrial process can be lengthy.",
+    "The retrial resulted in a different verdict."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50344"
+  },
+  "es": {
+    "word": "nuevos juicios de pruebas",
+    "definition": "Nuevos juicios para volver a evaluar las pruebas presentadas en casos anteriores; plural de 'nuevo juicio de pruebas'."
+  },
+  "pt": {
+    "word": "novos julgamentos de provas",
+    "definition": "Novos julgamentos para reavaliar as provas apresentadas em casos anteriores; plural de 'novo julgamento de provas'."
+  },
+  "word": "retrials",
+  "ipa": "/ˌriːˈtraɪəlz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50345"
+      }
+    }
+  ],
+  "definition": "New trials to reevaluate the evidence presented in previous cases; plural of 'retrial'.",
+  "examples": [
+    "The retrials were ordered for several cases.",
+    "The retrials were a result of legal challenges.",
+    "The court granted retrials to the defendants.",
+    "The retrials aimed to ensure justice.",
+    "The outcome of the retrials was awaited."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50346"
+  },
+  "es": {
+    "word": "lamiendo",
+    "definition": "La acción de pasar la lengua sobre algo; presente continuo de 'lamer'."
+  },
+  "pt": {
+    "word": "lambendo",
+    "definition": "A ação de passar a língua sobre algo; presente contínuo de 'lamber'."
+  },
+  "word": "licking",
+  "ipa": "/ˈlɪkɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50347"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50348"
+      }
+    }
+  ],
+  "definition": "The action of passing the tongue over something; present continuous of 'lick'.",
+  "examples": [
+    "The dog's licking of the ice cream was adorable.",
+    "She was caught in the act of licking the frosting.",
+    "The licking of stamps for the letters took time.",
+    "His licking of the envelope sealed the deal.",
+    "The cat's licking of its paws was a soothing sight."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50349"
+  },
+  "es": {
+    "word": "lamió",
+    "definition": "Pasó la lengua sobre algo; pasado de 'lamer'."
+  },
+  "pt": {
+    "word": "lambeu",
+    "definition": "Passou a língua sobre algo; passado de 'lamber'."
+  },
+  "word": "licked",
+  "ipa": "/lɪkt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5034a"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5034b"
+      }
+    }
+  ],
+  "definition": "Passed the tongue over something; past tense of 'lick'.",
+  "examples": [
+    "He licked the spoon after eating dessert.",
+    "The puppy licked her hand affectionately.",
+    "She licked the envelope to seal it.",
+    "The child licked the candy eagerly.",
+    "The ice cream cone was licked clean."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5034c"
+  },
+  "es": {
+    "word": "soplos",
+    "definition": "Movimientos de aire con fuerza; plural de 'soplo'."
+  },
+  "pt": {
+    "word": "sopros",
+    "definition": "Movimentos de ar com força; plural de 'sopro'."
+  },
+  "word": "blows",
+  "ipa": "/bloʊz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5034d"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5034e"
+      }
+    }
+  ],
+  "definition": "Forceful movements of air; plural of 'blow'.",
+  "examples": [
+    "The strong blows of the wind knocked down trees.",
+    "He felt the blows of the cold air.",
+    "The boxer delivered powerful blows.",
+    "The blows of the hurricane were devastating.",
+    "She could hear the blows of the storm outside."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5034f"
+  },
+  "es": {
+    "word": "soplado",
+    "definition": "Expulsado de la boca o los labios; pasado de 'soplar'."
+  },
+  "pt": {
+    "word": "soprado",
+    "definition": "Expulso da boca ou dos lábios; passado de 'soprar'."
+  },
+  "word": "blown",
+  "ipa": "/bloʊn/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50350"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50351"
+      }
+    }
+  ],
+  "definition": "Expelled from the mouth or lips; past participle of 'blow'.",
+  "examples": [
+    "The blown dandelion seeds floated in the breeze.",
+    "Her blown hair was tousled by the wind.",
+    "The balloon was blown up with helium.",
+    "He had blown out the candles on the cake.",
+    "The blown kisses were full of affection."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50352"
+  },
+  "es": {
+    "word": "remolque",
+    "definition": "La acción de tirar o arrastrar algo detrás de un vehículo; transporte de un vehículo no motorizado por un vehículo motorizado."
+  },
+  "pt": {
+    "word": "reboque",
+    "definition": "A ação de puxar ou arrastar algo atrás de um veículo; transporte de um veículo não motorizado por um veículo motorizado."
+  },
+  "word": "towing",
+  "ipa": "/toʊɪŋ/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50353"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50354"
+      }
+    }
+  ],
+  "definition": "The action of pulling or dragging something behind a vehicle; the transportation of a non-motorized vehicle by a motorized vehicle.",
+  "examples": [
+    "The towing of the boat was done with a powerful truck.",
+    "They needed a towing service to move the disabled car.",
+    "Towing a trailer behind a car requires skill.",
+    "The towing company specializes in roadside assistance.",
+    "The towing hitch was securely attached."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50355"
+  },
+  "es": {
+    "word": "remolcado",
+    "definition": "Tirado o arrastrado detrás de un vehículo; pasado de 'remolcar'."
+  },
+  "pt": {
+    "word": "reboque",
+    "definition": "Puxado ou arrastado atrás de um veículo; passado de 'reboque'."
+  },
+  "word": "towed",
+  "ipa": "/toʊd/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50356"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50357"
+      }
+    }
+  ],
+  "definition": "Pulled or dragged behind a vehicle; past tense of 'tow'.",
+  "examples": [
+    "The towed car was blocking the driveway.",
+    "He towed the boat to the lake for a day of fishing.",
+    "The towed trailer had all the camping gear.",
+    "The towed vehicle needed repairs.",
+    "The towed sled was filled with excited children."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5035b"
+  },
+  "es": {
+    "word": "decadências",
+    "definition": "Los procesos de deterioro o descomposición gradual; disminuciones en calidad, valor o estado; plural de 'decadencia'."
+  },
+  "pt": {
+    "word": "decadências",
+    "definition": "Os processos de deterioração ou decomposição gradual; diminuições na qualidade, valor ou estado; plural de 'decadência'."
+  },
+  "word": "decays",
+  "ipa": "/deɪz/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5035c"
+      }
+    }
+  ],
+  "definition": "The processes of gradual deterioration or decomposition; decreases in quality, value, or state; plural of 'decay'.",
+  "examples": [
+    "The decays of the infrastructure were a concern.",
+    "The societal decays needed addressing.",
+    "Economic decays can have far-reaching effects.",
+    "The decays of relationships can be complicated.",
+    "Environmental decays require conservation efforts."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5035d"
+  },
+  "es": {
+    "word": "gritar",
+    "definition": "Hablar o expresarse en voz alta y con fuerza; hacer un sonido fuerte."
+  },
+  "pt": {
+    "word": "gritar",
+    "definition": "Falar ou expressar-se em voz alta e com força; fazer um som alto."
+  },
+  "word": "holler",
+  "ipa": "/ˈhɒlər/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5035e"
+      }
+    }
+  ],
+  "definition": "To speak or express oneself loudly and with force; to make a loud sound.",
+  "examples": [
+    "He would holler from across the street to get her attention.",
+    "The children hollered with excitement at the amusement park.",
+    "Please don't holler in the library.",
+    "She hollered for help when she saw the fire.",
+    "The fans hollered in support of their team."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5035f"
+  },
+  "es": {
+    "word": "joven",
+    "definition": "En la etapa temprana de la vida; que muestra juventud o energía."
+  },
+  "pt": {
+    "word": "jovem",
+    "definition": "Na fase inicial da vida; que demonstra juventude ou energia."
+  },
+  "word": "youthful",
+  "ipa": "/ˈjuːθfəl/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50360"
+      }
+    }
+  ],
+  "definition": "In the early stage of life; displaying youth or energy.",
+  "examples": [
+    "Her youthful appearance belied her actual age.",
+    "He had a youthful enthusiasm for adventure.",
+    "The painting captured the youthful innocence of the children.",
+    "She maintained a youthful spirit throughout her life.",
+    "His actions were filled with youthful exuberance."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50361"
+  },
+  "es": {
+    "word": "sastre",
+    "definition": "Una persona que confecciona o arregla ropa a medida; también puede referirse a una tienda que ofrece servicios de confección de ropa."
+  },
+  "pt": {
+    "word": "alfaiate",
+    "definition": "Uma pessoa que faz ou ajusta roupas sob medida; também pode se referir a uma loja que oferece serviços de confecção de roupas."
+  },
+  "word": "tailor",
+  "ipa": "/ˈteɪlər/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50362"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50363"
+      }
+    }
+  ],
+  "definition": "A person who makes or alters clothing to fit; can also refer to a shop that offers clothing tailoring services.",
+  "examples": [
+    "The tailor measured him for a custom suit.",
+    "She visited the tailor to have her dress fitted.",
+    "The tailor's shop specializes in bespoke suits.",
+    "He learned the art of tailoring from his grandfather.",
+    "Tailor-made clothing is known for its perfect fit."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50364"
+  },
+  "es": {
+    "word": "chismear",
+    "definition": "Hablar o difundir rumores o conversaciones informales sobre la vida privada de otras personas."
+  },
+  "pt": {
+    "word": "fofocar",
+    "definition": "Falar ou espalhar rumores ou conversas informais sobre a vida privada de outras pessoas."
+  },
+  "word": "gossip",
+  "ipa": "/ˈɡɒsəp/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50365"
+      }
+    },
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50366"
+      }
+    }
+  ],
+  "definition": "To talk or spread rumors or informal conversations about the private lives of other people.",
+  "examples": [
+    "The office gossip always had the latest news on coworkers.",
+    "She couldn't resist the temptation to gossip about her friends.",
+    "Gossiping about celebrities is a common pastime.",
+    "He was known for gossiping about his neighbors.",
+    "Gossip can sometimes lead to misunderstandings."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50367"
+  },
+  "es": {
+    "word": "cotilleo",
+    "definition": "Conversaciones informales o rumores sobre la vida privada de otras personas; plural de 'cotilleo'."
+  },
+  "pt": {
+    "word": "fofoca",
+    "definition": "Conversas informais ou rumores sobre a vida privada de outras pessoas; plural de 'fofoca'."
+  },
+  "word": "gossips",
+  "ipa": "/ˈɡɒsəps/",
+  "type_word": [
+    {
+      "name": "Noun",
+      "sigle": "n.",
+      "description": "Words that name people, animals, places, things, ideas, or phenomena.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a50368"
+      }
+    }
+  ],
+  "definition": "Informal conversations or rumors about the private lives of other people; plural of 'gossip'.",
+  "examples": [
+    "The gossips at the party were in full swing.",
+    "She was tired of hearing endless gossips about her relationship.",
+    "Gossips can often be exaggerated or untrue.",
+    "The gossips spread like wildfire through the small town.",
+    "He tried to avoid engaging in gossips at work."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a50369"
+  },
+  "es": {
+    "word": "cotillear",
+    "definition": "Hablar o difundir rumores o conversaciones informales sobre la vida privada de otras personas; presente de 'cotillear'."
+  },
+  "pt": {
+    "word": "fofocar",
+    "definition": "Falar ou espalhar rumores ou conversas informais sobre a vida privada de outras pessoas; presente de 'fofocar'."
+  },
+  "word": "gossiping",
+  "ipa": "/ˈɡɒsəpɪŋ/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5036a"
+      }
+    }
+  ],
+  "definition": "To talk or spread rumors or informal conversations about the private lives of other people; present participle of 'gossip'.",
+  "examples": [
+    "She couldn't help but gossiping about the scandalous news.",
+    "Gossiping about others can be hurtful.",
+    "People enjoy gossiping about famous personalities.",
+    "He caught his coworkers gossiping in the break room.",
+    "Gossiping often leads to drama and conflicts."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934dfed3b0b99bb0a5036b"
+  },
+  "es": {
+    "word": "cotilleado",
+    "definition": "Hablado o difundido rumores o conversaciones informales sobre la vida privada de otras personas; pasado de 'cotillear'."
+  },
+  "pt": {
+    "word": "fofocado",
+    "definition": "Falado ou espalhado rumores ou conversas informais sobre a vida privada de outras pessoas; passado de 'fofocar'."
+  },
+  "word": "gossiped",
+  "ipa": "/ˈɡɒsəpt/",
+  "type_word": [
+    {
+      "name": "Verb",
+      "sigle": "v.",
+      "description": "Words that express actions, states, or processes.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5036c"
+      }
+    },
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934dfed3b0b99bb0a5036d"
+      }
+    }
+  ],
+  "definition": "Talked or spread rumors or informal conversations about the private lives of other people; past tense of 'gossip'.",
+  "examples": [
+    "The gossiped stories about the celebrity's breakup were everywhere.",
+    "She regretted having gossiped about her friend's secrets.",
+    "Gossiped information is often unreliable.",
+    "He was known as the most gossiped-about person in town.",
+    "Gossiped details can sometimes be exaggerated."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:42:54.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65934e9bd3b0b99bb0a505bc"
+  },
+  "es": {
+    "word": "rápido",
+    "definition": "Que se mueve o realiza acciones a una alta velocidad; que ocurre o se completa en poco tiempo."
+  },
+  "pt": {
+    "word": "rápido",
+    "definition": "Que se move ou realiza ações em alta velocidade; que ocorre ou se completa em pouco tempo."
+  },
+  "word": "fast-paced",
+  "ipa": "/ˈfæstˌpeɪst/",
+  "type_word": [
+    {
+      "name": "Adjective",
+      "sigle": "adj.",
+      "description": "Words that describe or modify nouns.",
+      "_id": {
+        "$oid": "65934e9bd3b0b99bb0a505bd"
+      }
+    }
+  ],
+  "definition": "Moving or performing actions at a high speed; happening or completing in a short amount of time.",
+  "examples": [
+    "The fast-paced action movie kept the audience on the edge of their seats.",
+    "Working in a fast-paced environment requires quick decision-making.",
+    "The fast-paced world of technology is constantly evolving.",
+    "She enjoyed the challenges of her fast-paced career.",
+    "The city's lifestyle is known for being fast-paced and energetic."
+  ],
+  "times_seen": 0,
+  "status": "FAIL",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-01T23:45:31.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T23:45:31.777Z"
   }
 }]
