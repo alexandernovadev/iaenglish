@@ -48,7 +48,7 @@ const LoopArrayEach10Elements = async () => {
 
   for (let index = 0; index < words__CLEAN3.length; index++) {
     if (index % 10 === 0) {
-      let words10 = [];
+      let words10:Array<string> = [];
       for (let i = 0; i < 10; i++) {
         const WORD = words__CLEAN3[index + i];
         if (WORD) words10.push(WORD);

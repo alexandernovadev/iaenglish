@@ -23,8 +23,8 @@ export default async function handler(
         // const rta = await deleteRepeatwordFromARRAY();
         // const rta = await serchCambrigePupe();
         // const rta = await fixdates();
-        // const rta = await searchAndDeleteRepeatedWords();
-        const rta = await addNewWordsToMongoDBAtlas();
+        const rta = await searchAndDeleteRepeatedWords();
+        // const rta = await addNewWordsToMongoDBAtlas();
         // const rta = await wordsNotInMongo();
         // const rta = await getArrayFromAllWords()
         // const rta = await LoopArrayEach10Elements();
