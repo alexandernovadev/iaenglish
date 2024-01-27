@@ -17,7 +17,7 @@ const OpenTextQuestion = ({
       <p>{htmlContent}</p>
       <textarea
         onChange={(e) => onChange(e.target.value)}
-        className="w-full p-2 rounded-lg bg-slate-700"
+        className="w-full p-2 rounded-lg bg-slate-700 border border-white"
       ></textarea>
 
       {feedback && <AlertsResponse feedback={feedback} status={status} />}
