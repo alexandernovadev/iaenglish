@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  overflow: hidden;
+  font-family: 'Merriweather', serif;
+  line-height: 2rem;
+}
+
+body,
+html {
+  color: whitesmoke;
+  background: #101827;
+}
+
+
+input:focus, textarea {
+  outline: none;
+  border: 1px solid #ccc;
+}
