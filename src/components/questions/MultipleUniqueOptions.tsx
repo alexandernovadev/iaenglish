@@ -1,58 +1,64 @@
 import React, { useState } from "react";
-
+import type { Question, Feedback } from "@/interfaces/Exam";
+import { FeedBack } from "../ui/FeedBack";
 interface MultipleChoiceQuestionProps {
-  onChange: (selectedOptions: string[]) => void;
+  question: Question;
+  onChange: (questionId: string, selectedOptions: string[]) => void;
   multiple?: boolean;
-  questions: string[];
-  title: string;
+  feedback?: Feedback;
 }
 
-const MultipleUniqueOptions: React.FC<MultipleChoiceQuestionProps> = ({
+const MultipleUniqueOptions = ({
+  question,
   onChange,
   multiple = false,
-  questions,
-  title,
-}) => {
+  feedback,
+}: MultipleChoiceQuestionProps) => {
   const [selected, setSelected] = useState<string[]>([]);
 
-  const handleOnChange = (question: string) => {
+  const handleOnChange = (option: string) => {
     let newSelected: string[];
 
     if (multiple) {
-      newSelected = selected.includes(question)
-        ? selected.filter((item) => item !== question)
-        : [...selected, question];
+      newSelected = selected.includes(option)
+        ? selected.filter((item) => item !== option)
+        : [...selected, option];
     } else {
-      newSelected = selected.includes(question) ? [] : [question];
+      newSelected = selected.includes(option) ? [] : [option];
     }
 
     setSelected(newSelected);
-    // Send Singnal
-    onChange(newSelected);
+    onChange(question.id, newSelected);
   };
 
   return (
-    <div className="border border-gray-200 p-2 rounded-2xl p-3 my-3">
-      <h1 className="text-3xl font-semibold mb-2 text-white">{title}</h1>
+    <div className="border border-gray-200 p-2 rounded-2xl my-3">
+      <h1 className="text-3xl font-semibold mb-2 text-white">
+        {question.title}
+      </h1>
       <span className="text-white-800 text-sm">
         {multiple ? "Multiple" : "Unique"} choice
       </span>
 
       <div className="flex flex-col">
-        {questions.map((question, index) => (
+        {question.options.map((option, index) => (
           <div
             key={index}
             className={`inline-flex items-center mt-3 border text-white border-blue-200 rounded-xl cursor-pointer ${
-              selected.includes(question) ? "bg-gray-700" : ""
+              selected.includes(option) ? "bg-gray-700" : ""
             }`}
-            onClick={() => handleOnChange(question)}
+            onClick={() => handleOnChange(option)}
           >
             <span className="ml-2 text-white">
-              {String.fromCharCode(65 + index)}) {question}
+              {String.fromCharCode(65 + index)}) {option}
             </span>
           </div>
         ))}
       </div>
+
+      {feedback?.feedback && (
+        <FeedBack status={feedback.status || "WELLDONE"} />
+      )}
     </div>
   );
 };
