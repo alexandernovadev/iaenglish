@@ -1,1 +1,0 @@
-export const MSG_NO_WORD = "This words not exist !"
