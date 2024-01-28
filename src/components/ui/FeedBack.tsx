@@ -12,7 +12,7 @@ export const FeedBack = ({
   status = "WELLDONE",
 }: Props) => {
   return (
-    <div className="bg-slate-700 rounded-2xl p-2">
+    <div className="bg-slate-700 rounded-3xl p-2 my-5 border ">
       <section className="flex p-1">
         {status == "WELLDONE" ? (
           <div className="flex justify-center items-center gap-2">
@@ -22,7 +22,7 @@ export const FeedBack = ({
         ) : status == "SO-SO" ? (
           <div className="flex justify-center items-center gap-2">
             <FaCircleUp style={{ color: "#ffeb3b" }} />
-            <span style={{ color: "#ffeb3b" }}>Well Done !</span>
+            <span style={{ color: "#ffeb3b" }}>Could be Improved !</span>
           </div>
         ) : (
           <div className="flex justify-center items-center gap-2">

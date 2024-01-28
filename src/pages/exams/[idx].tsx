@@ -61,7 +61,6 @@ export default function Exam() {
       );
       const dataJsonExamResults = await getDataExamResults.json();
 
-
       // Set Feedback
       const updatedExam = { ...exam };
       updatedExam.questions = updatedExam.questions.map((question) => {
@@ -76,14 +75,12 @@ export default function Exam() {
             }
           : question;
       });
-      
-      updatedExam.score =dataJsonExamResults.score
 
+      updatedExam.score = dataJsonExamResults.score;
 
       console.log(updatedExam);
-      
-      dispatch(updateExam(updatedExam));
 
+      dispatch(updateExam(updatedExam));
     } catch (error) {
       console.log("Hey error ", error);
     } finally {
@@ -103,6 +100,11 @@ export default function Exam() {
           <span className="bg-blue-500 text-grey-300 px-2 py-1 rounded-full text-sm">
             {exam.difficulty}
           </span>
+          {exam.score > 0 && (
+            <span className="bg-yellow-800 mx-4 text-grey-300 px-2 py-1 rounded-full text-sm">
+              SCORE: {exam.score} / 100
+            </span>
+          )}
         </h3>
       </section>
 
