@@ -10,8 +10,8 @@ export interface Exam {
 export interface Question {
   id: string;
   title: string;
-  type: string;
-  options: string[] ;
+  type: "MULTIPLE" | "UNIQUE" | "OPENTEXT";
+  options: string[];
   userAnswer?: string | null | string[];
   feedback?: Feedback;
   validations?: Validations;

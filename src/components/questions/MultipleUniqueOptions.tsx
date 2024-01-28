@@ -33,9 +33,7 @@ const MultipleUniqueOptions = ({
 
   return (
     <div className="border border-gray-200 p-2 rounded-2xl my-3">
-      <h1 className="text-3xl font-semibold mb-2 text-white">
-        {question.title}
-      </h1>
+      <h1 className="text-xl my-3 text-white">{question.title}</h1>
       <span className="text-white-800 text-sm">
         {multiple ? "Multiple" : "Unique"} choice
       </span>
