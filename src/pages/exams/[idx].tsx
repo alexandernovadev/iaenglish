@@ -9,7 +9,7 @@ import { updateExam } from "@/store/slices/examSlice";
 import { FaSpinner } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
 import Link from "next/link";
-import { FaArrowCircleLeft, FaArrowCircleRight } from "react-icons/fa";
+import { FaArrowCircleLeft } from "react-icons/fa";
 
 export default function Exam() {
   const router = useRouter();
@@ -33,7 +33,10 @@ export default function Exam() {
     setExam((prevExam) => {
       const updatedQuestions = prevExam.questions.map((question) => {
         if (question.id === questionId) {
-          return { ...question, userAnswer };
+          const trimmedAnswer =
+            typeof userAnswer === "string" ? userAnswer.trim() : userAnswer;
+
+          return { ...question, trimmedAnswer };
         }
         return question;
       });

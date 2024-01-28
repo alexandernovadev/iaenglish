@@ -15,7 +15,14 @@ const MultipleUniqueOptions = ({
 }: MultipleChoiceQuestionProps) => {
   const feedback = question.feedback?.feedback;
 
-  const [selected, setSelected] = useState<string[]>([]);
+  // Asegurarse de que userAnswer sea siempre un array
+  const initialSelected = Array.isArray(question.userAnswer)
+    ? question.userAnswer
+    : question.userAnswer
+    ? [question.userAnswer]
+    : [];
+
+  const [selected, setSelected] = useState<string[]>(initialSelected);
 
   const handleOnChange = (option: string) => {
     let newSelected: string[];

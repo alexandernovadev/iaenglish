@@ -13,7 +13,7 @@ export const OpenAnswer: React.FC<OpenAnswerProps> = ({
   question,
   feedback,
 }) => {
-  const [answer, setAnswer] = useState("");
+  const [answer, setAnswer] = useState(question.userAnswer || "");
 
   const handleChange = (event: React.ChangeEvent<HTMLTextAreaElement>) => {
     setAnswer(event.target.value);
