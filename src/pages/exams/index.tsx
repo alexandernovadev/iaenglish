@@ -18,8 +18,6 @@ const Exams = () => {
   const [difficulty, setDifficulty] = useState("Difficulty");
   const [userPrompt, setUserPrompt] = useState("");
 
-  console.log(exams);
-
   const getExam = async () => {
     setIsLoading(true);
     try {
@@ -28,11 +26,10 @@ const Exams = () => {
       );
       const dataJsonExam = await getDataExam.json();
 
-      console.log(dataJsonExam);
 
       dispatch(addExam(dataJsonExam));
     } catch (error) {
-      console.log("Hey error ");
+      console.error("Hey error ");
     } finally {
       setIsLoading(false);
     }

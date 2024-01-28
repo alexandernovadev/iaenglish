@@ -60,8 +60,6 @@ export default function Exam() {
       };
     });
 
-    // console.log(results);
-
     setIsLoading(true);
     try {
       const getDataExamResults = await fetch(
@@ -86,11 +84,9 @@ export default function Exam() {
 
       updatedExam.score = dataJsonExamResults.score;
 
-      console.log(updatedExam);
-
       dispatch(updateExam(updatedExam));
     } catch (error) {
-      console.log("Hey error ", error);
+      console.error("Hey error ", error);
     } finally {
       setIsLoading(false);
     }
