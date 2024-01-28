@@ -2,20 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Agrega tus estilos personalizados aquí */
 html {
-  overflow: hidden;
+  @apply overflow-hidden font-serif;
   font-family: 'Merriweather', serif;
   line-height: 2rem;
 }
 
 body,
 html {
-  color: whitesmoke;
-  background: #101827;
+  @apply text-white bg-gray-900;
 }
 
-
-input:focus, textarea {
+input,
+select,
+textarea {
   outline: none;
   border: 1px solid #ccc;
+  background: transparent;
 }

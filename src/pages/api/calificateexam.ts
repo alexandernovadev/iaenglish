@@ -1,4 +1,3 @@
-import { Exam } from "@/interfaces/Exam";
 import { NextApiRequest, NextApiResponse } from "next";
 import OpenAI from "openai";
 
@@ -15,10 +14,10 @@ export default async function handler(
           examUser = "",
         } = req.query;
 
-
         const CalificateExamJSON = await getJSONCalificateExam(String(examUser))
+       console.log("CalificateExamJSON", CalificateExamJSON);
        
-        res.status(200).json(CalificateExamJSON);
+        res.status(200).json(CalificateExamJSON.Calificate);
         break;
     }
   } catch (error: any) {
@@ -38,25 +37,32 @@ export const getJSONCalificateExam = async (
       {
         role: "system",
         content: `
-        Genera un JSON para para calificar este examen ${examUser}.
-        Se debera calificar muy critico y me daras esta estructura
-
+        Generate a JSON for grading this exam: ${examUser}. 
+        Take your time to analyze each response thoroughly, especially for OPENTEXT questions. 
+        In multiple-choice questions, if a user selects one correct and one incorrect option, the rating should be "SO-SO". 
+        Provide detailed feedback in English, particularly for OPENTEXT responses. Correct specific errors, offer suggestions for improvement, and assess language coherence and accuracy.
+        
+        The JSON structure should be as follows:
+      
         interface Calificate {
-          questions:[
+          questions: [
             {
-              id: string // este el el id de la prugunta
-              feedback:{
-                feedback: string// Este lo daras en 400 chars minimo. dime porque esta bien o mal o so-so, y una explicacion del porque
-                status: "WELLDONE" | "SO-SO" | "WRONG"// Esto lo detirminaras segun tu
-              },....
+              id: string;
+              feedback: {
+                feedback: string; // At least 600 characters explaining why the answer is correct, incorrect, or so-so.
+                status: "WELLDONE" | "SO-SO" | "WRONG";
+              }, ...
             ]
-            score: de 0-100, daras un score, de acuerdo a todo el total de pregunta, y lo que esta bien 
+          score: 0-100; // Score based on the overall analysis of the responses.
         }
+      
+        Ensure the feedback is critical and detailed, and the score accurately reflects the overall performance in the exam.
+      
       `,
       },
     ],
-    model: "gpt-3.5-turbo-16k-0613",
-    temperature: 0.5,
+    model: "gpt-4",
+    temperature: 0.4,
   });
 
   // Check if the content is not null and is a string before parsing

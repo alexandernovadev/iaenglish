@@ -17,6 +17,7 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap"
           rel="stylesheet"
         />
+        <title>IA- English </title>
       </Head>
       <body>
         <Main />

@@ -8,6 +8,8 @@ import { useAppDispatch, useAppSelector } from "@/hooks/redux";
 import { updateExam } from "@/store/slices/examSlice";
 import { FaSpinner } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
+import Link from "next/link";
+import { FaArrowCircleLeft, FaArrowCircleRight } from "react-icons/fa";
 
 export default function Exam() {
   const router = useRouter();
@@ -36,7 +38,9 @@ export default function Exam() {
         return question;
       });
 
-      return { ...prevExam, questions: updatedQuestions };
+      const examNew = { ...prevExam, questions: updatedQuestions };
+      dispatch(updateExam(examNew));
+      return examNew;
     });
   };
 
@@ -46,6 +50,7 @@ export default function Exam() {
     const results = exam.questions.map((question) => {
       return {
         questionId: question.id,
+        type: question.type,
         answer: question.userAnswer,
         title: question.title,
         questions: question.options,
@@ -89,26 +94,46 @@ export default function Exam() {
   };
 
   return (
-    <div className="p-4 overflow-auto h-[100vh] w-full flex flex-col items-center">
-      <section className="px-5">
-        <h1 className="text-4xl font-bold text-white-800 mb-2">{exam.title}</h1>
-        <h2 className="text-2xl font-semibold text-white-700 mb-1">
-          Level {exam.level}
-        </h2>
-        <h3 className="text-xl font-medium text-white-600 pb-4">
-          Dificulty:{" "}
-          <span className="bg-blue-500 text-grey-300 px-2 py-1 rounded-full text-sm">
-            {exam.difficulty}
-          </span>
-          {exam.score > 0 && (
-            <span className="bg-yellow-800 mx-4 text-grey-300 px-2 py-1 rounded-full text-sm">
-              SCORE: {exam.score} / 100
-            </span>
-          )}
-        </h3>
-      </section>
-
+    <div className="pb-4 overflow-auto h-[100vh] w-full flex flex-col items-center">
       <form onSubmit={calificateExam} className="max-w-[720px]">
+        <section className="sticky top-0 px-5 max-w-[720px] bg-gray-900 p-2 border-2 rounded-md">
+          <h1 className="text-base font-bold text-white-800 mb-2 flex gap-4">
+            <Link href="/exams">
+              <FaArrowCircleLeft className="text-2xl cursor-pointer" />
+            </Link>
+            {exam.title}
+          </h1>
+
+          <div className="flex justify-around items-center">
+            <h2 className="text-sm font-semibold text-white-700 mb-1">
+              Level {exam.level}
+            </h2>
+
+            <span className="text-green-300 px-2 py-1 rounded-full text-sm">
+              Dificulty: {exam.difficulty}
+            </span>
+
+            {exam.score > 0 && (
+              <span className="bg-yellow-800 mx-4 text-grey-300 px-2 py-1 rounded-full text-sm">
+                SCORE: {exam.score} / 100
+              </span>
+            )}
+
+            <button
+              type="submit"
+              className="flex text-sm items-center gap-4 bg-blue-500 text-grey-300 py-1 rounded-full px-5"
+            >
+              {isLoading ? (
+                <FaSpinner className="animate-spin" />
+              ) : (
+                <>
+                  <IoSend /> CALIFICATE
+                </>
+              )}
+            </button>
+          </div>
+        </section>
+
         {exam.questions.map((question) => {
           switch (question.type) {
             case "MULTIPLE":
@@ -141,19 +166,6 @@ export default function Exam() {
               return null;
           }
         })}
-
-        <button
-          type="submit"
-          className="flex items-center gap-4 bg-blue-500 text-grey-300 py-1 rounded-full px-5"
-        >
-          {isLoading ? (
-            <FaSpinner className="animate-spin" />
-          ) : (
-            <>
-              <IoSend /> CALIFICATE
-            </>
-          )}
-        </button>
       </form>
     </div>
   );

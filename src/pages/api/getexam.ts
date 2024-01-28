@@ -35,11 +35,11 @@ export default async function handler(
 
         const FormatJSON: Exam = {
           id: `${LEVEL}${DIFFICULTY}-${new Date().getTime()}`,
-          title: ExamJSON.title,
+          title: ExamJSON.Exam.title,
           difficulty: DIFFICULTY,
           level: LEVEL,
           score: 0,
-          questions: ExamJSON.questions.map((question: any, idx: number) => {
+          questions: ExamJSON.Exam.questions.map((question: any, idx: number) => {
             return {
               id: `q${idx}-${new Date().getTime()}`,
               userAnswer: null,
@@ -55,6 +55,8 @@ export default async function handler(
               ...question,
             };
           }),
+          createAt: String(new Date().getTime()),
+          updatedAt: String(new Date().getTime()),
         };
 
         res.status(200).json(FormatJSON);
@@ -80,36 +82,35 @@ export const getJSONexamEnglish = async (
       {
         role: "system",
         content: `
-        Genera un JSON para un examen de inglés nivel ${level}.
-        Este examen debe SOLO evaluara las  áreas de gramática, comprensión de lectura y habilidades lingüísticas variadas.
-        El examen debe estar completamente en inglés y debe ser similar en estilo a los exámenes TOEFL o IELTS.
-        Por favor, incluye una variedad de preguntas que evalúen diferentes aspectos del inglés B2,
-        como uso de tiempos verbales, comprensión de textos, vocabulario, y estructuras gramaticales complejas.
-        // Las rta no se repeteiran y la complejidad del examen es ${difficulty}
-
-        ${userPrompt.length > 5 && `La tematica del examen sera ${userPrompt}`}
-
-        con la siguiente estructura
+        Create an English exam at the ${level} level in JSON format. This exam should
+        focus on grammar, reading comprehension, and varied linguistic skills,
+        aligning with the style of TOEFL or IELTS exams.
+        The exam must be entirely in English and tailored to the '${difficulty}' complexity.
+        Include ${ammountQuestion} questions, ensuring they cover different aspects
+        of ${level} English, such as verb tenses, reading comprehension, vocabulary, and complex grammatical structures.
+        ${userPrompt.length > 5 ? `Incorporate the theme '${userPrompt}' into the exam.` : ''}
+        Follow this structure for the questions:
+        
 
         interface Exam {
-          title: string;// Put a title with 100 chars.// Se creativo with this title
-          questions: Question[]; // La cantidad debe ser de${ammountQuestion}, almenos 2 OPENTEXT
+          title: string;// Put a title with 100 carasteres, Se creativo with this title
+        questions: Question[]; // La cantidad debe ser de${ammountQuestion}, 
         }
-        
+
         interface Question {
           title: string;
-          type: "MULTIPLE" | "UNIQUE" | "OPENTEXT";// if is OPENTEXT, the user should write a text, about somethig , to evaluate your writting and coherence and difrente times structured
-          options: string[]; // si es type OPENTEXT la opotions deben ser un "[]"
-        }        
+          type: "MULTIPLE" | "UNIQUE" | "OPENTEXT";
+          options: string[]; // Empty if it's 'OPENTEXT'.
+        }
+        
+        For 'OPENTEXT' type questions, create a brief context for the
+        user to write a paragraph, thus evaluating their coherence and semantic skills.
+        Be sure to include at least two 'OPENTEXT' questions. Be creative with the question titles.
       `,
       },
     ],
-    model: "gpt-3.5-turbo-16k-0613",
-    // Creativity
-    temperature: 0.5,
-    // response_format: {
-    //   type: "json_object",
-    // },
+    model: "gpt-4",
+    temperature: 0.4,
   });
 
   // Check if the content is not null and is a string before parsing
