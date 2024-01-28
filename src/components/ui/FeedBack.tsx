@@ -33,7 +33,10 @@ export const FeedBack = ({
       </section>
 
       <section className="flex gap-2 p-2">
+        <div>
+          
         <MdOutlineSmartToy style={{ fontSize: 32, color: "#e64a19" }} />
+        </div>
         <p>{feedback}</p>
       </section>
     </div>

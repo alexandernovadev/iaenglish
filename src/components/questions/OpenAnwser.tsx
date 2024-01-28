@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import { FaCircleCheck, FaCircleUp, FaCircleXmark } from "react-icons/fa6";
-import { MdOutlineSmartToy } from "react-icons/md";
 import { FeedBack } from "../ui/FeedBack";
 import type { Feedback, Question } from "@/interfaces/Exam";
 
@@ -23,7 +21,7 @@ export const OpenAnswer: React.FC<OpenAnswerProps> = ({
   };
 
   return (
-    <div className="border border-gray-200 p-2 rounded-2xl my-3">
+    <div className="border border-gray-200 p-2 rounded-2xl my-10">
       <h1 className="text-xl my-3 text-white">{question.title}</h1>
       <span className="text-white-800 text-sm">Open answer</span>
       <textarea
@@ -35,7 +33,10 @@ export const OpenAnswer: React.FC<OpenAnswerProps> = ({
       />
 
       {feedback?.feedback && (
-        <FeedBack status={feedback.status || "WELLDONE"} />
+        <FeedBack
+          status={feedback.status || "WELLDONE"}
+          feedback={feedback.feedback}
+        />
       )}
     </div>
   );

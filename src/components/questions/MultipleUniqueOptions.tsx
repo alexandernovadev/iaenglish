@@ -12,8 +12,9 @@ const MultipleUniqueOptions = ({
   question,
   onChange,
   multiple = false,
-  feedback,
 }: MultipleChoiceQuestionProps) => {
+  const feedback = question.feedback?.feedback;
+
   const [selected, setSelected] = useState<string[]>([]);
 
   const handleOnChange = (option: string) => {
@@ -32,7 +33,7 @@ const MultipleUniqueOptions = ({
   };
 
   return (
-    <div className="border border-gray-200 p-2 rounded-2xl my-3">
+    <div className="border border-gray-200 p-2 rounded-2xl my-10">
       <h1 className="text-xl my-3 text-white">{question.title}</h1>
       <span className="text-white-800 text-sm">
         {multiple ? "Multiple" : "Unique"} choice
@@ -54,8 +55,11 @@ const MultipleUniqueOptions = ({
         ))}
       </div>
 
-      {feedback?.feedback && (
-        <FeedBack status={feedback.status || "WELLDONE"} />
+      {feedback && (
+        <FeedBack
+          status={question.feedback?.status || "WELLDONE"}
+          feedback={feedback}
+        />
       )}
     </div>
   );
