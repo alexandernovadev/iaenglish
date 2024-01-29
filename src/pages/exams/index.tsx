@@ -26,7 +26,6 @@ const Exams = () => {
       );
       const dataJsonExam = await getDataExam.json();
 
-
       dispatch(addExam(dataJsonExam));
     } catch (error) {
       console.error("Hey error ");
@@ -50,11 +49,11 @@ const Exams = () => {
             />
 
             <select
-              value={level}
+              defaultValue={level}
               onChange={(e) => setLevel(e.target.value)}
               className=" text-white border border-gray-600 rounded py-2 px-4 focus:outline-none focus:border-blue-500"
             >
-              <option value="Level" disabled selected>
+              <option value="Level" disabled>
                 Level
               </option>
               <option value="A1">A1</option>
@@ -66,11 +65,11 @@ const Exams = () => {
             </select>
 
             <select
-              value={difficulty}
+              defaultValue={difficulty}
               onChange={(e) => setDifficulty(e.target.value)}
               className=" text-white border border-gray-600 rounded py-2 px-4 focus:outline-none focus:border-blue-500"
             >
-              <option value="Difficulty" disabled selected>
+              <option value="Difficulty" disabled>
                 Difficulty
               </option>
               <option value="HARD">HARD</option>
@@ -79,11 +78,11 @@ const Exams = () => {
             </select>
 
             <select
-              value={ammount}
+              defaultValue={ammount}
               onChange={(e) => setAmmount(e.target.value)}
               className=" text-white border border-gray-600 rounded py-2 px-4 focus:outline-none focus:border-blue-500"
             >
-              <option value="Ammount" selected disabled>
+              <option value="Ammount" disabled>
                 #
               </option>
               <option value="6">6</option>
@@ -111,27 +110,52 @@ const Exams = () => {
         <table className=" w-full table-fixed mt-4">
           <thead>
             <tr>
-              <th className="w-[500px] border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">Name</th>
-              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">Level</th>
-              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">Difficulty</th>
-              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">#</th>
-              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">Score</th>
-              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">...</th>
+              <th className="w-[500px] border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">
+                Name
+              </th>
+              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">
+                Level
+              </th>
+              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">
+                Difficulty
+              </th>
+              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">
+                #
+              </th>
+              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">
+                Score
+              </th>
+              <th className="border-b dark:border-slate-600 font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">
+                ...
+              </th>
             </tr>
           </thead>
           <tbody>
             {exams.map(
               ({ id, difficulty, level, title, score, questions }, index) => (
-                <tr>
-                  <td className="w-[500px] border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-slate-100 dark:text-slate-400">{title}</td>
-                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-blue-500 dark:text-slate-400">{level}</td>
-                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-green-500 dark:text-slate-400"> {difficulty}</td>
-                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-purple-500 dark:text-slate-400">{questions?.length}</td>
-                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-yellow-500 dark:text-slate-400">{score}</td>
+                <tr key={`ex${index}-${id}`}>
+                  <td className="w-[500px] border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-slate-100 dark:text-slate-400">
+                    {title}
+                  </td>
+                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-blue-500 dark:text-slate-400">
+                    {level}
+                  </td>
+                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-green-500 dark:text-slate-400">
+                    {" "}
+                    {difficulty}
+                  </td>
+                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-purple-500 dark:text-slate-400">
+                    {questions?.length}
+                  </td>
+                  <td className="border-y border-slate-200 dark:border-slate-600 p-4 pl-8 text-yellow-500 dark:text-slate-400">
+                    {score}
+                  </td>
                   <td className="border-y border-slate-200  p-4 pl-8 ">
                     {""}
-                    <FaArrowCircleRight  className="text-3xl cursor-pointer"
-                    onClick={() => router.push(`/exams/${id}`)} />
+                    <FaArrowCircleRight
+                      className="text-3xl cursor-pointer"
+                      onClick={() => router.push(`/exams/${id}`)}
+                    />
                   </td>
                 </tr>
               )

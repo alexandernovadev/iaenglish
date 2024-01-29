@@ -36,7 +36,7 @@ export default function Exam() {
           const trimmedAnswer =
             typeof userAnswer === "string" ? userAnswer.trim() : userAnswer;
 
-          return { ...question, trimmedAnswer };
+          return { ...question, userAnswer: trimmedAnswer };
         }
         return question;
       });

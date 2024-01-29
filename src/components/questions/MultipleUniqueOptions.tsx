@@ -50,10 +50,17 @@ const MultipleUniqueOptions = ({
         {question.options.map((option, index) => (
           <div
             key={index}
+            role="button"
+            tabIndex={0}
             className={`inline-flex items-center mt-3 border text-white border-blue-200 rounded-xl cursor-pointer ${
               selected.includes(option) ? "bg-gray-700" : ""
             }`}
             onClick={() => handleOnChange(option)}
+            onKeyDown={(event) => {
+              if (event.key === 'Enter' || event.key === ' ') {
+                handleOnChange(option);
+              }
+            }}
           >
             <span className="ml-2 text-white">
               {String.fromCharCode(65 + index)}) {option}

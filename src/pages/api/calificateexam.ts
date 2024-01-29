@@ -14,7 +14,9 @@ export default async function handler(
           examUser = "",
         } = req.query;
 
-        const CalificateExamJSON = await getJSONCalificateExam(String(examUser))       
+        const CalificateExamJSON = await getJSONCalificateExam(String(examUser))   
+        console.log(CalificateExamJSON);
+            
         res.status(200).json(CalificateExamJSON.Calificate);
         break;
     }
